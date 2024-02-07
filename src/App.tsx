@@ -20,7 +20,7 @@ const App: Component = () => {
    * This function was taken from the cheatsheet example of bootstrap.
    * You will most likely remove it if using this template.
    */
-  const [pageKind, setPageKind] = createSignal(PageKind.HOME);
+  const [pageKind, setPageKind] = createSignal(PageKind.WORD_TEST);
 
   return (
   <>

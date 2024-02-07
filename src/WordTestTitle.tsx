@@ -50,6 +50,7 @@ export const WordTestTitle = () => {
 
   const [score, setScore] = createSignal(0);
   const [problemCount, setProblemCount] = createSignal(10);
+  const [choiceCount, setChoiceCount] = createSignal(4);
   const [wordBook, setWordBook] = createSignal(wordBooks[0]);
 
   // wordBookの単語からランダムに4択問題を生成
@@ -59,7 +60,7 @@ export const WordTestTitle = () => {
     for (let i = 0; i < problemCount(); i++) {
       const word = words[Math.floor(Math.random() * words.length)];
       const choices = [word.jpn];
-      while (choices.length < 4) {
+      while (choices.length < choiceCount()) {
         const choice = words[Math.floor(Math.random() * words.length)].jpn;
         if (choices.indexOf(choice) === -1) {
           choices.push(choice);
@@ -90,10 +91,10 @@ export const WordTestTitle = () => {
     setResultActive(false);
     setTestActive(true);
   }
-  
+
   return (
     <div class="container-fluid bg-body">
-      <h1>Word Test</h1>
+      <h1 class="my-3">Word Test</h1>
 
       <div class="dropdown my-3">
         <button
@@ -134,15 +135,40 @@ export const WordTestTitle = () => {
       {/* problem range input form (min~max) */}
       <div class="input-group my-3">
         <span class="input-group-text">問題数</span>
-        <input
-          type="number"
-          class="form-control"
-          aria-label="問題数"
-          value="10"
-          onChange={(e) => {
-            setProblemCount(parseInt(e.currentTarget.value));
-          }}
-        />
+        <div class="col-xs-4">
+          <input
+            type="number"
+            class="form-control"
+            aria-label="問題数"
+            value={problemCount()}
+            style={{ 
+              "border-top-left-radius": "0rem",
+              "border-bottom-left-radius": "0rem",
+            }}
+            onChange={(e) => {
+              setProblemCount(parseInt(e.currentTarget.value));
+            }}
+          />
+        </div>
+      </div>
+
+      <div class="input-group my-3">
+        <span class="input-group-text">選択肢</span>
+        <div class="col-xs-4">
+          <input
+            type="number"
+            class="form-control"
+            aria-label="選択肢数"
+            value={choiceCount()}
+            style={{ 
+              "border-top-left-radius": "0rem",
+              "border-bottom-left-radius": "0rem",
+            }}
+            onChange={(e) => {
+              setChoiceCount(parseInt(e.currentTarget.value));
+            }}
+          />
+        </div>
       </div>
 
       {/* start button */}
@@ -157,9 +183,9 @@ export const WordTestTitle = () => {
       </button>
 
       {/* problem card */}
-      <div class="card my-3">
-        <div class="card-body">
-          {testActive() && (
+      {testActive() && (
+        <div class="card my-3">
+          <div class="card-body">
             <div>
               <h5 class="card-title">
                 {wordBook().title}
@@ -221,11 +247,11 @@ export const WordTestTitle = () => {
                 Score: {score()} / {problemCount()}
               </div>
             </div>
-          )}
+          </div>
         </div>
-      </div>
+      )}
 
-      { resultActive() && (
+      {resultActive() && (
         <div class="container-fluid bg-body">
           <h1>Result</h1>
           <div class="card my-3">

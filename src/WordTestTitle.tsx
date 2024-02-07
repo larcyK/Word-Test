@@ -43,6 +43,8 @@ const wordBooks: WordBook[] = [
 export const WordTestTitle = () => {
 
   const [testActive, setTestActive] = createSignal(false);
+  const [resultActive, setResultActive] = createSignal(false);
+
   const [problems, setProblems] = createSignal([] as Problem[]);
   const [problemIndex, setProblemIndex] = createSignal(0);
 
@@ -71,6 +73,23 @@ export const WordTestTitle = () => {
     }
     return problems;
   };
+
+  const nextProblem = () => {
+    if (problemIndex() + 1 < problemCount()) {
+      setProblemIndex(problemIndex() + 1);
+    } else {
+      setTestActive(false);
+      setResultActive(true);
+    }
+  }
+
+  const startTest = () => {
+    setProblems(generateProblems());
+    setProblemIndex(0);
+    setScore(0);
+    setResultActive(false);
+    setTestActive(true);
+  }
   
   return (
     <div class="container-fluid bg-body">
@@ -131,8 +150,7 @@ export const WordTestTitle = () => {
         class="btn btn-primary btn-lg my-3"
         onClick={(e) => {
           e.preventDefault();
-          setProblems(generateProblems());
-          setTestActive(true);
+          startTest();
         }}
       >
         Start
@@ -157,60 +175,80 @@ export const WordTestTitle = () => {
                         if (choice === problems()[problemIndex()].answer) {
                           setScore(score() + 1);
                         }
-                        setProblemIndex(problemIndex() + 1);
+                        nextProblem();
                       }}
                     >
                       {choice}
                     </button>
                   )}
                 </For>
-
-                <div class="d-flex mt-3">
-                  <button
-                    class="btn btn-secondary mx-1"
-                    onClick={(e) => {
-                      e.preventDefault();
-                      setProblemIndex(problemIndex() + 1);
-                    }}
-                  >
-                    Skip
-                  </button>
-
-                  <button
-                    class="btn btn-danger mx-1"
-                    onClick={(e) => {
-                      e.preventDefault();
-                      setTestActive(false);
-                      setProblemIndex(0);
-                      setScore(0);
-                    }}
-                  >
-                    End
-                  </button>
-
-                  <button
-                    class="btn btn-warning mx-1"
-                    onClick={(e) => {
-                      e.preventDefault();
-                      setTestActive(false);
-                      setProblemIndex(0);
-                      setScore(0);
-                    }}
-                  >
-                    Restart
-                  </button>
-
-
-                </div>
               </div>
 
-              <div>
+              <div class="d-flex mt-3">
+                <button
+                  class="btn btn-secondary mx-1"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    nextProblem();
+                  }}
+                >
+                  Skip
+                </button>
+
+                <button
+                  class="btn btn-danger mx-1"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    setTestActive(false);
+                    setResultActive(true);
+                  }}
+                >
+                  End
+                </button>
+
+                <button
+                  class="btn btn-warning mx-1"
+                  onClick={(e) => {
+                    e.preventDefault();
+                    startTest();
+                  }}
+                >
+                  Restart
+                </button>
+              </div>
+
+              <div class="d-flex mt-3 mx-1">
                 Score: {score()} / {problemCount()}
               </div>
             </div>
           )}
         </div>
       </div>
+
+      { resultActive() && (
+        <div class="container-fluid bg-body">
+          <h1>Result</h1>
+          <div class="card my-3">
+            <div class="card-body">
+              <h5 class="card-title">
+                {wordBook().title}
+              </h5>
+              <p class="card-text">
+                Score: {score()} / {problemCount()}
+              </p>
+              <button
+                class="btn btn-primary btn-lg"
+                onClick={(e) => {
+                  e.preventDefault();
+                  startTest();
+                }}
+              >
+                Restart
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
 
   );

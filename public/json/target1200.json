@@ -1,0 +1,8502 @@
+[
+  {
+    "index": 1,
+    "english": "enjoy",
+    "japanese": "【動】を楽しむ"
+  },
+  {
+    "index": 2,
+    "english": "smile",
+    "japanese": "【動】ほほえむ"
+  },
+  {
+    "index": 3,
+    "english": "open",
+    "japanese": "【動】を開ける（開く"
+  },
+  {
+    "index": 4,
+    "english": "close",
+    "japanese": "【動】を閉じる；閉まる"
+  },
+  {
+    "index": 5,
+    "english": "feel",
+    "japanese": "【動】感じる"
+  },
+  {
+    "index": 6,
+    "english": "think",
+    "japanese": "【動】（と）思う，考える"
+  },
+  {
+    "index": 7,
+    "english": "write",
+    "japanese": "【動】（を）書く"
+  },
+  {
+    "index": 8,
+    "english": "read",
+    "japanese": "【動】を読む"
+  },
+  {
+    "index": 9,
+    "english": "tell",
+    "japanese": "【動】を話す；を区別する"
+  },
+  {
+    "index": 10,
+    "english": "talk",
+    "japanese": "【動】話す"
+  },
+  {
+    "index": 11,
+    "english": "speak",
+    "japanese": "【動】（を）話す"
+  },
+  {
+    "index": 12,
+    "english": "meet",
+    "japanese": "【動】（に）会う"
+  },
+  {
+    "index": 13,
+    "english": "join",
+    "japanese": "【動】（に）参加する"
+  },
+  {
+    "index": 14,
+    "english": "move",
+    "japanese": "【動】を動かす；動く；引っ越す"
+  },
+  {
+    "index": 15,
+    "english": "sit",
+    "japanese": "【動】座る"
+  },
+  {
+    "index": 16,
+    "english": "stay",
+    "japanese": "【動】泊まる"
+  },
+  {
+    "index": 17,
+    "english": "stand",
+    "japanese": "【動】立つ；に耐える"
+  },
+  {
+    "index": 18,
+    "english": "fall",
+    "japanese": "【動】落ちる"
+  },
+  {
+    "index": 19,
+    "english": "fly",
+    "japanese": "【動】飛ぶ；飛行機で行く"
+  },
+  {
+    "index": 20,
+    "english": "swim",
+    "japanese": "【動】泳ぐ"
+  },
+  {
+    "index": 21,
+    "english": "walk",
+    "japanese": "【動】歩く"
+  },
+  {
+    "index": 22,
+    "english": "march",
+    "japanese": "【動】行進する"
+  },
+  {
+    "index": 23,
+    "english": "return",
+    "japanese": "【動】戻る；を返す"
+  },
+  {
+    "index": 24,
+    "english": "worry",
+    "japanese": "【動】心配する；を心配させる"
+  },
+  {
+    "index": 25,
+    "english": "excuse",
+    "japanese": "【動】を許す"
+  },
+  {
+    "index": 26,
+    "english": "help",
+    "japanese": "【動】を助ける，手伝う"
+  },
+  {
+    "index": 27,
+    "english": "need",
+    "japanese": "【動】を必要とする"
+  },
+  {
+    "index": 28,
+    "english": "hold",
+    "japanese": "【動】を持つ；を保つ；を催す"
+  },
+  {
+    "index": 29,
+    "english": "catch",
+    "japanese": "【動】を捕まえる"
+  },
+  {
+    "index": 30,
+    "english": "learn",
+    "japanese": "【動】を学ぶ"
+  },
+  {
+    "index": 31,
+    "english": "teach",
+    "japanese": "【動】を教える"
+  },
+  {
+    "index": 32,
+    "english": "answer",
+    "japanese": "【動】に答える"
+  },
+  {
+    "index": 33,
+    "english": "watch",
+    "japanese": "【動】を（じっと）見る；見守る"
+  },
+  {
+    "index": 34,
+    "english": "wait",
+    "japanese": "【動】待つ"
+  },
+  {
+    "index": 35,
+    "english": "hear",
+    "japanese": "【動】聞こえる"
+  },
+  {
+    "index": 36,
+    "english": "listen",
+    "japanese": "【動】聞く"
+  },
+  {
+    "index": 37,
+    "english": "fan",
+    "japanese": "【名】ファン；うちわ；換気扇"
+  },
+  {
+    "index": 38,
+    "english": "volunteer",
+    "japanese": "【名】志願者，ボランティア"
+  },
+  {
+    "index": 39,
+    "english": "host",
+    "japanese": "【名】もてなす人，主催者"
+  },
+  {
+    "index": 40,
+    "english": "concert",
+    "japanese": "【名】コンサート，演奏会"
+  },
+  {
+    "index": 41,
+    "english": "festival",
+    "japanese": "【名】祭り"
+  },
+  {
+    "index": 42,
+    "english": "zoo",
+    "japanese": "【名】動物園"
+  },
+  {
+    "index": 43,
+    "english": "animal",
+    "japanese": "【名】動物"
+  },
+  {
+    "index": 44,
+    "english": "village",
+    "japanese": "【名】村"
+  },
+  {
+    "index": 45,
+    "english": "farm",
+    "japanese": "【名】農場"
+  },
+  {
+    "index": 46,
+    "english": "country",
+    "japanese": "【名】国；田舎；地方"
+  },
+  {
+    "index": 47,
+    "english": "world",
+    "japanese": "【名】世界"
+  },
+  {
+    "index": 48,
+    "english": "land",
+    "japanese": "【名】土地；陸；国土"
+  },
+  {
+    "index": 49,
+    "english": "forest",
+    "japanese": "【名】森林"
+  },
+  {
+    "index": 50,
+    "english": "suburb",
+    "japanese": "【名】（the ～s）郊外"
+  },
+  {
+    "index": 51,
+    "english": "date",
+    "japanese": "【名】日にち；デート"
+  },
+  {
+    "index": 52,
+    "english": "second",
+    "japanese": "【名】秒；少しの間"
+  },
+  {
+    "index": 53,
+    "english": "minute",
+    "japanese": "【名】分；少しの間"
+  },
+  {
+    "index": 54,
+    "english": "holiday",
+    "japanese": "【名】休日，祝日"
+  },
+  {
+    "index": 55,
+    "english": "week",
+    "japanese": "【名】週"
+  },
+  {
+    "index": 56,
+    "english": "month",
+    "japanese": "【名】月"
+  },
+  {
+    "index": 57,
+    "english": "season",
+    "japanese": "【名】季節"
+  },
+  {
+    "index": 58,
+    "english": "line",
+    "japanese": "【名】線；列；電話回線"
+  },
+  {
+    "index": 59,
+    "english": "course",
+    "japanese": "【名】コース，課程；進路"
+  },
+  {
+    "index": 60,
+    "english": "point",
+    "japanese": "【名】要点；点"
+  },
+  {
+    "index": 61,
+    "english": "problem",
+    "japanese": "【名】問題"
+  },
+  {
+    "index": 62,
+    "english": "question",
+    "japanese": "【名】質問"
+  },
+  {
+    "index": 63,
+    "english": "example",
+    "japanese": "【名】例"
+  },
+  {
+    "index": 64,
+    "english": "Internet",
+    "japanese": "【名】（the ～）インターネット"
+  },
+  {
+    "index": 65,
+    "english": "computer",
+    "japanese": "【名】コンピューター"
+  },
+  {
+    "index": 66,
+    "english": "telephone",
+    "japanese": "【名】電話；電話機"
+  },
+  {
+    "index": 67,
+    "english": "report",
+    "japanese": "【名】報告，報告書"
+  },
+  {
+    "index": 68,
+    "english": "weather",
+    "japanese": "【名】天気"
+  },
+  {
+    "index": 69,
+    "english": "cloud",
+    "japanese": "【名】雲"
+  },
+  {
+    "index": 70,
+    "english": "dream",
+    "japanese": "【名】夢"
+  },
+  {
+    "index": 71,
+    "english": "hope",
+    "japanese": "【名】希望"
+  },
+  {
+    "index": 72,
+    "english": "thing",
+    "japanese": "【名】事；物"
+  },
+  {
+    "index": 73,
+    "english": "last",
+    "japanese": "【形】最後の；この前の"
+  },
+  {
+    "index": 74,
+    "english": "early",
+    "japanese": "【形】早い"
+  },
+  {
+    "index": 75,
+    "english": "heavy",
+    "japanese": "【形】重い"
+  },
+  {
+    "index": 76,
+    "english": "light",
+    "japanese": "【形】明るい；軽い"
+  },
+  {
+    "index": 77,
+    "english": "bright",
+    "japanese": "【形】明るい）；賢い"
+  },
+  {
+    "index": 78,
+    "english": "dark",
+    "japanese": "【形】暗い；（色が）濃い"
+  },
+  {
+    "index": 79,
+    "english": "kind",
+    "japanese": "【形】親切な；優しい"
+  },
+  {
+    "index": 80,
+    "english": "soft",
+    "japanese": "【形】柔らかい（⇔hard かたい）"
+  },
+  {
+    "index": 81,
+    "english": "bad",
+    "japanese": "【形】悪い；下手な"
+  },
+  {
+    "index": 82,
+    "english": "careful",
+    "japanese": "【形】注意深い"
+  },
+  {
+    "index": 83,
+    "english": "sad",
+    "japanese": "【形】悲しい"
+  },
+  {
+    "index": 84,
+    "english": "favorite",
+    "japanese": "【形】お気に入りの"
+  },
+  {
+    "index": 85,
+    "english": "free",
+    "japanese": "【形】自由な；無料の；空いている"
+  },
+  {
+    "index": 86,
+    "english": "useful",
+    "japanese": "【形】役に立つ"
+  },
+  {
+    "index": 87,
+    "english": "safe",
+    "japanese": "【形】安全な"
+  },
+  {
+    "index": 88,
+    "english": "special",
+    "japanese": "【形】特別な"
+  },
+  {
+    "index": 89,
+    "english": "lucky",
+    "japanese": "【形】幸運な"
+  },
+  {
+    "index": 90,
+    "english": true,
+    "japanese": "【形】真実の）"
+  },
+  {
+    "index": 91,
+    "english": "visit",
+    "japanese": "【動】（を）訪れる"
+  },
+  {
+    "index": 92,
+    "english": "buy",
+    "japanese": "【動】を買う"
+  },
+  {
+    "index": 93,
+    "english": "plan",
+    "japanese": "【動】を計画する"
+  },
+  {
+    "index": 94,
+    "english": "lose",
+    "japanese": "【動】を失う，なくす；で負ける"
+  },
+  {
+    "index": 95,
+    "english": "break",
+    "japanese": "【動】を壊す，割る；を破る；壊れる"
+  },
+  {
+    "index": 96,
+    "english": "carry",
+    "japanese": "【動】を運ぶ"
+  },
+  {
+    "index": 97,
+    "english": "rain",
+    "japanese": "【動】雨が降る"
+  },
+  {
+    "index": 98,
+    "english": "snow",
+    "japanese": "【動】雪が降る"
+  },
+  {
+    "index": 99,
+    "english": "save",
+    "japanese": "【動】を救う；をためる；を節約する"
+  },
+  {
+    "index": 100,
+    "english": "kill",
+    "japanese": "【動】を殺す"
+  },
+  {
+    "index": 101,
+    "english": "die",
+    "japanese": "【動】死ぬ；枯れる"
+  },
+  {
+    "index": 102,
+    "english": "cry",
+    "japanese": "【動】泣く；叫ぶ"
+  },
+  {
+    "index": 103,
+    "english": "laugh",
+    "japanese": "【動】笑う"
+  },
+  {
+    "index": 104,
+    "english": "sleep",
+    "japanese": "【動】眠る"
+  },
+  {
+    "index": 105,
+    "english": "clean",
+    "japanese": "【動】をきれいにする，掃除する"
+  },
+  {
+    "index": 106,
+    "english": "wash",
+    "japanese": "【動】（を）洗う"
+  },
+  {
+    "index": 107,
+    "english": "throw",
+    "japanese": "【動】を投げる"
+  },
+  {
+    "index": 108,
+    "english": "hit",
+    "japanese": "【動】を打つ，たたく；にぶつかる"
+  },
+  {
+    "index": 109,
+    "english": "cover",
+    "japanese": "【動】を覆う"
+  },
+  {
+    "index": 110,
+    "english": "cheer",
+    "japanese": "【動】（に）喝采を送る"
+  },
+  {
+    "index": 111,
+    "english": "imagine",
+    "japanese": "【動】（を）想像する"
+  },
+  {
+    "index": 112,
+    "english": "cut",
+    "japanese": "【動】を切る"
+  },
+  {
+    "index": 113,
+    "english": "build",
+    "japanese": "【動】を建てる"
+  },
+  {
+    "index": 114,
+    "english": "paint",
+    "japanese": "【動】を塗る；を描く"
+  },
+  {
+    "index": 115,
+    "english": "change",
+    "japanese": "【動】を変える；変わる；を交換する"
+  },
+  {
+    "index": 116,
+    "english": "climb",
+    "japanese": "【動】を登る；よじ登る"
+  },
+  {
+    "index": 117,
+    "english": "grow",
+    "japanese": "【動】育つ；増大する；を育てる"
+  },
+  {
+    "index": 118,
+    "english": "arrive",
+    "japanese": "【動】到着する"
+  },
+  {
+    "index": 119,
+    "english": "hurry",
+    "japanese": "【動】急ぐ；を急がせる"
+  },
+  {
+    "index": 120,
+    "english": "drop",
+    "japanese": "【動】を落とす；落ちる"
+  },
+  {
+    "index": 121,
+    "english": "invite",
+    "japanese": "【動】を招待する"
+  },
+  {
+    "index": 122,
+    "english": "introduce",
+    "japanese": "【動】を紹介する"
+  },
+  {
+    "index": 123,
+    "english": "let",
+    "japanese": "【動】（let A doで）（自由に）Aに～させる"
+  },
+  {
+    "index": 124,
+    "english": "borrow",
+    "japanese": "【動】を借りる"
+  },
+  {
+    "index": 125,
+    "english": "push",
+    "japanese": "【動】（を）押す"
+  },
+  {
+    "index": 126,
+    "english": "word",
+    "japanese": "【名】単語；言葉；約束"
+  },
+  {
+    "index": 127,
+    "english": "language",
+    "japanese": "【名】言語"
+  },
+  {
+    "index": 128,
+    "english": "speech",
+    "japanese": "【名】スピーチ，演説"
+  },
+  {
+    "index": 129,
+    "english": "mouth",
+    "japanese": "【名】口"
+  },
+  {
+    "index": 130,
+    "english": "voice",
+    "japanese": "【名】声；意見"
+  },
+  {
+    "index": 131,
+    "english": "sound",
+    "japanese": "【名】音"
+  },
+  {
+    "index": 132,
+    "english": "hundred",
+    "japanese": "【名】百"
+  },
+  {
+    "index": 133,
+    "english": "thousand",
+    "japanese": "【名】千"
+  },
+  {
+    "index": 134,
+    "english": "million",
+    "japanese": "【名】百万"
+  },
+  {
+    "index": 135,
+    "english": "hair",
+    "japanese": "【名】毛，髪の毛"
+  },
+  {
+    "index": 136,
+    "english": "color",
+    "japanese": "【名】色"
+  },
+  {
+    "index": 137,
+    "english": "art",
+    "japanese": "【名】美術；芸術；技術"
+  },
+  {
+    "index": 138,
+    "english": "building",
+    "japanese": "【名】建物"
+  },
+  {
+    "index": 139,
+    "english": "wall",
+    "japanese": "【名】壁"
+  },
+  {
+    "index": 140,
+    "english": "part",
+    "japanese": "【名】部分；役"
+  },
+  {
+    "index": 141,
+    "english": "section",
+    "japanese": "【名】節；区分；部門"
+  },
+  {
+    "index": 142,
+    "english": "piece",
+    "japanese": "【名】一片，一部分；作品"
+  },
+  {
+    "index": 143,
+    "english": "breakfast",
+    "japanese": "【名】朝食"
+  },
+  {
+    "index": 144,
+    "english": "noon",
+    "japanese": "【名】正午"
+  },
+  {
+    "index": 145,
+    "english": "evening",
+    "japanese": "【名】夕方，晩"
+  },
+  {
+    "index": 146,
+    "english": "fun",
+    "japanese": "【名】楽しみ"
+  },
+  {
+    "index": 147,
+    "english": "project",
+    "japanese": "【名】計画；事業"
+  },
+  {
+    "index": 148,
+    "english": "hole",
+    "japanese": "【名】穴"
+  },
+  {
+    "index": 149,
+    "english": "treasure",
+    "japanese": "【名】宝物"
+  },
+  {
+    "index": 150,
+    "english": "rule",
+    "japanese": "【名】規則；支配"
+  },
+  {
+    "index": 151,
+    "english": "step",
+    "japanese": "【名】歩み，1歩；（～s）階段"
+  },
+  {
+    "index": 152,
+    "english": "top",
+    "japanese": "【名】最高部，頂上"
+  },
+  {
+    "index": 153,
+    "english": "goal",
+    "japanese": "【名】目標；ゴール；得点"
+  },
+  {
+    "index": 154,
+    "english": "meter",
+    "japanese": "【名】メートル"
+  },
+  {
+    "index": 155,
+    "english": "place",
+    "japanese": "【名】場所，所"
+  },
+  {
+    "index": 156,
+    "english": "gift",
+    "japanese": "【名】贈り物；才能"
+  },
+  {
+    "index": 157,
+    "english": "side",
+    "japanese": "【名】側；わき"
+  },
+  {
+    "index": 158,
+    "english": "chance",
+    "japanese": "【名】機会；可能性；偶然"
+  },
+  {
+    "index": 159,
+    "english": "uniform",
+    "japanese": "【名】制服"
+  },
+  {
+    "index": 160,
+    "english": "front",
+    "japanese": "【名】前面；正面"
+  },
+  {
+    "index": 161,
+    "english": "future",
+    "japanese": "【名】未来，将来"
+  },
+  {
+    "index": 162,
+    "english": "lesson",
+    "japanese": "【名】レッスン，稽古；課；【英】授業；教訓"
+  },
+  {
+    "index": 163,
+    "english": "different",
+    "japanese": "【形】違う，異なる"
+  },
+  {
+    "index": 164,
+    "english": "same",
+    "japanese": "【形】（the ～）同じ"
+  },
+  {
+    "index": 165,
+    "english": "foreign",
+    "japanese": "【形】外国の"
+  },
+  {
+    "index": 166,
+    "english": "popular",
+    "japanese": "【形】人気のある"
+  },
+  {
+    "index": 167,
+    "english": "famous",
+    "japanese": "【形】有名な"
+  },
+  {
+    "index": 168,
+    "english": "short",
+    "japanese": "【形】短い"
+  },
+  {
+    "index": 169,
+    "english": "pretty",
+    "japanese": "【形】かわいい"
+  },
+  {
+    "index": 170,
+    "english": "cute",
+    "japanese": "【形】かわいい"
+  },
+  {
+    "index": 171,
+    "english": "most",
+    "japanese": "【形】大部分の，たいていの；最も多い..."
+  },
+  {
+    "index": 172,
+    "english": "great",
+    "japanese": "【形】偉大な"
+  },
+  {
+    "index": 173,
+    "english": "full",
+    "japanese": "【形】いっぱいの"
+  },
+  {
+    "index": 174,
+    "english": "enough",
+    "japanese": "【形】十分な"
+  },
+  {
+    "index": 175,
+    "english": "own",
+    "japanese": "【形】自分自身の；特有の"
+  },
+  {
+    "index": 176,
+    "english": "wonderful",
+    "japanese": "【形】すばらしい"
+  },
+  {
+    "index": 177,
+    "english": "slow",
+    "japanese": "【形】ゆっくりした，遅い；遅れている"
+  },
+  {
+    "index": 178,
+    "english": "loud",
+    "japanese": "【形】（音・声が）大きい"
+  },
+  {
+    "index": 179,
+    "english": "low",
+    "japanese": "【形】（高さや程度などが）低い"
+  },
+  {
+    "index": 180,
+    "english": "such",
+    "japanese": "【形】そのような"
+  },
+  {
+    "index": 181,
+    "english": "maybe",
+    "japanese": "【副】...かもしれない，たぶん；もしよければ"
+  },
+  {
+    "index": 182,
+    "english": "suddenly",
+    "japanese": "【副】突然"
+  },
+  {
+    "index": 183,
+    "english": "over",
+    "japanese": "【副】向こうに；上方に"
+  },
+  {
+    "index": 184,
+    "english": "back",
+    "japanese": "【副】戻って；後ろに"
+  },
+  {
+    "index": 185,
+    "english": "still",
+    "japanese": "【副】まだ；今でも"
+  },
+  {
+    "index": 186,
+    "english": "away",
+    "japanese": "【副】離れて"
+  },
+  {
+    "index": 187,
+    "english": "again",
+    "japanese": "【副】また，再び"
+  },
+  {
+    "index": 188,
+    "english": "soon",
+    "japanese": "【副】もうすぐ"
+  },
+  {
+    "index": 189,
+    "english": "together",
+    "japanese": "【副】一緒に"
+  },
+  {
+    "index": 190,
+    "english": "fast",
+    "japanese": "【副】速く"
+  },
+  {
+    "index": 191,
+    "english": "ago",
+    "japanese": "【副】（今から）...前に"
+  },
+  {
+    "index": 192,
+    "english": "even",
+    "japanese": "【副】...でさえ"
+  },
+  {
+    "index": 193,
+    "english": "because",
+    "japanese": "【接】なぜなら，...なので"
+  },
+  {
+    "index": 194,
+    "english": "since",
+    "japanese": "【接】...した時から；...だから"
+  },
+  {
+    "index": 195,
+    "english": "until",
+    "japanese": "【接】...するまで"
+  },
+  {
+    "index": 196,
+    "english": "between",
+    "japanese": "【前】...の間に［を］"
+  },
+  {
+    "index": 197,
+    "english": "without",
+    "japanese": "【前】...なしで"
+  },
+  {
+    "index": 198,
+    "english": "along",
+    "japanese": "【前】...に沿って"
+  },
+  {
+    "index": 199,
+    "english": "behind",
+    "japanese": "【前】...の後ろに；...に遅れて【副】後ろに"
+  },
+  {
+    "index": 200,
+    "english": "toward",
+    "japanese": "【前】...に向かって"
+  },
+  {
+    "index": 201,
+    "english": "carry out",
+    "japanese": "（計画・約束など）を実行する"
+  },
+  {
+    "index": 202,
+    "english": "come from",
+    "japanese": "の出身である；に由来する"
+  },
+  {
+    "index": 203,
+    "english": "do one's best",
+    "japanese": "最善［全力］を尽くす"
+  },
+  {
+    "index": 204,
+    "english": "get off",
+    "japanese": "（乗り物）を降りる（⇔get on （乗り物）に乗る）"
+  },
+  {
+    "index": 205,
+    "english": "give up",
+    "japanese": "（を）あきらめる；（を）やめる"
+  },
+  {
+    "index": 206,
+    "english": "go doing",
+    "japanese": "～しに行く"
+  },
+  {
+    "index": 207,
+    "english": "go to sleep",
+    "japanese": "寝入る"
+  },
+  {
+    "index": 208,
+    "english": "hand in",
+    "japanese": "（書類など）を提出する"
+  },
+  {
+    "index": 209,
+    "english": "have a good time",
+    "japanese": "楽しく過ごす（≒enjoy oneself）"
+  },
+  {
+    "index": 210,
+    "english": "hear from",
+    "japanese": "（人）から便りがある（⇔write to （人）に便りを出す）"
+  },
+  {
+    "index": 211,
+    "english": "hear of",
+    "japanese": "のうわさを聞く，について聞き知る"
+  },
+  {
+    "index": 212,
+    "english": "look after",
+    "japanese": "の世話をする（≒take care of →1390）"
+  },
+  {
+    "index": 213,
+    "english": "look for",
+    "japanese": "を探す"
+  },
+  {
+    "index": 214,
+    "english": "look forward to",
+    "japanese": "を楽しみに待つ"
+  },
+  {
+    "index": 215,
+    "english": "look like",
+    "japanese": "に似ている；のように見える"
+  },
+  {
+    "index": 216,
+    "english": "look out for",
+    "japanese": "に注意する"
+  },
+  {
+    "index": 217,
+    "english": "make friends （with）",
+    "japanese": "（と）親しくなる，友達になる"
+  },
+  {
+    "index": 218,
+    "english": "make it",
+    "japanese": "うまくいく，成功する；（乗り物などに）間に合う"
+  },
+  {
+    "index": 219,
+    "english": "put away",
+    "japanese": "を片づける；を取っておく"
+  },
+  {
+    "index": 220,
+    "english": "put on",
+    "japanese": "（衣服・靴・帽子など）を着る，身につける"
+  },
+  {
+    "index": 221,
+    "english": "run after",
+    "japanese": "を追いかける"
+  },
+  {
+    "index": 222,
+    "english": "run away （from）",
+    "japanese": "（から）逃げる"
+  },
+  {
+    "index": 223,
+    "english": "see ... off",
+    "japanese": "（人）を見送る"
+  },
+  {
+    "index": 224,
+    "english": "speak to［with］",
+    "japanese": "（人）と話をする；（人）に話しかける"
+  },
+  {
+    "index": 225,
+    "english": "take［have］ a walk",
+    "japanese": "散歩する"
+  },
+  {
+    "index": 226,
+    "english": "take off",
+    "japanese": "（衣服・靴・帽子など）を脱ぐ；（飛行機などが）離陸する"
+  },
+  {
+    "index": 227,
+    "english": "take part in",
+    "japanese": "に参加する（≒join →13）"
+  },
+  {
+    "index": 228,
+    "english": "take time （to do）",
+    "japanese": "（～するのに）時間がかかる"
+  },
+  {
+    "index": 229,
+    "english": "after school",
+    "japanese": "放課後（に）"
+  },
+  {
+    "index": 230,
+    "english": "all day （long）",
+    "japanese": "一日中"
+  },
+  {
+    "index": 231,
+    "english": "all the time",
+    "japanese": "いつも；その間ずっと"
+  },
+  {
+    "index": 232,
+    "english": "at first",
+    "japanese": "最初は，初めのうちは"
+  },
+  {
+    "index": 233,
+    "english": "at last",
+    "japanese": "ついに，やっと（≒finally）"
+  },
+  {
+    "index": 234,
+    "english": "at the age of A（＝at age A）",
+    "japanese": "A歳で"
+  },
+  {
+    "index": 235,
+    "english": "at the same time",
+    "japanese": "同時に"
+  },
+  {
+    "index": 236,
+    "english": "before long",
+    "japanese": "間もなく（≒soon →188）"
+  },
+  {
+    "index": 237,
+    "english": "by the way",
+    "japanese": "ところで"
+  },
+  {
+    "index": 238,
+    "english": "day after day",
+    "japanese": "来る日も来る日も"
+  },
+  {
+    "index": 239,
+    "english": "face to face （with）",
+    "japanese": "（と）面と向かって；（に）直面して"
+  },
+  {
+    "index": 240,
+    "english": "for a long time",
+    "japanese": "長い間"
+  },
+  {
+    "index": 241,
+    "english": "for example［instance］",
+    "japanese": "例えば"
+  },
+  {
+    "index": 242,
+    "english": "for free",
+    "japanese": "ただで，無料で（≒for nothing →1411）"
+  },
+  {
+    "index": 243,
+    "english": "for oneself",
+    "japanese": "（他人に頼らず）自分で"
+  },
+  {
+    "index": 244,
+    "english": "for the first time",
+    "japanese": "初めて"
+  },
+  {
+    "index": 245,
+    "english": "from ... on",
+    "japanese": "...以降ずっと"
+  },
+  {
+    "index": 246,
+    "english": "here and there",
+    "japanese": "あちこちで［に，を］"
+  },
+  {
+    "index": 247,
+    "english": "in the future",
+    "japanese": "将来（⇔in the past 過去に →1685）"
+  },
+  {
+    "index": 248,
+    "english": "in time （for）",
+    "japanese": "（に）間に合って"
+  },
+  {
+    "index": 249,
+    "english": "more than",
+    "japanese": "...以上，を超えて（≒over →183）"
+  },
+  {
+    "index": 250,
+    "english": "next to",
+    "japanese": "の隣に"
+  },
+  {
+    "index": 251,
+    "english": "of course",
+    "japanese": "もちろん"
+  },
+  {
+    "index": 252,
+    "english": "on one's［the］ way （to）",
+    "japanese": "（へ行く）途中で"
+  },
+  {
+    "index": 253,
+    "english": "on time",
+    "japanese": "時間どおりに，定刻に"
+  },
+  {
+    "index": 254,
+    "english": "one by one",
+    "japanese": "1つ［1人］ずつ"
+  },
+  {
+    "index": 255,
+    "english": "over and over （again）",
+    "japanese": "何度も"
+  },
+  {
+    "index": 256,
+    "english": "over there",
+    "japanese": "向こうに［で］"
+  },
+  {
+    "index": 257,
+    "english": "side by side",
+    "japanese": "並んで；一緒に"
+  },
+  {
+    "index": 258,
+    "english": "a lot of （＝lots of）",
+    "japanese": "たくさんの"
+  },
+  {
+    "index": 259,
+    "english": "as soon as ...",
+    "japanese": "...するとすぐに"
+  },
+  {
+    "index": 260,
+    "english": "plenty of",
+    "japanese": "たくさんの"
+  },
+  {
+    "index": 261,
+    "english": "respect",
+    "japanese": "【動】を尊敬する（≒look up to →1159）"
+  },
+  {
+    "index": 262,
+    "english": "admire",
+    "japanese": "【動】を賞賛する，に感嘆する"
+  },
+  {
+    "index": 263,
+    "english": "accept",
+    "japanese": "【動】を受け入れる（⇔refuse を拒否する →1234）"
+  },
+  {
+    "index": 264,
+    "english": "support",
+    "japanese": "【動】を支持する；を支える"
+  },
+  {
+    "index": 265,
+    "english": "share",
+    "japanese": "【動】を共有する；を分け合う"
+  },
+  {
+    "index": 266,
+    "english": "recommend",
+    "japanese": "【動】を推薦する"
+  },
+  {
+    "index": 267,
+    "english": "challenge",
+    "japanese": "【動】に挑戦する"
+  },
+  {
+    "index": 268,
+    "english": "create",
+    "japanese": "【動】を創造する"
+  },
+  {
+    "index": 269,
+    "english": "pray",
+    "japanese": "【動】祈る"
+  },
+  {
+    "index": 270,
+    "english": "treat",
+    "japanese": "【動】を扱う；を治療する"
+  },
+  {
+    "index": 271,
+    "english": "feed",
+    "japanese": "【動】に食べ物［えさ］を与える"
+  },
+  {
+    "index": 272,
+    "english": "hug",
+    "japanese": "【動】を抱き締める"
+  },
+  {
+    "index": 273,
+    "english": "surround",
+    "japanese": "【動】を囲む，取り囲む"
+  },
+  {
+    "index": 274,
+    "english": "reply",
+    "japanese": "【動】返事をする；応じる；と答える"
+  },
+  {
+    "index": 275,
+    "english": "control",
+    "japanese": "【動】を管理する，支配する；を制御する；を抑制する"
+  },
+  {
+    "index": 276,
+    "english": "check",
+    "japanese": "【動】を点検する，確かめる"
+  },
+  {
+    "index": 277,
+    "english": "examine",
+    "japanese": "【動】を調べる；を検査する"
+  },
+  {
+    "index": 278,
+    "english": "observe",
+    "japanese": "【動】を観察する；に気づく"
+  },
+  {
+    "index": 279,
+    "english": "preserve",
+    "japanese": "【動】を保護する（≒protect →1379）；を保存する；を保つ"
+  },
+  {
+    "index": 280,
+    "english": "complete",
+    "japanese": "【動】を完成させる，終える"
+  },
+  {
+    "index": 281,
+    "english": "perform",
+    "japanese": "【動】（を）演じる，上演［演奏］する；を実行する"
+  },
+  {
+    "index": 282,
+    "english": "act",
+    "japanese": "【動】行動する；（を）演じる"
+  },
+  {
+    "index": 283,
+    "english": "hide",
+    "japanese": "【動】を隠す；隠れる"
+  },
+  {
+    "index": 284,
+    "english": "disappear",
+    "japanese": "【動】見えなくなる（⇔appear 現れる →1222）"
+  },
+  {
+    "index": 285,
+    "english": "bear",
+    "japanese": "【動】に耐える；（重さ・負荷）を支える；（子）を産む"
+  },
+  {
+    "index": 286,
+    "english": "protest",
+    "japanese": "【動】抗議する；異議を唱える"
+  },
+  {
+    "index": 287,
+    "english": "destroy",
+    "japanese": "【動】を破壊する（⇔construct を建設する）"
+  },
+  {
+    "index": 288,
+    "english": "reflect",
+    "japanese": "【動】を映し出す；を反射する；を熟考する"
+  },
+  {
+    "index": 289,
+    "english": "melt",
+    "japanese": "【動】溶ける；を溶かす"
+  },
+  {
+    "index": 290,
+    "english": "flow",
+    "japanese": "【動】流れる"
+  },
+  {
+    "index": 291,
+    "english": "spread",
+    "japanese": "【動】を広げる；を広める；広がる"
+  },
+  {
+    "index": 292,
+    "english": "aid",
+    "japanese": "【動】を援助する"
+  },
+  {
+    "index": 293,
+    "english": "repair",
+    "japanese": "【動】を修理する；を修復する"
+  },
+  {
+    "index": 294,
+    "english": "press",
+    "japanese": "【動】（を）押す；（を）押しつける"
+  },
+  {
+    "index": 295,
+    "english": "suit",
+    "japanese": "【動】（人）に似合う；（人）に都合がよい"
+  },
+  {
+    "index": 296,
+    "english": "shape",
+    "japanese": "【名】形；状態；体調"
+  },
+  {
+    "index": 297,
+    "english": "form",
+    "japanese": "【名】形；用紙"
+  },
+  {
+    "index": 298,
+    "english": "percent",
+    "japanese": "【名】パーセント"
+  },
+  {
+    "index": 299,
+    "english": "total",
+    "japanese": "【名】合計"
+  },
+  {
+    "index": 300,
+    "english": "bit",
+    "japanese": "【名】少し，少量"
+  },
+  {
+    "index": 301,
+    "english": "billion",
+    "japanese": "【名】十億"
+  },
+  {
+    "index": 302,
+    "english": "base",
+    "japanese": "【名】土台；基礎（≒basis）；基地"
+  },
+  {
+    "index": 303,
+    "english": "success",
+    "japanese": "【名】成功（⇔failure 失敗）"
+  },
+  {
+    "index": 304,
+    "english": "stage",
+    "japanese": "【名】段階；舞台"
+  },
+  {
+    "index": 305,
+    "english": "instrument",
+    "japanese": "【名】楽器；道具"
+  },
+  {
+    "index": 306,
+    "english": "scene",
+    "japanese": "【名】場面；現場；光景【派】scenery【名】風景，景観"
+  },
+  {
+    "index": 307,
+    "english": "image",
+    "japanese": "【名】イメージ，印象"
+  },
+  {
+    "index": 308,
+    "english": "secret",
+    "japanese": "【名】秘密；秘訣"
+  },
+  {
+    "index": 309,
+    "english": "mystery",
+    "japanese": "【名】謎，神秘；推理小説"
+  },
+  {
+    "index": 310,
+    "english": "truth",
+    "japanese": "【名】真実，本当のこと"
+  },
+  {
+    "index": 311,
+    "english": "reality",
+    "japanese": "【名】現実（の物）"
+  },
+  {
+    "index": 312,
+    "english": "religion",
+    "japanese": "【名】宗教"
+  },
+  {
+    "index": 313,
+    "english": "tradition",
+    "japanese": "【名】伝統；しきたり"
+  },
+  {
+    "index": 314,
+    "english": "origin",
+    "japanese": "【名】起源"
+  },
+  {
+    "index": 315,
+    "english": "population",
+    "japanese": "【名】人口"
+  },
+  {
+    "index": 316,
+    "english": "memory",
+    "japanese": "【名】記憶（力）；思い出"
+  },
+  {
+    "index": 317,
+    "english": "note",
+    "japanese": "【名】メモ，覚え書き；注釈"
+  },
+  {
+    "index": 318,
+    "english": "relationship",
+    "japanese": "【名】関係（≒relation →1579）"
+  },
+  {
+    "index": 319,
+    "english": "cooperation",
+    "japanese": "【名】協力"
+  },
+  {
+    "index": 320,
+    "english": "power",
+    "japanese": "【名】力；能力；権力；エネルギー"
+  },
+  {
+    "index": 321,
+    "english": "strength",
+    "japanese": "【名】力；強さ"
+  },
+  {
+    "index": 322,
+    "english": "courage",
+    "japanese": "【名】勇気"
+  },
+  {
+    "index": 323,
+    "english": "pressure",
+    "japanese": "【名】重圧；圧力"
+  },
+  {
+    "index": 324,
+    "english": "area",
+    "japanese": "【名】地域，区域（≒region 地帯）；領域"
+  },
+  {
+    "index": 325,
+    "english": "direction",
+    "japanese": "【名】方向；方針；（～s）指示；説明書"
+  },
+  {
+    "index": 326,
+    "english": "countryside",
+    "japanese": "【名】田舎"
+  },
+  {
+    "index": 327,
+    "english": "hero",
+    "japanese": "【名】英雄，ヒーロー；（男性の）主人公（⇔heroine ヒロイン；（女性の）主人公）"
+  },
+  {
+    "index": 328,
+    "english": "enemy",
+    "japanese": "【名】敵（⇔friend 味方）"
+  },
+  {
+    "index": 329,
+    "english": "accident",
+    "japanese": "【名】事故；不測の事態；偶然"
+  },
+  {
+    "index": 330,
+    "english": "purpose",
+    "japanese": "【名】目的，意図"
+  },
+  {
+    "index": 331,
+    "english": "bottom",
+    "japanese": "【名】下部，底（⇔top →152）"
+  },
+  {
+    "index": 332,
+    "english": "waste",
+    "japanese": "【名】無駄，浪費；ごみ；廃棄物"
+  },
+  {
+    "index": 333,
+    "english": "board",
+    "japanese": "【名】板；掲示板；委員会"
+  },
+  {
+    "index": 334,
+    "english": "serious",
+    "japanese": "【形】深刻な；まじめな；本気の"
+  },
+  {
+    "index": 335,
+    "english": "crazy",
+    "japanese": "【形】夢中で；ばかげた；正気でない"
+  },
+  {
+    "index": 336,
+    "english": "evil",
+    "japanese": "【形】邪悪な"
+  },
+  {
+    "index": 337,
+    "english": "familiar",
+    "japanese": "【形】熟知している；よく知られている；親しい"
+  },
+  {
+    "index": 338,
+    "english": "personal",
+    "japanese": "【形】個人の，個人的な"
+  },
+  {
+    "index": 339,
+    "english": "official",
+    "japanese": "【形】公式の；職務（上）の"
+  },
+  {
+    "index": 340,
+    "english": "perfect",
+    "japanese": "【形】完全な，完璧な（⇔imperfect 不完全な）"
+  },
+  {
+    "index": 341,
+    "english": "correct",
+    "japanese": "【形】正しい（⇔incorrect 不正確な，false間違った →459）；適切な"
+  },
+  {
+    "index": 342,
+    "english": "basic",
+    "japanese": "【形】基本的な，重要な"
+  },
+  {
+    "index": 343,
+    "english": "major",
+    "japanese": "【形】主要な；大きい方の（⇔minor 重要ではない；小さい方の →457）"
+  },
+  {
+    "index": 344,
+    "english": "dirty",
+    "japanese": "【形】汚れた（⇔clean →105）"
+  },
+  {
+    "index": 345,
+    "english": "fresh",
+    "japanese": "【形】新鮮な；新しい"
+  },
+  {
+    "index": 346,
+    "english": "tough",
+    "japanese": "【形】困難な；頑丈な"
+  },
+  {
+    "index": 347,
+    "english": "flat",
+    "japanese": "【形】平らな；（価格が）一律の；空気の抜けた"
+  },
+  {
+    "index": 348,
+    "english": "precious",
+    "japanese": "【形】貴重な，大切な；高価な"
+  },
+  {
+    "index": 349,
+    "english": "rare",
+    "japanese": "【形】まれな，珍しい（⇔common 普通の，ありふれた →1527）"
+  },
+  {
+    "index": 350,
+    "english": "normal",
+    "japanese": "【形】普通の；標準の"
+  },
+  {
+    "index": 351,
+    "english": "ordinary",
+    "japanese": "【形】普通の；ありふれた"
+  },
+  {
+    "index": 352,
+    "english": "various",
+    "japanese": "【形】さまざまな，多様な"
+  },
+  {
+    "index": 353,
+    "english": "native",
+    "japanese": "【形】生まれた土地の；その土地固有の"
+  },
+  {
+    "index": 354,
+    "english": "tiny",
+    "japanese": "【形】とても小さな（⇔huge →355）；わずかな"
+  },
+  {
+    "index": 355,
+    "english": "huge",
+    "japanese": "【形】巨大な（≒enormous，⇔tiny →354）；莫大な"
+  },
+  {
+    "index": 356,
+    "english": "vast",
+    "japanese": "【形】広大な；莫大な"
+  },
+  {
+    "index": 357,
+    "english": "empty",
+    "japanese": "【形】空の（⇔full →173），空いている"
+  },
+  {
+    "index": 358,
+    "english": "single",
+    "japanese": "【形】たった1つ［1人］の；個々の；独身の"
+  },
+  {
+    "index": 359,
+    "english": "silent",
+    "japanese": "【形】黙っている；静かな"
+  },
+  {
+    "index": 360,
+    "english": "clear",
+    "japanese": "【形】はっきりした；澄んだ；晴れた"
+  },
+  {
+    "index": 361,
+    "english": "direct",
+    "japanese": "【形】直接の（⇔indirect 間接の）；直通の；率直な"
+  },
+  {
+    "index": 362,
+    "english": "rapid",
+    "japanese": "【形】急速な；素早い"
+  },
+  {
+    "index": 363,
+    "english": "convenient",
+    "japanese": "【形】便利な，都合のよい（⇔inconvenient 不便な）"
+  },
+  {
+    "index": 364,
+    "english": "ideal",
+    "japanese": "【形】理想的な"
+  },
+  {
+    "index": 365,
+    "english": "appreciate",
+    "japanese": "【動】を感謝する；（...のよさ）を認める"
+  },
+  {
+    "index": 366,
+    "english": "recover",
+    "japanese": "【動】回復する；を取り戻す"
+  },
+  {
+    "index": 367,
+    "english": "trust",
+    "japanese": "【動】を信頼する，信用する"
+  },
+  {
+    "index": 368,
+    "english": "doubt",
+    "japanese": "【動】...ではないと思う；を疑う"
+  },
+  {
+    "index": 369,
+    "english": "attack",
+    "japanese": "【動】を襲う（⇔defend を防御する →496）；を攻撃する，非難する"
+  },
+  {
+    "index": 370,
+    "english": "disturb",
+    "japanese": "【動】を邪魔する；（平穏など）を乱す"
+  },
+  {
+    "index": 371,
+    "english": "express",
+    "japanese": "【動】を表現する"
+  },
+  {
+    "index": 372,
+    "english": "exhibit",
+    "japanese": "【動】を展示する；（感情・能力など）を出す"
+  },
+  {
+    "index": 373,
+    "english": "search",
+    "japanese": "【動】捜す；（場所など）を捜索する"
+  },
+  {
+    "index": 374,
+    "english": "explore",
+    "japanese": "【動】を探検する；を探究する"
+  },
+  {
+    "index": 375,
+    "english": "remind",
+    "japanese": "【動】に思い出させる"
+  },
+  {
+    "index": 376,
+    "english": "hunt",
+    "japanese": "【動】狩りをする；を狩る；を探し求める"
+  },
+  {
+    "index": 377,
+    "english": "release",
+    "japanese": "【動】を解放する；を初公開する"
+  },
+  {
+    "index": 378,
+    "english": "belong",
+    "japanese": "【動】属する"
+  },
+  {
+    "index": 379,
+    "english": "supply",
+    "japanese": "【動】を供給する（≒provide →1459）"
+  },
+  {
+    "index": 380,
+    "english": "shut",
+    "japanese": "【動】を閉める，閉じる（⇔open →3）"
+  },
+  {
+    "index": 381,
+    "english": "knock",
+    "japanese": "【動】ノックする；を打つ；ぶつかる"
+  },
+  {
+    "index": 382,
+    "english": "hang",
+    "japanese": "【動】を掛ける，つるす"
+  },
+  {
+    "index": 383,
+    "english": "lift",
+    "japanese": "【動】を持ち上げる"
+  },
+  {
+    "index": 384,
+    "english": "locate",
+    "japanese": "【動】を位置づける"
+  },
+  {
+    "index": 385,
+    "english": "compare",
+    "japanese": "【動】を比べる；を例える"
+  },
+  {
+    "index": 386,
+    "english": "compete",
+    "japanese": "【動】競う"
+  },
+  {
+    "index": 387,
+    "english": "exchange",
+    "japanese": "【動】を交換する；を両替する"
+  },
+  {
+    "index": 388,
+    "english": "shake",
+    "japanese": "【動】を振る；揺れる"
+  },
+  {
+    "index": 389,
+    "english": "fix",
+    "japanese": "【動】を修理する；（を）固定する"
+  },
+  {
+    "index": 390,
+    "english": "adopt",
+    "japanese": "【動】（考え・提案など）を採用する；を養子にする"
+  },
+  {
+    "index": 391,
+    "english": "establish",
+    "japanese": "【動】を設立［創立］する（≒found）；を確立する"
+  },
+  {
+    "index": 392,
+    "english": "print",
+    "japanese": "【動】を印刷する"
+  },
+  {
+    "index": 393,
+    "english": "occur",
+    "japanese": "【動】起こる（≒happen →1223）；心に思い浮かぶ"
+  },
+  {
+    "index": 394,
+    "english": "freeze",
+    "japanese": "【動】凍る；を凍らせる"
+  },
+  {
+    "index": 395,
+    "english": "float",
+    "japanese": "【動】浮かぶ（⇔sink 沈む →500）；漂う"
+  },
+  {
+    "index": 396,
+    "english": "burn",
+    "japanese": "【動】を燃やす，焦がす；燃える；焦げる"
+  },
+  {
+    "index": 397,
+    "english": "bury",
+    "japanese": "【動】を埋める；を埋葬する"
+  },
+  {
+    "index": 398,
+    "english": "apologize",
+    "japanese": "【動】謝る"
+  },
+  {
+    "index": 399,
+    "english": "dig",
+    "japanese": "【動】を掘る；を掘り出す"
+  },
+  {
+    "index": 400,
+    "english": "capture",
+    "japanese": "【動】を捕まえる；を捕らえる"
+  },
+  {
+    "index": 401,
+    "english": "stick",
+    "japanese": "【動】くっつく；を貼りつける；を固定する；を突き刺す"
+  },
+  {
+    "index": 402,
+    "english": "cycle",
+    "japanese": "【名】周期；循環"
+  },
+  {
+    "index": 403,
+    "english": "background",
+    "japanese": "【名】背景"
+  },
+  {
+    "index": 404,
+    "english": "spirit",
+    "japanese": "【名】精神，心（⇔body 肉体）；魂"
+  },
+  {
+    "index": 405,
+    "english": "thought",
+    "japanese": "【名】考え"
+  },
+  {
+    "index": 406,
+    "english": "theory",
+    "japanese": "【名】理論（⇔practice 実践 →818）；説；学説"
+  },
+  {
+    "index": 407,
+    "english": "theme",
+    "japanese": "【名】テーマ，主題（≒subject →1019，topic →1586）"
+  },
+  {
+    "index": 408,
+    "english": "concept",
+    "japanese": "【名】概念"
+  },
+  {
+    "index": 409,
+    "english": "method",
+    "japanese": "【名】方法"
+  },
+  {
+    "index": 410,
+    "english": "poison",
+    "japanese": "【名】毒；害悪"
+  },
+  {
+    "index": 411,
+    "english": "harm",
+    "japanese": "【名】害，危害；不都合"
+  },
+  {
+    "index": 412,
+    "english": "harmony",
+    "japanese": "【名】調和，一致"
+  },
+  {
+    "index": 413,
+    "english": "combination",
+    "japanese": "【名】組み合わさったもの；結合"
+  },
+  {
+    "index": 414,
+    "english": "tool",
+    "japanese": "【名】手段；道具"
+  },
+  {
+    "index": 415,
+    "english": "sample",
+    "japanese": "【名】見本，試供品"
+  },
+  {
+    "index": 416,
+    "english": "depth",
+    "japanese": "【名】深さ；奥行き"
+  },
+  {
+    "index": 417,
+    "english": "honor",
+    "japanese": "【名】光栄；名誉；敬意"
+  },
+  {
+    "index": 418,
+    "english": "pleasure",
+    "japanese": "【名】喜び，楽しみ"
+  },
+  {
+    "index": 419,
+    "english": "shadow",
+    "japanese": "【名】（人・物の）影"
+  },
+  {
+    "index": 420,
+    "english": "shade",
+    "japanese": "【名】陰，日陰"
+  },
+  {
+    "index": 421,
+    "english": "type",
+    "japanese": "【名】型，タイプ"
+  },
+  {
+    "index": 422,
+    "english": "pattern",
+    "japanese": "【名】パターン，型；模様，図柄"
+  },
+  {
+    "index": 423,
+    "english": "sort",
+    "japanese": "【名】種類"
+  },
+  {
+    "index": 424,
+    "english": "trick",
+    "japanese": "【名】いたずら；たくらみ；手品；トリック"
+  },
+  {
+    "index": 425,
+    "english": "middle",
+    "japanese": "【名】（位置・時間・出来事などの）中間，真ん中（≒center →1577）"
+  },
+  {
+    "index": 426,
+    "english": "address",
+    "japanese": "【名】住所；演説"
+  },
+  {
+    "index": 427,
+    "english": "level",
+    "japanese": "【名】水準，レベル；程度；水平面"
+  },
+  {
+    "index": 428,
+    "english": "heat",
+    "japanese": "【名】熱；熱さ；暑さ；熱意"
+  },
+  {
+    "index": 429,
+    "english": "ceremony",
+    "japanese": "【名】式典，儀式"
+  },
+  {
+    "index": 430,
+    "english": "event",
+    "japanese": "【名】行事；出来事"
+  },
+  {
+    "index": 431,
+    "english": "statue",
+    "japanese": "【名】像"
+  },
+  {
+    "index": 432,
+    "english": "rhythm",
+    "japanese": "【名】リズム"
+  },
+  {
+    "index": 433,
+    "english": "hunger",
+    "japanese": "【名】飢え"
+  },
+  {
+    "index": 434,
+    "english": "schedule",
+    "japanese": "【名】予定（表）；時刻表；時間割"
+  },
+  {
+    "index": 435,
+    "english": "legend",
+    "japanese": "【名】伝説（的人物）"
+  },
+  {
+    "index": 436,
+    "english": "pioneer",
+    "japanese": "【名】先駆者；開拓者"
+  },
+  {
+    "index": 437,
+    "english": "smart",
+    "japanese": "【形】頭のよい，賢い（≒clever →1325）"
+  },
+  {
+    "index": 438,
+    "english": "honest",
+    "japanese": "【形】正直な；率直な"
+  },
+  {
+    "index": 439,
+    "english": "pure",
+    "japanese": "【形】純粋な"
+  },
+  {
+    "index": 440,
+    "english": "funny",
+    "japanese": "【形】おかしな，滑稽な；奇妙な"
+  },
+  {
+    "index": 441,
+    "english": "severe",
+    "japanese": "【形】ひどい，深刻な；厳しい"
+  },
+  {
+    "index": 442,
+    "english": "violent",
+    "japanese": "【形】乱暴な"
+  },
+  {
+    "index": 443,
+    "english": "private",
+    "japanese": "【形】私的な，個人的な（⇔public 公の →1610）；私立の；秘密の"
+  },
+  {
+    "index": 444,
+    "english": "vivid",
+    "japanese": "【形】鮮やかな"
+  },
+  {
+    "index": 445,
+    "english": "sharp",
+    "japanese": "【形】鋭い；とがった；急な"
+  },
+  {
+    "index": 446,
+    "english": "dull",
+    "japanese": "【形】くすんだ（⇔bright →77）；鈍い（⇔clever 利口な →1325）；退屈な"
+  },
+  {
+    "index": 447,
+    "english": "smooth",
+    "japanese": "【形】滑らかな，すべすべした（⇔rough ざらざらした）；平らな；円滑な"
+  },
+  {
+    "index": 448,
+    "english": "wet",
+    "japanese": "【形】ぬれた，湿った（⇔dry 乾燥した →1618）"
+  },
+  {
+    "index": 449,
+    "english": "raw",
+    "japanese": "【形】生の（⇔cooked 調理された）；加工［処理］されていない"
+  },
+  {
+    "index": 450,
+    "english": "central",
+    "japanese": "【形】中心（部）の；中心的な"
+  },
+  {
+    "index": 451,
+    "english": "remote",
+    "japanese": "【形】離れた；遠い"
+  },
+  {
+    "index": 452,
+    "english": "complex",
+    "japanese": "【形】複雑な；複合（体）の"
+  },
+  {
+    "index": 453,
+    "english": "classical",
+    "japanese": "【形】クラシックの；古典的な"
+  },
+  {
+    "index": 454,
+    "english": "standard",
+    "japanese": "【形】標準の"
+  },
+  {
+    "index": 455,
+    "english": "regular",
+    "japanese": "【形】定期的な；規則正しい（⇔irregular 不規則な）；通常の；普通サイズの"
+  },
+  {
+    "index": 456,
+    "english": "chief",
+    "japanese": "【形】最高（位）の；主要な"
+  },
+  {
+    "index": 457,
+    "english": "minor",
+    "japanese": "【形】小さい方の；重要ではない（⇔major →343）"
+  },
+  {
+    "index": 458,
+    "english": "weak",
+    "japanese": "【形】弱い（⇔strong 強い）；不十分な；（味の）薄い"
+  },
+  {
+    "index": 459,
+    "english": false,
+    "japanese": "【形】間違った（⇔true →90，correct →341）；本物でない，偽の"
+  },
+  {
+    "index": 460,
+    "english": "plain",
+    "japanese": "【形】わかりやすい；明白な"
+  },
+  {
+    "index": 461,
+    "english": "equal",
+    "japanese": "【形】等しい，同等の；平等の"
+  },
+  {
+    "index": 462,
+    "english": "excellent",
+    "japanese": "【形】すばらしい；優秀な"
+  },
+  {
+    "index": 463,
+    "english": "fantastic",
+    "japanese": "【形】とてもすばらしい；空想的な"
+  },
+  {
+    "index": 464,
+    "english": "instant",
+    "japanese": "【形】即席の；即時の"
+  },
+  {
+    "index": 465,
+    "english": "quick",
+    "japanese": "【形】素早い（⇔slow →177），即座の"
+  },
+  {
+    "index": 466,
+    "english": "double",
+    "japanese": "【形】2倍の；二重の"
+  },
+  {
+    "index": 467,
+    "english": "celebrate",
+    "japanese": "【動】を祝う"
+  },
+  {
+    "index": 468,
+    "english": "copy",
+    "japanese": "【動】の写しをとる，コピーする；をまねる"
+  },
+  {
+    "index": 469,
+    "english": "pull",
+    "japanese": "【動】（を）引く，引っぱる（⇔push →125）"
+  },
+  {
+    "index": 470,
+    "english": "link",
+    "japanese": "【動】を結びつける，関連づける"
+  },
+  {
+    "index": 471,
+    "english": "separate",
+    "japanese": "【動】を区別する；を引き離す"
+  },
+  {
+    "index": 472,
+    "english": "wrap",
+    "japanese": "【動】を包む；を巻く"
+  },
+  {
+    "index": 473,
+    "english": "spell",
+    "japanese": "【動】をつづる"
+  },
+  {
+    "index": 474,
+    "english": "display",
+    "japanese": "【動】を展示［陳列］する（≒exhibit →372）；を示す"
+  },
+  {
+    "index": 475,
+    "english": "respond",
+    "japanese": "【動】返答する；反応する"
+  },
+  {
+    "index": 476,
+    "english": "behave",
+    "japanese": "【動】振る舞う"
+  },
+  {
+    "index": 477,
+    "english": "affect",
+    "japanese": "【動】に影響する；（心が）強く動かされる"
+  },
+  {
+    "index": 478,
+    "english": "arrange",
+    "japanese": "【動】を手配する；を配置する"
+  },
+  {
+    "index": 479,
+    "english": "apply",
+    "japanese": "【動】申し込む；当てはまる；を応用する"
+  },
+  {
+    "index": 480,
+    "english": "consist",
+    "japanese": "【動】成り立つ；ある"
+  },
+  {
+    "index": 481,
+    "english": "gather",
+    "japanese": "【動】を集める（≒collect →785）；集まる"
+  },
+  {
+    "index": 482,
+    "english": "deliver",
+    "japanese": "【動】を配達する；を伝える"
+  },
+  {
+    "index": 483,
+    "english": "settle",
+    "japanese": "【動】を解決する；（に）移り住む；を静める"
+  },
+  {
+    "index": 484,
+    "english": "announce",
+    "japanese": "【動】を発表する；を（大声で）告げる"
+  },
+  {
+    "index": 485,
+    "english": "handle",
+    "japanese": "【動】を扱う，処理する；に手を触れる"
+  },
+  {
+    "index": 486,
+    "english": "load",
+    "japanese": "【動】（荷物）を積む；を詰め込む"
+  },
+  {
+    "index": 487,
+    "english": "pause",
+    "japanese": "【動】休止する，立ち止まる"
+  },
+  {
+    "index": 488,
+    "english": "repeat",
+    "japanese": "【動】を繰り返す，繰り返して言う；を復唱する"
+  },
+  {
+    "index": 489,
+    "english": "count",
+    "japanese": "【動】を数える；重要である"
+  },
+  {
+    "index": 490,
+    "english": "follow",
+    "japanese": "【動】の後について行く；に続く；をたどる；に従う"
+  },
+  {
+    "index": 491,
+    "english": "beat",
+    "japanese": "【動】を打ち負かす；を（連続して）打つ，たたく"
+  },
+  {
+    "index": 492,
+    "english": "strike",
+    "japanese": "【動】を強く打つ，ぶつける；当たる"
+  },
+  {
+    "index": 493,
+    "english": "kick",
+    "japanese": "【動】を蹴る"
+  },
+  {
+    "index": 494,
+    "english": "explode",
+    "japanese": "【動】爆発する；爆発的に増える；を打破する"
+  },
+  {
+    "index": 495,
+    "english": "fight",
+    "japanese": "【動】戦う；けんかする"
+  },
+  {
+    "index": 496,
+    "english": "defend",
+    "japanese": "【動】を防御する（⇔attack →369）"
+  },
+  {
+    "index": 497,
+    "english": "ban",
+    "japanese": "【動】を禁じる"
+  },
+  {
+    "index": 498,
+    "english": "reject",
+    "japanese": "【動】を拒絶する（≒refuse →1234）"
+  },
+  {
+    "index": 499,
+    "english": "blow",
+    "japanese": "【動】（風が）吹く；風で飛ぶ；を吹き飛ばす"
+  },
+  {
+    "index": 500,
+    "english": "sink",
+    "japanese": "【動】沈む（⇔float →395）"
+  },
+  {
+    "index": 501,
+    "english": "figure",
+    "japanese": "【名】数，数字；姿；図"
+  },
+  {
+    "index": 502,
+    "english": "couple",
+    "japanese": "【名】（同種の）2つ，2人；１対，1組；カップル，夫婦"
+  },
+  {
+    "index": 503,
+    "english": "partner",
+    "japanese": "【名】パートナー；仲間"
+  },
+  {
+    "index": 504,
+    "english": "kid",
+    "japanese": "【名】子供"
+  },
+  {
+    "index": 505,
+    "english": "genius",
+    "japanese": "【名】天才；才能，天分"
+  },
+  {
+    "index": 506,
+    "english": "technique",
+    "japanese": "【名】技術，技能"
+  },
+  {
+    "index": 507,
+    "english": "edge",
+    "japanese": "【名】縁；（ナイフなどの）刃"
+  },
+  {
+    "index": 508,
+    "english": "spot",
+    "japanese": "【名】場所；点"
+  },
+  {
+    "index": 509,
+    "english": "department",
+    "japanese": "【名】（大学の）学科，学部；（組織の）部門；売り場；（米・英政府の）省"
+  },
+  {
+    "index": 510,
+    "english": "degree",
+    "japanese": "【名】程度；（温度・緯度などの）度；学位"
+  },
+  {
+    "index": 511,
+    "english": "volume",
+    "japanese": "【名】量，容量；（2冊以上から成る本の）1巻"
+  },
+  {
+    "index": 512,
+    "english": "unit",
+    "japanese": "【名】単位；単元"
+  },
+  {
+    "index": 513,
+    "english": "dozen",
+    "japanese": "【名】1ダース，12"
+  },
+  {
+    "index": 514,
+    "english": "quality",
+    "japanese": "【名】質（⇔quantity →515），品質；（人の）特性"
+  },
+  {
+    "index": 515,
+    "english": "quantity",
+    "japanese": "【名】量（⇔quality →514）"
+  },
+  {
+    "index": 516,
+    "english": "error",
+    "japanese": "【名】誤り"
+  },
+  {
+    "index": 517,
+    "english": "incident",
+    "japanese": "【名】出来事；事件"
+  },
+  {
+    "index": 518,
+    "english": "appeal",
+    "japanese": "【名】訴え，要求"
+  },
+  {
+    "index": 519,
+    "english": "emergency",
+    "japanese": "【名】緊急（事態）"
+  },
+  {
+    "index": 520,
+    "english": "alarm",
+    "japanese": "【名】警報（装置）；目覚まし時計；驚き"
+  },
+  {
+    "index": 521,
+    "english": "trend",
+    "japanese": "【名】流行；傾向，動向"
+  },
+  {
+    "index": 522,
+    "english": "smoke",
+    "japanese": "【名】煙；タバコ"
+  },
+  {
+    "index": 523,
+    "english": "fever",
+    "japanese": "【名】熱，発熱；興奮，熱狂"
+  },
+  {
+    "index": 524,
+    "english": "structure",
+    "japanese": "【名】構造；構造物"
+  },
+  {
+    "index": 525,
+    "english": "trial",
+    "japanese": "【名】試み；試用；裁判"
+  },
+  {
+    "index": 526,
+    "english": "luck",
+    "japanese": "【名】運；幸運"
+  },
+  {
+    "index": 527,
+    "english": "favor",
+    "japanese": "【名】好意；親切な行為"
+  },
+  {
+    "index": 528,
+    "english": "contact",
+    "japanese": "【名】連絡；接触"
+  },
+  {
+    "index": 529,
+    "english": "contest",
+    "japanese": "【名】競技（会），コンテスト"
+  },
+  {
+    "index": 530,
+    "english": "battle",
+    "japanese": "【名】戦闘（≒war 戦争 →1115）；闘争"
+  },
+  {
+    "index": 531,
+    "english": "era",
+    "japanese": "【名】時代（≒age，period →1493）"
+  },
+  {
+    "index": 532,
+    "english": "limit",
+    "japanese": "【名】限度，制限"
+  },
+  {
+    "index": 533,
+    "english": "vision",
+    "japanese": "【名】展望；視力"
+  },
+  {
+    "index": 534,
+    "english": "atmosphere",
+    "japanese": "【名】雰囲気；大気"
+  },
+  {
+    "index": 535,
+    "english": "task",
+    "japanese": "【名】（課せられた）仕事；作業；（学習）課題"
+  },
+  {
+    "index": 536,
+    "english": "joke",
+    "japanese": "【名】冗談"
+  },
+  {
+    "index": 537,
+    "english": "principle",
+    "japanese": "【名】信条；原理"
+  },
+  {
+    "index": 538,
+    "english": "sentence",
+    "japanese": "【名】文；判決；刑"
+  },
+  {
+    "index": 539,
+    "english": "ahead",
+    "japanese": "【副】前方に（⇔behind →199）"
+  },
+  {
+    "index": 540,
+    "english": "nearby",
+    "japanese": "【副】近くに"
+  },
+  {
+    "index": 541,
+    "english": "apart",
+    "japanese": "【副】離れて"
+  },
+  {
+    "index": 542,
+    "english": "forever",
+    "japanese": "【副】永遠に（≒for good （and all） →1672）；いつも"
+  },
+  {
+    "index": 543,
+    "english": "largely",
+    "japanese": "【副】大部分は"
+  },
+  {
+    "index": 544,
+    "english": "mostly",
+    "japanese": "【副】ほとんど，普通は"
+  },
+  {
+    "index": 545,
+    "english": "moreover",
+    "japanese": "【副】さらに，その上"
+  },
+  {
+    "index": 546,
+    "english": "somehow",
+    "japanese": "【副】なんとかして；どういうわけか"
+  },
+  {
+    "index": 547,
+    "english": "altogether",
+    "japanese": "【副】まったく，完全に（≒completely →280）；全体で；概して（言えば）"
+  },
+  {
+    "index": 548,
+    "english": "therefore",
+    "japanese": "【副】したがって，それゆえに"
+  },
+  {
+    "index": 549,
+    "english": "however",
+    "japanese": "【副】しかしながら，けれども；どんなに...でも"
+  },
+  {
+    "index": 550,
+    "english": "within",
+    "japanese": "【前】...以内に；...の範囲内に"
+  },
+  {
+    "index": 551,
+    "english": "inside",
+    "japanese": "【前】...の中に［で］（⇔outside →552）"
+  },
+  {
+    "index": 552,
+    "english": "outside",
+    "japanese": "【前】...の外に［で］（⇔inside →551）"
+  },
+  {
+    "index": 553,
+    "english": "throughout",
+    "japanese": "【前】...中ずっと；...の至る所に"
+  },
+  {
+    "index": 554,
+    "english": "beside",
+    "japanese": "【前】...のそばに"
+  },
+  {
+    "index": 555,
+    "english": "beyond",
+    "japanese": "【前】...の向こうに；（限界）を越えた"
+  },
+  {
+    "index": 556,
+    "english": "above",
+    "japanese": "【前】...の上方に；...以上に（⇔below →557）"
+  },
+  {
+    "index": 557,
+    "english": "below",
+    "japanese": "【前】...より下に；...以下の（⇔above →556）"
+  },
+  {
+    "index": 558,
+    "english": "except",
+    "japanese": "【前】...を除いて"
+  },
+  {
+    "index": 559,
+    "english": "per",
+    "japanese": "【前】...につき，あたり"
+  },
+  {
+    "index": 560,
+    "english": "unlike",
+    "japanese": "【前】...とは異なり"
+  },
+  {
+    "index": 561,
+    "english": "be about to do",
+    "japanese": "まさに～しようとしている（≒be just going to do）"
+  },
+  {
+    "index": 562,
+    "english": "be based on［upon］",
+    "japanese": "に基づいている"
+  },
+  {
+    "index": 563,
+    "english": "be capable of",
+    "japanese": "の能力がある；をしかねない"
+  },
+  {
+    "index": 564,
+    "english": "be faced with",
+    "japanese": "に直面している"
+  },
+  {
+    "index": 565,
+    "english": "be fond of",
+    "japanese": "が好きである（≒like →1244）"
+  },
+  {
+    "index": 566,
+    "english": "be good at",
+    "japanese": "が上手である"
+  },
+  {
+    "index": 567,
+    "english": "be good for",
+    "japanese": "に適している；に役に立つ"
+  },
+  {
+    "index": 568,
+    "english": "be in need of",
+    "japanese": "を必要としている"
+  },
+  {
+    "index": 569,
+    "english": "be independent of",
+    "japanese": "から独立［自立］している（⇔be dependent on［upon］ に依存している）"
+  },
+  {
+    "index": 570,
+    "english": "be made of［from］",
+    "japanese": "でできている"
+  },
+  {
+    "index": 571,
+    "english": "be rich in",
+    "japanese": "に富んでいる，恵まれている"
+  },
+  {
+    "index": 572,
+    "english": "be short of",
+    "japanese": "が足りない"
+  },
+  {
+    "index": 573,
+    "english": "be suited for［to］",
+    "japanese": "に適している"
+  },
+  {
+    "index": 574,
+    "english": "be tired of",
+    "japanese": "に飽きる"
+  },
+  {
+    "index": 575,
+    "english": "be true of",
+    "japanese": "に当てはまる"
+  },
+  {
+    "index": 576,
+    "english": "be up to",
+    "japanese": "...次第である；に（至る）まで"
+  },
+  {
+    "index": 577,
+    "english": "be used to",
+    "japanese": "に慣れている"
+  },
+  {
+    "index": 578,
+    "english": "be willing to do",
+    "japanese": "～してもかまわない，する気がある"
+  },
+  {
+    "index": 579,
+    "english": "above all",
+    "japanese": "とりわけ，何よりも"
+  },
+  {
+    "index": 580,
+    "english": "according to",
+    "japanese": "によれば；に従って"
+  },
+  {
+    "index": 581,
+    "english": "across from",
+    "japanese": "の向かい側［反対側］に"
+  },
+  {
+    "index": 582,
+    "english": "after all",
+    "japanese": "結局（は）；やはり"
+  },
+  {
+    "index": 583,
+    "english": "all the way （from）",
+    "japanese": "（から）はるばる，ずっと"
+  },
+  {
+    "index": 584,
+    "english": "along with",
+    "japanese": "と一緒に，に加えて"
+  },
+  {
+    "index": 585,
+    "english": "at a time",
+    "japanese": "1度に"
+  },
+  {
+    "index": 586,
+    "english": "at random",
+    "japanese": "手当たり次第に，無作為に"
+  },
+  {
+    "index": 587,
+    "english": "at times",
+    "japanese": "時々（≒sometimes →1347）"
+  },
+  {
+    "index": 588,
+    "english": "because of",
+    "japanese": "のために，の理由で（≒due to →591，on account of →1690）"
+  },
+  {
+    "index": 589,
+    "english": "by accident［chance］",
+    "japanese": "偶然（に）（⇔on purpose 故意に →603）"
+  },
+  {
+    "index": 590,
+    "english": "by way of",
+    "japanese": "...経由で（≒via）"
+  },
+  {
+    "index": 591,
+    "english": "due to",
+    "japanese": "のために，が原因で（≒because of →588）；に支払われるべき"
+  },
+  {
+    "index": 592,
+    "english": "except for",
+    "japanese": "を除いては"
+  },
+  {
+    "index": 593,
+    "english": "first of all",
+    "japanese": "まず第1に"
+  },
+  {
+    "index": 594,
+    "english": "for one thing",
+    "japanese": "1つには"
+  },
+  {
+    "index": 595,
+    "english": "from time to time",
+    "japanese": "時々（≒sometimes →1347）"
+  },
+  {
+    "index": 596,
+    "english": "in a hurry",
+    "japanese": "急いで"
+  },
+  {
+    "index": 597,
+    "english": "in favor of",
+    "japanese": "に賛成して，を支持して"
+  },
+  {
+    "index": 598,
+    "english": "in place of A（＝in A's place）",
+    "japanese": "Aの代わりに"
+  },
+  {
+    "index": 599,
+    "english": "in return （for）",
+    "japanese": "（の）お返しに"
+  },
+  {
+    "index": 600,
+    "english": "in short",
+    "japanese": "要するに"
+  },
+  {
+    "index": 601,
+    "english": "in spite of",
+    "japanese": "にもかかわらず（≒despite）"
+  },
+  {
+    "index": 602,
+    "english": "in the long run",
+    "japanese": "長い目で見れば（⇔in the short run 短期的には）"
+  },
+  {
+    "index": 603,
+    "english": "on purpose",
+    "japanese": "故意に，わざと（⇔by accident［chance］ →589）"
+  },
+  {
+    "index": 604,
+    "english": "out of the question",
+    "japanese": "論外で，不可能で"
+  },
+  {
+    "index": 605,
+    "english": "some time",
+    "japanese": "いつか；しばらく（の間）"
+  },
+  {
+    "index": 606,
+    "english": "thanks to",
+    "japanese": "のおかげで"
+  },
+  {
+    "index": 607,
+    "english": "these days",
+    "japanese": "近ごろ（は）"
+  },
+  {
+    "index": 608,
+    "english": "upside down",
+    "japanese": "逆さまに"
+  },
+  {
+    "index": 609,
+    "english": "a large［good / great］ number of",
+    "japanese": "たくさんの"
+  },
+  {
+    "index": 610,
+    "english": "a series of",
+    "japanese": "一連の，一続きの"
+  },
+  {
+    "index": 611,
+    "english": "a sort［kind］ of",
+    "japanese": "一種の"
+  },
+  {
+    "index": 612,
+    "english": "and so on［forth］",
+    "japanese": "...など（≒etc.）"
+  },
+  {
+    "index": 613,
+    "english": "as ... as one can（＝as ... as possible）",
+    "japanese": "できるだけ..."
+  },
+  {
+    "index": 614,
+    "english": "as［so］ long as ...",
+    "japanese": "...する限り［間］は"
+  },
+  {
+    "index": 615,
+    "english": "not A but B",
+    "japanese": "AではなくてB"
+  },
+  {
+    "index": 616,
+    "english": "not only A but （also） B",
+    "japanese": "AだけでなくBも（≒B as well as A →1435）"
+  },
+  {
+    "index": 617,
+    "english": "of one's own",
+    "japanese": "（名詞を後ろから修飾して）自分自身の；特有の"
+  },
+  {
+    "index": 618,
+    "english": "such A as B（＝A such as B）",
+    "japanese": "BのようなA"
+  },
+  {
+    "index": 619,
+    "english": "the first time ...",
+    "japanese": "初めて...する［した］とき（に）"
+  },
+  {
+    "index": 620,
+    "english": "when it comes to",
+    "japanese": "のこととなると，に関しては"
+  },
+  {
+    "index": 621,
+    "english": "parent",
+    "japanese": "【名】親"
+  },
+  {
+    "index": 622,
+    "english": "grandparent",
+    "japanese": "【名】祖父，祖母"
+  },
+  {
+    "index": 623,
+    "english": "husband",
+    "japanese": "【名】夫（⇔wife →624）"
+  },
+  {
+    "index": 624,
+    "english": "wife",
+    "japanese": "【名】妻（⇔husband →623）"
+  },
+  {
+    "index": 625,
+    "english": "twin",
+    "japanese": "【名】双子（の1人）"
+  },
+  {
+    "index": 626,
+    "english": "relative",
+    "japanese": "【名】親戚"
+  },
+  {
+    "index": 627,
+    "english": "cousin",
+    "japanese": "【名】いとこ"
+  },
+  {
+    "index": 628,
+    "english": "ancestor",
+    "japanese": "【名】先祖（⇔descendant 子孫）"
+  },
+  {
+    "index": 629,
+    "english": "engineer",
+    "japanese": "【名】技師"
+  },
+  {
+    "index": 630,
+    "english": "clerk",
+    "japanese": "【名】店員"
+  },
+  {
+    "index": 631,
+    "english": "officer",
+    "japanese": "【名】警官（＝police officer）；役人"
+  },
+  {
+    "index": 632,
+    "english": "editor",
+    "japanese": "【名】編集者"
+  },
+  {
+    "index": 633,
+    "english": "artist",
+    "japanese": "【名】芸術家；画家"
+  },
+  {
+    "index": 634,
+    "english": "director",
+    "japanese": "【名】監督；管理者"
+  },
+  {
+    "index": 635,
+    "english": "actor",
+    "japanese": "【名】俳優"
+  },
+  {
+    "index": 636,
+    "english": "merchant",
+    "japanese": "【名】商人"
+  },
+  {
+    "index": 637,
+    "english": "nurse",
+    "japanese": "【名】看護師；保育士"
+  },
+  {
+    "index": 638,
+    "english": "business",
+    "japanese": "【名】仕事，商売；務め"
+  },
+  {
+    "index": 639,
+    "english": "career",
+    "japanese": "【名】経歴；職業"
+  },
+  {
+    "index": 640,
+    "english": "job",
+    "japanese": "【名】仕事"
+  },
+  {
+    "index": 641,
+    "english": "labor",
+    "japanese": "【名】労働；労働者（階級）"
+  },
+  {
+    "index": 642,
+    "english": "work",
+    "japanese": "【名】仕事，任務；勉強；作品"
+  },
+  {
+    "index": 643,
+    "english": "hire",
+    "japanese": "【動】を雇う（≒employ →1072，⇔fire を解雇する）；を賃借りする"
+  },
+  {
+    "index": 644,
+    "english": "retire",
+    "japanese": "【動】退職する，引退する"
+  },
+  {
+    "index": 645,
+    "english": "expert",
+    "japanese": "【名】専門家"
+  },
+  {
+    "index": 646,
+    "english": "leader",
+    "japanese": "【名】指導者，リーダー"
+  },
+  {
+    "index": 647,
+    "english": "professor",
+    "japanese": "【名】教授"
+  },
+  {
+    "index": 648,
+    "english": "principal",
+    "japanese": "【名】校長"
+  },
+  {
+    "index": 649,
+    "english": "mayor",
+    "japanese": "【名】市長"
+  },
+  {
+    "index": 650,
+    "english": "queen",
+    "japanese": "【名】女王；王妃"
+  },
+  {
+    "index": 651,
+    "english": "prince",
+    "japanese": "【名】王子，皇太子（⇔princess 王女，皇太子妃）"
+  },
+  {
+    "index": 652,
+    "english": "servant",
+    "japanese": "【名】召使い，使用人（⇔master 主人 →1016）"
+  },
+  {
+    "index": 653,
+    "english": "library",
+    "japanese": "【名】図書館"
+  },
+  {
+    "index": 654,
+    "english": "bank",
+    "japanese": "【名】銀行；土手；川岸"
+  },
+  {
+    "index": 655,
+    "english": "hall",
+    "japanese": "【名】玄関（の広間）；廊下；会館"
+  },
+  {
+    "index": 656,
+    "english": "apartment",
+    "japanese": "【名】アパート"
+  },
+  {
+    "index": 657,
+    "english": "museum",
+    "japanese": "【名】博物館，美術館"
+  },
+  {
+    "index": 658,
+    "english": "theater",
+    "japanese": "【名】劇場"
+  },
+  {
+    "index": 659,
+    "english": "stadium",
+    "japanese": "【名】競技場；野球場"
+  },
+  {
+    "index": 660,
+    "english": "temple",
+    "japanese": "【名】寺院；神殿"
+  },
+  {
+    "index": 661,
+    "english": "shrine",
+    "japanese": "【名】神社"
+  },
+  {
+    "index": 662,
+    "english": "castle",
+    "japanese": "【名】城"
+  },
+  {
+    "index": 663,
+    "english": "palace",
+    "japanese": "【名】宮殿"
+  },
+  {
+    "index": 664,
+    "english": "tower",
+    "japanese": "【名】塔"
+  },
+  {
+    "index": 665,
+    "english": "shelter",
+    "japanese": "【名】避難所，収容所；住まい"
+  },
+  {
+    "index": 666,
+    "english": "studio",
+    "japanese": "【名】スタジオ；仕事場"
+  },
+  {
+    "index": 667,
+    "english": "avenue",
+    "japanese": "【名】大通り，...街"
+  },
+  {
+    "index": 668,
+    "english": "block",
+    "japanese": "【名】1区画；大きな塊"
+  },
+  {
+    "index": 669,
+    "english": "corner",
+    "japanese": "【名】曲がり角；角"
+  },
+  {
+    "index": 670,
+    "english": "intersection",
+    "japanese": "【名】交差点（≒crossing）"
+  },
+  {
+    "index": 671,
+    "english": "path",
+    "japanese": "【名】小道"
+  },
+  {
+    "index": 672,
+    "english": "slope",
+    "japanese": "【名】坂道"
+  },
+  {
+    "index": 673,
+    "english": "square",
+    "japanese": "【名】（四角い）広場；正方形"
+  },
+  {
+    "index": 674,
+    "english": "market",
+    "japanese": "【名】市場"
+  },
+  {
+    "index": 675,
+    "english": "traffic",
+    "japanese": "【名】交通（量）"
+  },
+  {
+    "index": 676,
+    "english": "route",
+    "japanese": "【名】経路；道"
+  },
+  {
+    "index": 677,
+    "english": "drive",
+    "japanese": "【動】車を運転する；を駆り立てる"
+  },
+  {
+    "index": 678,
+    "english": "ride",
+    "japanese": "【動】（に）乗る"
+  },
+  {
+    "index": 679,
+    "english": "sail",
+    "japanese": "【動】航海する；出航する"
+  },
+  {
+    "index": 680,
+    "english": "railroad",
+    "japanese": "【名】鉄道（＝【英】railway）"
+  },
+  {
+    "index": 681,
+    "english": "subway",
+    "japanese": "【名】地下鉄（＝【英】underground）"
+  },
+  {
+    "index": 682,
+    "english": "vehicle",
+    "japanese": "【名】乗り物，輸送機関；伝達手段"
+  },
+  {
+    "index": 683,
+    "english": "automobile",
+    "japanese": "【名】自動車"
+  },
+  {
+    "index": 684,
+    "english": "engine",
+    "japanese": "【名】エンジン"
+  },
+  {
+    "index": 685,
+    "english": "wheel",
+    "japanese": "【名】車輪"
+  },
+  {
+    "index": 686,
+    "english": "port",
+    "japanese": "【名】港"
+  },
+  {
+    "index": 687,
+    "english": "airport",
+    "japanese": "【名】空港"
+  },
+  {
+    "index": 688,
+    "english": "canal",
+    "japanese": "【名】運河"
+  },
+  {
+    "index": 689,
+    "english": "flight",
+    "japanese": "【名】航空便，フライト；飛行"
+  },
+  {
+    "index": 690,
+    "english": "entrance",
+    "japanese": "【名】入り口；入学"
+  },
+  {
+    "index": 691,
+    "english": "key",
+    "japanese": "【名】かぎ"
+  },
+  {
+    "index": 692,
+    "english": "floor",
+    "japanese": "【名】床；階"
+  },
+  {
+    "index": 693,
+    "english": "ceiling",
+    "japanese": "【名】天井"
+  },
+  {
+    "index": 694,
+    "english": "closet",
+    "japanese": "【名】物置，クロゼット"
+  },
+  {
+    "index": 695,
+    "english": "stair",
+    "japanese": "【名】階段"
+  },
+  {
+    "index": 696,
+    "english": "ladder",
+    "japanese": "【名】はしご"
+  },
+  {
+    "index": 697,
+    "english": "roof",
+    "japanese": "【名】屋根"
+  },
+  {
+    "index": 698,
+    "english": "garden",
+    "japanese": "【名】庭，庭園"
+  },
+  {
+    "index": 699,
+    "english": "yard",
+    "japanese": "【名】庭；囲い地"
+  },
+  {
+    "index": 700,
+    "english": "lawn",
+    "japanese": "【名】芝生"
+  },
+  {
+    "index": 701,
+    "english": "housework",
+    "japanese": "【名】家事"
+  },
+  {
+    "index": 702,
+    "english": "plate",
+    "japanese": "【名】皿；（1皿分の）料理"
+  },
+  {
+    "index": 703,
+    "english": "refrigerator",
+    "japanese": "【名】冷蔵庫"
+  },
+  {
+    "index": 704,
+    "english": "garbage",
+    "japanese": "【名】生ごみ，ごみ"
+  },
+  {
+    "index": 705,
+    "english": "trash",
+    "japanese": "【名】ごみ，くず"
+  },
+  {
+    "index": 706,
+    "english": "dust",
+    "japanese": "【名】ほこり，ちり"
+  },
+  {
+    "index": 707,
+    "english": "brush",
+    "japanese": "【名】ブラシ，はけ"
+  },
+  {
+    "index": 708,
+    "english": "shower",
+    "japanese": "【名】シャワー；にわか雨"
+  },
+  {
+    "index": 709,
+    "english": "clock",
+    "japanese": "【名】掛け時計，置き時計"
+  },
+  {
+    "index": 710,
+    "english": "shelf",
+    "japanese": "【名】棚"
+  },
+  {
+    "index": 711,
+    "english": "vase",
+    "japanese": "【名】花瓶"
+  },
+  {
+    "index": 712,
+    "english": "blanket",
+    "japanese": "【名】毛布"
+  },
+  {
+    "index": 713,
+    "english": "domestic",
+    "japanese": "【形】家庭の；国内の（⇔foreign →165）"
+  },
+  {
+    "index": 714,
+    "english": "neighbor",
+    "japanese": "【名】隣人；隣国"
+  },
+  {
+    "index": 715,
+    "english": "fashion",
+    "japanese": "【名】流行"
+  },
+  {
+    "index": 716,
+    "english": "design",
+    "japanese": "【動】をデザイン［設計］する"
+  },
+  {
+    "index": 717,
+    "english": "style",
+    "japanese": "【名】（流行の）型，スタイル；様式"
+  },
+  {
+    "index": 718,
+    "english": "formal",
+    "japanese": "【形】正式な；形式的な（⇔informal）"
+  },
+  {
+    "index": 719,
+    "english": "tight",
+    "japanese": "【形】きつい（⇔loose →720）"
+  },
+  {
+    "index": 720,
+    "english": "loose",
+    "japanese": "【形】ゆるい（⇔tight →719）"
+  },
+  {
+    "index": 721,
+    "english": "wear",
+    "japanese": "【動】を身につける；をすり減らす，使い古す"
+  },
+  {
+    "index": 722,
+    "english": "dress",
+    "japanese": "【動】に服を着せる；服を着る"
+  },
+  {
+    "index": 723,
+    "english": "costume",
+    "japanese": "【名】衣装"
+  },
+  {
+    "index": 724,
+    "english": "tie",
+    "japanese": "【動】を結ぶ；を縛る"
+  },
+  {
+    "index": 725,
+    "english": "button",
+    "japanese": "【名】ボタン"
+  },
+  {
+    "index": 726,
+    "english": "ring",
+    "japanese": "【名】指輪"
+  },
+  {
+    "index": 727,
+    "english": "jewel",
+    "japanese": "【名】宝石"
+  },
+  {
+    "index": 728,
+    "english": "needle",
+    "japanese": "【名】針"
+  },
+  {
+    "index": 729,
+    "english": "sew",
+    "japanese": "【動】を縫う"
+  },
+  {
+    "index": 730,
+    "english": "wallet",
+    "japanese": "【名】財布"
+  },
+  {
+    "index": 731,
+    "english": "mobile",
+    "japanese": "【形】移動［可動］式の"
+  },
+  {
+    "index": 732,
+    "english": "portable",
+    "japanese": "【形】持ち運びできる，携帯用の"
+  },
+  {
+    "index": 733,
+    "english": "feather",
+    "japanese": "【名】羽，（～s）羽毛"
+  },
+  {
+    "index": 734,
+    "english": "fur",
+    "japanese": "【名】毛皮"
+  },
+  {
+    "index": 735,
+    "english": "silk",
+    "japanese": "【名】絹，絹糸"
+  },
+  {
+    "index": 736,
+    "english": "cotton",
+    "japanese": "【名】綿"
+  },
+  {
+    "index": 737,
+    "english": "leather",
+    "japanese": "【名】革"
+  },
+  {
+    "index": 738,
+    "english": "glass",
+    "japanese": "【名】グラス；ガラス；（～es）眼鏡"
+  },
+  {
+    "index": 739,
+    "english": "crystal",
+    "japanese": "【名】水晶，クリスタル製品"
+  },
+  {
+    "index": 740,
+    "english": "plastic",
+    "japanese": "【形】プラスチック（製）の，ビニール（製）の"
+  },
+  {
+    "index": 741,
+    "english": "meal",
+    "japanese": "【名】食事"
+  },
+  {
+    "index": 742,
+    "english": "supper",
+    "japanese": "【名】夕食"
+  },
+  {
+    "index": 743,
+    "english": "snack",
+    "japanese": "【名】おやつ；軽食"
+  },
+  {
+    "index": 744,
+    "english": "dessert",
+    "japanese": "【名】デザート"
+  },
+  {
+    "index": 745,
+    "english": "appetite",
+    "japanese": "【名】食欲"
+  },
+  {
+    "index": 746,
+    "english": "diet",
+    "japanese": "【名】ダイエット；食事"
+  },
+  {
+    "index": 747,
+    "english": "chopstick",
+    "japanese": "【名】（～s）箸"
+  },
+  {
+    "index": 748,
+    "english": "drink",
+    "japanese": "【動】を飲む"
+  },
+  {
+    "index": 749,
+    "english": "swallow",
+    "japanese": "【動】を飲み込む"
+  },
+  {
+    "index": 750,
+    "english": "bite",
+    "japanese": "【動】（を）かむ，（に）かみつく"
+  },
+  {
+    "index": 751,
+    "english": "flavor",
+    "japanese": "【名】味；風味"
+  },
+  {
+    "index": 752,
+    "english": "delicious",
+    "japanese": "【形】おいしい"
+  },
+  {
+    "index": 753,
+    "english": "sweet",
+    "japanese": "【形】甘い"
+  },
+  {
+    "index": 754,
+    "english": "bitter",
+    "japanese": "【形】苦い"
+  },
+  {
+    "index": 755,
+    "english": "sour",
+    "japanese": "【形】酸っぱい"
+  },
+  {
+    "index": 756,
+    "english": "recipe",
+    "japanese": "【名】調理法，レシピ；秘訣"
+  },
+  {
+    "index": 757,
+    "english": "cook",
+    "japanese": "【動】（を）料理する"
+  },
+  {
+    "index": 758,
+    "english": "mix",
+    "japanese": "【動】を混ぜる；混ざる"
+  },
+  {
+    "index": 759,
+    "english": "pour",
+    "japanese": "【動】を注ぐ；（it poursで）（雨が）激しく降る"
+  },
+  {
+    "index": 760,
+    "english": "fry",
+    "japanese": "【動】を油で揚げる"
+  },
+  {
+    "index": 761,
+    "english": "boil",
+    "japanese": "【動】をゆでる，煮る；を沸かす"
+  },
+  {
+    "index": 762,
+    "english": "bake",
+    "japanese": "【動】（パンなど）を焼く"
+  },
+  {
+    "index": 763,
+    "english": "harvest",
+    "japanese": "【名】収穫；収穫期"
+  },
+  {
+    "index": 764,
+    "english": "crop",
+    "japanese": "【名】作物，収穫物"
+  },
+  {
+    "index": 765,
+    "english": "fruit",
+    "japanese": "【名】果物"
+  },
+  {
+    "index": 766,
+    "english": "vegetable",
+    "japanese": "【名】野菜"
+  },
+  {
+    "index": 767,
+    "english": "meat",
+    "japanese": "【名】肉"
+  },
+  {
+    "index": 768,
+    "english": "grain",
+    "japanese": "【名】粒；穀物"
+  },
+  {
+    "index": 769,
+    "english": "wheat",
+    "japanese": "【名】小麦"
+  },
+  {
+    "index": 770,
+    "english": "bean",
+    "japanese": "【名】豆"
+  },
+  {
+    "index": 771,
+    "english": "honey",
+    "japanese": "【名】はちみつ"
+  },
+  {
+    "index": 772,
+    "english": "herb",
+    "japanese": "【名】ハーブ，薬草"
+  },
+  {
+    "index": 773,
+    "english": "salt",
+    "japanese": "【名】塩"
+  },
+  {
+    "index": 774,
+    "english": "reserve",
+    "japanese": "【動】を予約する"
+  },
+  {
+    "index": 775,
+    "english": "cancel",
+    "japanese": "【動】を取り消す，中止にする（≒call off →1383）"
+  },
+  {
+    "index": 776,
+    "english": "menu",
+    "japanese": "【名】メニュー"
+  },
+  {
+    "index": 777,
+    "english": "choice",
+    "japanese": "【名】選択"
+  },
+  {
+    "index": 778,
+    "english": "service",
+    "japanese": "【名】サービス；公益事業"
+  },
+  {
+    "index": 779,
+    "english": "tip",
+    "japanese": "【名】チップ，心づけ"
+  },
+  {
+    "index": 780,
+    "english": "culture",
+    "japanese": "【名】文化"
+  },
+  {
+    "index": 781,
+    "english": "hobby",
+    "japanese": "【名】趣味"
+  },
+  {
+    "index": 782,
+    "english": "amusement",
+    "japanese": "【名】娯楽"
+  },
+  {
+    "index": 783,
+    "english": "entertain",
+    "japanese": "【動】を楽しませる"
+  },
+  {
+    "index": 784,
+    "english": "adventure",
+    "japanese": "【名】冒険；予期せぬ出来事"
+  },
+  {
+    "index": 785,
+    "english": "collect",
+    "japanese": "【動】を集める"
+  },
+  {
+    "index": 786,
+    "english": "cartoon",
+    "japanese": "【名】風刺漫画"
+  },
+  {
+    "index": 787,
+    "english": "comic",
+    "japanese": "【名】漫画本"
+  },
+  {
+    "index": 788,
+    "english": "photograph",
+    "japanese": "【名】写真"
+  },
+  {
+    "index": 789,
+    "english": "film",
+    "japanese": "【名】【英】映画（＝【米】movie）"
+  },
+  {
+    "index": 790,
+    "english": "magic",
+    "japanese": "【名】手品；魔法"
+  },
+  {
+    "index": 791,
+    "english": "travel",
+    "japanese": "【名】旅行"
+  },
+  {
+    "index": 792,
+    "english": "trip",
+    "japanese": "【名】旅行"
+  },
+  {
+    "index": 793,
+    "english": "tour",
+    "japanese": "【名】周遊旅行，ツアー"
+  },
+  {
+    "index": 794,
+    "english": "journey",
+    "japanese": "【名】旅行"
+  },
+  {
+    "index": 795,
+    "english": "voyage",
+    "japanese": "【名】船旅；（空・宇宙の）旅"
+  },
+  {
+    "index": 796,
+    "english": "sightseeing",
+    "japanese": "【名】観光"
+  },
+  {
+    "index": 797,
+    "english": "guide",
+    "japanese": "【名】ガイド，案内人；案内書"
+  },
+  {
+    "index": 798,
+    "english": "passenger",
+    "japanese": "【名】乗客"
+  },
+  {
+    "index": 799,
+    "english": "vacation",
+    "japanese": "【名】休暇"
+  },
+  {
+    "index": 800,
+    "english": "camp",
+    "japanese": "【名】キャンプ；合宿"
+  },
+  {
+    "index": 801,
+    "english": "souvenir",
+    "japanese": "【名】土産，記念品"
+  },
+  {
+    "index": 802,
+    "english": "record",
+    "japanese": "【名】記録"
+  },
+  {
+    "index": 803,
+    "english": "score",
+    "japanese": "【名】得点，スコア"
+  },
+  {
+    "index": 804,
+    "english": "prize",
+    "japanese": "【名】賞"
+  },
+  {
+    "index": 805,
+    "english": "award",
+    "japanese": "【名】賞，賞金"
+  },
+  {
+    "index": 806,
+    "english": "victory",
+    "japanese": "【名】勝利（⇔defeat 敗北）"
+  },
+  {
+    "index": 807,
+    "english": "win",
+    "japanese": "【動】（競技など）に勝つ（⇔lose →94）"
+  },
+  {
+    "index": 808,
+    "english": "race",
+    "japanese": "【名】競争，レース；人種；民族"
+  },
+  {
+    "index": 809,
+    "english": "match",
+    "japanese": "【名】試合；競争相手；適合性"
+  },
+  {
+    "index": 810,
+    "english": "tournament",
+    "japanese": "【名】トーナメント，勝ち抜き試合"
+  },
+  {
+    "index": 811,
+    "english": "professional",
+    "japanese": "【形】プロの，職業的な"
+  },
+  {
+    "index": 812,
+    "english": "judge",
+    "japanese": "【名】審判；裁判官"
+  },
+  {
+    "index": 813,
+    "english": "athlete",
+    "japanese": "【名】運動選手；スポーツマン"
+  },
+  {
+    "index": 814,
+    "english": "coach",
+    "japanese": "【名】コーチ，指導員；長距離バス"
+  },
+  {
+    "index": 815,
+    "english": "rival",
+    "japanese": "【名】ライバル，競争相手"
+  },
+  {
+    "index": 816,
+    "english": "train",
+    "japanese": "【動】を訓練する"
+  },
+  {
+    "index": 817,
+    "english": "exercise",
+    "japanese": "【動】運動する；を鍛える"
+  },
+  {
+    "index": 818,
+    "english": "practice",
+    "japanese": "【動】（を）練習する"
+  },
+  {
+    "index": 819,
+    "english": "indoor",
+    "japanese": "【形】屋内の（⇔outdoor 屋外の）"
+  },
+  {
+    "index": 820,
+    "english": "nature",
+    "japanese": "【名】自然；性質"
+  },
+  {
+    "index": 821,
+    "english": "temperature",
+    "japanese": "【名】温度，気温；体温"
+  },
+  {
+    "index": 822,
+    "english": "wind",
+    "japanese": "【名】風"
+  },
+  {
+    "index": 823,
+    "english": "breeze",
+    "japanese": "【名】そよ風"
+  },
+  {
+    "index": 824,
+    "english": "storm",
+    "japanese": "【名】嵐"
+  },
+  {
+    "index": 825,
+    "english": "thunder",
+    "japanese": "【名】雷，雷鳴"
+  },
+  {
+    "index": 826,
+    "english": "fog",
+    "japanese": "【名】霧"
+  },
+  {
+    "index": 827,
+    "english": "wave",
+    "japanese": "【名】波"
+  },
+  {
+    "index": 828,
+    "english": "sunlight",
+    "japanese": "【名】日光"
+  },
+  {
+    "index": 829,
+    "english": "sunset",
+    "japanese": "【名】日没（⇔sunrise 日の出）"
+  },
+  {
+    "index": 830,
+    "english": "continent",
+    "japanese": "【名】大陸"
+  },
+  {
+    "index": 831,
+    "english": "ocean",
+    "japanese": "【名】大洋"
+  },
+  {
+    "index": 832,
+    "english": "island",
+    "japanese": "【名】島"
+  },
+  {
+    "index": 833,
+    "english": "ground",
+    "japanese": "【名】地面"
+  },
+  {
+    "index": 834,
+    "english": "peak",
+    "japanese": "【名】山頂；最高点"
+  },
+  {
+    "index": 835,
+    "english": "cave",
+    "japanese": "【名】洞穴"
+  },
+  {
+    "index": 836,
+    "english": "bay",
+    "japanese": "【名】湾"
+  },
+  {
+    "index": 837,
+    "english": "beach",
+    "japanese": "【名】浜，砂浜"
+  },
+  {
+    "index": 838,
+    "english": "coast",
+    "japanese": "【名】海岸，沿岸"
+  },
+  {
+    "index": 839,
+    "english": "shore",
+    "japanese": "【名】岸"
+  },
+  {
+    "index": 840,
+    "english": "horizon",
+    "japanese": "【名】（the ～）地平線，水平線"
+  },
+  {
+    "index": 841,
+    "english": "valley",
+    "japanese": "【名】谷，盆地"
+  },
+  {
+    "index": 842,
+    "english": "stream",
+    "japanese": "【名】小川；流れ"
+  },
+  {
+    "index": 843,
+    "english": "spring",
+    "japanese": "【名】泉；春；ばね"
+  },
+  {
+    "index": 844,
+    "english": "desert",
+    "japanese": "【名】砂漠"
+  },
+  {
+    "index": 845,
+    "english": "sand",
+    "japanese": "【名】砂；（～s）砂地"
+  },
+  {
+    "index": 846,
+    "english": "mud",
+    "japanese": "【名】泥，ぬかるみ"
+  },
+  {
+    "index": 847,
+    "english": "rock",
+    "japanese": "【名】岩"
+  },
+  {
+    "index": 848,
+    "english": "soil",
+    "japanese": "【名】土，土壌；農業"
+  },
+  {
+    "index": 849,
+    "english": "environment",
+    "japanese": "【名】（自然）環境"
+  },
+  {
+    "index": 850,
+    "english": "recycle",
+    "japanese": "【動】を再生処理する，リサイクルする"
+  },
+  {
+    "index": 851,
+    "english": "pollution",
+    "japanese": "【名】汚染，公害"
+  },
+  {
+    "index": 852,
+    "english": "disaster",
+    "japanese": "【名】大災害"
+  },
+  {
+    "index": 853,
+    "english": "earthquake",
+    "japanese": "【名】地震"
+  },
+  {
+    "index": 854,
+    "english": "flood",
+    "japanese": "【名】洪水"
+  },
+  {
+    "index": 855,
+    "english": "species",
+    "japanese": "【名】種"
+  },
+  {
+    "index": 856,
+    "english": "creature",
+    "japanese": "【名】生き物；動物"
+  },
+  {
+    "index": 857,
+    "english": "wildlife",
+    "japanese": "【名】野生動物"
+  },
+  {
+    "index": 858,
+    "english": "bark",
+    "japanese": "【動】ほえる"
+  },
+  {
+    "index": 859,
+    "english": "breed",
+    "japanese": "【動】（動物など）を繁殖させる；を育てる"
+  },
+  {
+    "index": 860,
+    "english": "insect",
+    "japanese": "【名】昆虫"
+  },
+  {
+    "index": 861,
+    "english": "plant",
+    "japanese": "【名】植物；工場；施設"
+  },
+  {
+    "index": 862,
+    "english": "wood",
+    "japanese": "【名】木材；（～s）林，森"
+  },
+  {
+    "index": 863,
+    "english": "bush",
+    "japanese": "【名】茂み；低木"
+  },
+  {
+    "index": 864,
+    "english": "branch",
+    "japanese": "【名】枝；支店"
+  },
+  {
+    "index": 865,
+    "english": "root",
+    "japanese": "【名】根"
+  },
+  {
+    "index": 866,
+    "english": "trunk",
+    "japanese": "【名】幹；（旅行用の）トランク"
+  },
+  {
+    "index": 867,
+    "english": "grass",
+    "japanese": "【名】草"
+  },
+  {
+    "index": 868,
+    "english": "leaf",
+    "japanese": "【名】葉"
+  },
+  {
+    "index": 869,
+    "english": "seed",
+    "japanese": "【名】種"
+  },
+  {
+    "index": 870,
+    "english": "human",
+    "japanese": "【形】人間の"
+  },
+  {
+    "index": 871,
+    "english": "person",
+    "japanese": "【名】人，人物"
+  },
+  {
+    "index": 872,
+    "english": "people",
+    "japanese": "【名】人々；国民；民族"
+  },
+  {
+    "index": 873,
+    "english": "crowd",
+    "japanese": "【名】群衆，人混み"
+  },
+  {
+    "index": 874,
+    "english": "generation",
+    "japanese": "【名】世代"
+  },
+  {
+    "index": 875,
+    "english": "male",
+    "japanese": "【形】男性の，雄の（⇔female →876）"
+  },
+  {
+    "index": 876,
+    "english": "female",
+    "japanese": "【形】女性の，雌の（⇔male →875）"
+  },
+  {
+    "index": 877,
+    "english": "fellow",
+    "japanese": "【名】仲間；やつ"
+  },
+  {
+    "index": 878,
+    "english": "life",
+    "japanese": "【名】人生；生涯"
+  },
+  {
+    "index": 879,
+    "english": "birth",
+    "japanese": "【名】誕生，出産（⇔death 死 →1264）"
+  },
+  {
+    "index": 880,
+    "english": "childhood",
+    "japanese": "【名】子供時代"
+  },
+  {
+    "index": 881,
+    "english": "youth",
+    "japanese": "【名】青年時代；若者；若さ"
+  },
+  {
+    "index": 882,
+    "english": "teenager",
+    "japanese": "【名】ティーンエージャー"
+  },
+  {
+    "index": 883,
+    "english": "adult",
+    "japanese": "【名】大人，成人"
+  },
+  {
+    "index": 884,
+    "english": "elderly",
+    "japanese": "【形】年配の"
+  },
+  {
+    "index": 885,
+    "english": "dead",
+    "japanese": "【形】死んでいる（⇔alive 生きている →1305）；（電気器具などが）機能しない"
+  },
+  {
+    "index": 886,
+    "english": "physical",
+    "japanese": "【形】身体の，肉体の（⇔mental 心の →952）；物質の；物理学の"
+  },
+  {
+    "index": 887,
+    "english": "health",
+    "japanese": "【名】健康（状態）"
+  },
+  {
+    "index": 888,
+    "english": "condition",
+    "japanese": "【名】状態，状況"
+  },
+  {
+    "index": 889,
+    "english": "weight",
+    "japanese": "【名】体重；重さ"
+  },
+  {
+    "index": 890,
+    "english": "fat",
+    "japanese": "【形】太った（⇔thin →891）；脂肪が多い"
+  },
+  {
+    "index": 891,
+    "english": "thin",
+    "japanese": "【形】細い；やせた（⇔fat →890）；薄い（⇔thick 厚い →1615）"
+  },
+  {
+    "index": 892,
+    "english": "pale",
+    "japanese": "【形】（顔色が）青白い"
+  },
+  {
+    "index": 893,
+    "english": "thirsty",
+    "japanese": "【形】喉の渇いた"
+  },
+  {
+    "index": 894,
+    "english": "blind",
+    "japanese": "【形】目の見えない"
+  },
+  {
+    "index": 895,
+    "english": "tear",
+    "japanese": "【名】涙"
+  },
+  {
+    "index": 896,
+    "english": "sweat",
+    "japanese": "【名】汗"
+  },
+  {
+    "index": 897,
+    "english": "sight",
+    "japanese": "【名】視力；視野；光景"
+  },
+  {
+    "index": 898,
+    "english": "hospital",
+    "japanese": "【名】病院"
+  },
+  {
+    "index": 899,
+    "english": "ambulance",
+    "japanese": "【名】救急車"
+  },
+  {
+    "index": 900,
+    "english": "wheelchair",
+    "japanese": "【名】車椅子"
+  },
+  {
+    "index": 901,
+    "english": "patient",
+    "japanese": "【名】患者"
+  },
+  {
+    "index": 902,
+    "english": "sick",
+    "japanese": "【形】病気の（≒ill →1359，⇔well 健康で →1358）；吐き気がする；うんざりした"
+  },
+  {
+    "index": 903,
+    "english": "disease",
+    "japanese": "【名】病気（≒sickness，illness →904）"
+  },
+  {
+    "index": 904,
+    "english": "illness",
+    "japanese": "【名】病気"
+  },
+  {
+    "index": 905,
+    "english": "headache",
+    "japanese": "【名】頭痛；悩みの種"
+  },
+  {
+    "index": 906,
+    "english": "cancer",
+    "japanese": "【名】癌"
+  },
+  {
+    "index": 907,
+    "english": "pain",
+    "japanese": "【名】痛み，苦痛"
+  },
+  {
+    "index": 908,
+    "english": "injure",
+    "japanese": "【動】を傷つける，痛める"
+  },
+  {
+    "index": 909,
+    "english": "cure",
+    "japanese": "【動】を治療する（≒heal）"
+  },
+  {
+    "index": 910,
+    "english": "medicine",
+    "japanese": "【名】薬；医学"
+  },
+  {
+    "index": 911,
+    "english": "breathe",
+    "japanese": "【動】呼吸する"
+  },
+  {
+    "index": 912,
+    "english": "stare",
+    "japanese": "【動】見つめる"
+  },
+  {
+    "index": 913,
+    "english": "touch",
+    "japanese": "【動】に触れる"
+  },
+  {
+    "index": 914,
+    "english": "pat",
+    "japanese": "【動】をぽんとたたく"
+  },
+  {
+    "index": 915,
+    "english": "shout",
+    "japanese": "【動】叫ぶ"
+  },
+  {
+    "index": 916,
+    "english": "scream",
+    "japanese": "【動】金切り声を上げる"
+  },
+  {
+    "index": 917,
+    "english": "whistle",
+    "japanese": "【動】口笛を吹く"
+  },
+  {
+    "index": 918,
+    "english": "whisper",
+    "japanese": "【動】ささやく（≒murmur つぶやく）"
+  },
+  {
+    "index": 919,
+    "english": "bow",
+    "japanese": "【動】おじぎをする"
+  },
+  {
+    "index": 920,
+    "english": "nod",
+    "japanese": "【動】うなずく"
+  },
+  {
+    "index": 921,
+    "english": "bend",
+    "japanese": "【動】を曲げる，かがめる"
+  },
+  {
+    "index": 922,
+    "english": "forehead",
+    "japanese": "【名】額"
+  },
+  {
+    "index": 923,
+    "english": "eyebrow",
+    "japanese": "【名】眉，眉毛"
+  },
+  {
+    "index": 924,
+    "english": "cheek",
+    "japanese": "【名】頬"
+  },
+  {
+    "index": 925,
+    "english": "lip",
+    "japanese": "【名】唇"
+  },
+  {
+    "index": 926,
+    "english": "tongue",
+    "japanese": "【名】舌；言語"
+  },
+  {
+    "index": 927,
+    "english": "tooth",
+    "japanese": "【名】歯"
+  },
+  {
+    "index": 928,
+    "english": "beard",
+    "japanese": "【名】顎ひげ"
+  },
+  {
+    "index": 929,
+    "english": "throat",
+    "japanese": "【名】喉"
+  },
+  {
+    "index": 930,
+    "english": "neck",
+    "japanese": "【名】首"
+  },
+  {
+    "index": 931,
+    "english": "shoulder",
+    "japanese": "【名】肩"
+  },
+  {
+    "index": 932,
+    "english": "chest",
+    "japanese": "【名】胸"
+  },
+  {
+    "index": 933,
+    "english": "waist",
+    "japanese": "【名】腰，ウエスト"
+  },
+  {
+    "index": 934,
+    "english": "elbow",
+    "japanese": "【名】肘"
+  },
+  {
+    "index": 935,
+    "english": "palm",
+    "japanese": "【名】手のひら"
+  },
+  {
+    "index": 936,
+    "english": "finger",
+    "japanese": "【名】（手の）指"
+  },
+  {
+    "index": 937,
+    "english": "thumb",
+    "japanese": "【名】（手の）親指"
+  },
+  {
+    "index": 938,
+    "english": "nail",
+    "japanese": "【名】爪；くぎ"
+  },
+  {
+    "index": 939,
+    "english": "knee",
+    "japanese": "【名】膝"
+  },
+  {
+    "index": 940,
+    "english": "lap",
+    "japanese": "【名】膝；（走路の）1周"
+  },
+  {
+    "index": 941,
+    "english": "skin",
+    "japanese": "【名】皮膚，肌；（動物の）皮"
+  },
+  {
+    "index": 942,
+    "english": "cell",
+    "japanese": "【名】細胞"
+  },
+  {
+    "index": 943,
+    "english": "brain",
+    "japanese": "【名】脳；頭脳；知的な人"
+  },
+  {
+    "index": 944,
+    "english": "heart",
+    "japanese": "【名】心臓；心；中心"
+  },
+  {
+    "index": 945,
+    "english": "lung",
+    "japanese": "【名】肺"
+  },
+  {
+    "index": 946,
+    "english": "stomach",
+    "japanese": "【名】胃；腹"
+  },
+  {
+    "index": 947,
+    "english": "blood",
+    "japanese": "【名】血液；血統"
+  },
+  {
+    "index": 948,
+    "english": "bone",
+    "japanese": "【名】骨"
+  },
+  {
+    "index": 949,
+    "english": "organ",
+    "japanese": "【名】臓器，器官；オルガン"
+  },
+  {
+    "index": 950,
+    "english": "muscle",
+    "japanese": "【名】筋肉"
+  },
+  {
+    "index": 951,
+    "english": "emotion",
+    "japanese": "【名】感情"
+  },
+  {
+    "index": 952,
+    "english": "mental",
+    "japanese": "【形】心の（⇔physical →886）"
+  },
+  {
+    "index": 953,
+    "english": "upset",
+    "japanese": "【動】を動揺させる"
+  },
+  {
+    "index": 954,
+    "english": "nervous",
+    "japanese": "【形】神経質な，緊張して；心配して"
+  },
+  {
+    "index": 955,
+    "english": "lonely",
+    "japanese": "【形】寂しい，孤独な"
+  },
+  {
+    "index": 956,
+    "english": "afraid",
+    "japanese": "【形】恐れて，怖がって"
+  },
+  {
+    "index": 957,
+    "english": "pleasant",
+    "japanese": "【形】楽しい"
+  },
+  {
+    "index": 958,
+    "english": "suffer",
+    "japanese": "【動】苦しむ；を被る"
+  },
+  {
+    "index": 959,
+    "english": "sorrow",
+    "japanese": "【名】悲しみ"
+  },
+  {
+    "index": 960,
+    "english": "shock",
+    "japanese": "【動】に衝撃を与える"
+  },
+  {
+    "index": 961,
+    "english": "stress",
+    "japanese": "【名】ストレス，緊張"
+  },
+  {
+    "index": 962,
+    "english": "anger",
+    "japanese": "【名】怒り"
+  },
+  {
+    "index": 963,
+    "english": "joy",
+    "japanese": "【名】喜び"
+  },
+  {
+    "index": 964,
+    "english": "delight",
+    "japanese": "【動】を大喜びさせる"
+  },
+  {
+    "index": 965,
+    "english": "relieve",
+    "japanese": "【動】を和らげる"
+  },
+  {
+    "index": 966,
+    "english": "relax",
+    "japanese": "【動】をくつろがせる；ゆったりする"
+  },
+  {
+    "index": 967,
+    "english": "satisfy",
+    "japanese": "【動】を満足させる"
+  },
+  {
+    "index": 968,
+    "english": "excite",
+    "japanese": "【動】を興奮させる"
+  },
+  {
+    "index": 969,
+    "english": "surprise",
+    "japanese": "【動】を驚かせる"
+  },
+  {
+    "index": 970,
+    "english": "puzzle",
+    "japanese": "【動】を困らせる"
+  },
+  {
+    "index": 971,
+    "english": "disappoint",
+    "japanese": "【動】をがっかりさせる"
+  },
+  {
+    "index": 972,
+    "english": "scare",
+    "japanese": "【動】を怖がらせる"
+  },
+  {
+    "index": 973,
+    "english": "character",
+    "japanese": "【名】性格；特徴；登場人物；文字"
+  },
+  {
+    "index": 974,
+    "english": "humor",
+    "japanese": "【名】ユーモア"
+  },
+  {
+    "index": 975,
+    "english": "strict",
+    "japanese": "【形】厳しい"
+  },
+  {
+    "index": 976,
+    "english": "shy",
+    "japanese": "【形】恥ずかしがりの"
+  },
+  {
+    "index": 977,
+    "english": "cheerful",
+    "japanese": "【形】元気な"
+  },
+  {
+    "index": 978,
+    "english": "friendly",
+    "japanese": "【形】友好的な，親切な"
+  },
+  {
+    "index": 979,
+    "english": "gentle",
+    "japanese": "【形】優しい"
+  },
+  {
+    "index": 980,
+    "english": "calm",
+    "japanese": "【形】落ち着いた；穏やかな"
+  },
+  {
+    "index": 981,
+    "english": "lively",
+    "japanese": "【形】元気な；活発な"
+  },
+  {
+    "index": 982,
+    "english": "positive",
+    "japanese": "【形】前向きな；肯定的な（⇔negative →983）"
+  },
+  {
+    "index": 983,
+    "english": "negative",
+    "japanese": "【形】否定的な；消極的な（⇔positive →982）"
+  },
+  {
+    "index": 984,
+    "english": "active",
+    "japanese": "【形】積極的な；活動的な"
+  },
+  {
+    "index": 985,
+    "english": "lazy",
+    "japanese": "【形】怠惰な"
+  },
+  {
+    "index": 986,
+    "english": "message",
+    "japanese": "【名】伝言，メッセージ"
+  },
+  {
+    "index": 987,
+    "english": "communication",
+    "japanese": "【名】コミュニケーション，意思の疎通"
+  },
+  {
+    "index": 988,
+    "english": "conversation",
+    "japanese": "【名】会話，話し合い"
+  },
+  {
+    "index": 989,
+    "english": "chat",
+    "japanese": "【動】おしゃべりをする"
+  },
+  {
+    "index": 990,
+    "english": "mail",
+    "japanese": "【名】郵便；メール"
+  },
+  {
+    "index": 991,
+    "english": "interview",
+    "japanese": "【名】面接；インタビュー"
+  },
+  {
+    "index": 992,
+    "english": "translate",
+    "japanese": "【動】（を）翻訳する"
+  },
+  {
+    "index": 993,
+    "english": "argue",
+    "japanese": "【動】（を）議論する；と主張する"
+  },
+  {
+    "index": 994,
+    "english": "claim",
+    "japanese": "【動】と主張する；（自分の所有物として）を要求する"
+  },
+  {
+    "index": 995,
+    "english": "quarrel",
+    "japanese": "【動】口論する"
+  },
+  {
+    "index": 996,
+    "english": "praise",
+    "japanese": "【動】を褒める"
+  },
+  {
+    "index": 997,
+    "english": "state",
+    "japanese": "【動】を述べる"
+  },
+  {
+    "index": 998,
+    "english": "describe",
+    "japanese": "【動】（状況など）を説明する"
+  },
+  {
+    "index": 999,
+    "english": "refer",
+    "japanese": "【動】言及する；参照する"
+  },
+  {
+    "index": 1000,
+    "english": "predict",
+    "japanese": "【動】を予言する（≒forecast）"
+  },
+  {
+    "index": 1001,
+    "english": "comment",
+    "japanese": "【名】論評，意見"
+  },
+  {
+    "index": 1002,
+    "english": "term",
+    "japanese": "【名】（専門）用語；期間；学期"
+  },
+  {
+    "index": 1003,
+    "english": "publish",
+    "japanese": "【動】を出版する"
+  },
+  {
+    "index": 1004,
+    "english": "novel",
+    "japanese": "【名】（長編）小説"
+  },
+  {
+    "index": 1005,
+    "english": "fiction",
+    "japanese": "【名】フィクション，（架空の）物語；作り話"
+  },
+  {
+    "index": 1006,
+    "english": "essay",
+    "japanese": "【名】小論文；随筆"
+  },
+  {
+    "index": 1007,
+    "english": "newspaper",
+    "japanese": "【名】新聞（≒paper →1253）"
+  },
+  {
+    "index": 1008,
+    "english": "magazine",
+    "japanese": "【名】雑誌"
+  },
+  {
+    "index": 1009,
+    "english": "journal",
+    "japanese": "【名】定期刊行物；（専門）雑誌；日誌"
+  },
+  {
+    "index": 1010,
+    "english": "article",
+    "japanese": "【名】記事；品物"
+  },
+  {
+    "index": 1011,
+    "english": "title",
+    "japanese": "【名】題名；肩書き"
+  },
+  {
+    "index": 1012,
+    "english": "poem",
+    "japanese": "【名】（1編の）詩"
+  },
+  {
+    "index": 1013,
+    "english": "tale",
+    "japanese": "【名】話，物語"
+  },
+  {
+    "index": 1014,
+    "english": "education",
+    "japanese": "【名】教育"
+  },
+  {
+    "index": 1015,
+    "english": "knowledge",
+    "japanese": "【名】知識"
+  },
+  {
+    "index": 1016,
+    "english": "master",
+    "japanese": "【動】を習得する"
+  },
+  {
+    "index": 1017,
+    "english": "textbook",
+    "japanese": "【名】教科書"
+  },
+  {
+    "index": 1018,
+    "english": "dictionary",
+    "japanese": "【名】辞書"
+  },
+  {
+    "index": 1019,
+    "english": "subject",
+    "japanese": "【名】科目；主題（≒theme →407，topic →1586）"
+  },
+  {
+    "index": 1020,
+    "english": "literature",
+    "japanese": "【名】文学"
+  },
+  {
+    "index": 1021,
+    "english": "mathematics",
+    "japanese": "【名】数学"
+  },
+  {
+    "index": 1022,
+    "english": "biology",
+    "japanese": "【名】生物学"
+  },
+  {
+    "index": 1023,
+    "english": "history",
+    "japanese": "【名】歴史"
+  },
+  {
+    "index": 1024,
+    "english": "lecture",
+    "japanese": "【名】講義"
+  },
+  {
+    "index": 1025,
+    "english": "grade",
+    "japanese": "【名】成績，評点；等級；学年"
+  },
+  {
+    "index": 1026,
+    "english": "elementary",
+    "japanese": "【形】初等の"
+  },
+  {
+    "index": 1027,
+    "english": "primary",
+    "japanese": "【形】初期の"
+  },
+  {
+    "index": 1028,
+    "english": "college",
+    "japanese": "【名】（単科）大学；専門学校"
+  },
+  {
+    "index": 1029,
+    "english": "university",
+    "japanese": "【名】（総合）大学"
+  },
+  {
+    "index": 1030,
+    "english": "enter",
+    "japanese": "【動】に入学する；に入る"
+  },
+  {
+    "index": 1031,
+    "english": "attend",
+    "japanese": "【動】に出席する；（病人など）を世話する"
+  },
+  {
+    "index": 1032,
+    "english": "absent",
+    "japanese": "【形】欠席の（⇔present 出席している →1310）"
+  },
+  {
+    "index": 1033,
+    "english": "graduate",
+    "japanese": "【動】卒業する"
+  },
+  {
+    "index": 1034,
+    "english": "homework",
+    "japanese": "【名】宿題"
+  },
+  {
+    "index": 1035,
+    "english": "pupil",
+    "japanese": "【名】生徒，児童；弟子"
+  },
+  {
+    "index": 1036,
+    "english": "scholar",
+    "japanese": "【名】学者"
+  },
+  {
+    "index": 1037,
+    "english": "science",
+    "japanese": "【名】科学，理科"
+  },
+  {
+    "index": 1038,
+    "english": "technology",
+    "japanese": "【名】科学技術"
+  },
+  {
+    "index": 1039,
+    "english": "web",
+    "japanese": "【名】（the W-）（インターネットの）ウェブ；クモの巣"
+  },
+  {
+    "index": 1040,
+    "english": "machine",
+    "japanese": "【名】機械"
+  },
+  {
+    "index": 1041,
+    "english": "automatic",
+    "japanese": "【形】自動の（⇔manual 手動の）"
+  },
+  {
+    "index": 1042,
+    "english": "experiment",
+    "japanese": "【名】実験"
+  },
+  {
+    "index": 1043,
+    "english": "advance",
+    "japanese": "【名】進歩；前進"
+  },
+  {
+    "index": 1044,
+    "english": "chemical",
+    "japanese": "【形】化学（上）の"
+  },
+  {
+    "index": 1045,
+    "english": "oxygen",
+    "japanese": "【名】酸素"
+  },
+  {
+    "index": 1046,
+    "english": "invent",
+    "japanese": "【動】を発明する"
+  },
+  {
+    "index": 1047,
+    "english": "operate",
+    "japanese": "【動】を操作する；手術する"
+  },
+  {
+    "index": 1048,
+    "english": "artificial",
+    "japanese": "【形】人工の（⇔natural 自然の）"
+  },
+  {
+    "index": 1049,
+    "english": "material",
+    "japanese": "【名】材料，原料；資料；生地"
+  },
+  {
+    "index": 1050,
+    "english": "resource",
+    "japanese": "【名】資源"
+  },
+  {
+    "index": 1051,
+    "english": "energy",
+    "japanese": "【名】エネルギー；活力"
+  },
+  {
+    "index": 1052,
+    "english": "fuel",
+    "japanese": "【名】燃料"
+  },
+  {
+    "index": 1053,
+    "english": "electricity",
+    "japanese": "【名】電気；電力"
+  },
+  {
+    "index": 1054,
+    "english": "battery",
+    "japanese": "【名】電池，バッテリー"
+  },
+  {
+    "index": 1055,
+    "english": "oil",
+    "japanese": "【名】石油（≒petroleum）；油"
+  },
+  {
+    "index": 1056,
+    "english": "gas",
+    "japanese": "【名】ガス；ガソリン（≒gasoline）；気体"
+  },
+  {
+    "index": 1057,
+    "english": "coal",
+    "japanese": "【名】石炭"
+  },
+  {
+    "index": 1058,
+    "english": "steam",
+    "japanese": "【名】蒸気"
+  },
+  {
+    "index": 1059,
+    "english": "steel",
+    "japanese": "【名】鋼鉄"
+  },
+  {
+    "index": 1060,
+    "english": "metal",
+    "japanese": "【名】金属"
+  },
+  {
+    "index": 1061,
+    "english": "solar",
+    "japanese": "【形】太陽の"
+  },
+  {
+    "index": 1062,
+    "english": "nuclear",
+    "japanese": "【形】核（エネルギー）の；原子力の"
+  },
+  {
+    "index": 1063,
+    "english": "earth",
+    "japanese": "【名】地球；地面，地上"
+  },
+  {
+    "index": 1064,
+    "english": "planet",
+    "japanese": "【名】惑星"
+  },
+  {
+    "index": 1065,
+    "english": "universe",
+    "japanese": "【名】宇宙；全世界"
+  },
+  {
+    "index": 1066,
+    "english": "satellite",
+    "japanese": "【名】人工衛星，衛星"
+  },
+  {
+    "index": 1067,
+    "english": "astronaut",
+    "japanese": "【名】宇宙飛行士"
+  },
+  {
+    "index": 1068,
+    "english": "telescope",
+    "japanese": "【名】望遠鏡"
+  },
+  {
+    "index": 1069,
+    "english": "economy",
+    "japanese": "【名】経済；節約"
+  },
+  {
+    "index": 1070,
+    "english": "industry",
+    "japanese": "【名】産業，工業"
+  },
+  {
+    "index": 1071,
+    "english": "factory",
+    "japanese": "【名】工場"
+  },
+  {
+    "index": 1072,
+    "english": "employ",
+    "japanese": "【動】を雇う"
+  },
+  {
+    "index": 1073,
+    "english": "wage",
+    "japanese": "【名】賃金"
+  },
+  {
+    "index": 1074,
+    "english": "commercial",
+    "japanese": "【形】商業的な，営利的な；商業上の"
+  },
+  {
+    "index": 1075,
+    "english": "advertise",
+    "japanese": "【動】を広告する，宣伝する"
+  },
+  {
+    "index": 1076,
+    "english": "price",
+    "japanese": "【名】価格；（～s）物価"
+  },
+  {
+    "index": 1077,
+    "english": "sale",
+    "japanese": "【名】特売；販売；（～s）売上（高）"
+  },
+  {
+    "index": 1078,
+    "english": "cash",
+    "japanese": "【名】現金"
+  },
+  {
+    "index": 1079,
+    "english": "earn",
+    "japanese": "【動】（を）稼ぐ；（報酬・名声など）を得る"
+  },
+  {
+    "index": 1080,
+    "english": "tax",
+    "japanese": "【名】税金"
+  },
+  {
+    "index": 1081,
+    "english": "benefit",
+    "japanese": "【名】利益，ため"
+  },
+  {
+    "index": 1082,
+    "english": "profit",
+    "japanese": "【名】利益，もうけ"
+  },
+  {
+    "index": 1083,
+    "english": "wealth",
+    "japanese": "【名】財産，富"
+  },
+  {
+    "index": 1084,
+    "english": "poverty",
+    "japanese": "【名】貧困"
+  },
+  {
+    "index": 1085,
+    "english": "cheap",
+    "japanese": "【形】安い（⇔expensive →1086）"
+  },
+  {
+    "index": 1086,
+    "english": "expensive",
+    "japanese": "【形】高価な（⇔cheap →1085）；費用のかかる"
+  },
+  {
+    "index": 1087,
+    "english": "trade",
+    "japanese": "【名】貿易；取引；交換"
+  },
+  {
+    "index": 1088,
+    "english": "import",
+    "japanese": "【動】を輸入する（⇔export →1089）"
+  },
+  {
+    "index": 1089,
+    "english": "export",
+    "japanese": "【動】を輸出する（⇔import →1088）"
+  },
+  {
+    "index": 1090,
+    "english": "society",
+    "japanese": "【名】社会；協会；社交界"
+  },
+  {
+    "index": 1091,
+    "english": "community",
+    "japanese": "【名】地域社会；地域住民；共同体"
+  },
+  {
+    "index": 1092,
+    "english": "organization",
+    "japanese": "【名】組織；団体"
+  },
+  {
+    "index": 1093,
+    "english": "committee",
+    "japanese": "【名】委員会；委員"
+  },
+  {
+    "index": 1094,
+    "english": "global",
+    "japanese": "【形】地球規模の，全世界の"
+  },
+  {
+    "index": 1095,
+    "english": "charity",
+    "japanese": "【名】慈善事業；慈善団体"
+  },
+  {
+    "index": 1096,
+    "english": "civil",
+    "japanese": "【形】市民の，民間の"
+  },
+  {
+    "index": 1097,
+    "english": "ethnic",
+    "japanese": "【形】民族の；エスニックの"
+  },
+  {
+    "index": 1098,
+    "english": "citizen",
+    "japanese": "【名】市民；国民"
+  },
+  {
+    "index": 1099,
+    "english": "law",
+    "japanese": "【名】法律；...法"
+  },
+  {
+    "index": 1100,
+    "english": "arrest",
+    "japanese": "【動】を逮捕する"
+  },
+  {
+    "index": 1101,
+    "english": "crime",
+    "japanese": "【名】犯罪"
+  },
+  {
+    "index": 1102,
+    "english": "punish",
+    "japanese": "【動】を罰する"
+  },
+  {
+    "index": 1103,
+    "english": "steal",
+    "japanese": "【動】を盗む"
+  },
+  {
+    "index": 1104,
+    "english": "thief",
+    "japanese": "【名】泥棒"
+  },
+  {
+    "index": 1105,
+    "english": "victim",
+    "japanese": "【名】犠牲（者），被害者"
+  },
+  {
+    "index": 1106,
+    "english": "government",
+    "japanese": "【名】政府；政治"
+  },
+  {
+    "index": 1107,
+    "english": "international",
+    "japanese": "【形】国際的な，国家間の"
+  },
+  {
+    "index": 1108,
+    "english": "border",
+    "japanese": "【名】国境；境界線"
+  },
+  {
+    "index": 1109,
+    "english": "nation",
+    "japanese": "【名】国家，国；（the ～）国民"
+  },
+  {
+    "index": 1110,
+    "english": "capital",
+    "japanese": "【名】首都；中心地；資本；大文字"
+  },
+  {
+    "index": 1111,
+    "english": "election",
+    "japanese": "【名】選挙"
+  },
+  {
+    "index": 1112,
+    "english": "president",
+    "japanese": "【名】大統領；社長；学長"
+  },
+  {
+    "index": 1113,
+    "english": "minister",
+    "japanese": "【名】大臣"
+  },
+  {
+    "index": 1114,
+    "english": "refugee",
+    "japanese": "【名】難民；亡命者"
+  },
+  {
+    "index": 1115,
+    "english": "war",
+    "japanese": "【名】戦争（≒battle →530，⇔peace 平和 →1268）"
+  },
+  {
+    "index": 1116,
+    "english": "military",
+    "japanese": "【形】軍事上の，軍隊の"
+  },
+  {
+    "index": 1117,
+    "english": "army",
+    "japanese": "【名】軍隊；陸軍"
+  },
+  {
+    "index": 1118,
+    "english": "soldier",
+    "japanese": "【名】兵士；軍人"
+  },
+  {
+    "index": 1119,
+    "english": "weapon",
+    "japanese": "【名】武器，兵器"
+  },
+  {
+    "index": 1120,
+    "english": "bomb",
+    "japanese": "【名】爆弾"
+  },
+  {
+    "index": 1121,
+    "english": "break out",
+    "japanese": "（戦争・災害などが）勃発する，起こる"
+  },
+  {
+    "index": 1122,
+    "english": "come across",
+    "japanese": "をふと見つける，に偶然出会う（≒run across）"
+  },
+  {
+    "index": 1123,
+    "english": "come along （with）",
+    "japanese": "（において）うまく進む；（と）一緒に来る［行く］"
+  },
+  {
+    "index": 1124,
+    "english": "come out",
+    "japanese": "現れる，出てくる；明らかになる"
+  },
+  {
+    "index": 1125,
+    "english": "come［get］ to do",
+    "japanese": "～するようになる"
+  },
+  {
+    "index": 1126,
+    "english": "come true",
+    "japanese": "実現する"
+  },
+  {
+    "index": 1127,
+    "english": "come up （to）",
+    "japanese": "（に）近づく（≒approach →1213）；（に）達する"
+  },
+  {
+    "index": 1128,
+    "english": "come up with",
+    "japanese": "を思いつく"
+  },
+  {
+    "index": 1129,
+    "english": "count on［upon］",
+    "japanese": "に頼る，を当てにする"
+  },
+  {
+    "index": 1130,
+    "english": "cut down［back］ （on）",
+    "japanese": "（数量などを）削減する"
+  },
+  {
+    "index": 1131,
+    "english": "die out",
+    "japanese": "絶滅する；消滅する"
+  },
+  {
+    "index": 1132,
+    "english": "do A good（＝do good to A）",
+    "japanese": "A（人）のためになる，Aに効く"
+  },
+  {
+    "index": 1133,
+    "english": "do well",
+    "japanese": "うまくいく，成功する"
+  },
+  {
+    "index": 1134,
+    "english": "do without",
+    "japanese": "なしですます"
+  },
+  {
+    "index": 1135,
+    "english": "drop in［by］",
+    "japanese": "（を）ちょっと訪ねる，（に）ちょっと立ち寄る"
+  },
+  {
+    "index": 1136,
+    "english": "eat out",
+    "japanese": "外食する（⇔eat in 家で食事をする）"
+  },
+  {
+    "index": 1137,
+    "english": "fall on",
+    "japanese": "（ある特定の日が）に当たる"
+  },
+  {
+    "index": 1138,
+    "english": "feel free to do",
+    "japanese": "自由に～する"
+  },
+  {
+    "index": 1139,
+    "english": "feel like doing",
+    "japanese": "～したい気がする"
+  },
+  {
+    "index": 1140,
+    "english": "get along （with）",
+    "japanese": "（と）仲よくやっていく；（と）暮らしていく"
+  },
+  {
+    "index": 1141,
+    "english": "get lost",
+    "japanese": "道に迷う（≒lose one's way）"
+  },
+  {
+    "index": 1142,
+    "english": "get out of",
+    "japanese": "から抜け出す，出る；（車など）を降りる"
+  },
+  {
+    "index": 1143,
+    "english": "get over",
+    "japanese": "から回復する；を克服する"
+  },
+  {
+    "index": 1144,
+    "english": "get through",
+    "japanese": "（困難など）を切り抜ける；を通り抜ける"
+  },
+  {
+    "index": 1145,
+    "english": "give in （to）",
+    "japanese": "（に）屈する；（に）を提出する"
+  },
+  {
+    "index": 1146,
+    "english": "give out",
+    "japanese": "を配る，知らせる；（光・熱など）を発する（≒give off）"
+  },
+  {
+    "index": 1147,
+    "english": "give way （to）",
+    "japanese": "（に）道を譲る；（に）譲歩する；（に）取って代わられる"
+  },
+  {
+    "index": 1148,
+    "english": "go along with",
+    "japanese": "に賛成する，を支持する；と一緒に行く"
+  },
+  {
+    "index": 1149,
+    "english": "go off",
+    "japanese": "立ち去る；（銃が）発砲される；（警報などが）鳴る"
+  },
+  {
+    "index": 1150,
+    "english": "had better do",
+    "japanese": "～するべきだ，する方がよい"
+  },
+  {
+    "index": 1151,
+    "english": "hand down A （to B）",
+    "japanese": "（Bに）Aを伝える，残す"
+  },
+  {
+    "index": 1152,
+    "english": "head for",
+    "japanese": "に向かう（＝be headed for）"
+  },
+  {
+    "index": 1153,
+    "english": "learn to do",
+    "japanese": "～する［できる］ようになる；～の仕方を学ぶ"
+  },
+  {
+    "index": 1154,
+    "english": "live on［upon］",
+    "japanese": "（金額・収入）で暮らしを立てる；を常食とする"
+  },
+  {
+    "index": 1155,
+    "english": "long for",
+    "japanese": "を切望する，思い焦がれる"
+  },
+  {
+    "index": 1156,
+    "english": "look back on",
+    "japanese": "を振り返る，回顧する"
+  },
+  {
+    "index": 1157,
+    "english": "look into",
+    "japanese": "を調べる；をのぞき込む"
+  },
+  {
+    "index": 1158,
+    "english": "look over",
+    "japanese": "をざっと調べる，に目を通す"
+  },
+  {
+    "index": 1159,
+    "english": "look up to",
+    "japanese": "を尊敬する（≒respect →261，⇔look down on を見下す）"
+  },
+  {
+    "index": 1160,
+    "english": "make a difference （to）",
+    "japanese": "（に）影響する；（にとって）重要である"
+  },
+  {
+    "index": 1161,
+    "english": "make a［one's］ living",
+    "japanese": "生計を立てる（≒earn a［one's］ living）"
+  },
+  {
+    "index": 1162,
+    "english": "make for",
+    "japanese": "に寄与する；の方へ進む"
+  },
+  {
+    "index": 1163,
+    "english": "make one's way",
+    "japanese": "進む；出世する"
+  },
+  {
+    "index": 1164,
+    "english": "make out",
+    "japanese": "を理解する（≒understand →1200）"
+  },
+  {
+    "index": 1165,
+    "english": "make up",
+    "japanese": "を構成する；（に）化粧する；（話）をでっち上げる"
+  },
+  {
+    "index": 1166,
+    "english": "make use of",
+    "japanese": "を利用する，使う"
+  },
+  {
+    "index": 1167,
+    "english": "point out",
+    "japanese": "を指摘する"
+  },
+  {
+    "index": 1168,
+    "english": "put off",
+    "japanese": "を延期する"
+  },
+  {
+    "index": 1169,
+    "english": "put together",
+    "japanese": "を組み立てる，まとめる（⇔take apart を分解する）"
+  },
+  {
+    "index": 1170,
+    "english": "put up with",
+    "japanese": "を我慢する（≒stand →17，bear →285）"
+  },
+  {
+    "index": 1171,
+    "english": "run out （of）",
+    "japanese": "（を）使い果たす，切らす"
+  },
+  {
+    "index": 1172,
+    "english": "stand for",
+    "japanese": "を表す，象徴する；を支持する"
+  },
+  {
+    "index": 1173,
+    "english": "stand out",
+    "japanese": "目立つ，ずば抜けている"
+  },
+  {
+    "index": 1174,
+    "english": "take A for B",
+    "japanese": "AをBだと思う，思い違いをする"
+  },
+  {
+    "index": 1175,
+    "english": "take place",
+    "japanese": "（事が）起こる，行われる"
+  },
+  {
+    "index": 1176,
+    "english": "take the place of A（＝take A's place）",
+    "japanese": "Aに取って代わる"
+  },
+  {
+    "index": 1177,
+    "english": "take up",
+    "japanese": "（仕事・趣味など）を始める；を取り上げる"
+  },
+  {
+    "index": 1178,
+    "english": "tell A from B",
+    "japanese": "AをBと区別する"
+  },
+  {
+    "index": 1179,
+    "english": "work on",
+    "japanese": "（仕事など）に取り組む"
+  },
+  {
+    "index": 1180,
+    "english": "work out",
+    "japanese": "（問題）を解く；を計算する"
+  },
+  {
+    "index": 1181,
+    "english": "turn",
+    "japanese": "【動】...になる；向きを変える；を回す"
+  },
+  {
+    "index": 1182,
+    "english": "remain",
+    "japanese": "【動】...のままである；残る"
+  },
+  {
+    "index": 1183,
+    "english": "taste",
+    "japanese": "【動】...の味がする；の味を見る；を味わう"
+  },
+  {
+    "index": 1184,
+    "english": "smell",
+    "japanese": "【動】...のにおいがする"
+  },
+  {
+    "index": 1185,
+    "english": "leave",
+    "japanese": "【動】を残しておく；のままにしておく；を去る"
+  },
+  {
+    "index": 1186,
+    "english": "show",
+    "japanese": "【動】を見せる，示す；を案内する"
+  },
+  {
+    "index": 1187,
+    "english": "bring",
+    "japanese": "【動】を持って来る，連れて来る"
+  },
+  {
+    "index": 1188,
+    "english": "pay",
+    "japanese": "【動】（金）を支払う；（注意・敬意）を払う"
+  },
+  {
+    "index": 1189,
+    "english": "choose",
+    "japanese": "【動】を選ぶ"
+  },
+  {
+    "index": 1190,
+    "english": "pass",
+    "japanese": "【動】を手渡す；（を）通り過ぎる；（に）合格する"
+  },
+  {
+    "index": 1191,
+    "english": "sell",
+    "japanese": "【動】を売る"
+  },
+  {
+    "index": 1192,
+    "english": "send",
+    "japanese": "【動】を送る；を伝える"
+  },
+  {
+    "index": 1193,
+    "english": "offer",
+    "japanese": "【動】を申し出る；を提供する"
+  },
+  {
+    "index": 1194,
+    "english": "lend",
+    "japanese": "【動】を貸す（⇔borrow →124）"
+  },
+  {
+    "index": 1195,
+    "english": "call",
+    "japanese": "【動】を呼ぶ；（に）電話する；ちょっと訪ねる"
+  },
+  {
+    "index": 1196,
+    "english": "find",
+    "japanese": "【動】だとわかる［思う］；を見つける"
+  },
+  {
+    "index": 1197,
+    "english": "keep",
+    "japanese": "【動】を保つ；を保持する；をとっておく"
+  },
+  {
+    "index": 1198,
+    "english": "know",
+    "japanese": "【動】を知っている，わかっている"
+  },
+  {
+    "index": 1199,
+    "english": "believe",
+    "japanese": "【動】（を）信じる"
+  },
+  {
+    "index": 1200,
+    "english": "understand",
+    "japanese": "【動】（を）理解する，（が）わかる（≒make out →1164）"
+  },
+  {
+    "index": 1201,
+    "english": "fear",
+    "japanese": "【動】を恐れる，怖がる"
+  },
+  {
+    "index": 1202,
+    "english": "exist",
+    "japanese": "【動】存在する"
+  },
+  {
+    "index": 1203,
+    "english": "notice",
+    "japanese": "【動】に気づく"
+  },
+  {
+    "index": 1204,
+    "english": "contain",
+    "japanese": "【動】を含む（≒include →1463）"
+  },
+  {
+    "index": 1205,
+    "english": "hate",
+    "japanese": "【動】を憎む，ひどく嫌う；を残念に思う"
+  },
+  {
+    "index": 1206,
+    "english": "lie",
+    "japanese": "【動】横たわる；に位置する"
+  },
+  {
+    "index": 1207,
+    "english": "lay",
+    "japanese": "【動】を置く，横たえる；（鳥などが卵）を産む"
+  },
+  {
+    "index": 1208,
+    "english": "rise",
+    "japanese": "【動】上がる；昇る（⇔set 沈む →1461）"
+  },
+  {
+    "index": 1209,
+    "english": "raise",
+    "japanese": "【動】を上げる；を育てる；栽培する；（お金など）を集める"
+  },
+  {
+    "index": 1210,
+    "english": "agree",
+    "japanese": "【動】意見が一致する（⇔disagree →1211）；同意する"
+  },
+  {
+    "index": 1211,
+    "english": "disagree",
+    "japanese": "【動】意見が合わない（⇔agree →1210）"
+  },
+  {
+    "index": 1212,
+    "english": "marry",
+    "japanese": "【動】と結婚する"
+  },
+  {
+    "index": 1213,
+    "english": "approach",
+    "japanese": "【動】に近づく，接近する（≒come up （to） →1127）"
+  },
+  {
+    "index": 1214,
+    "english": "discuss",
+    "japanese": "【動】について議論［検討］する"
+  },
+  {
+    "index": 1215,
+    "english": "complain",
+    "japanese": "【動】不平［苦情］を言う"
+  },
+  {
+    "index": 1216,
+    "english": "suggest",
+    "japanese": "【動】を提案する；を暗示する"
+  },
+  {
+    "index": 1217,
+    "english": "propose",
+    "japanese": "【動】を提案する；結婚を申し込む"
+  },
+  {
+    "index": 1218,
+    "english": "demand",
+    "japanese": "【動】を（強く）要求する"
+  },
+  {
+    "index": 1219,
+    "english": "request",
+    "japanese": "【動】を頼む，要請する"
+  },
+  {
+    "index": 1220,
+    "english": "order",
+    "japanese": "【動】を命じる；を注文する"
+  },
+  {
+    "index": 1221,
+    "english": "seem",
+    "japanese": "【動】のように思える"
+  },
+  {
+    "index": 1222,
+    "english": "appear",
+    "japanese": "【動】のように見える［思える］；現れる（⇔disappear →284）"
+  },
+  {
+    "index": 1223,
+    "english": "happen",
+    "japanese": "【動】（偶然）起こる（≒occur →393）"
+  },
+  {
+    "index": 1224,
+    "english": "prove",
+    "japanese": "【動】と判明する；を証明する"
+  },
+  {
+    "index": 1225,
+    "english": "ask",
+    "japanese": "【動】に頼む；に尋ねる"
+  },
+  {
+    "index": 1226,
+    "english": "expect",
+    "japanese": "【動】を期待する；を予期する"
+  },
+  {
+    "index": 1227,
+    "english": "permit",
+    "japanese": "【動】（を）許す"
+  },
+  {
+    "index": 1228,
+    "english": "warn",
+    "japanese": "【動】に警告［注意］する"
+  },
+  {
+    "index": 1229,
+    "english": "care",
+    "japanese": "【動】したいと思う；気遣う；を気にかける"
+  },
+  {
+    "index": 1230,
+    "english": "decide",
+    "japanese": "【動】を決心［決定］する（≒make up one's mind →1654）"
+  },
+  {
+    "index": 1231,
+    "english": "desire",
+    "japanese": "【動】を強く望む"
+  },
+  {
+    "index": 1232,
+    "english": "promise",
+    "japanese": "【動】を約束する"
+  },
+  {
+    "index": 1233,
+    "english": "manage",
+    "japanese": "【動】をなんとかやり遂げる；を管理［運営］する；をうまく扱う"
+  },
+  {
+    "index": 1234,
+    "english": "refuse",
+    "japanese": "【動】を断る，拒否する（≒turn down →1664，⇔accept →263）"
+  },
+  {
+    "index": 1235,
+    "english": "stop",
+    "japanese": "【動】をやめる；を止める；止まる；立ち止まる"
+  },
+  {
+    "index": 1236,
+    "english": "mind",
+    "japanese": "【動】を気にする，嫌がる"
+  },
+  {
+    "index": 1237,
+    "english": "consider",
+    "japanese": "【動】（を）よく考える"
+  },
+  {
+    "index": 1238,
+    "english": "finish",
+    "japanese": "【動】を終える；終わる（⇔begin を始める；始まる →1246）"
+  },
+  {
+    "index": 1239,
+    "english": "avoid",
+    "japanese": "【動】を避ける"
+  },
+  {
+    "index": 1240,
+    "english": "miss",
+    "japanese": "【動】をし損なう；に乗り遅れる；がいないのを寂しく思う"
+  },
+  {
+    "index": 1241,
+    "english": "escape",
+    "japanese": "【動】（を）逃れる，免れる"
+  },
+  {
+    "index": 1242,
+    "english": "admit",
+    "japanese": "【動】を認める（⇔deny →1243）"
+  },
+  {
+    "index": 1243,
+    "english": "deny",
+    "japanese": "【動】を否定する（⇔admit →1242）"
+  },
+  {
+    "index": 1244,
+    "english": "like",
+    "japanese": "【動】が好きである，を好む（≒be fond of →565）"
+  },
+  {
+    "index": 1245,
+    "english": "start",
+    "japanese": "【動】を始める；始まる（≒begin →1246）；出発する"
+  },
+  {
+    "index": 1246,
+    "english": "begin",
+    "japanese": "【動】を始める；始まる（≒start →1245，⇔finish →1238，end 終わる →1478）"
+  },
+  {
+    "index": 1247,
+    "english": "continue",
+    "japanese": "【動】を続ける；続く"
+  },
+  {
+    "index": 1248,
+    "english": "try",
+    "japanese": "【動】しようと試みる；試しに～してみる"
+  },
+  {
+    "index": 1249,
+    "english": "remember",
+    "japanese": "【動】を忘れずにする；を覚えている（⇔forget →1250）"
+  },
+  {
+    "index": 1250,
+    "english": "forget",
+    "japanese": "【動】を忘れる（⇔remember →1249）"
+  },
+  {
+    "index": 1251,
+    "english": "mean",
+    "japanese": "【動】するつもりである；を意味する"
+  },
+  {
+    "index": 1252,
+    "english": "air",
+    "japanese": "【名】空気；大気"
+  },
+  {
+    "index": 1253,
+    "english": "paper",
+    "japanese": "【名】紙；新聞（≒newspaper →1007）"
+  },
+  {
+    "index": 1254,
+    "english": "iron",
+    "japanese": "【名】鉄；アイロン"
+  },
+  {
+    "index": 1255,
+    "english": "cloth",
+    "japanese": "【名】布；（可算名詞で）（ある用途の）布切れ，テーブルクロス"
+  },
+  {
+    "index": 1256,
+    "english": "police",
+    "japanese": "【名】警察官，警官隊；（the ～）（組織としての）警察"
+  },
+  {
+    "index": 1257,
+    "english": "audience",
+    "japanese": "【名】聴衆，観客"
+  },
+  {
+    "index": 1258,
+    "english": "staff",
+    "japanese": "【名】スタッフ，職員"
+  },
+  {
+    "index": 1259,
+    "english": "stuff",
+    "japanese": "【名】（漠然とした）物，事；（one's ～）（個人の）所有物"
+  },
+  {
+    "index": 1260,
+    "english": "furniture",
+    "japanese": "【名】家具"
+  },
+  {
+    "index": 1261,
+    "english": "baggage",
+    "japanese": "【名】手荷物（＝【英】luggage）"
+  },
+  {
+    "index": 1262,
+    "english": "information",
+    "japanese": "【名】情報；案内"
+  },
+  {
+    "index": 1263,
+    "english": "ability",
+    "japanese": "【名】能力；才能，技能"
+  },
+  {
+    "index": 1264,
+    "english": "death",
+    "japanese": "【名】死（⇔birth →879）"
+  },
+  {
+    "index": 1265,
+    "english": "attention",
+    "japanese": "【名】注意，注目；配慮；思いやり"
+  },
+  {
+    "index": 1266,
+    "english": "freedom",
+    "japanese": "【名】自由"
+  },
+  {
+    "index": 1267,
+    "english": "advice",
+    "japanese": "【名】助言，忠告"
+  },
+  {
+    "index": 1268,
+    "english": "peace",
+    "japanese": "【名】平和（⇔war →1115）；平穏"
+  },
+  {
+    "index": 1269,
+    "english": "beauty",
+    "japanese": "【名】美，美しさ"
+  },
+  {
+    "index": 1270,
+    "english": "habit",
+    "japanese": "【名】（個人的な）習慣，癖"
+  },
+  {
+    "index": 1271,
+    "english": "custom",
+    "japanese": "【名】（社会的な）慣習"
+  },
+  {
+    "index": 1272,
+    "english": "climate",
+    "japanese": "【名】気候"
+  },
+  {
+    "index": 1273,
+    "english": "guest",
+    "japanese": "【名】客，招待客（⇔host →39）；宿泊客"
+  },
+  {
+    "index": 1274,
+    "english": "customer",
+    "japanese": "【名】（店の）客，顧客"
+  },
+  {
+    "index": 1275,
+    "english": "fare",
+    "japanese": "【名】運賃"
+  },
+  {
+    "index": 1276,
+    "english": "fee",
+    "japanese": "【名】料金；謝礼"
+  },
+  {
+    "index": 1277,
+    "english": "appointment",
+    "japanese": "【名】（会う）約束，（医者・美容院などの）予約；任命，指名"
+  },
+  {
+    "index": 1278,
+    "english": "idea",
+    "japanese": "【名】考え，アイディア"
+  },
+  {
+    "index": 1279,
+    "english": "fact",
+    "japanese": "【名】事実，現実"
+  },
+  {
+    "index": 1280,
+    "english": "opinion",
+    "japanese": "【名】意見，見解"
+  },
+  {
+    "index": 1281,
+    "english": "belief",
+    "japanese": "【名】信念，確信"
+  },
+  {
+    "index": 1282,
+    "english": "feeling",
+    "japanese": "【名】気持ち，感情；感覚"
+  },
+  {
+    "index": 1283,
+    "english": "evidence",
+    "japanese": "【名】証拠"
+  },
+  {
+    "index": 1284,
+    "english": "each",
+    "japanese": "【代】それぞれ"
+  },
+  {
+    "index": 1285,
+    "english": "other",
+    "japanese": "【代】（the ～）（2つのうちの）もう一方，（3つ以上のうちの）その他の物［人］；ほかの物［人］"
+  },
+  {
+    "index": 1286,
+    "english": "another",
+    "japanese": "【代】（同類の中の）別の物［人］；（同類の中の）もう1つ［1人］"
+  },
+  {
+    "index": 1287,
+    "english": "both",
+    "japanese": "【代】両方"
+  },
+  {
+    "index": 1288,
+    "english": "either",
+    "japanese": "【代】（2つのうちの）どちらか，どちらでも"
+  },
+  {
+    "index": 1289,
+    "english": "neither",
+    "japanese": "【代】（2つの）どちらも...ない"
+  },
+  {
+    "index": 1290,
+    "english": "everything",
+    "japanese": "【代】すべての物［事］"
+  },
+  {
+    "index": 1291,
+    "english": "anything",
+    "japanese": "【代】（否定文で）何も（...ない）；（疑問文・条件文で）何か；（肯定文で）何でも"
+  },
+  {
+    "index": 1292,
+    "english": "something",
+    "japanese": "【代】何か"
+  },
+  {
+    "index": 1293,
+    "english": "nothing",
+    "japanese": "【代】何も...ない"
+  },
+  {
+    "index": 1294,
+    "english": "everyone",
+    "japanese": "【代】みんな（≒everybody）"
+  },
+  {
+    "index": 1295,
+    "english": "anyone",
+    "japanese": "【代】（疑問文・条件文で）だれか；（否定文で）だれも（...ない）；（肯定文で）だれでも（≒anybody）"
+  },
+  {
+    "index": 1296,
+    "english": "someone",
+    "japanese": "【代】だれか，ある人（≒somebody）"
+  },
+  {
+    "index": 1297,
+    "english": "nobody",
+    "japanese": "【代】だれも...ない（≒no one）"
+  },
+  {
+    "index": 1298,
+    "english": "none",
+    "japanese": "【代】だれも［何も］...ない"
+  },
+  {
+    "index": 1299,
+    "english": "only",
+    "japanese": "【形】（the ～，one's ～）唯一の，たった1つ［1人］の【副】ただ...だけ，単に（≒no more than →1688）"
+  },
+  {
+    "index": 1300,
+    "english": "main",
+    "japanese": "【形】主な，主要な"
+  },
+  {
+    "index": 1301,
+    "english": "daily",
+    "japanese": "【形】毎日の，日々の；日ごとの"
+  },
+  {
+    "index": 1302,
+    "english": "former",
+    "japanese": "【形】以前の，元の（⇔latter 後の；後者の）"
+  },
+  {
+    "index": 1303,
+    "english": "alone",
+    "japanese": "【形】ただ1人で；...だけ；孤独で"
+  },
+  {
+    "index": 1304,
+    "english": "aware",
+    "japanese": "【形】気づいて"
+  },
+  {
+    "index": 1305,
+    "english": "alive",
+    "japanese": "【形】生きている（⇔dead →885）"
+  },
+  {
+    "index": 1306,
+    "english": "asleep",
+    "japanese": "【形】眠って（⇔awake →1307）"
+  },
+  {
+    "index": 1307,
+    "english": "awake",
+    "japanese": "【形】目を覚まして（⇔asleep →1306）"
+  },
+  {
+    "index": 1308,
+    "english": "alike",
+    "japanese": "【形】似ている，同様な"
+  },
+  {
+    "index": 1309,
+    "english": "right",
+    "japanese": "【形】（叙述用法で）（判断・行動などが）正しい；（限定用法で）右の（⇔left 左の）；（答え・時間などが）正確な（⇔wrong 間違った →1332）"
+  },
+  {
+    "index": 1310,
+    "english": "present",
+    "japanese": "【形】（叙述用法で）出席している（⇔absent →1032）；（限定用法で）現在の"
+  },
+  {
+    "index": 1311,
+    "english": "certain",
+    "japanese": "【形】（叙述用法で）（人が）確信して；（限定用法で）ある；一定の；（物事が）確実な"
+  },
+  {
+    "index": 1312,
+    "english": "able",
+    "japanese": "【形】できる（⇔unableできない）"
+  },
+  {
+    "index": 1313,
+    "english": "sure",
+    "japanese": "【形】確信して"
+  },
+  {
+    "index": 1314,
+    "english": "difficult",
+    "japanese": "【形】難しい（⇔easy 易しい）"
+  },
+  {
+    "index": 1315,
+    "english": "likely",
+    "japanese": "【形】ありそうな（⇔unlikely ありそうもない）"
+  },
+  {
+    "index": 1316,
+    "english": "sorry",
+    "japanese": "【形】気の毒に［残念に］思って；すまなく思って"
+  },
+  {
+    "index": 1317,
+    "english": "dangerous",
+    "japanese": "【形】危険な（⇔safe →87）"
+  },
+  {
+    "index": 1318,
+    "english": "impossible",
+    "japanese": "【形】不可能な（⇔possible 可能な →1520）"
+  },
+  {
+    "index": 1319,
+    "english": "ready",
+    "japanese": "【形】準備［用意］のできた"
+  },
+  {
+    "index": 1320,
+    "english": "comfortable",
+    "japanese": "【形】（物が）快適な；（人が）くつろいだ"
+  },
+  {
+    "index": 1321,
+    "english": "eager",
+    "japanese": "【形】熱望して；熱心な"
+  },
+  {
+    "index": 1322,
+    "english": "polite",
+    "japanese": "【形】礼儀正しい，丁寧な（⇔impolite，rude →1323）"
+  },
+  {
+    "index": 1323,
+    "english": "rude",
+    "japanese": "【形】失礼な（⇔polite →1322）"
+  },
+  {
+    "index": 1324,
+    "english": "wise",
+    "japanese": "【形】賢明な，賢い（⇔foolish →1328）"
+  },
+  {
+    "index": 1325,
+    "english": "clever",
+    "japanese": "【形】利口な（⇔dull →446，stupid →1327）；ずる賢い"
+  },
+  {
+    "index": 1326,
+    "english": "silly",
+    "japanese": "【形】愚かな，ばかげた"
+  },
+  {
+    "index": 1327,
+    "english": "stupid",
+    "japanese": "【形】愚かな，ばかげた（⇔clever →1325）"
+  },
+  {
+    "index": 1328,
+    "english": "foolish",
+    "japanese": "【形】愚かな，ばかげた（⇔wise →1324）"
+  },
+  {
+    "index": 1329,
+    "english": "careless",
+    "japanese": "【形】不注意な（⇔careful →82）"
+  },
+  {
+    "index": 1330,
+    "english": "brave",
+    "japanese": "【形】勇敢な"
+  },
+  {
+    "index": 1331,
+    "english": "important",
+    "japanese": "【形】重要な"
+  },
+  {
+    "index": 1332,
+    "english": "wrong",
+    "japanese": "【形】間違った（⇔right →1309）；悪い；（体調などが）思わしくない"
+  },
+  {
+    "index": 1333,
+    "english": "necessary",
+    "japanese": "【形】必要な；必然の"
+  },
+  {
+    "index": 1334,
+    "english": "strange",
+    "japanese": "【形】奇妙な，不思議な；見知らぬ"
+  },
+  {
+    "index": 1335,
+    "english": "few",
+    "japanese": "【形】（無冠詞で）ほとんどない；（a ～）少数の"
+  },
+  {
+    "index": 1336,
+    "english": "little",
+    "japanese": "【形】（無冠詞で）ほとんどない；（a ～）少量の；小さい"
+  },
+  {
+    "index": 1337,
+    "english": "hardly",
+    "japanese": "【副】ほとんど...ない（≒scarcely，almost not）"
+  },
+  {
+    "index": 1338,
+    "english": "seldom",
+    "japanese": "【副】めったに...ない（≒rarely，hardly ever →1337，⇔often）"
+  },
+  {
+    "index": 1339,
+    "english": "recently",
+    "japanese": "【副】最近（≒nowadays，these days →607）"
+  },
+  {
+    "index": 1340,
+    "english": "lately",
+    "japanese": "【副】最近"
+  },
+  {
+    "index": 1341,
+    "english": "ever",
+    "japanese": "【副】これまでに；ずっと"
+  },
+  {
+    "index": 1342,
+    "english": "once",
+    "japanese": "【副】1度［回］；かつて"
+  },
+  {
+    "index": 1343,
+    "english": "twice",
+    "japanese": "【副】2度［回］；2倍"
+  },
+  {
+    "index": 1344,
+    "english": "just",
+    "japanese": "【副】たった今；ちょうど；単に"
+  },
+  {
+    "index": 1345,
+    "english": "yet",
+    "japanese": "【副】（否定文で）まだ（...ない）；（疑問文で）もう"
+  },
+  {
+    "index": 1346,
+    "english": "already",
+    "japanese": "【副】（肯定文で）もう，すでに"
+  },
+  {
+    "index": 1347,
+    "english": "sometimes",
+    "japanese": "【副】時々（≒at times →587，from time to time →595）"
+  },
+  {
+    "index": 1348,
+    "english": "usually",
+    "japanese": "【副】たいてい"
+  },
+  {
+    "index": 1349,
+    "english": "always",
+    "japanese": "【副】いつも，必ず"
+  },
+  {
+    "index": 1350,
+    "english": "almost",
+    "japanese": "【副】ほとんど，ほぼ；もう少しで"
+  },
+  {
+    "index": 1351,
+    "english": "nearly",
+    "japanese": "【副】ほとんど，ほぼ；もう少しで"
+  },
+  {
+    "index": 1352,
+    "english": "abroad",
+    "japanese": "【副】海外に［で］，国外に［で］（≒overseas →1636）"
+  },
+  {
+    "index": 1353,
+    "english": "upstairs",
+    "japanese": "【副】上の階に［へ］（⇔downstairs 下の階に［へ］）"
+  },
+  {
+    "index": 1354,
+    "english": "perhaps",
+    "japanese": "【副】（文修飾）もしかしたら；おそらく"
+  },
+  {
+    "index": 1355,
+    "english": "actually",
+    "japanese": "【副】（文修飾）実は，実際は（≒in fact →1417）；（動詞を強調して）実際に"
+  },
+  {
+    "index": 1356,
+    "english": "fortunately",
+    "japanese": "【副】（文修飾）幸運にも（⇔unfortunately 不幸にも）"
+  },
+  {
+    "index": 1357,
+    "english": "especially",
+    "japanese": "【副】特に"
+  },
+  {
+    "index": 1358,
+    "english": "well",
+    "japanese": "【副】よく，十分に；うまく"
+  },
+  {
+    "index": 1359,
+    "english": "ill",
+    "japanese": "【形】病気で（⇔well →1358）；悪い"
+  },
+  {
+    "index": 1360,
+    "english": "far",
+    "japanese": "【副】（距離が）遠くに［へ］；（程度・時間が）はるかに，ずっと"
+  },
+  {
+    "index": 1361,
+    "english": "late",
+    "japanese": "【形】遅れた（⇔early →74）；遅い；後半の，後期の"
+  },
+  {
+    "index": 1362,
+    "english": "prefer",
+    "japanese": "【動】の方を好む"
+  },
+  {
+    "index": 1363,
+    "english": "junior",
+    "japanese": "【形】年下の（⇔senior →1364）；下位［下級］の"
+  },
+  {
+    "index": 1364,
+    "english": "senior",
+    "japanese": "【形】年上の（⇔junior →1363）；高齢者の；上位［上級］の"
+  },
+  {
+    "index": 1365,
+    "english": "nor",
+    "japanese": "【接】（否定語の後で）もまた...ない"
+  },
+  {
+    "index": 1366,
+    "english": "whether",
+    "japanese": "【接】...かどうか；...であろうとなかろうと"
+  },
+  {
+    "index": 1367,
+    "english": "while",
+    "japanese": "【接】...している間に；...の一方で"
+  },
+  {
+    "index": 1368,
+    "english": "though",
+    "japanese": "【接】...だけれども"
+  },
+  {
+    "index": 1369,
+    "english": "although",
+    "japanese": "【接】...だけれども"
+  },
+  {
+    "index": 1370,
+    "english": "unless",
+    "japanese": "【接】...でない限り，もし...でなければ"
+  },
+  {
+    "index": 1371,
+    "english": "whenever",
+    "japanese": "【接】...するときはいつでも；いつ...しようとも"
+  },
+  {
+    "index": 1372,
+    "english": "wherever",
+    "japanese": "【接】...する所ならどこでも；どこで［へ］...しようとも"
+  },
+  {
+    "index": 1373,
+    "english": "whatever",
+    "japanese": "【代】（たとえ）何が［何を］...しても；...する［である］ものは何でも"
+  },
+  {
+    "index": 1374,
+    "english": "whichever",
+    "japanese": "【代】（たとえ）どちらが［どちらを］...しても；...する［である］ものはどちらでも"
+  },
+  {
+    "index": 1375,
+    "english": "cause",
+    "japanese": "【動】を引き起こす（≒bring about →1641）"
+  },
+  {
+    "index": 1376,
+    "english": "allow",
+    "japanese": "【動】を許す，可能にする"
+  },
+  {
+    "index": 1377,
+    "english": "force",
+    "japanese": "【動】を強いる"
+  },
+  {
+    "index": 1378,
+    "english": "cost",
+    "japanese": "【動】（金額・時間など）がかかる；を失わせる，犠牲にさせる"
+  },
+  {
+    "index": 1379,
+    "english": "protect",
+    "japanese": "【動】を守る，保護する（≒preserve →279）"
+  },
+  {
+    "index": 1380,
+    "english": "prevent",
+    "japanese": "【動】を妨げる，中止させる"
+  },
+  {
+    "index": 1381,
+    "english": "bring up",
+    "japanese": "（子供）を育てる"
+  },
+  {
+    "index": 1382,
+    "english": "call for",
+    "japanese": "を（呼び）求める；を要求する；を必要とする"
+  },
+  {
+    "index": 1383,
+    "english": "call off",
+    "japanese": "を中止する，取り消す（≒cancel →775）"
+  },
+  {
+    "index": 1384,
+    "english": "call on",
+    "japanese": "（人）を訪問する"
+  },
+  {
+    "index": 1385,
+    "english": "go wrong",
+    "japanese": "（計画などが）失敗する；故障する"
+  },
+  {
+    "index": 1386,
+    "english": "have A in mind",
+    "japanese": "Aを考慮している"
+  },
+  {
+    "index": 1387,
+    "english": "pay［give］ attention to",
+    "japanese": "に注意を払う"
+  },
+  {
+    "index": 1388,
+    "english": "reflect on［upon］",
+    "japanese": "について熟考する"
+  },
+  {
+    "index": 1389,
+    "english": "show up",
+    "japanese": "（人が）現れる，やって来る"
+  },
+  {
+    "index": 1390,
+    "english": "take care of",
+    "japanese": "の世話をする，に気をつける（≒look after →212）；を処理する"
+  },
+  {
+    "index": 1391,
+    "english": "try on",
+    "japanese": "（服など）を試着する"
+  },
+  {
+    "index": 1392,
+    "english": "turn A into B",
+    "japanese": "AをBに変える（≒change A into B）"
+  },
+  {
+    "index": 1393,
+    "english": "turn off",
+    "japanese": "（電気器具など）を消す，（水など）を止める（⇔turn on →1394）"
+  },
+  {
+    "index": 1394,
+    "english": "turn on",
+    "japanese": "（電気器具など）をつける，（水・ガスなど）を出す（≒put on →220，⇔turn off →1393）"
+  },
+  {
+    "index": 1395,
+    "english": "turn out （to be）",
+    "japanese": "であることがわかる；（結果として）...となる"
+  },
+  {
+    "index": 1396,
+    "english": "turn over",
+    "japanese": "をひっくり返す，裏返す"
+  },
+  {
+    "index": 1397,
+    "english": "be associated with",
+    "japanese": "を連想させる；と関係がある"
+  },
+  {
+    "index": 1398,
+    "english": "be crowded with",
+    "japanese": "で混雑している"
+  },
+  {
+    "index": 1399,
+    "english": "be involved in",
+    "japanese": "にかかわっている，巻き込まれている"
+  },
+  {
+    "index": 1400,
+    "english": "be known to",
+    "japanese": "に知られている"
+  },
+  {
+    "index": 1401,
+    "english": "be late for",
+    "japanese": "に遅れる"
+  },
+  {
+    "index": 1402,
+    "english": "be unable to do",
+    "japanese": "～することができない（≒not be able to do）"
+  },
+  {
+    "index": 1403,
+    "english": "as well",
+    "japanese": "...もまた，同じように"
+  },
+  {
+    "index": 1404,
+    "english": "at a loss",
+    "japanese": "途方に暮れて；損をして"
+  },
+  {
+    "index": 1405,
+    "english": "at （the） most",
+    "japanese": "せいぜい，多くても（⇔at least 少なくとも →1668）"
+  },
+  {
+    "index": 1406,
+    "english": "at once",
+    "japanese": "直ちに，すぐに（≒immediately →1633）；同時に"
+  },
+  {
+    "index": 1407,
+    "english": "at present",
+    "japanese": "現在（は），目下（≒now）"
+  },
+  {
+    "index": 1408,
+    "english": "by nature",
+    "japanese": "生まれつき"
+  },
+  {
+    "index": 1409,
+    "english": "far from",
+    "japanese": "...どころではない，少しも...でない（≒not ... at all）"
+  },
+  {
+    "index": 1410,
+    "english": "for a while",
+    "japanese": "しばらくの間"
+  },
+  {
+    "index": 1411,
+    "english": "for nothing",
+    "japanese": "無料で（≒for free →242）；無駄に"
+  },
+  {
+    "index": 1412,
+    "english": "for sure［certain］",
+    "japanese": "確かに"
+  },
+  {
+    "index": 1413,
+    "english": "for the sake of A （＝for A's sake）",
+    "japanese": "Aのために"
+  },
+  {
+    "index": 1414,
+    "english": "in a［one］ way",
+    "japanese": "ある意味で（は）"
+  },
+  {
+    "index": 1415,
+    "english": "in advance",
+    "japanese": "あらかじめ；前金で"
+  },
+  {
+    "index": 1416,
+    "english": "in danger （of）",
+    "japanese": "（の）危険があって，恐れがあって"
+  },
+  {
+    "index": 1417,
+    "english": "in fact",
+    "japanese": "実際は［に］（≒actually →1355）；ところが"
+  },
+  {
+    "index": 1418,
+    "english": "in order to do",
+    "japanese": "～するために"
+  },
+  {
+    "index": 1419,
+    "english": "in other words",
+    "japanese": "言い換えれば，つまり"
+  },
+  {
+    "index": 1420,
+    "english": "in search of",
+    "japanese": "を探して，求めて"
+  },
+  {
+    "index": 1421,
+    "english": "in the first place",
+    "japanese": "（文末で）そもそも；（文頭で）まず第1に（≒to begin［start］ with →1432）"
+  },
+  {
+    "index": 1422,
+    "english": "in turn",
+    "japanese": "順番に，代わる代わる；その結果"
+  },
+  {
+    "index": 1423,
+    "english": "later on",
+    "japanese": "後になって（⇔earlier［early］ on 早くから）"
+  },
+  {
+    "index": 1424,
+    "english": "little by little",
+    "japanese": "少しずつ（≒gradually →1634）"
+  },
+  {
+    "index": 1425,
+    "english": "no doubt",
+    "japanese": "たぶん；確かに"
+  },
+  {
+    "index": 1426,
+    "english": "no longer",
+    "japanese": "もはや...でない［しない］（＝not ... any longer）"
+  },
+  {
+    "index": 1427,
+    "english": "on sale",
+    "japanese": "販売されて；特売で"
+  },
+  {
+    "index": 1428,
+    "english": "on the other hand",
+    "japanese": "他方では"
+  },
+  {
+    "index": 1429,
+    "english": "one after another",
+    "japanese": "次々と"
+  },
+  {
+    "index": 1430,
+    "english": "so far",
+    "japanese": "これまでは（⇔from now on これからは）；そこまでは"
+  },
+  {
+    "index": 1431,
+    "english": "the other day",
+    "japanese": "先日"
+  },
+  {
+    "index": 1432,
+    "english": "to begin［start］ with",
+    "japanese": "まず第1に（≒in the first place →1421）；最初に"
+  },
+  {
+    "index": 1433,
+    "english": "to one's surprise",
+    "japanese": "～が驚いたことに"
+  },
+  {
+    "index": 1434,
+    "english": "as［so］ far as ...",
+    "japanese": "（範囲が）...する限り（では）；（距離が）...まで"
+  },
+  {
+    "index": 1435,
+    "english": "A as well as B",
+    "japanese": "BだけでなくAもまた（≒not only B but （also） A →616）"
+  },
+  {
+    "index": 1436,
+    "english": "both A and B",
+    "japanese": "AもBも両方とも"
+  },
+  {
+    "index": 1437,
+    "english": "（be） contrary to",
+    "japanese": "に反して（いる）"
+  },
+  {
+    "index": 1438,
+    "english": "each other",
+    "japanese": "お互い（≒one another）"
+  },
+  {
+    "index": 1439,
+    "english": "either A or B",
+    "japanese": "AかBのどちらか"
+  },
+  {
+    "index": 1440,
+    "english": "every other",
+    "japanese": "1つおきの"
+  },
+  {
+    "index": 1441,
+    "english": "interest",
+    "japanese": "【動】に興味を抱かせる"
+  },
+  {
+    "index": 1442,
+    "english": "increase",
+    "japanese": "【動】増える（⇔decrease →1443）"
+  },
+  {
+    "index": 1443,
+    "english": "decrease",
+    "japanese": "【動】減少する（⇔increase →1442）"
+  },
+  {
+    "index": 1444,
+    "english": "reduce",
+    "japanese": "【動】を減らす"
+  },
+  {
+    "index": 1445,
+    "english": "add",
+    "japanese": "【動】を加える"
+  },
+  {
+    "index": 1446,
+    "english": "please",
+    "japanese": "【動】を喜ばせる；を好む"
+  },
+  {
+    "index": 1447,
+    "english": "receive",
+    "japanese": "【動】を受け取る，受ける"
+  },
+  {
+    "index": 1448,
+    "english": "gain",
+    "japanese": "【動】を得る（⇔lose →94）；を増す"
+  },
+  {
+    "index": 1449,
+    "english": "spend",
+    "japanese": "【動】を費やす，使う"
+  },
+  {
+    "index": 1450,
+    "english": "develop",
+    "japanese": "【動】を発達［発展］させる；を開発する"
+  },
+  {
+    "index": 1451,
+    "english": "improve",
+    "japanese": "【動】を改善する，向上させる；よくなる"
+  },
+  {
+    "index": 1452,
+    "english": "lead",
+    "japanese": "【動】至る；（を）導く；（相手を）リードする"
+  },
+  {
+    "index": 1453,
+    "english": "reach",
+    "japanese": "【動】に着く；（に）手が届く"
+  },
+  {
+    "index": 1454,
+    "english": "achieve",
+    "japanese": "【動】（を）成し遂げる，達成する"
+  },
+  {
+    "index": 1455,
+    "english": "realize",
+    "japanese": "【動】に気づく，を認識する；を実現する"
+  },
+  {
+    "index": 1456,
+    "english": "solve",
+    "japanese": "【動】を解決する；を解く"
+  },
+  {
+    "index": 1457,
+    "english": "discover",
+    "japanese": "【動】を発見する；に気づく"
+  },
+  {
+    "index": 1458,
+    "english": "produce",
+    "japanese": "【動】を生産［製造］する；をもたらす；を制作する"
+  },
+  {
+    "index": 1459,
+    "english": "provide",
+    "japanese": "【動】を供給［提供］する"
+  },
+  {
+    "index": 1460,
+    "english": "encourage",
+    "japanese": "【動】を励ます；を奨励する"
+  },
+  {
+    "index": 1461,
+    "english": "set",
+    "japanese": "【動】を設定する；を置く；（太陽などが）沈む（⇔rise →1208）"
+  },
+  {
+    "index": 1462,
+    "english": "indicate",
+    "japanese": "【動】を示す"
+  },
+  {
+    "index": 1463,
+    "english": "include",
+    "japanese": "【動】を含む（≒contain →1204）"
+  },
+  {
+    "index": 1464,
+    "english": "tend",
+    "japanese": "【動】（tend to doで）～する傾向がある"
+  },
+  {
+    "index": 1465,
+    "english": "wish",
+    "japanese": "【動】（と）願う；（を）祈る"
+  },
+  {
+    "index": 1466,
+    "english": "wonder",
+    "japanese": "【動】...だろうかと思う"
+  },
+  {
+    "index": 1467,
+    "english": "guess",
+    "japanese": "【動】を推測する"
+  },
+  {
+    "index": 1468,
+    "english": "concern",
+    "japanese": "【動】を心配させる；に関係する"
+  },
+  {
+    "index": 1469,
+    "english": "represent",
+    "japanese": "【動】を象徴する，表す；を代表する"
+  },
+  {
+    "index": 1470,
+    "english": "mention",
+    "japanese": "【動】のことを話に出す，言及する"
+  },
+  {
+    "index": 1471,
+    "english": "explain",
+    "japanese": "【動】を説明する"
+  },
+  {
+    "index": 1472,
+    "english": "object",
+    "japanese": "【動】反対する"
+  },
+  {
+    "index": 1473,
+    "english": "select",
+    "japanese": "【動】を選び出す"
+  },
+  {
+    "index": 1474,
+    "english": "pick",
+    "japanese": "【動】をつまんで取る；を選ぶ"
+  },
+  {
+    "index": 1475,
+    "english": "author",
+    "japanese": "【名】著者，作者"
+  },
+  {
+    "index": 1476,
+    "english": "activity",
+    "japanese": "【名】活動"
+  },
+  {
+    "index": 1477,
+    "english": "experience",
+    "japanese": "【名】経験；体験"
+  },
+  {
+    "index": 1478,
+    "english": "end",
+    "japanese": "【名】終わり；端；目的"
+  },
+  {
+    "index": 1479,
+    "english": "symbol",
+    "japanese": "【名】象徴，シンボル；記号"
+  },
+  {
+    "index": 1480,
+    "english": "sign",
+    "japanese": "【名】しるし，表れ；標識；合図"
+  },
+  {
+    "index": 1481,
+    "english": "signal",
+    "japanese": "【名】信号；合図；信号機"
+  },
+  {
+    "index": 1482,
+    "english": "reason",
+    "japanese": "【名】理由"
+  },
+  {
+    "index": 1483,
+    "english": "result",
+    "japanese": "【名】結果"
+  },
+  {
+    "index": 1484,
+    "english": "effect",
+    "japanese": "【名】効果，影響；結果（⇔cause →1375）"
+  },
+  {
+    "index": 1485,
+    "english": "influence",
+    "japanese": "【名】影響；影響力"
+  },
+  {
+    "index": 1486,
+    "english": "rate",
+    "japanese": "【名】比率，割合；速度"
+  },
+  {
+    "index": 1487,
+    "english": "amount",
+    "japanese": "【名】量，金額"
+  },
+  {
+    "index": 1488,
+    "english": "leisure",
+    "japanese": "【名】余暇，自由な時間"
+  },
+  {
+    "index": 1489,
+    "english": "view",
+    "japanese": "【名】意見，考え；眺め"
+  },
+  {
+    "index": 1490,
+    "english": "distance",
+    "japanese": "【名】距離；遠方"
+  },
+  {
+    "index": 1491,
+    "english": "sense",
+    "japanese": "【名】感覚；意味"
+  },
+  {
+    "index": 1492,
+    "english": "moment",
+    "japanese": "【名】時点；瞬間"
+  },
+  {
+    "index": 1493,
+    "english": "period",
+    "japanese": "【名】期間；時代（≒age，era →531）；ピリオド"
+  },
+  {
+    "index": 1494,
+    "english": "century",
+    "japanese": "【名】1世紀，100年（間）"
+  },
+  {
+    "index": 1495,
+    "english": "research",
+    "japanese": "【名】研究，調査"
+  },
+  {
+    "index": 1496,
+    "english": "survey",
+    "japanese": "【名】（意識）調査"
+  },
+  {
+    "index": 1497,
+    "english": "company",
+    "japanese": "【名】会社；仲間；同席"
+  },
+  {
+    "index": 1498,
+    "english": "role",
+    "japanese": "【名】役割；役柄"
+  },
+  {
+    "index": 1499,
+    "english": "matter",
+    "japanese": "【名】問題；困難；事；事態"
+  },
+  {
+    "index": 1500,
+    "english": "situation",
+    "japanese": "【名】情勢，事態；立場"
+  },
+  {
+    "index": 1501,
+    "english": "case",
+    "japanese": "【名】場合；事例；実情；容器"
+  },
+  {
+    "index": 1502,
+    "english": "bill",
+    "japanese": "【名】請求書；【英】勘定書；紙幣；法案"
+  },
+  {
+    "index": 1503,
+    "english": "skill",
+    "japanese": "【名】技能，技術；熟練"
+  },
+  {
+    "index": 1504,
+    "english": "program",
+    "japanese": "【名】（行事）計画，予定；番組；プログラム"
+  },
+  {
+    "index": 1505,
+    "english": "source",
+    "japanese": "【名】源；出所"
+  },
+  {
+    "index": 1506,
+    "english": "system",
+    "japanese": "【名】制度，システム；系統；装置"
+  },
+  {
+    "index": 1507,
+    "english": "average",
+    "japanese": "【名】平均（値）"
+  },
+  {
+    "index": 1508,
+    "english": "balance",
+    "japanese": "【名】均衡，バランス；平衡"
+  },
+  {
+    "index": 1509,
+    "english": "data",
+    "japanese": "【名】データ，資料；情報"
+  },
+  {
+    "index": 1510,
+    "english": "item",
+    "japanese": "【名】項目，品目；...個"
+  },
+  {
+    "index": 1511,
+    "english": "list",
+    "japanese": "【名】一覧（表），リスト"
+  },
+  {
+    "index": 1512,
+    "english": "space",
+    "japanese": "【名】（空いている）場所，空間；宇宙"
+  },
+  {
+    "index": 1513,
+    "english": "surface",
+    "japanese": "【名】表面"
+  },
+  {
+    "index": 1514,
+    "english": "past",
+    "japanese": "【形】過去の"
+  },
+  {
+    "index": 1515,
+    "english": "ancient",
+    "japanese": "【形】古代の"
+  },
+  {
+    "index": 1516,
+    "english": "previous",
+    "japanese": "【形】以前の，前の"
+  },
+  {
+    "index": 1517,
+    "english": "recent",
+    "japanese": "【形】最近の"
+  },
+  {
+    "index": 1518,
+    "english": "modern",
+    "japanese": "【形】現代の；最新の，近代的な"
+  },
+  {
+    "index": 1519,
+    "english": "current",
+    "japanese": "【形】現在の，今の"
+  },
+  {
+    "index": 1520,
+    "english": "possible",
+    "japanese": "【形】可能な；あり得る（⇔impossible →1318）"
+  },
+  {
+    "index": 1521,
+    "english": "available",
+    "japanese": "【形】利用できる；入手できる"
+  },
+  {
+    "index": 1522,
+    "english": "local",
+    "japanese": "【形】地元の，その地域の；各駅停車の"
+  },
+  {
+    "index": 1523,
+    "english": "several",
+    "japanese": "【形】いくつかの"
+  },
+  {
+    "index": 1524,
+    "english": "final",
+    "japanese": "【形】最後の"
+  },
+  {
+    "index": 1525,
+    "english": "real",
+    "japanese": "【形】現実の，実在する；真の，本物の"
+  },
+  {
+    "index": 1526,
+    "english": "similar",
+    "japanese": "【形】似ている；同様の"
+  },
+  {
+    "index": 1527,
+    "english": "common",
+    "japanese": "【形】普通の，ありふれた（⇔rare →349）；共通の"
+  },
+  {
+    "index": 1528,
+    "english": "general",
+    "japanese": "【形】一般的な（⇔special →88）；全体の；おおよその"
+  },
+  {
+    "index": 1529,
+    "english": "usual",
+    "japanese": "【形】いつもの；普通の（⇔unusual 普通ではない，異常な）"
+  },
+  {
+    "index": 1530,
+    "english": "particular",
+    "japanese": "【形】特定の；特別の"
+  },
+  {
+    "index": 1531,
+    "english": "recognize",
+    "japanese": "【動】だとわかる，を識別する；を認める"
+  },
+  {
+    "index": 1532,
+    "english": "require",
+    "japanese": "【動】を要求する；を必要とする"
+  },
+  {
+    "index": 1533,
+    "english": "depend",
+    "japanese": "【動】当てにする；...次第である"
+  },
+  {
+    "index": 1534,
+    "english": "rely",
+    "japanese": "【動】当てにする；信頼する"
+  },
+  {
+    "index": 1535,
+    "english": "serve",
+    "japanese": "【動】（食事）を出す；（に）役立つ；（に）仕える"
+  },
+  {
+    "index": 1536,
+    "english": "fill",
+    "japanese": "【動】を満たす（⇔empty →357）"
+  },
+  {
+    "index": 1537,
+    "english": "hurt",
+    "japanese": "【動】を傷つける，害する；痛む"
+  },
+  {
+    "index": 1538,
+    "english": "measure",
+    "japanese": "【動】を測る；寸法がある"
+  },
+  {
+    "index": 1539,
+    "english": "prepare",
+    "japanese": "【動】（を）準備［用意］する"
+  },
+  {
+    "index": 1540,
+    "english": "mark",
+    "japanese": "【動】にしるしをつける"
+  },
+  {
+    "index": 1541,
+    "english": "focus",
+    "japanese": "【動】焦点を絞る，集中する"
+  },
+  {
+    "index": 1542,
+    "english": "promote",
+    "japanese": "【動】を促進する；を昇格させる"
+  },
+  {
+    "index": 1543,
+    "english": "attract",
+    "japanese": "【動】を引き寄せる；を魅了する"
+  },
+  {
+    "index": 1544,
+    "english": "draw",
+    "japanese": "【動】を描く，（線）を引く；を引きつける；を引き起こす"
+  },
+  {
+    "index": 1545,
+    "english": "relate",
+    "japanese": "【動】を関連づける"
+  },
+  {
+    "index": 1546,
+    "english": "connect",
+    "japanese": "【動】をつなぐ；つながる，接続する"
+  },
+  {
+    "index": 1547,
+    "english": "divide",
+    "japanese": "【動】を分ける"
+  },
+  {
+    "index": 1548,
+    "english": "regard",
+    "japanese": "【動】と思う，見なす；を尊敬する"
+  },
+  {
+    "index": 1549,
+    "english": "suppose",
+    "japanese": "【動】だと思う，考える"
+  },
+  {
+    "index": 1550,
+    "english": "identify",
+    "japanese": "【動】を（同一の人［物］だと）確認する，特定する"
+  },
+  {
+    "index": 1551,
+    "english": "attempt",
+    "japanese": "【動】を試みる（≒try →1248）"
+  },
+  {
+    "index": 1552,
+    "english": "fail",
+    "japanese": "【動】をし損なう；失敗する；不合格になる"
+  },
+  {
+    "index": 1553,
+    "english": "delay",
+    "japanese": "【動】を遅らせる；を延期する"
+  },
+  {
+    "index": 1554,
+    "english": "survive",
+    "japanese": "【動】（を）生き延びる；存在し続ける"
+  },
+  {
+    "index": 1555,
+    "english": "lock",
+    "japanese": "【動】にかぎをかける"
+  },
+  {
+    "index": 1556,
+    "english": "participate",
+    "japanese": "【動】参加する"
+  },
+  {
+    "index": 1557,
+    "english": "remove",
+    "japanese": "【動】を取り除く；を移動させる；を脱ぐ"
+  },
+  {
+    "index": 1558,
+    "english": "replace",
+    "japanese": "【動】に取って代わる；を取り替える"
+  },
+  {
+    "index": 1559,
+    "english": "imitate",
+    "japanese": "【動】をまねる；を模造する"
+  },
+  {
+    "index": 1560,
+    "english": "cross",
+    "japanese": "【動】（を）横切る；（と）交差する"
+  },
+  {
+    "index": 1561,
+    "english": "rent",
+    "japanese": "【動】（有料で）を借りる；（有料で）を貸す"
+  },
+  {
+    "index": 1562,
+    "english": "obtain",
+    "japanese": "【動】（努力して）を得る"
+  },
+  {
+    "index": 1563,
+    "english": "bother",
+    "japanese": "【動】に迷惑をかける，を悩ます；気にかける"
+  },
+  {
+    "index": 1564,
+    "english": "ignore",
+    "japanese": "【動】を無視する"
+  },
+  {
+    "index": 1565,
+    "english": "react",
+    "japanese": "【動】反応する"
+  },
+  {
+    "index": 1566,
+    "english": "seek",
+    "japanese": "【動】を（追い）求める；を探す"
+  },
+  {
+    "index": 1567,
+    "english": "value",
+    "japanese": "【名】価値；価格"
+  },
+  {
+    "index": 1568,
+    "english": "attitude",
+    "japanese": "【名】態度，考え方"
+  },
+  {
+    "index": 1569,
+    "english": "behavior",
+    "japanese": "【名】振る舞い，行儀；行動；習性"
+  },
+  {
+    "index": 1570,
+    "english": "action",
+    "japanese": "【名】行動；行為"
+  },
+  {
+    "index": 1571,
+    "english": "model",
+    "japanese": "【名】型；モデル；模型，原型；模範"
+  },
+  {
+    "index": 1572,
+    "english": "passage",
+    "japanese": "【名】（文章などの）一節；通路"
+  },
+  {
+    "index": 1573,
+    "english": "effort",
+    "japanese": "【名】努力；苦労"
+  },
+  {
+    "index": 1574,
+    "english": "progress",
+    "japanese": "【名】進歩，発展；前進"
+  },
+  {
+    "index": 1575,
+    "english": "breath",
+    "japanese": "【名】呼吸，息"
+  },
+  {
+    "index": 1576,
+    "english": "circle",
+    "japanese": "【名】円，輪；仲間"
+  },
+  {
+    "index": 1577,
+    "english": "center",
+    "japanese": "【名】中心；中心施設；中心地［街］"
+  },
+  {
+    "index": 1578,
+    "english": "friendship",
+    "japanese": "【名】友情；交友関係"
+  },
+  {
+    "index": 1579,
+    "english": "relation",
+    "japanese": "【名】関係，関連"
+  },
+  {
+    "index": 1580,
+    "english": "position",
+    "japanese": "【名】位置；姿勢；立場"
+  },
+  {
+    "index": 1581,
+    "english": "rest",
+    "japanese": "【名】（the ～）残り；休息"
+  },
+  {
+    "index": 1582,
+    "english": "deal",
+    "japanese": "【名】量；取引"
+  },
+  {
+    "index": 1583,
+    "english": "process",
+    "japanese": "【名】過程；経過，推移"
+  },
+  {
+    "index": 1584,
+    "english": "aspect",
+    "japanese": "【名】（物事の）側面"
+  },
+  {
+    "index": 1585,
+    "english": "row",
+    "japanese": "【名】列"
+  },
+  {
+    "index": 1586,
+    "english": "topic",
+    "japanese": "【名】話題；主題（≒theme →407，subject →1019）"
+  },
+  {
+    "index": 1587,
+    "english": "assistant",
+    "japanese": "【名】助手，補佐"
+  },
+  {
+    "index": 1588,
+    "english": "lack",
+    "japanese": "【名】不足，ないこと"
+  },
+  {
+    "index": 1589,
+    "english": "mistake",
+    "japanese": "【名】間違い，誤り"
+  },
+  {
+    "index": 1590,
+    "english": "trouble",
+    "japanese": "【名】困難；困った事態"
+  },
+  {
+    "index": 1591,
+    "english": "damage",
+    "japanese": "【名】損害，悪影響"
+  },
+  {
+    "index": 1592,
+    "english": "noise",
+    "japanese": "【名】騒音，物音；音（≒sound →131）"
+  },
+  {
+    "index": 1593,
+    "english": "variety",
+    "japanese": "【名】いろいろ；種類；変化，多様性"
+  },
+  {
+    "index": 1594,
+    "english": "destination",
+    "japanese": "【名】目的地，行き先"
+  },
+  {
+    "index": 1595,
+    "english": "aim",
+    "japanese": "【名】目的，目標；狙い"
+  },
+  {
+    "index": 1596,
+    "english": "field",
+    "japanese": "【名】畑；競技場；分野"
+  },
+  {
+    "index": 1597,
+    "english": "impression",
+    "japanese": "【名】印象；（漠然とした）気持ち"
+  },
+  {
+    "index": 1598,
+    "english": "risk",
+    "japanese": "【名】危険；恐れ，リスク"
+  },
+  {
+    "index": 1599,
+    "english": "site",
+    "japanese": "【名】（インターネット上の）サイト；場所，用地"
+  },
+  {
+    "index": 1600,
+    "english": "track",
+    "japanese": "【名】通った跡，足跡；小道；トラック競技"
+  },
+  {
+    "index": 1601,
+    "english": "medium",
+    "japanese": "【名】媒体，メディア"
+  },
+  {
+    "index": 1602,
+    "english": "opportunity",
+    "japanese": "【名】機会"
+  },
+  {
+    "index": 1603,
+    "english": "occasion",
+    "japanese": "【名】（特定の）時；機会"
+  },
+  {
+    "index": 1604,
+    "english": "issue",
+    "japanese": "【名】問題（点）；発行；発行物"
+  },
+  {
+    "index": 1605,
+    "english": "conclusion",
+    "japanese": "【名】結論；終わり"
+  },
+  {
+    "index": 1606,
+    "english": "transportation",
+    "japanese": "【名】交通［輸送］機関；輸送"
+  },
+  {
+    "index": 1607,
+    "english": "efficient",
+    "japanese": "【形】効率的な，能率的な；有能な"
+  },
+  {
+    "index": 1608,
+    "english": "terrible",
+    "japanese": "【形】ひどい；恐ろしい"
+  },
+  {
+    "index": 1609,
+    "english": "angry",
+    "japanese": "【形】怒った"
+  },
+  {
+    "index": 1610,
+    "english": "public",
+    "japanese": "【形】公共の；大衆の，公の（⇔private →443）"
+  },
+  {
+    "index": 1611,
+    "english": "whole",
+    "japanese": "【形】全体の"
+  },
+  {
+    "index": 1612,
+    "english": "simple",
+    "japanese": "【形】簡単な；質素な"
+  },
+  {
+    "index": 1613,
+    "english": "wide",
+    "japanese": "【形】（範囲が）広い，幅広い"
+  },
+  {
+    "index": 1614,
+    "english": "narrow",
+    "japanese": "【形】（幅が）狭い"
+  },
+  {
+    "index": 1615,
+    "english": "thick",
+    "japanese": "【形】厚い（⇔thin →891）；濃い"
+  },
+  {
+    "index": 1616,
+    "english": "opposite",
+    "japanese": "【形】反対側の；（正）反対の"
+  },
+  {
+    "index": 1617,
+    "english": "proud",
+    "japanese": "【形】誇りに思って"
+  },
+  {
+    "index": 1618,
+    "english": "dry",
+    "japanese": "【形】乾燥した；乾いた（⇔wet →448）"
+  },
+  {
+    "index": 1619,
+    "english": "unique",
+    "japanese": "【形】独特の；唯一の；極めて特別な"
+  },
+  {
+    "index": 1620,
+    "english": "worth",
+    "japanese": "【形】価値がある"
+  },
+  {
+    "index": 1621,
+    "english": "fair",
+    "japanese": "【形】公正な，公平な"
+  },
+  {
+    "index": 1622,
+    "english": "conscious",
+    "japanese": "【形】意識して，気づいて；意識のある（⇔unconscious 無意識の，気づいていない）"
+  },
+  {
+    "index": 1623,
+    "english": "less",
+    "japanese": "【副】より少なく"
+  },
+  {
+    "index": 1624,
+    "english": "least",
+    "japanese": "【副】最も...でない；最も少なく（...する）"
+  },
+  {
+    "index": 1625,
+    "english": "rather",
+    "japanese": "【副】むしろ；かなり"
+  },
+  {
+    "index": 1626,
+    "english": "quite",
+    "japanese": "【副】まったく，すっかり；とても"
+  },
+  {
+    "index": 1627,
+    "english": "instead",
+    "japanese": "【副】その代わりに"
+  },
+  {
+    "index": 1628,
+    "english": "else",
+    "japanese": "【副】ほかに"
+  },
+  {
+    "index": 1629,
+    "english": "probably",
+    "japanese": "【副】たぶん"
+  },
+  {
+    "index": 1630,
+    "english": "exactly",
+    "japanese": "【副】正確に，まさに；（返答で）そのとおり"
+  },
+  {
+    "index": 1631,
+    "english": "easily",
+    "japanese": "【副】たやすく，簡単に（≒with ease →1695）"
+  },
+  {
+    "index": 1632,
+    "english": "simply",
+    "japanese": "【副】単に；簡単に；（否定文で）全然（...ない）"
+  },
+  {
+    "index": 1633,
+    "english": "immediately",
+    "japanese": "【副】すぐに（≒at once →1406，right away）"
+  },
+  {
+    "index": 1634,
+    "english": "gradually",
+    "japanese": "【副】徐々に，少しずつ（≒little by little →1424，⇔suddenly →182）"
+  },
+  {
+    "index": 1635,
+    "english": "straight",
+    "japanese": "【副】真っすぐに"
+  },
+  {
+    "index": 1636,
+    "english": "overseas",
+    "japanese": "【副】海外へ［に，で］（≒abroad →1352）"
+  },
+  {
+    "index": 1637,
+    "english": "somewhere",
+    "japanese": "【副】どこかに［へ，で］"
+  },
+  {
+    "index": 1638,
+    "english": "anyway",
+    "japanese": "【副】とにかく，いずれにしても（≒in any case［event］ →1675）；さて"
+  },
+  {
+    "index": 1639,
+    "english": "furthermore",
+    "japanese": "【副】さらに，その上"
+  },
+  {
+    "index": 1640,
+    "english": "indeed",
+    "japanese": "【副】確かに；本当に；実は"
+  },
+  {
+    "index": 1641,
+    "english": "bring about",
+    "japanese": "（事故・結果など）をもたらす，招く（≒cause →1375）"
+  },
+  {
+    "index": 1642,
+    "english": "catch up （with / to）",
+    "japanese": "（に）追いつく"
+  },
+  {
+    "index": 1643,
+    "english": "do away with",
+    "japanese": "をやめる，廃止する"
+  },
+  {
+    "index": 1644,
+    "english": "end up （with）",
+    "japanese": "（...で）終える"
+  },
+  {
+    "index": 1645,
+    "english": "figure out",
+    "japanese": "を解決する，理解する；を計算する"
+  },
+  {
+    "index": 1646,
+    "english": "fill in",
+    "japanese": "（書類など）に書き込む；（穴など）をふさぐ"
+  },
+  {
+    "index": 1647,
+    "english": "get rid of",
+    "japanese": "を取り除く"
+  },
+  {
+    "index": 1648,
+    "english": "go through",
+    "japanese": "（苦労など）を経験する（≒experience →1477）；を詳しく調べる"
+  },
+  {
+    "index": 1649,
+    "english": "have nothing to do with",
+    "japanese": "とまったく関係がない"
+  },
+  {
+    "index": 1650,
+    "english": "keep up with",
+    "japanese": "に遅れないでついていく"
+  },
+  {
+    "index": 1651,
+    "english": "make sense （to）",
+    "japanese": "（にとって）意味を成す，理解できる；（にとって）道理にかなう"
+  },
+  {
+    "index": 1652,
+    "english": "make sure （of / that ...）",
+    "japanese": "（を）確かめる；（であることを）確実にする"
+  },
+  {
+    "index": 1653,
+    "english": "make up for",
+    "japanese": "を埋め合わせる，償う"
+  },
+  {
+    "index": 1654,
+    "english": "make up one's mind",
+    "japanese": "決心する（≒decide →1230）"
+  },
+  {
+    "index": 1655,
+    "english": "never fail to do",
+    "japanese": "必ず～する"
+  },
+  {
+    "index": 1656,
+    "english": "set off （for）",
+    "japanese": "（に向けて）出発する"
+  },
+  {
+    "index": 1657,
+    "english": "set out （to do）",
+    "japanese": "（～することを）始める"
+  },
+  {
+    "index": 1658,
+    "english": "set up",
+    "japanese": "を設立する；を組み立てる"
+  },
+  {
+    "index": 1659,
+    "english": "stay［sit］ up",
+    "japanese": "（寝ないで）起きている"
+  },
+  {
+    "index": 1660,
+    "english": "take advantage of",
+    "japanese": "（機会など）を利用する；につけ込む"
+  },
+  {
+    "index": 1661,
+    "english": "take in",
+    "japanese": "を摂取する；（人）をだます"
+  },
+  {
+    "index": 1662,
+    "english": "take A into account （＝take account of A）",
+    "japanese": "Aを考慮する，Aに注意する（≒take A into consideration）"
+  },
+  {
+    "index": 1663,
+    "english": "take over",
+    "japanese": "を引き継ぐ；（会社など）を買収する"
+  },
+  {
+    "index": 1664,
+    "english": "turn down",
+    "japanese": "を拒絶する，断る（≒refuse →1234）；（音量など）を小さくする"
+  },
+  {
+    "index": 1665,
+    "english": "as a whole",
+    "japanese": "全体として（の）"
+  },
+  {
+    "index": 1666,
+    "english": "as for",
+    "japanese": "に関しては，はどうかと言えば"
+  },
+  {
+    "index": 1667,
+    "english": "as usual",
+    "japanese": "いつものように"
+  },
+  {
+    "index": 1668,
+    "english": "at least",
+    "japanese": "少なくとも（⇔at （the） most →1405）"
+  },
+  {
+    "index": 1669,
+    "english": "by means of",
+    "japanese": "によって，を用いて"
+  },
+  {
+    "index": 1670,
+    "english": "by mistake",
+    "japanese": "間違って"
+  },
+  {
+    "index": 1671,
+    "english": "for a moment",
+    "japanese": "少しの間"
+  },
+  {
+    "index": 1672,
+    "english": "for good （and all）",
+    "japanese": "永久に（≒forever →542）"
+  },
+  {
+    "index": 1673,
+    "english": "in a sense",
+    "japanese": "ある意味で"
+  },
+  {
+    "index": 1674,
+    "english": "in addition （to）",
+    "japanese": "（に）加えて；その上（≒besides）"
+  },
+  {
+    "index": 1675,
+    "english": "in any case［event］",
+    "japanese": "とにかく，いずれにしても（≒anyway →1638）"
+  },
+  {
+    "index": 1676,
+    "english": "in case of",
+    "japanese": "に備えて；もし...の場合には"
+  },
+  {
+    "index": 1677,
+    "english": "in common （with）",
+    "japanese": "（と）共通して"
+  },
+  {
+    "index": 1678,
+    "english": "in contrast （to）",
+    "japanese": "（と）対照的に"
+  },
+  {
+    "index": 1679,
+    "english": "in detail",
+    "japanese": "詳しく"
+  },
+  {
+    "index": 1680,
+    "english": "in general",
+    "japanese": "一般に，概して（⇔in particular →1681）；（名詞の後で）一般の"
+  },
+  {
+    "index": 1681,
+    "english": "in particular",
+    "japanese": "特に（⇔in general →1680）"
+  },
+  {
+    "index": 1682,
+    "english": "in public",
+    "japanese": "公然と，人前で"
+  },
+  {
+    "index": 1683,
+    "english": "in terms of A （＝in A's terms）",
+    "japanese": "Aの点から，Aに関しては"
+  },
+  {
+    "index": 1684,
+    "english": "in the end",
+    "japanese": "結局，最後に（⇔in the beginning）"
+  },
+  {
+    "index": 1685,
+    "english": "in the past",
+    "japanese": "これまで，過去に（⇔in the future →247）"
+  },
+  {
+    "index": 1686,
+    "english": "instead of",
+    "japanese": "の代わりに"
+  },
+  {
+    "index": 1687,
+    "english": "more or less",
+    "japanese": "ほとんど；多少なりとも"
+  },
+  {
+    "index": 1688,
+    "english": "no more than",
+    "japanese": "わずか，たった；にすぎない（≒only →1299）"
+  },
+  {
+    "index": 1689,
+    "english": "nothing but",
+    "japanese": "ただ...だけ"
+  },
+  {
+    "index": 1690,
+    "english": "on account of",
+    "japanese": "のために，の理由で（≒because of →588）"
+  },
+  {
+    "index": 1691,
+    "english": "on （an / the） average",
+    "japanese": "平均して"
+  },
+  {
+    "index": 1692,
+    "english": "out of order",
+    "japanese": "故障して，調子が悪くて；順序が乱れて"
+  },
+  {
+    "index": 1693,
+    "english": "A rather than B（＝rather A than B）",
+    "japanese": "BよりむしろA"
+  },
+  {
+    "index": 1694,
+    "english": "regardless of",
+    "japanese": "に関係なく，かまわず"
+  },
+  {
+    "index": 1695,
+    "english": "with ease",
+    "japanese": "容易に（≒easily →1631）"
+  },
+  {
+    "index": 1696,
+    "english": "as if［though］...",
+    "japanese": "（まるで）...する［である］ように"
+  },
+  {
+    "index": 1697,
+    "english": "even if ...",
+    "japanese": "たとえ...だとしても"
+  },
+  {
+    "index": 1698,
+    "english": "the moment （that） ...",
+    "japanese": "...するとすぐに（≒as soon as ... →259）"
+  },
+  {
+    "index": 1699,
+    "english": "used to do",
+    "japanese": "よく～したものだ，かつては～であった"
+  },
+  {
+    "index": 1700,
+    "english": "would rather A （than B）",
+    "japanese": "（Bよりは）むしろAしたい，Aでありたい"
+  }
+]

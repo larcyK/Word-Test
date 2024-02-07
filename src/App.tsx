@@ -2,8 +2,11 @@ import { Match, Switch, createSignal, onCleanup, onMount } from 'solid-js';
 import type { Component } from 'solid-js';
 import * as bootstrap from 'bootstrap';
 
-import { WordTest } from './WordTest';
-import { AppTemplate } from './AppTemplate';
+import { WordTestTitle } from './WordTestTitle';
+import AppTemplate from './AppTemplate';
+
+import logo from '../public/images/icon-192x192.png';
+import { right } from '@popperjs/core';
 
 enum PageKind {
   HOME = 'home',
@@ -29,9 +32,10 @@ const App: Component = () => {
             onClick={(e) => e.preventDefault()}
           >
             <img 
-              src="../public/images/icon-192x192.png"
-              width="30"
-              height="30"
+              src={logo}
+              style={{ "margin-right": '10px' }}
+              width="26"
+              height="26"
               class="d-inline-block align-text-top" 
             />
             Word Test
@@ -57,6 +61,7 @@ const App: Component = () => {
                   class="nav-link active"
                   aria-current="page"
                   onClick={(e) => {
+                    e.preventDefault()
                     setPageKind(PageKind.HOME);
                     console.log('Home');
                   }}
@@ -68,7 +73,10 @@ const App: Component = () => {
                 <a
                   class="nav-link active"
                   aria-current="page"
-                  onClick={(e) => setPageKind(PageKind.WORD_TEST)}
+                  onClick={(e) => {
+                    e.preventDefault()
+                    setPageKind(PageKind.WORD_TEST)
+                  }}
                 >
                   Word Test
                 </a>
@@ -77,7 +85,10 @@ const App: Component = () => {
                 <a
                   class="nav-link active"
                   aria-current="page"
-                  onClick={(e) => setPageKind(PageKind.PROFILE)}
+                  onClick={(e) => {
+                    e.preventDefault()
+                    setPageKind(PageKind.PROFILE)
+                  }}
                 >
                   Profile
                 </a>
@@ -86,7 +97,10 @@ const App: Component = () => {
                 <a
                   class="nav-link active"
                   aria-current="page"
-                  onClick={(e) => setPageKind(PageKind.TEMPLATE)}
+                  onClick={(e) => {
+                    e.preventDefault()
+                    setPageKind(PageKind.TEMPLATE)
+                  }}
                 >
                   Template
                 </a>
@@ -176,7 +190,7 @@ const App: Component = () => {
           <div>Home</div>
         </Match>
         <Match when={pageKind() === PageKind.WORD_TEST}>
-          <WordTest />
+          <WordTestTitle />
         </Match>
         <Match when={pageKind() === PageKind.PROFILE}>
           <div>Profile</div>

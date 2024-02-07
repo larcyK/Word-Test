@@ -2,7 +2,7 @@ import { onCleanup, onMount } from 'solid-js';
 import type { Component } from 'solid-js';
 import * as bootstrap from 'bootstrap';
 
-export const AppTemplate: Component = () => {
+const AppTemplate: Component = () => {
   /**
    * This function was taken from the cheatsheet example of bootstrap.
    * You will most likely remove it if using this template.
@@ -4257,3 +4257,5 @@ export const AppTemplate: Component = () => {
     </>
   );
 };
+
+export default AppTemplate;

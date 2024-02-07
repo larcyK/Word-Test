@@ -1,4 +1,5 @@
 import { defineConfig } from 'vite';
+import { VitePWA } from 'vite-plugin-pwa'
 import solidPlugin from 'vite-plugin-solid';
 // import devtools from 'solid-devtools/vite';
 
@@ -10,6 +11,30 @@ export default defineConfig({
     */
     // devtools(),
     solidPlugin(),
+    VitePWA({
+      registerType: 'autoUpdate',
+      devOptions: {
+        enabled: true
+      },
+      manifest: {
+        name: "My App",
+        short_name: "My App",
+        description: "My App",
+ 
+        icons: [
+          {
+            src: "images/icon-192x192.png",
+            type: "image/png",
+            sizes: "192x192"
+          },
+        ],
+        start_url: "index.html",
+        display: "standalone",
+        background_color: "#ffffff",
+        theme_color: "#000000",
+        lang: "ja"
+      }
+    })
   ],
   server: {
     port: 3000,

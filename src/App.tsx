@@ -63,7 +63,8 @@ const App: Component = () => {
                   onClick={(e) => {
                     e.preventDefault()
                     setPageKind(PageKind.HOME);
-                    console.log('Home');
+                    const navbarCollapse = document.querySelector('.navbar-collapse');
+                    navbarCollapse.classList.remove('show');
                   }}
                 >
                   Home
@@ -76,6 +77,8 @@ const App: Component = () => {
                   onClick={(e) => {
                     e.preventDefault()
                     setPageKind(PageKind.WORD_TEST)
+                    const navbarCollapse = document.querySelector('.navbar-collapse');
+                    navbarCollapse.classList.remove('show');
                   }}
                 >
                   Word Test
@@ -88,6 +91,8 @@ const App: Component = () => {
                   onClick={(e) => {
                     e.preventDefault()
                     setPageKind(PageKind.PROFILE)
+                    const navbarCollapse = document.querySelector('.navbar-collapse');
+                    navbarCollapse.classList.remove('show');
                   }}
                 >
                   Profile
@@ -100,6 +105,8 @@ const App: Component = () => {
                   onClick={(e) => {
                     e.preventDefault()
                     setPageKind(PageKind.TEMPLATE)
+                    const navbarCollapse = document.querySelector('.navbar-collapse');
+                    navbarCollapse.classList.remove('show');
                   }}
                 >
                   Template

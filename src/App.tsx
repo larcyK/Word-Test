@@ -2,6 +2,9 @@ import { Match, Switch, createSignal, onCleanup, onMount } from 'solid-js';
 import type { Component } from 'solid-js';
 import * as bootstrap from 'bootstrap';
 
+import { WordTest } from './WordTest';
+import { AppTemplate } from './AppTemplate';
+
 enum PageKind {
   HOME = 'home',
   WORD_TEST = 'word-test',
@@ -83,7 +86,7 @@ const App: Component = () => {
                 <a
                   class="nav-link active"
                   aria-current="page"
-                  
+                  onClick={(e) => setPageKind(PageKind.TEMPLATE)}
                 >
                   Template
                 </a>
@@ -173,13 +176,13 @@ const App: Component = () => {
           <div>Home</div>
         </Match>
         <Match when={pageKind() === PageKind.WORD_TEST}>
-          <div>Word Test</div>
+          <WordTest />
         </Match>
         <Match when={pageKind() === PageKind.PROFILE}>
           <div>Profile</div>
         </Match>
         <Match when={pageKind() === PageKind.TEMPLATE}>
-          <div>Template</div>
+          <AppTemplate />
         </Match>
       </Switch>
     </>

@@ -2,7 +2,7 @@ import { onCleanup, onMount } from 'solid-js';
 import type { Component } from 'solid-js';
 import * as bootstrap from 'bootstrap';
 
-const AppTemplate: Component = () => {
+export const AppTemplate: Component = () => {
   /**
    * This function was taken from the cheatsheet example of bootstrap.
    * You will most likely remove it if using this template.
@@ -50,13 +50,6 @@ const AppTemplate: Component = () => {
 
   return (
     <>
-      <header class="bd-header bg-dark py-3 d-flex align-items-stretch border-bottom border-dark">
-        <div class="container-fluid d-flex align-items-center">
-          <h1 class="d-flex align-items-center fs-4 text-white mb-0">
-            Bootstrap Cheatsheet
-          </h1>
-        </div>
-      </header>
       <aside class="bd-aside sticky-xl-top text-muted align-self-start mb-3 mb-xl-5 px-2">
         <h2 class="h6 pt-4 pb-3 mb-4 border-bottom">On this page</h2>
         <nav class="small" id="toc">
@@ -4264,5 +4257,3 @@ const AppTemplate: Component = () => {
     </>
   );
 };
-
-export default AppTemplate;

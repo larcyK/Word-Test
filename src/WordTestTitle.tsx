@@ -1,5 +1,6 @@
 import { For, createSignal } from "solid-js";
 import target1200 from "../public/json/target1200.json";
+import target1900 from "../public/json/target1900.json";
 
 interface Word {
   id: number;
@@ -18,16 +19,24 @@ interface Problem {
   choices: string[];
 }
 
+function jsonToWords(json: any): Word[] {
+  return json.map((word: any) => {
+    return {
+      id: word.id,
+      eng: word.english,
+      jpn: word.japanese,
+    };
+  });
+}
+
 const wordBooks: WordBook[] = [
   {
     title: "ターゲット1200",
-    words: target1200.map((word: any) => {
-      return {
-        id: word.id,
-        eng: word.english,
-        jpn: word.japanese,
-      };
-    })
+    words: jsonToWords(target1200),
+  },
+  {
+    title: "ターゲット1900",
+    words: jsonToWords(target1900),
   },
 ];
 

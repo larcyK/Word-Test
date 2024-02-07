@@ -1,0 +1,9502 @@
+[
+  {
+    "index": 1,
+    "english": "create",
+    "japanese": "を創り出す；を引き起こす"
+  },
+  {
+    "index": 2,
+    "english": "increase",
+    "japanese": "増加する（⇔ decrease ⇒ 223）；を増やす"
+  },
+  {
+    "index": 3,
+    "english": "improve",
+    "japanese": "を向上させる；よくなる"
+  },
+  {
+    "index": 4,
+    "english": "mean",
+    "japanese": "を意味する；（...する）つもりである（to do）"
+  },
+  {
+    "index": 5,
+    "english": "own",
+    "japanese": "を所有している；（事実・罪など）を認める"
+  },
+  {
+    "index": 6,
+    "english": "include",
+    "japanese": "を含む（⇔ exclude ⇒ 1009）"
+  },
+  {
+    "index": 7,
+    "english": "consider",
+    "japanese": "を見なす；について考える"
+  },
+  {
+    "index": 8,
+    "english": "allow",
+    "japanese": "を許す；を与える；（～を）考慮に入れる（for）"
+  },
+  {
+    "index": 9,
+    "english": "suggest",
+    "japanese": "を提案する；を暗示する"
+  },
+  {
+    "index": 10,
+    "english": "produce",
+    "japanese": "を生産する；を取り出す"
+  },
+  {
+    "index": 11,
+    "english": "decide",
+    "japanese": "を決める；に決着をつける"
+  },
+  {
+    "index": 12,
+    "english": "offer",
+    "japanese": "を提供する，申し出る"
+  },
+  {
+    "index": 13,
+    "english": "require",
+    "japanese": "を要求する；を必要とする"
+  },
+  {
+    "index": 14,
+    "english": "share",
+    "japanese": "を共有する；を分担する"
+  },
+  {
+    "index": 15,
+    "english": "store",
+    "japanese": "を保存する；を蓄える"
+  },
+  {
+    "index": 16,
+    "english": "tend",
+    "japanese": "傾向がある；を世話する"
+  },
+  {
+    "index": 17,
+    "english": "concern",
+    "japanese": "〔受身形で〕心配している；〔受身形で〕（～に）関係する（with）；に関連する"
+  },
+  {
+    "index": 18,
+    "english": "describe",
+    "japanese": "について述べる，を説明する"
+  },
+  {
+    "index": 19,
+    "english": "involve",
+    "japanese": "を関与させる；を伴う"
+  },
+  {
+    "index": 20,
+    "english": "reduce",
+    "japanese": "を減らす；を（～に）変える（to）"
+  },
+  {
+    "index": 21,
+    "english": "design",
+    "japanese": "を設計する；を計画する"
+  },
+  {
+    "index": 22,
+    "english": "force",
+    "japanese": "に強いる；を強要する"
+  },
+  {
+    "index": 23,
+    "english": "limit",
+    "japanese": "を制限［規制］する"
+  },
+  {
+    "index": 24,
+    "english": "bear",
+    "japanese": "に耐える（≒ endure ⇒ 824）；を負う；を産む；を（心に）抱く"
+  },
+  {
+    "index": 25,
+    "english": "affect",
+    "japanese": "に影響を及ぼす（≒ influence ⇒ 49）；を感動させる"
+  },
+  {
+    "index": 26,
+    "english": "deal",
+    "japanese": "〔deal withで〕を処理する；〔deal inで〕を商う；を分配する"
+  },
+  {
+    "index": 27,
+    "english": "avoid",
+    "japanese": "を避ける"
+  },
+  {
+    "index": 28,
+    "english": "relate",
+    "japanese": "を関連づける；（～に）関連する（to）"
+  },
+  {
+    "index": 29,
+    "english": "realize",
+    "japanese": "に気づく；を実現する"
+  },
+  {
+    "index": 30,
+    "english": "encourage",
+    "japanese": "を奨励する；を励ます（⇔ discourage ⇒ 706）"
+  },
+  {
+    "index": 31,
+    "english": "compare",
+    "japanese": "を比較する；を（～に）たとえる（to）"
+  },
+  {
+    "index": 32,
+    "english": "measure",
+    "japanese": "を測る；を（比較して）評価する"
+  },
+  {
+    "index": 33,
+    "english": "exist",
+    "japanese": "存在する；生存する"
+  },
+  {
+    "index": 34,
+    "english": "mark",
+    "japanese": "に印をつける；を（記号で）示す；に汚れをつける"
+  },
+  {
+    "index": 35,
+    "english": "challenge",
+    "japanese": "に異議を唱える；（人）に挑む"
+  },
+  {
+    "index": 36,
+    "english": "depend",
+    "japanese": "頼る；～次第である"
+  },
+  {
+    "index": 37,
+    "english": "object",
+    "japanese": "反対する；（...）と言って反対する（that節）"
+  },
+  {
+    "index": 38,
+    "english": "demand",
+    "japanese": "を要求する"
+  },
+  {
+    "index": 39,
+    "english": "found",
+    "japanese": "を設立する；（理論など）を（～に基づいて）築く（on）"
+  },
+  {
+    "index": 40,
+    "english": "complete",
+    "japanese": "を完成させる，仕上げる"
+  },
+  {
+    "index": 41,
+    "english": "idea",
+    "japanese": "考え，思いつき；理解；見解；概念"
+  },
+  {
+    "index": 42,
+    "english": "accord",
+    "japanese": "一致；合意，協定"
+  },
+  {
+    "index": 43,
+    "english": "company",
+    "japanese": "会社；〔集合的に〕仲間；（仲間と）一緒にいること；一座"
+  },
+  {
+    "index": 44,
+    "english": "interest",
+    "japanese": "興味；利子；利害"
+  },
+  {
+    "index": 45,
+    "english": "research",
+    "japanese": "（～についての）研究，調査（into / on / in）"
+  },
+  {
+    "index": 46,
+    "english": "cause",
+    "japanese": "原因（⇔ effect ⇒ 48）；理由；大義"
+  },
+  {
+    "index": 47,
+    "english": "reason",
+    "japanese": "理由；（...する）根拠（to do）；理性；分別"
+  },
+  {
+    "index": 48,
+    "english": "effect",
+    "japanese": "影響，効果；結果"
+  },
+  {
+    "index": 49,
+    "english": "influence",
+    "japanese": "影響（力）"
+  },
+  {
+    "index": 50,
+    "english": "situation",
+    "japanese": "状況；（人の置かれた）立場"
+  },
+  {
+    "index": 51,
+    "english": "environment",
+    "japanese": "環境（≒ surroundings）"
+  },
+  {
+    "index": 52,
+    "english": "skill",
+    "japanese": "技能；熟練"
+  },
+  {
+    "index": 53,
+    "english": "matter",
+    "japanese": "事柄；問題；〔～s〕事態；〔the ～〕困難；物質"
+  },
+  {
+    "index": 54,
+    "english": "view",
+    "japanese": "（～についての）見解（on / about）；（～に対する）（特定の）見方（of）；眺め"
+  },
+  {
+    "index": 55,
+    "english": "value",
+    "japanese": "価値；価格；評価；〔～s〕価値観"
+  },
+  {
+    "index": 56,
+    "english": "species",
+    "japanese": "（生物の）種；種類"
+  },
+  {
+    "index": 57,
+    "english": "thought",
+    "japanese": "考え；思考"
+  },
+  {
+    "index": 58,
+    "english": "knowledge",
+    "japanese": "知識；知っていること；認識"
+  },
+  {
+    "index": 59,
+    "english": "memory",
+    "japanese": "記憶（力）；（～の）思い出（of）"
+  },
+  {
+    "index": 60,
+    "english": "practice",
+    "japanese": "実践，実行；（社会の）慣習；練習"
+  },
+  {
+    "index": 61,
+    "english": "benefit",
+    "japanese": "利益，恩恵；給付金"
+  },
+  {
+    "index": 62,
+    "english": "theory",
+    "japanese": "学説；理論；原理；推測"
+  },
+  {
+    "index": 63,
+    "english": "issue",
+    "japanese": "問題（点）；発行（物）；発表"
+  },
+  {
+    "index": 64,
+    "english": "experiment",
+    "japanese": "（～を対象とする）実験（on）"
+  },
+  {
+    "index": 65,
+    "english": "article",
+    "japanese": "記事；条項；品物"
+  },
+  {
+    "index": 66,
+    "english": "focus",
+    "japanese": "焦点；関心の的"
+  },
+  {
+    "index": 67,
+    "english": "subject",
+    "japanese": "話題；科目；主題；被験者"
+  },
+  {
+    "index": 68,
+    "english": "project",
+    "japanese": "計画；事業；研究計画"
+  },
+  {
+    "index": 69,
+    "english": "quality",
+    "japanese": "質（⇔ quantity ⇒ 471）；特質"
+  },
+  {
+    "index": 70,
+    "english": "role",
+    "japanese": "役割；（俳優などの）役"
+  },
+  {
+    "index": 71,
+    "english": "term",
+    "japanese": "（専門）用語；〔～s〕条件；〔～s〕間柄；学期"
+  },
+  {
+    "index": 72,
+    "english": "statement",
+    "japanese": "声明；主張；明細書"
+  },
+  {
+    "index": 73,
+    "english": "material",
+    "japanese": "材料，素材；資料；生地"
+  },
+  {
+    "index": 74,
+    "english": "evidence",
+    "japanese": "証拠"
+  },
+  {
+    "index": 75,
+    "english": "source",
+    "japanese": "（～の）源，根源（of）；出所，情報源"
+  },
+  {
+    "index": 76,
+    "english": "community",
+    "japanese": "（共同）社会，～界；地域社会；地域住民"
+  },
+  {
+    "index": 77,
+    "english": "technology",
+    "japanese": "科学技術；応用技術"
+  },
+  {
+    "index": 78,
+    "english": "culture",
+    "japanese": "文化；教養；耕作；養殖；培養"
+  },
+  {
+    "index": 79,
+    "english": "appropriate",
+    "japanese": "（～に）適切な（for / to）"
+  },
+  {
+    "index": 80,
+    "english": "likely",
+    "japanese": "ありそうな（⇔ unlikely ありそうもない）"
+  },
+  {
+    "index": 81,
+    "english": "possible",
+    "japanese": "可能な；可能性のある"
+  },
+  {
+    "index": 82,
+    "english": "individual",
+    "japanese": "個々の；個人の"
+  },
+  {
+    "index": 83,
+    "english": "public",
+    "japanese": "公の（⇔ private 私的な）；公衆の；公開の"
+  },
+  {
+    "index": 84,
+    "english": "common",
+    "japanese": "共通の；普通の；一般の"
+  },
+  {
+    "index": 85,
+    "english": "certain",
+    "japanese": "確信して；確かな；ある；一定の"
+  },
+  {
+    "index": 86,
+    "english": "similar",
+    "japanese": "似ている，類似した；同様の"
+  },
+  {
+    "index": 87,
+    "english": "recent",
+    "japanese": "最近の"
+  },
+  {
+    "index": 88,
+    "english": "major",
+    "japanese": "主要な；大きい（ほうの）；長調の"
+  },
+  {
+    "index": 89,
+    "english": "patient",
+    "japanese": "忍耐強い；勤勉な"
+  },
+  {
+    "index": 90,
+    "english": "particular",
+    "japanese": "特定の；特別の；（～について）やかましい（about）"
+  },
+  {
+    "index": 91,
+    "english": "physical",
+    "japanese": "身体の（⇔ mental ⇒ 183）；物質的な；物理学の"
+  },
+  {
+    "index": 92,
+    "english": "various",
+    "japanese": "さまざまな；いくつかの"
+  },
+  {
+    "index": 93,
+    "english": "available",
+    "japanese": "手に入る；利用できる；手が空いている"
+  },
+  {
+    "index": 94,
+    "english": "native",
+    "japanese": "出生地の；原産の；生得の"
+  },
+  {
+    "index": 95,
+    "english": "political",
+    "japanese": "政治（上）の"
+  },
+  {
+    "index": 96,
+    "english": "due",
+    "japanese": "予定された；（支払）期日で；しかるべき"
+  },
+  {
+    "index": 97,
+    "english": "blank",
+    "japanese": "空白の；無表情な；がらんとした"
+  },
+  {
+    "index": 98,
+    "english": "ancient",
+    "japanese": "古代の；昔からの"
+  },
+  {
+    "index": 99,
+    "english": "correct",
+    "japanese": "正しい；適切な"
+  },
+  {
+    "index": 100,
+    "english": "despite",
+    "japanese": "～にもかかわらず（≒ in spite of）"
+  },
+  {
+    "index": 101,
+    "english": "notice",
+    "japanese": "に気づく"
+  },
+  {
+    "index": 102,
+    "english": "refer",
+    "japanese": "言及する，関連する；参照する"
+  },
+  {
+    "index": 103,
+    "english": "approach",
+    "japanese": "に近づく；に取り組む"
+  },
+  {
+    "index": 104,
+    "english": "wonder",
+    "japanese": "かなと思う；（に）驚く（at）"
+  },
+  {
+    "index": 105,
+    "english": "imagine",
+    "japanese": "（を）想像する；（を）推測する"
+  },
+  {
+    "index": 106,
+    "english": "recognize",
+    "japanese": "を識別できる；を認める"
+  },
+  {
+    "index": 107,
+    "english": "solve",
+    "japanese": "を解く，解明する；（困難など）を解決する"
+  },
+  {
+    "index": 108,
+    "english": "occur",
+    "japanese": "起こる；心に浮かぶ；現れる"
+  },
+  {
+    "index": 109,
+    "english": "argue",
+    "japanese": "と主張する（≒ claim ⇒ 110"
+  },
+  {
+    "index": 110,
+    "english": "claim",
+    "japanese": "と主張する；を（自分のものとして）要求する"
+  },
+  {
+    "index": 111,
+    "english": "express",
+    "japanese": "を表す，述べる"
+  },
+  {
+    "index": 112,
+    "english": "draw",
+    "japanese": "を引き出す；を引く；を描く；近づく"
+  },
+  {
+    "index": 113,
+    "english": "waste",
+    "japanese": "を浪費する，無駄にする"
+  },
+  {
+    "index": 114,
+    "english": "advance",
+    "japanese": "を進歩させる；を進める；進歩する；進む"
+  },
+  {
+    "index": 115,
+    "english": "spread",
+    "japanese": "を広める；広がる"
+  },
+  {
+    "index": 116,
+    "english": "prepare",
+    "japanese": "を準備する；を調理する；（～のために）準備をする（for）"
+  },
+  {
+    "index": 117,
+    "english": "gain",
+    "japanese": "を獲得する；（を）増す"
+  },
+  {
+    "index": 118,
+    "english": "achieve",
+    "japanese": "を達成する；を成し遂げる"
+  },
+  {
+    "index": 119,
+    "english": "establish",
+    "japanese": "を確立する；を設立する"
+  },
+  {
+    "index": 120,
+    "english": "supply",
+    "japanese": "を供給する"
+  },
+  {
+    "index": 121,
+    "english": "suppose",
+    "japanese": "と思う；と仮定する"
+  },
+  {
+    "index": 122,
+    "english": "perform",
+    "japanese": "（を）行う；（を）演じる，（を）演奏する"
+  },
+  {
+    "index": 123,
+    "english": "prefer",
+    "japanese": "のほうを好む"
+  },
+  {
+    "index": 124,
+    "english": "determine",
+    "japanese": "を決定する；を正確に知る"
+  },
+  {
+    "index": 125,
+    "english": "treat",
+    "japanese": "を扱う；を治療する"
+  },
+  {
+    "index": 126,
+    "english": "prove",
+    "japanese": "を証明する；判明する，わかる"
+  },
+  {
+    "index": 127,
+    "english": "apply",
+    "japanese": "を適用［応用］する；申し込む；（～に）適用される（to / in）"
+  },
+  {
+    "index": 128,
+    "english": "mention",
+    "japanese": "に言及する；と言う"
+  },
+  {
+    "index": 129,
+    "english": "communicate",
+    "japanese": "（～と）情報交換をする（with）；を伝達する"
+  },
+  {
+    "index": 130,
+    "english": "contain",
+    "japanese": "を含む；を収容する；（感情など）を抑える"
+  },
+  {
+    "index": 131,
+    "english": "contact",
+    "japanese": "と連絡を取る；接触する"
+  },
+  {
+    "index": 132,
+    "english": "regard",
+    "japanese": "を見なす；を見る；を評価する"
+  },
+  {
+    "index": 133,
+    "english": "respect",
+    "japanese": "を尊敬する；を尊重する"
+  },
+  {
+    "index": 134,
+    "english": "search",
+    "japanese": "捜す；を捜索する；を詳しく調べる"
+  },
+  {
+    "index": 135,
+    "english": "connect",
+    "japanese": "をつなぐ；を関連づける"
+  },
+  {
+    "index": 136,
+    "english": "decline",
+    "japanese": "減少する；衰退する；を断る"
+  },
+  {
+    "index": 137,
+    "english": "prevent",
+    "japanese": "を妨げる；を防ぐ"
+  },
+  {
+    "index": 138,
+    "english": "suffer",
+    "japanese": "苦しむ；患う；（苦痛など）を経験する"
+  },
+  {
+    "index": 139,
+    "english": "survive",
+    "japanese": "を切り抜けて生き残る；より長生きする；生き延びる"
+  },
+  {
+    "index": 140,
+    "english": "publish",
+    "japanese": "を出版する；を公表する"
+  },
+  {
+    "index": 141,
+    "english": "opportunity",
+    "japanese": "機会（≒ chance）"
+  },
+  {
+    "index": 142,
+    "english": "task",
+    "japanese": "（課せられた）仕事，作業；課題；タスク"
+  },
+  {
+    "index": 143,
+    "english": "industry",
+    "japanese": "産業；勤勉（≒ diligence）"
+  },
+  {
+    "index": 144,
+    "english": "medium",
+    "japanese": "（情報伝達の）媒体；手段"
+  },
+  {
+    "index": 145,
+    "english": "economy",
+    "japanese": "経済（状態）；経済圏；節約"
+  },
+  {
+    "index": 146,
+    "english": "policy",
+    "japanese": "政策，方針；（個人の）主義"
+  },
+  {
+    "index": 147,
+    "english": "account",
+    "japanese": "説明；勘定；口座"
+  },
+  {
+    "index": 148,
+    "english": "trade",
+    "japanese": "貿易；商売，取引"
+  },
+  {
+    "index": 149,
+    "english": "model",
+    "japanese": "模範；モデル；模型；型"
+  },
+  {
+    "index": 150,
+    "english": "figure",
+    "japanese": "数字；姿；人物；図表"
+  },
+  {
+    "index": 151,
+    "english": "cell",
+    "japanese": "細胞；独房；電池"
+  },
+  {
+    "index": 152,
+    "english": "image",
+    "japanese": "印象，イメージ；画像；像"
+  },
+  {
+    "index": 153,
+    "english": "emotion",
+    "japanese": "感情，情動；感動"
+  },
+  {
+    "index": 154,
+    "english": "stress",
+    "japanese": "ストレス；圧力；強調"
+  },
+  {
+    "index": 155,
+    "english": "decade",
+    "japanese": "10年間"
+  },
+  {
+    "index": 156,
+    "english": "range",
+    "japanese": "範囲；射程距離；（同類の）組"
+  },
+  {
+    "index": 157,
+    "english": "character",
+    "japanese": "性格，個性；特徴；登場人物；文字"
+  },
+  {
+    "index": 158,
+    "english": "advantage",
+    "japanese": "利点；優勢；有利"
+  },
+  {
+    "index": 159,
+    "english": "phrase",
+    "japanese": "句；成句；言葉遣い"
+  },
+  {
+    "index": 160,
+    "english": "damage",
+    "japanese": "損害，損傷；〔～s〕損害賠償金"
+  },
+  {
+    "index": 161,
+    "english": "impact",
+    "japanese": "影響；（激しい）衝突；衝撃（力）"
+  },
+  {
+    "index": 162,
+    "english": "method",
+    "japanese": "方法；体系；秩序"
+  },
+  {
+    "index": 163,
+    "english": "resource",
+    "japanese": "〔通例～s〕資源；〔通例～s〕資金；才覚"
+  },
+  {
+    "index": 164,
+    "english": "region",
+    "japanese": "地域；領域；部位"
+  },
+  {
+    "index": 165,
+    "english": "medicine",
+    "japanese": "薬；医学"
+  },
+  {
+    "index": 166,
+    "english": "detail",
+    "japanese": "〔～s〕詳細（な情報），細部"
+  },
+  {
+    "index": 167,
+    "english": "feature",
+    "japanese": "特徴；〔通例～s〕顔つき；特集記事［番組］"
+  },
+  {
+    "index": 168,
+    "english": "function",
+    "japanese": "機能；関数"
+  },
+  {
+    "index": 169,
+    "english": "access",
+    "japanese": "利用，入手；接近（の機会・方法・権利）"
+  },
+  {
+    "index": 170,
+    "english": "item",
+    "japanese": "品目，項目；（同種の中の）～個；（短い）記事"
+  },
+  {
+    "index": 171,
+    "english": "income",
+    "japanese": "収入；所得"
+  },
+  {
+    "index": 172,
+    "english": "attitude",
+    "japanese": "態度；考え方，心構え"
+  },
+  {
+    "index": 173,
+    "english": "site",
+    "japanese": "用地，場所；跡地；（ウェブ）サイト"
+  },
+  {
+    "index": 174,
+    "english": "aspect",
+    "japanese": "（物事の）側面；観点；様相"
+  },
+  {
+    "index": 175,
+    "english": "structure",
+    "japanese": "構造；体系；構造物"
+  },
+  {
+    "index": 176,
+    "english": "habit",
+    "japanese": "習慣，癖"
+  },
+  {
+    "index": 177,
+    "english": "link",
+    "japanese": "関連，つながり；（2地点を結ぶ）交通手段；リンク"
+  },
+  {
+    "index": 178,
+    "english": "instance",
+    "japanese": "（具体的な）例，実例；（特定の）場合"
+  },
+  {
+    "index": 179,
+    "english": "positive",
+    "japanese": "肯定的な；積極的な；確信して；（検査結果が）陽性の"
+  },
+  {
+    "index": 180,
+    "english": "negative",
+    "japanese": "否定的な；消極的な；（検査結果が）陰性の"
+  },
+  {
+    "index": 181,
+    "english": "complex",
+    "japanese": "複雑な；複合（体）の"
+  },
+  {
+    "index": 182,
+    "english": "current",
+    "japanese": "現在の；現代の；通用している"
+  },
+  {
+    "index": 183,
+    "english": "mental",
+    "japanese": "精神の；知能の；頭の中で行う"
+  },
+  {
+    "index": 184,
+    "english": "specific",
+    "japanese": "特定の；明確な，具体的な；（～に）特有の（to）"
+  },
+  {
+    "index": 185,
+    "english": "significant",
+    "japanese": "重要な，重大な；意義深い"
+  },
+  {
+    "index": 186,
+    "english": "essential",
+    "japanese": "（～に）必要不可欠な（to / for）；本質的な"
+  },
+  {
+    "index": 187,
+    "english": "official",
+    "japanese": "公用の；公式の；役所の"
+  },
+  {
+    "index": 188,
+    "english": "financial",
+    "japanese": "財政（上）の；財界の"
+  },
+  {
+    "index": 189,
+    "english": "academic",
+    "japanese": "学問の；大学の"
+  },
+  {
+    "index": 190,
+    "english": "aware",
+    "japanese": "気づいて，知って"
+  },
+  {
+    "index": 191,
+    "english": "worth",
+    "japanese": "（...する）に値する（doing）；の価値がある"
+  },
+  {
+    "index": 192,
+    "english": "potential",
+    "japanese": "潜在的な；可能性を秘めた"
+  },
+  {
+    "index": 193,
+    "english": "active",
+    "japanese": "積極的な；活動的な；効力のある"
+  },
+  {
+    "index": 194,
+    "english": "digital",
+    "japanese": "デジタル方式の；デジタル［数字］表示の"
+  },
+  {
+    "index": 195,
+    "english": "mobile",
+    "japanese": "可動［移動］式の；流動性のある"
+  },
+  {
+    "index": 196,
+    "english": "novel",
+    "japanese": "斬新な，目新しい"
+  },
+  {
+    "index": 197,
+    "english": "plastic",
+    "japanese": "柔軟な；プラスチックの，ビニールの"
+  },
+  {
+    "index": 198,
+    "english": "chemical",
+    "japanese": "化学の，化学的な"
+  },
+  {
+    "index": 199,
+    "english": "necessary",
+    "japanese": "必要な（≒ essential ⇒ 186）"
+  },
+  {
+    "index": 200,
+    "english": "eventually",
+    "japanese": "結局（は）"
+  },
+  {
+    "index": 201,
+    "english": "identify",
+    "japanese": "を特定する；を（～と）同一視する（with）"
+  },
+  {
+    "index": 202,
+    "english": "represent",
+    "japanese": "を表す；を代表する；に相当する"
+  },
+  {
+    "index": 203,
+    "english": "indicate",
+    "japanese": "を指し示す；を述べる"
+  },
+  {
+    "index": 204,
+    "english": "manage",
+    "japanese": "をなんとか成し遂げる；を管理する"
+  },
+  {
+    "index": 205,
+    "english": "attend",
+    "japanese": "に出席する；（を）世話する；（～に）対処［対応］する（to）"
+  },
+  {
+    "index": 206,
+    "english": "maintain",
+    "japanese": "を維持する；と主張する；を養う"
+  },
+  {
+    "index": 207,
+    "english": "survey",
+    "japanese": "を調査する；をじろじろ見る；を概観する"
+  },
+  {
+    "index": 208,
+    "english": "replace",
+    "japanese": "に取って代わる；を取り替える"
+  },
+  {
+    "index": 209,
+    "english": "sort",
+    "japanese": "を（～に）分類する（into）；を（～から）えり分ける（from）"
+  },
+  {
+    "index": 210,
+    "english": "conduct",
+    "japanese": "（調査・実験など）を実施する；を導く"
+  },
+  {
+    "index": 211,
+    "english": "associate",
+    "japanese": "を結び付けて考える；（～と）交際する（with）"
+  },
+  {
+    "index": 212,
+    "english": "attempt",
+    "japanese": "を試みる，企てる"
+  },
+  {
+    "index": 213,
+    "english": "promote",
+    "japanese": "を促進する；〔通例受身形で〕昇進する"
+  },
+  {
+    "index": 214,
+    "english": "earn",
+    "japanese": "を稼ぐ；を得る；をもたらす"
+  },
+  {
+    "index": 215,
+    "english": "unite",
+    "japanese": "を団結させる；（を）結合する；団結する"
+  },
+  {
+    "index": 216,
+    "english": "feed",
+    "japanese": "に食べ物［乳］を与える；に（～を）供給［補給］する（with）；餌を食べる"
+  },
+  {
+    "index": 217,
+    "english": "seek",
+    "japanese": "を追い求める；（助けなど）を要請する"
+  },
+  {
+    "index": 218,
+    "english": "observe",
+    "japanese": "に気づく；を観察する；を遵守する"
+  },
+  {
+    "index": 219,
+    "english": "reveal",
+    "japanese": "を明らかにする；を見せる"
+  },
+  {
+    "index": 220,
+    "english": "estimate",
+    "japanese": "と推定する；を見積もる；を評価する"
+  },
+  {
+    "index": 221,
+    "english": "reflect",
+    "japanese": "を反映する；（を）反射する；（を）熟考する"
+  },
+  {
+    "index": 222,
+    "english": "attract",
+    "japanese": "を引きつける"
+  },
+  {
+    "index": 223,
+    "english": "decrease",
+    "japanese": "減少する（⇔ increase ⇒ 2）；を減らす"
+  },
+  {
+    "index": 224,
+    "english": "ignore",
+    "japanese": "を無視する"
+  },
+  {
+    "index": 225,
+    "english": "match",
+    "japanese": "（と）合う；に匹敵する；一致する"
+  },
+  {
+    "index": 226,
+    "english": "define",
+    "japanese": "を定義する；を明確にする"
+  },
+  {
+    "index": 227,
+    "english": "adapt",
+    "japanese": "適応する；を（～に）適合させる（to）"
+  },
+  {
+    "index": 228,
+    "english": "contribute",
+    "japanese": "貢献する，一因となる；（を）寄付する；（を）寄稿する"
+  },
+  {
+    "index": 229,
+    "english": "exchange",
+    "japanese": "（を）交換する；両替する"
+  },
+  {
+    "index": 230,
+    "english": "display",
+    "japanese": "を示す；を発揮する；を展示［陳列］する"
+  },
+  {
+    "index": 231,
+    "english": "respond",
+    "japanese": "反応する；答える"
+  },
+  {
+    "index": 232,
+    "english": "hide",
+    "japanese": "を隠す（≒ conceal ⇒ 1116）；隠れる"
+  },
+  {
+    "index": 233,
+    "english": "doubt",
+    "japanese": "ではないと思う；を疑う"
+  },
+  {
+    "index": 234,
+    "english": "remove",
+    "japanese": "を取り除く；を解雇する"
+  },
+  {
+    "index": 235,
+    "english": "wind",
+    "japanese": "（ねじなど）を巻く；（道などが）曲がりくねる；巻きつく"
+  },
+  {
+    "index": 236,
+    "english": "assume",
+    "japanese": "を当然のことと思う，と仮定する；（権力など）を手に入れる；（責任など）を引き受ける"
+  },
+  {
+    "index": 237,
+    "english": "relax",
+    "japanese": "くつろぐ；緩む；をくつろがせる；を緩める"
+  },
+  {
+    "index": 238,
+    "english": "satisfy",
+    "japanese": "を満足させる；（条件など）を満たす"
+  },
+  {
+    "index": 239,
+    "english": "desire",
+    "japanese": "を強く望む"
+  },
+  {
+    "index": 240,
+    "english": "succeed",
+    "japanese": "（～に）成功する（in）；（～を）継承する（to）"
+  },
+  {
+    "index": 241,
+    "english": "concept",
+    "japanese": "概念；考え；（商品・販売の）コンセプト"
+  },
+  {
+    "index": 242,
+    "english": "fashion",
+    "japanese": "流行，ファッション；方法，流儀"
+  },
+  {
+    "index": 243,
+    "english": "device",
+    "japanese": "装置，機器；方策；デバイス"
+  },
+  {
+    "index": 244,
+    "english": "charge",
+    "japanese": "料金；世話；管理；告発"
+  },
+  {
+    "index": 245,
+    "english": "contrast",
+    "japanese": "（～との）対照（with / to）"
+  },
+  {
+    "index": 246,
+    "english": "colleague",
+    "japanese": "（職場の）同僚"
+  },
+  {
+    "index": 247,
+    "english": "pain",
+    "japanese": "苦痛，痛み；苦悩；〔～s〕骨折り"
+  },
+  {
+    "index": 248,
+    "english": "bill",
+    "japanese": "請求書；【英】勘定書（≒ 【米】check）；法案"
+  },
+  {
+    "index": 249,
+    "english": "content",
+    "japanese": "内容，中身；コンテンツ"
+  },
+  {
+    "index": 250,
+    "english": "section",
+    "japanese": "部門；部分；地区；欄"
+  },
+  {
+    "index": 251,
+    "english": "audience",
+    "japanese": "〔集合的に〕聴衆，観客；視聴者"
+  },
+  {
+    "index": 252,
+    "english": "surface",
+    "japanese": "表面；〔the ～〕外見"
+  },
+  {
+    "index": 253,
+    "english": "crop",
+    "japanese": "〔しばしば～s〕作物；収穫高"
+  },
+  {
+    "index": 254,
+    "english": "topic",
+    "japanese": "話題，トピック；主題"
+  },
+  {
+    "index": 255,
+    "english": "technique",
+    "japanese": "技術；技巧；手法"
+  },
+  {
+    "index": 256,
+    "english": "status",
+    "japanese": "地位；状態"
+  },
+  {
+    "index": 257,
+    "english": "option",
+    "japanese": "選択（の自由）；選択肢"
+  },
+  {
+    "index": 258,
+    "english": "reward",
+    "japanese": "報酬；報い"
+  },
+  {
+    "index": 259,
+    "english": "race",
+    "japanese": "人種；民族；競争"
+  },
+  {
+    "index": 260,
+    "english": "crime",
+    "japanese": "罪，犯罪；違法行為"
+  },
+  {
+    "index": 261,
+    "english": "conflict",
+    "japanese": "争い；論争；不一致"
+  },
+  {
+    "index": 262,
+    "english": "struggle",
+    "japanese": "闘い；懸命の努力"
+  },
+  {
+    "index": 263,
+    "english": "context",
+    "japanese": "状況，背景；文脈"
+  },
+  {
+    "index": 264,
+    "english": "debate",
+    "japanese": "討論，論争；討論会"
+  },
+  {
+    "index": 265,
+    "english": "fuel",
+    "japanese": "燃料；勢いを増加させるもの"
+  },
+  {
+    "index": 266,
+    "english": "pollution",
+    "japanese": "汚染，公害"
+  },
+  {
+    "index": 267,
+    "english": "trend",
+    "japanese": "（～への）傾向（toward）；流行"
+  },
+  {
+    "index": 268,
+    "english": "balance",
+    "japanese": "均衡，バランス；（体の）平衡；残高"
+  },
+  {
+    "index": 269,
+    "english": "traffic",
+    "japanese": "交通；通行；交通［輸送］量；（不正）取引"
+  },
+  {
+    "index": 270,
+    "english": "strategy",
+    "japanese": "戦略"
+  },
+  {
+    "index": 271,
+    "english": "basis",
+    "japanese": "基礎；根拠；基準"
+  },
+  {
+    "index": 272,
+    "english": "consequence",
+    "japanese": "〔通例～s〕結果；重大性"
+  },
+  {
+    "index": 273,
+    "english": "aim",
+    "japanese": "目的，目標；狙い"
+  },
+  {
+    "index": 274,
+    "english": "ancestor",
+    "japanese": "祖先（⇔ descendant 子孫）；原型"
+  },
+  {
+    "index": 275,
+    "english": "gene",
+    "japanese": "遺伝子"
+  },
+  {
+    "index": 276,
+    "english": "track",
+    "japanese": "跡；軌道；【米】（鉄道の）番線；走路"
+  },
+  {
+    "index": 277,
+    "english": "revolution",
+    "japanese": "革命；回転；（天体の）公転（⇔ rotation 自転）"
+  },
+  {
+    "index": 278,
+    "english": "progress",
+    "japanese": "進歩；前進"
+  },
+  {
+    "index": 279,
+    "english": "cognitive",
+    "japanese": "認知の"
+  },
+  {
+    "index": 280,
+    "english": "ideal",
+    "japanese": "理想的な；観念的な"
+  },
+  {
+    "index": 281,
+    "english": "efficient",
+    "japanese": "効率的な；有能な"
+  },
+  {
+    "index": 282,
+    "english": "universal",
+    "japanese": "普遍的な；宇宙の；万能の"
+  },
+  {
+    "index": 283,
+    "english": "vast",
+    "japanese": "莫大な；広大な"
+  },
+  {
+    "index": 284,
+    "english": "extra",
+    "japanese": "追加の，余分の；別勘定の"
+  },
+  {
+    "index": 285,
+    "english": "entire",
+    "japanese": "全体の，全部の（≒ whole）；完全な"
+  },
+  {
+    "index": 286,
+    "english": "familiar",
+    "japanese": "精通している；よく知られている"
+  },
+  {
+    "index": 287,
+    "english": "obvious",
+    "japanese": "明らかな（≒ clear）"
+  },
+  {
+    "index": 288,
+    "english": "moral",
+    "japanese": "道徳（上）の，倫理的な；道徳的な"
+  },
+  {
+    "index": 289,
+    "english": "ordinary",
+    "japanese": "一般の，普通の；並の"
+  },
+  {
+    "index": 290,
+    "english": "equal",
+    "japanese": "（～に）等しい（to）；匹敵する；平等な"
+  },
+  {
+    "index": 291,
+    "english": "previous",
+    "japanese": "以前の，前の"
+  },
+  {
+    "index": 292,
+    "english": false,
+    "japanese": "間違った；虚偽の；偽の"
+  },
+  {
+    "index": 293,
+    "english": "rare",
+    "japanese": "まれな，珍しい；希少な"
+  },
+  {
+    "index": 294,
+    "english": "legal",
+    "japanese": "法律の；合法の（⇔ illegal 違法の）"
+  },
+  {
+    "index": 295,
+    "english": "independent",
+    "japanese": "（～から）独立した（of / from）"
+  },
+  {
+    "index": 296,
+    "english": "extreme",
+    "japanese": "極端な；極度の，過激な"
+  },
+  {
+    "index": 297,
+    "english": "actual",
+    "japanese": "実際の，現実の"
+  },
+  {
+    "index": 298,
+    "english": "willing",
+    "japanese": "いとわない，かまわないと思う"
+  },
+  {
+    "index": 299,
+    "english": "urban",
+    "japanese": "都市の；都会的な（⇔ rural ⇒ 387）"
+  },
+  {
+    "index": 300,
+    "english": "whereas",
+    "japanese": "～するのに（対し），～する一方"
+  },
+  {
+    "index": 301,
+    "english": "predict",
+    "japanese": "を予言［予測］する"
+  },
+  {
+    "index": 302,
+    "english": "examine",
+    "japanese": "を調べる；を診察する；を尋問する"
+  },
+  {
+    "index": 303,
+    "english": "trust",
+    "japanese": "を信頼する；を（信頼して）託す"
+  },
+  {
+    "index": 304,
+    "english": "stick",
+    "japanese": "を動けなくする；を突き刺す；（～に）くっつく（to / on）"
+  },
+  {
+    "index": 305,
+    "english": "emerge",
+    "japanese": "現れる；明らかになる；台頭する"
+  },
+  {
+    "index": 306,
+    "english": "vary",
+    "japanese": "さまざまである；変わる；を変える"
+  },
+  {
+    "index": 307,
+    "english": "release",
+    "japanese": "を放出する；を解放する；を発表する"
+  },
+  {
+    "index": 308,
+    "english": "divide",
+    "japanese": "を分ける；分かれる"
+  },
+  {
+    "index": 309,
+    "english": "enable",
+    "japanese": "（人）が...できるようにする；を可能にする"
+  },
+  {
+    "index": 310,
+    "english": "judge",
+    "japanese": "（を）判断する；に判決を下す"
+  },
+  {
+    "index": 311,
+    "english": "rely",
+    "japanese": "頼る（≒ depend ⇒ 36）"
+  },
+  {
+    "index": 312,
+    "english": "engage",
+    "japanese": "を従事させる；を（～として）雇う（as）；（～に）従事する（in / with）"
+  },
+  {
+    "index": 313,
+    "english": "shift",
+    "japanese": "を変える，移す；変わる；移動する"
+  },
+  {
+    "index": 314,
+    "english": "adopt",
+    "japanese": "を採用する；（態度など）をとる；を養子にする"
+  },
+  {
+    "index": 315,
+    "english": "acquire",
+    "japanese": "を得る；を習得する"
+  },
+  {
+    "index": 316,
+    "english": "expand",
+    "japanese": "（を）拡大する；（を）詳説する"
+  },
+  {
+    "index": 317,
+    "english": "refuse",
+    "japanese": "を拒む；を断る；拒絶する"
+  },
+  {
+    "index": 318,
+    "english": "strike",
+    "japanese": "の心を打つ；を襲う；を打つ；（に）ぶつかる"
+  },
+  {
+    "index": 319,
+    "english": "repeat",
+    "japanese": "（を）繰り返す；を復唱する"
+  },
+  {
+    "index": 320,
+    "english": "consume",
+    "japanese": "を消費する；を食べる，飲む"
+  },
+  {
+    "index": 321,
+    "english": "confuse",
+    "japanese": "を混同する；を当惑させる"
+  },
+  {
+    "index": 322,
+    "english": "select",
+    "japanese": "を選ぶ，えり抜く"
+  },
+  {
+    "index": 323,
+    "english": "evolve",
+    "japanese": "（徐々に）発展する；進化する"
+  },
+  {
+    "index": 324,
+    "english": "convince",
+    "japanese": "を納得［確信］させる"
+  },
+  {
+    "index": 325,
+    "english": "recall",
+    "japanese": "を思い出す；を呼び戻す"
+  },
+  {
+    "index": 326,
+    "english": "destroy",
+    "japanese": "を破壊する；（人）を破滅させる"
+  },
+  {
+    "index": 327,
+    "english": "preserve",
+    "japanese": "を保存する；を保持する；を保護する"
+  },
+  {
+    "index": 328,
+    "english": "organize",
+    "japanese": "を準備する；を組織する"
+  },
+  {
+    "index": 329,
+    "english": "warn",
+    "japanese": "（人）に（～を）警告［注意］する（of / against）"
+  },
+  {
+    "index": 330,
+    "english": "address",
+    "japanese": "（問題など）に対処する；に演説する；（手紙など）を（～宛てに）出す（to）"
+  },
+  {
+    "index": 331,
+    "english": "operate",
+    "japanese": "を操作する；機能する；手術する"
+  },
+  {
+    "index": 332,
+    "english": "participate",
+    "japanese": "参加する"
+  },
+  {
+    "index": 333,
+    "english": "surround",
+    "japanese": "を取り巻く；にまつわる"
+  },
+  {
+    "index": 334,
+    "english": "flow",
+    "japanese": "流れる；（～から）生じる（from）"
+  },
+  {
+    "index": 335,
+    "english": "bore",
+    "japanese": "（人）を退屈させる，うんざりさせる"
+  },
+  {
+    "index": 336,
+    "english": "complain",
+    "japanese": "（と）不平［苦情］を言う；訴える"
+  },
+  {
+    "index": 337,
+    "english": "host",
+    "japanese": "を主催する；のホスト役を務める"
+  },
+  {
+    "index": 338,
+    "english": "combine",
+    "japanese": "を（～と）結び付ける（with）；（～と）結び付く（with）"
+  },
+  {
+    "index": 339,
+    "english": "extend",
+    "japanese": "を伸［延］ばす；伸びる；及ぶ"
+  },
+  {
+    "index": 340,
+    "english": "appreciate",
+    "japanese": "を正当に評価する；を鑑賞する；を感謝する"
+  },
+  {
+    "index": 341,
+    "english": "target",
+    "japanese": "（到達・攻撃）目標；的"
+  },
+  {
+    "index": 342,
+    "english": "element",
+    "japanese": "要素，成分；元素；〔an / ofで〕少しの"
+  },
+  {
+    "index": 343,
+    "english": "principle",
+    "japanese": "原則，原理；主義，信条"
+  },
+  {
+    "index": 344,
+    "english": "phenomenon",
+    "japanese": "現象"
+  },
+  {
+    "index": 345,
+    "english": "atmosphere",
+    "japanese": "〔the ～〕大気；雰囲気"
+  },
+  {
+    "index": 346,
+    "english": "origin",
+    "japanese": "起源；源"
+  },
+  {
+    "index": 347,
+    "english": "personality",
+    "japanese": "個性，性格"
+  },
+  {
+    "index": 348,
+    "english": "capacity",
+    "japanese": "（最大）容量，収容能力；（潜在）能力"
+  },
+  {
+    "index": 349,
+    "english": "profit",
+    "japanese": "利益；収益（率）；得"
+  },
+  {
+    "index": 350,
+    "english": "circumstance",
+    "japanese": "〔通例～s〕状況，事情；境遇"
+  },
+  {
+    "index": 351,
+    "english": "manner",
+    "japanese": "〔～s〕作法；方法；物腰"
+  },
+  {
+    "index": 352,
+    "english": "threat",
+    "japanese": "脅威；（悪い）兆し；脅迫"
+  },
+  {
+    "index": 353,
+    "english": "resident",
+    "japanese": "居住者；滞在者"
+  },
+  {
+    "index": 354,
+    "english": "wealth",
+    "japanese": "富；資源；富裕"
+  },
+  {
+    "index": 355,
+    "english": "institution",
+    "japanese": "機関；協会；施設；制度"
+  },
+  {
+    "index": 356,
+    "english": "authority",
+    "japanese": "〔通例 the ～ties〕（関係）当局；権威；権限"
+  },
+  {
+    "index": 357,
+    "english": "vote",
+    "japanese": "投票；投票結果；〔the ～〕選挙権"
+  },
+  {
+    "index": 358,
+    "english": "sight",
+    "japanese": "光景；〔the ～s〕名所；見（え）ること；視野；視力"
+  },
+  {
+    "index": 359,
+    "english": "campaign",
+    "japanese": "運動；軍事行動"
+  },
+  {
+    "index": 360,
+    "english": "fund",
+    "japanese": "〔しばしば～s〕基金，資金"
+  },
+  {
+    "index": 361,
+    "english": "web",
+    "japanese": "〔the W-〕ウェブ；（クモの）巣"
+  },
+  {
+    "index": 362,
+    "english": "symbol",
+    "japanese": "象徴，シンボル；記号；標章"
+  },
+  {
+    "index": 363,
+    "english": "analysis",
+    "japanese": "分析（結果）（⇔ synthesis ⇒ 1868）"
+  },
+  {
+    "index": 364,
+    "english": "version",
+    "japanese": "（本・製品などの）版；解釈"
+  },
+  {
+    "index": 365,
+    "english": "perspective",
+    "japanese": "観点，見方；大局観；遠近法"
+  },
+  {
+    "index": 366,
+    "english": "crisis",
+    "japanese": "危機"
+  },
+  {
+    "index": 367,
+    "english": "disaster",
+    "japanese": "災害；惨事"
+  },
+  {
+    "index": 368,
+    "english": "lecture",
+    "japanese": "講義，講演；説教"
+  },
+  {
+    "index": 369,
+    "english": "psychology",
+    "japanese": "心理学；心理（状態）"
+  },
+  {
+    "index": 370,
+    "english": "gender",
+    "japanese": "（社会的・文化的）性，性別"
+  },
+  {
+    "index": 371,
+    "english": "custom",
+    "japanese": "（社会的な）慣習；〔～s〕税関；〔～s〕関税"
+  },
+  {
+    "index": 372,
+    "english": "court",
+    "japanese": "裁判所，法廷；裁判；宮廷；中庭"
+  },
+  {
+    "index": 373,
+    "english": "desert",
+    "japanese": "砂漠；不毛の地"
+  },
+  {
+    "index": 374,
+    "english": "soil",
+    "japanese": "土地，土壌；（悪事などの）温床"
+  },
+  {
+    "index": 375,
+    "english": "agriculture",
+    "japanese": "農業；農学，畜産"
+  },
+  {
+    "index": 376,
+    "english": "fossil",
+    "japanese": "化石；時代遅れの人［物］"
+  },
+  {
+    "index": 377,
+    "english": "document",
+    "japanese": "（公）文書，書類；記録，資料"
+  },
+  {
+    "index": 378,
+    "english": "vocabulary",
+    "japanese": "語彙"
+  },
+  {
+    "index": 379,
+    "english": "intelligent",
+    "japanese": "聡明な；知能を有する"
+  },
+  {
+    "index": 380,
+    "english": "conscious",
+    "japanese": "意識して，気づいて（≒ aware）"
+  },
+  {
+    "index": 381,
+    "english": "capable",
+    "japanese": "能力がある；有能な"
+  },
+  {
+    "index": 382,
+    "english": "accurate",
+    "japanese": "正確な；精密な"
+  },
+  {
+    "index": 383,
+    "english": "fundamental",
+    "japanese": "基本的な；必須の"
+  },
+  {
+    "index": 384,
+    "english": "artificial",
+    "japanese": "人工の（⇔ natural 自然の）；不自然な"
+  },
+  {
+    "index": 385,
+    "english": "firm",
+    "japanese": "確固たる；堅固な；安定した"
+  },
+  {
+    "index": 386,
+    "english": "overall",
+    "japanese": "総合的な；全体的な"
+  },
+  {
+    "index": 387,
+    "english": "rural",
+    "japanese": "田舎の（⇔ urban ⇒ 299），田園の"
+  },
+  {
+    "index": 388,
+    "english": "military",
+    "japanese": "軍の，軍事（用）の"
+  },
+  {
+    "index": 389,
+    "english": "nuclear",
+    "japanese": "核の，原子力の"
+  },
+  {
+    "index": 390,
+    "english": "biological",
+    "japanese": "生物学（上）の"
+  },
+  {
+    "index": 391,
+    "english": "constant",
+    "japanese": "絶え間ない；一定の"
+  },
+  {
+    "index": 392,
+    "english": "severe",
+    "japanese": "（人・規律・事態・天気などが）厳しい；猛烈な"
+  },
+  {
+    "index": 393,
+    "english": "visual",
+    "japanese": "視覚の；目に見える"
+  },
+  {
+    "index": 394,
+    "english": "enormous",
+    "japanese": "莫大な，巨大な"
+  },
+  {
+    "index": 395,
+    "english": "convenient",
+    "japanese": "便利な，都合のいい"
+  },
+  {
+    "index": 396,
+    "english": "domestic",
+    "japanese": "家庭の；国内の；（動物が）飼いならされた"
+  },
+  {
+    "index": 397,
+    "english": "mass",
+    "japanese": "大規模な，大量の；大衆（向け）の"
+  },
+  {
+    "index": 398,
+    "english": "typical",
+    "japanese": "典型的な；（～に）特有の（of）"
+  },
+  {
+    "index": 399,
+    "english": "overseas",
+    "japanese": "海外へ［に，で］（≒ abroad）"
+  },
+  {
+    "index": 400,
+    "english": "nevertheless",
+    "japanese": "それにもかかわらず（≒ nonetheless ⇒ 1000）"
+  },
+  {
+    "index": 401,
+    "english": "demonstrate",
+    "japanese": "を論証［証明］する；デモをする"
+  },
+  {
+    "index": 402,
+    "english": "behave",
+    "japanese": "振る舞う；作動する"
+  },
+  {
+    "index": 403,
+    "english": "educate",
+    "japanese": "を教育する；に教える；（能力など）を養う"
+  },
+  {
+    "index": 404,
+    "english": "purchase",
+    "japanese": "を購入する"
+  },
+  {
+    "index": 405,
+    "english": "recommend",
+    "japanese": "を勧める"
+  },
+  {
+    "index": 406,
+    "english": "admit",
+    "japanese": "（を）（しぶしぶ）認める；に（～への）入場［入学など］を認める（to / into）"
+  },
+  {
+    "index": 407,
+    "english": "generate",
+    "japanese": "を生み出す；（電気など）を発生させる"
+  },
+  {
+    "index": 408,
+    "english": "explore",
+    "japanese": "（を）調査［探究］する；（を）探検［探査］する"
+  },
+  {
+    "index": 409,
+    "english": "amaze",
+    "japanese": "をびっくりさせる"
+  },
+  {
+    "index": 410,
+    "english": "tear",
+    "japanese": "を引き裂く；裂ける"
+  },
+  {
+    "index": 411,
+    "english": "settle",
+    "japanese": "を解決する；（に）移り住む；を落ち着かせる"
+  },
+  {
+    "index": 412,
+    "english": "afford",
+    "japanese": "を持つ［する］余裕がある；を与える"
+  },
+  {
+    "index": 413,
+    "english": "conclude",
+    "japanese": "と結論づける；を締めくくる；を締結する"
+  },
+  {
+    "index": 414,
+    "english": "advertise",
+    "japanese": "を宣伝する；（～を求める）広告を出す（for）"
+  },
+  {
+    "index": 415,
+    "english": "encounter",
+    "japanese": "に遭遇する；に（思いがけず）出会う"
+  },
+  {
+    "index": 416,
+    "english": "remind",
+    "japanese": "に思い出させる"
+  },
+  {
+    "index": 417,
+    "english": "locate",
+    "japanese": "〔受身形で〕位置する；の位置を探し当てる"
+  },
+  {
+    "index": 418,
+    "english": "aid",
+    "japanese": "を援助する，助ける（≒ help）"
+  },
+  {
+    "index": 419,
+    "english": "bite",
+    "japanese": "（を）かむ，（に）かみつく；（を）刺す"
+  },
+  {
+    "index": 420,
+    "english": "deliver",
+    "japanese": "を配達する；（演説・講義）をする；子を産む"
+  },
+  {
+    "index": 421,
+    "english": "perceive",
+    "japanese": "に気づく；を知覚する；を理解する"
+  },
+  {
+    "index": 422,
+    "english": "distinguish",
+    "japanese": "を区別する"
+  },
+  {
+    "index": 423,
+    "english": "imply",
+    "japanese": "を暗に意味する；を必然的に伴う"
+  },
+  {
+    "index": 424,
+    "english": "handle",
+    "japanese": "を処理する，扱う；を論じる；を商う"
+  },
+  {
+    "index": 425,
+    "english": "praise",
+    "japanese": "を（～のことで）賞賛する（for）；賛美する"
+  },
+  {
+    "index": 426,
+    "english": "appeal",
+    "japanese": "訴える；抗議する；（上級審に）上訴する"
+  },
+  {
+    "index": 427,
+    "english": "insist",
+    "japanese": "（を）強く主張する；要求する"
+  },
+  {
+    "index": 428,
+    "english": "compete",
+    "japanese": "競う；〔通例否定文で〕（～に）匹敵する（with）"
+  },
+  {
+    "index": 429,
+    "english": "rank",
+    "japanese": "を位置づける，評価する；（ある地位に）位置する"
+  },
+  {
+    "index": 430,
+    "english": "deny",
+    "japanese": "を否定する；を拒む"
+  },
+  {
+    "index": 431,
+    "english": "reject",
+    "japanese": "を拒否する"
+  },
+  {
+    "index": 432,
+    "english": "intend",
+    "japanese": "を意図する"
+  },
+  {
+    "index": 433,
+    "english": "expose",
+    "japanese": "をさらす；を暴露する；を露出する"
+  },
+  {
+    "index": 434,
+    "english": "favor",
+    "japanese": "に賛成する；を好む；をひいきする"
+  },
+  {
+    "index": 435,
+    "english": "inspire",
+    "japanese": "（人）を奮起させる；を喚起する"
+  },
+  {
+    "index": 436,
+    "english": "propose",
+    "japanese": "を提案する；をもくろむ；結婚を申し込む"
+  },
+  {
+    "index": 437,
+    "english": "spell",
+    "japanese": "（語）をつづる；という語になる"
+  },
+  {
+    "index": 438,
+    "english": "breathe",
+    "japanese": "呼吸する；を吸う"
+  },
+  {
+    "index": 439,
+    "english": "repair",
+    "japanese": "を修理する（≒ fix）；を修復する"
+  },
+  {
+    "index": 440,
+    "english": "consist",
+    "japanese": "（～から）成る（of）；（～に）ある（in）"
+  },
+  {
+    "index": 441,
+    "english": "comment",
+    "japanese": "意見，コメント；批判"
+  },
+  {
+    "index": 442,
+    "english": "instruction",
+    "japanese": "〔通例～s〕指示；〔～s〕（製品の）使用書"
+  },
+  {
+    "index": 443,
+    "english": "religion",
+    "japanese": "宗教；信条；信仰（心）"
+  },
+  {
+    "index": 444,
+    "english": "neighborhood",
+    "japanese": "地域；近所"
+  },
+  {
+    "index": 445,
+    "english": "laboratory",
+    "japanese": "実験室，研究室"
+  },
+  {
+    "index": 446,
+    "english": "presence",
+    "japanese": "存在；出席；面前"
+  },
+  {
+    "index": 447,
+    "english": "confidence",
+    "japanese": "自信；信頼；秘密"
+  },
+  {
+    "index": 448,
+    "english": "harm",
+    "japanese": "害，損害"
+  },
+  {
+    "index": 449,
+    "english": "instrument",
+    "japanese": "器具；楽器（≒ musical instrument）"
+  },
+  {
+    "index": 450,
+    "english": "category",
+    "japanese": "部類，区分；範疇"
+  },
+  {
+    "index": 451,
+    "english": "capital",
+    "japanese": "資本；首都；大文字（≒ capital letter）"
+  },
+  {
+    "index": 452,
+    "english": "outcome",
+    "japanese": "結果（≒ result）；成果"
+  },
+  {
+    "index": 453,
+    "english": "notion",
+    "japanese": "概念，観念；見解；意向"
+  },
+  {
+    "index": 454,
+    "english": "review",
+    "japanese": "（書物などの）論評；再調査；【米】復習"
+  },
+  {
+    "index": 455,
+    "english": "trait",
+    "japanese": "特性（≒ feature）"
+  },
+  {
+    "index": 456,
+    "english": "diversity",
+    "japanese": "多様性；相違点"
+  },
+  {
+    "index": 457,
+    "english": "victim",
+    "japanese": "犠牲（者），被害者"
+  },
+  {
+    "index": 458,
+    "english": "occasion",
+    "japanese": "場合，時；行事；機会"
+  },
+  {
+    "index": 459,
+    "english": "facility",
+    "japanese": "施設，設備；機能；才能"
+  },
+  {
+    "index": 460,
+    "english": "stock",
+    "japanese": "在庫品；蓄え；株"
+  },
+  {
+    "index": 461,
+    "english": "conference",
+    "japanese": "会議；協議"
+  },
+  {
+    "index": 462,
+    "english": "humanity",
+    "japanese": "人類；人間性；人情；〔（the） ～ties〕人文科学"
+  },
+  {
+    "index": 463,
+    "english": "dialect",
+    "japanese": "方言"
+  },
+  {
+    "index": 464,
+    "english": "proportion",
+    "japanese": "割合；部分；釣り合い"
+  },
+  {
+    "index": 465,
+    "english": "tip",
+    "japanese": "助言，秘訣；チップ；先端"
+  },
+  {
+    "index": 466,
+    "english": "lawyer",
+    "japanese": "弁護士"
+  },
+  {
+    "index": 467,
+    "english": "stuff",
+    "japanese": "（漠然と）物；素材；素質"
+  },
+  {
+    "index": 468,
+    "english": "comfort",
+    "japanese": "快適さ；慰め"
+  },
+  {
+    "index": 469,
+    "english": "philosophy",
+    "japanese": "哲学；原理；人生観"
+  },
+  {
+    "index": 470,
+    "english": "mammal",
+    "japanese": "哺乳動物"
+  },
+  {
+    "index": 471,
+    "english": "quantity",
+    "japanese": "量（⇔ quality ⇒ 69）；分量"
+  },
+  {
+    "index": 472,
+    "english": "landscape",
+    "japanese": "風景；領域；状況"
+  },
+  {
+    "index": 473,
+    "english": "tribe",
+    "japanese": "部族；仲間"
+  },
+  {
+    "index": 474,
+    "english": "organ",
+    "japanese": "器官，臓器；組織；（パイプ）オルガン"
+  },
+  {
+    "index": 475,
+    "english": "trial",
+    "japanese": "試み，（品質・性能などの）試験；裁判；試用期間"
+  },
+  {
+    "index": 476,
+    "english": "norm",
+    "japanese": "規範；標準"
+  },
+  {
+    "index": 477,
+    "english": "code",
+    "japanese": "規範；暗号；法典"
+  },
+  {
+    "index": 478,
+    "english": "substance",
+    "japanese": "物質；実体；趣旨"
+  },
+  {
+    "index": 479,
+    "english": "multiple",
+    "japanese": "多様な；種々雑多な"
+  },
+  {
+    "index": 480,
+    "english": "numerous",
+    "japanese": "非常に数の多い"
+  },
+  {
+    "index": 481,
+    "english": "narrow",
+    "japanese": "狭い；細い；限られた"
+  },
+  {
+    "index": 482,
+    "english": "widespread",
+    "japanese": "広範囲にわたる；広く普及した"
+  },
+  {
+    "index": 483,
+    "english": "sufficient",
+    "japanese": "（～に；...するのに）十分な（for；to do）"
+  },
+  {
+    "index": 484,
+    "english": "proper",
+    "japanese": "適切な；正式の；〔名詞の後ろで〕主要な；（～に）固有の（to）"
+  },
+  {
+    "index": 485,
+    "english": "linguistic",
+    "japanese": "言語の，言語学の"
+  },
+  {
+    "index": 486,
+    "english": "annual",
+    "japanese": "年1回の，例年の；1年間の"
+  },
+  {
+    "index": 487,
+    "english": "contemporary",
+    "japanese": "現代の；同時代の；同年輩の"
+  },
+  {
+    "index": 488,
+    "english": "contrary",
+    "japanese": "（～と）反対の（to）"
+  },
+  {
+    "index": 489,
+    "english": "strict",
+    "japanese": "（規則などが）厳しい；厳格な"
+  },
+  {
+    "index": 490,
+    "english": "civil",
+    "japanese": "市民の；民間の；民事の（⇔ criminal 刑事の）"
+  },
+  {
+    "index": 491,
+    "english": "odd",
+    "japanese": "奇妙な（≒ strange）；奇数の"
+  },
+  {
+    "index": 492,
+    "english": "unknown",
+    "japanese": "不明の；（～に）知られていない（to），無名の"
+  },
+  {
+    "index": 493,
+    "english": "superior",
+    "japanese": "よりすぐれた（⇔ inferior ⇒ 1092）"
+  },
+  {
+    "index": 494,
+    "english": "sensitive",
+    "japanese": "敏感な；神経質な；微妙な"
+  },
+  {
+    "index": 495,
+    "english": "violent",
+    "japanese": "（人・気質などが）激しい；暴力的な"
+  },
+  {
+    "index": 496,
+    "english": "virtual",
+    "japanese": "仮想の；事実上の"
+  },
+  {
+    "index": 497,
+    "english": "regardless",
+    "japanese": "（～に）かまわない，無頓着な（of）"
+  },
+  {
+    "index": 498,
+    "english": "immediate",
+    "japanese": "即座の；当面の；すぐそばの；直接の"
+  },
+  {
+    "index": 499,
+    "english": "crucial",
+    "japanese": "重要な"
+  },
+  {
+    "index": 500,
+    "english": "somewhat",
+    "japanese": "いくぶん，多少"
+  },
+  {
+    "index": 501,
+    "english": "interpret",
+    "japanese": "を解釈する；（を）通訳する"
+  },
+  {
+    "index": 502,
+    "english": "translate",
+    "japanese": "を翻訳する；を（～に）変える（into）"
+  },
+  {
+    "index": 503,
+    "english": "concentrate",
+    "japanese": "（を）集中する"
+  },
+  {
+    "index": 504,
+    "english": "request",
+    "japanese": "に（...するように）頼む（to do）；を要請する"
+  },
+  {
+    "index": 505,
+    "english": "criticize",
+    "japanese": "を批判する；を批評する"
+  },
+  {
+    "index": 506,
+    "english": "overcome",
+    "japanese": "を克服する"
+  },
+  {
+    "index": 507,
+    "english": "obtain",
+    "japanese": "を得る"
+  },
+  {
+    "index": 508,
+    "english": "inform",
+    "japanese": "に知らせる；情報を提供する"
+  },
+  {
+    "index": 509,
+    "english": "ensure",
+    "japanese": "を確実にする（≒ make sure）；を守る"
+  },
+  {
+    "index": 510,
+    "english": "announce",
+    "japanese": "を発表［公表］する，知らせる；（物事が）を告げる"
+  },
+  {
+    "index": 511,
+    "english": "grant",
+    "japanese": "（人）に（許可・権利など）を与える；を認める"
+  },
+  {
+    "index": 512,
+    "english": "freeze",
+    "japanese": "凍る；を凍らせる；（計画・資金など）を凍結する"
+  },
+  {
+    "index": 513,
+    "english": "oppose",
+    "japanese": "に反対する；を対抗［対比］させる"
+  },
+  {
+    "index": 514,
+    "english": "differ",
+    "japanese": "異なる"
+  },
+  {
+    "index": 515,
+    "english": "hate",
+    "japanese": "をひどく嫌う；を残念に思う"
+  },
+  {
+    "index": 516,
+    "english": "emphasize",
+    "japanese": "を強調する；を重視する"
+  },
+  {
+    "index": 517,
+    "english": "employ",
+    "japanese": "を雇う（≒ give ～ a job）；を使う（≒ use）"
+  },
+  {
+    "index": 518,
+    "english": "credit",
+    "japanese": "（功績など）を（～に）帰する（to）；を信じる"
+  },
+  {
+    "index": 519,
+    "english": "transform",
+    "japanese": "を変える；変わる"
+  },
+  {
+    "index": 520,
+    "english": "construct",
+    "japanese": "を建設する（＝ build）；を構成する"
+  },
+  {
+    "index": 521,
+    "english": "arise",
+    "japanese": "生じる"
+  },
+  {
+    "index": 522,
+    "english": "beat",
+    "japanese": "を打ち負かす；（を）打つ，たたく"
+  },
+  {
+    "index": 523,
+    "english": "regret",
+    "japanese": "を後悔する"
+  },
+  {
+    "index": 524,
+    "english": "alter",
+    "japanese": "を変える；変わる（≒ change）"
+  },
+  {
+    "index": 525,
+    "english": "absorb",
+    "japanese": "を吸収する；を併合する；を夢中にさせる"
+  },
+  {
+    "index": 526,
+    "english": "disappoint",
+    "japanese": "を失望させる；（希望など）をくじく"
+  },
+  {
+    "index": 527,
+    "english": "cure",
+    "japanese": "を治す；を取り除く；（病気が）治る"
+  },
+  {
+    "index": 528,
+    "english": "transport",
+    "japanese": "を輸送する；を運ぶ"
+  },
+  {
+    "index": 529,
+    "english": "rush",
+    "japanese": "急いで行く；性急に行動する；をせき立てる"
+  },
+  {
+    "index": 530,
+    "english": "hang",
+    "japanese": "を掛ける；を絞首刑にする；垂れ（下が）る"
+  },
+  {
+    "index": 531,
+    "english": "blame",
+    "japanese": "を責める；の責任を負わせる"
+  },
+  {
+    "index": 532,
+    "english": "ban",
+    "japanese": "を（法的に）禁止する；を締め出す"
+  },
+  {
+    "index": 533,
+    "english": "fascinate",
+    "japanese": "を魅了する"
+  },
+  {
+    "index": 534,
+    "english": "recover",
+    "japanese": "回復する；を取り戻す"
+  },
+  {
+    "index": 535,
+    "english": "celebrate",
+    "japanese": "を祝う；を挙行する"
+  },
+  {
+    "index": 536,
+    "english": "manufacture",
+    "japanese": "を製造する；をでっち上げる"
+  },
+  {
+    "index": 537,
+    "english": "interact",
+    "japanese": "影響し合う；相互に作用する"
+  },
+  {
+    "index": 538,
+    "english": "arrange",
+    "japanese": "の段取りをつける；を手配する；を配置する"
+  },
+  {
+    "index": 539,
+    "english": "adjust",
+    "japanese": "を調整する；を適合させる；順応する"
+  },
+  {
+    "index": 540,
+    "english": "confirm",
+    "japanese": "を確認する；を裏づける"
+  },
+  {
+    "index": 541,
+    "english": "insight",
+    "japanese": "見識，理解（力）；洞察力"
+  },
+  {
+    "index": 542,
+    "english": "innovation",
+    "japanese": "革新；新機軸"
+  },
+  {
+    "index": 543,
+    "english": "budget",
+    "japanese": "予算；経費"
+  },
+  {
+    "index": 544,
+    "english": "fee",
+    "japanese": "料金；謝礼"
+  },
+  {
+    "index": 545,
+    "english": "expense",
+    "japanese": "〔～s〕経費；費用；犠牲"
+  },
+  {
+    "index": 546,
+    "english": "debt",
+    "japanese": "借金，負債；恩義"
+  },
+  {
+    "index": 547,
+    "english": "loan",
+    "japanese": "貸付金，融資；貸すこと"
+  },
+  {
+    "index": 548,
+    "english": "duty",
+    "japanese": "義務；〔しばしば～ties〕職務；関税"
+  },
+  {
+    "index": 549,
+    "english": "alarm",
+    "japanese": "不安，恐れ；警報装置"
+  },
+  {
+    "index": 550,
+    "english": "emergency",
+    "japanese": "緊急（事態）"
+  },
+  {
+    "index": 551,
+    "english": "democracy",
+    "japanese": "民主主義，民主政治；民主国家"
+  },
+  {
+    "index": 552,
+    "english": "minister",
+    "japanese": "大臣；（プロテスタント系の）聖職者"
+  },
+  {
+    "index": 553,
+    "english": "fellow",
+    "japanese": "仲間，同僚；同級生；男"
+  },
+  {
+    "index": 554,
+    "english": "candidate",
+    "japanese": "（～の）候補（者）（for）；志願者"
+  },
+  {
+    "index": 555,
+    "english": "corporation",
+    "japanese": "（大）企業；法人"
+  },
+  {
+    "index": 556,
+    "english": "stereotype",
+    "japanese": "固定観念；決まり文句"
+  },
+  {
+    "index": 557,
+    "english": "route",
+    "japanese": "道（筋）；路線，ルート；（～の）手段（to）"
+  },
+  {
+    "index": 558,
+    "english": "disorder",
+    "japanese": "障害，（心身の）不調；混乱"
+  },
+  {
+    "index": 559,
+    "english": "depression",
+    "japanese": "憂うつ；うつ病；不況；低気圧"
+  },
+  {
+    "index": 560,
+    "english": "weapon",
+    "japanese": "兵器，武器（≒ arms）"
+  },
+  {
+    "index": 561,
+    "english": "immigration",
+    "japanese": "（他国からの）移民，移住；入国管理"
+  },
+  {
+    "index": 562,
+    "english": "barrier",
+    "japanese": "（～に対する）障壁（against / to）；防壁"
+  },
+  {
+    "index": 563,
+    "english": "disadvantage",
+    "japanese": "不利（な点）；障害；（信用などの）損失"
+  },
+  {
+    "index": 564,
+    "english": "mood",
+    "japanese": "気分；機嫌；雰囲気"
+  },
+  {
+    "index": 565,
+    "english": "motion",
+    "japanese": "動き，動作；運動；動議"
+  },
+  {
+    "index": 566,
+    "english": "routine",
+    "japanese": "決まり切った仕事；いつもの手順"
+  },
+  {
+    "index": 567,
+    "english": "discipline",
+    "japanese": "規律，しつけ；訓練；懲戒；学問分野"
+  },
+  {
+    "index": 568,
+    "english": "myth",
+    "japanese": "作り話；神話"
+  },
+  {
+    "index": 569,
+    "english": "hypothesis",
+    "japanese": "仮説；憶測"
+  },
+  {
+    "index": 570,
+    "english": "physician",
+    "japanese": "【主に米】 医師（≒ doctor）；内科医"
+  },
+  {
+    "index": 571,
+    "english": "client",
+    "japanese": "顧客（≒ customer）；（弁護士などの）依頼人"
+  },
+  {
+    "index": 572,
+    "english": "colony",
+    "japanese": "植民地；集団居住地；（動植物の）コロニー"
+  },
+  {
+    "index": 573,
+    "english": "statistics",
+    "japanese": "統計；統計学"
+  },
+  {
+    "index": 574,
+    "english": "grain",
+    "japanese": "穀物；粒；きめ"
+  },
+  {
+    "index": 575,
+    "english": "ingredient",
+    "japanese": "材料，成分；（成功の）要因"
+  },
+  {
+    "index": 576,
+    "english": "treasure",
+    "japanese": "宝物，財宝；財産"
+  },
+  {
+    "index": 577,
+    "english": "contract",
+    "japanese": "契約（書）；協定"
+  },
+  {
+    "index": 578,
+    "english": "welfare",
+    "japanese": "福祉，幸福"
+  },
+  {
+    "index": 579,
+    "english": "prime",
+    "japanese": "主要な，最も重要な；最適な；極上の"
+  },
+  {
+    "index": 580,
+    "english": "curious",
+    "japanese": "好奇心の強い；奇妙な"
+  },
+  {
+    "index": 581,
+    "english": "dramatic",
+    "japanese": "劇的な；演劇の"
+  },
+  {
+    "index": 582,
+    "english": "distinct",
+    "japanese": "明らかに異なる；明瞭な"
+  },
+  {
+    "index": 583,
+    "english": "anxious",
+    "japanese": "心配して；切望して"
+  },
+  {
+    "index": 584,
+    "english": "vital",
+    "japanese": "必要不可欠な；活気のある；生命にかかわる"
+  },
+  {
+    "index": 585,
+    "english": "conventional",
+    "japanese": "従来の；月並みな"
+  },
+  {
+    "index": 586,
+    "english": "abstract",
+    "japanese": "抽象的な（⇔ concrete ⇒ 783）"
+  },
+  {
+    "index": 587,
+    "english": "minor",
+    "japanese": "重要でない；小さい（⇔ major ⇒ 88）"
+  },
+  {
+    "index": 588,
+    "english": "extraordinary",
+    "japanese": "並はずれた；異常な，驚くべき"
+  },
+  {
+    "index": 589,
+    "english": "stable",
+    "japanese": "安定した（⇔ unstable 不安定な）；動じない"
+  },
+  {
+    "index": 590,
+    "english": "flexible",
+    "japanese": "融通の利く，柔軟な"
+  },
+  {
+    "index": 591,
+    "english": "brief",
+    "japanese": "簡潔な；短い"
+  },
+  {
+    "index": 592,
+    "english": "aggressive",
+    "japanese": "攻撃的な；意欲的な"
+  },
+  {
+    "index": 593,
+    "english": "visible",
+    "japanese": "（目に）見える（⇔ invisible 見えない）；明白な"
+  },
+  {
+    "index": 594,
+    "english": "unexpected",
+    "japanese": "思いがけない，不意の"
+  },
+  {
+    "index": 595,
+    "english": "ethnic",
+    "japanese": "民族の，人種の；民族特有の"
+  },
+  {
+    "index": 596,
+    "english": "alien",
+    "japanese": "（～にとって）異質の（to）；外国の；宇宙人の"
+  },
+  {
+    "index": 597,
+    "english": "initial",
+    "japanese": "初めの"
+  },
+  {
+    "index": 598,
+    "english": "exact",
+    "japanese": "正確な；まさにその"
+  },
+  {
+    "index": 599,
+    "english": "precise",
+    "japanese": "正確な（≒ exact）；精密な；まさにその"
+  },
+  {
+    "index": 600,
+    "english": "latter",
+    "japanese": "後者の（⇔ former 前者の），後半の"
+  },
+  {
+    "index": 601,
+    "english": "commit",
+    "japanese": "〔commit oneselfまたは受身形で〕献身する；（罪など）を犯す；を投入する"
+  },
+  {
+    "index": 602,
+    "english": "stimulate",
+    "japanese": "を刺激する"
+  },
+  {
+    "index": 603,
+    "english": "enhance",
+    "japanese": "（価値など）を高める，増す"
+  },
+  {
+    "index": 604,
+    "english": "pursue",
+    "japanese": "を追求する；に従事する"
+  },
+  {
+    "index": 605,
+    "english": "react",
+    "japanese": "反応する；化学反応を起こす"
+  },
+  {
+    "index": 606,
+    "english": "disagree",
+    "japanese": "不賛成である；意見が食い違う"
+  },
+  {
+    "index": 607,
+    "english": "stare",
+    "japanese": "じっと見る；を見つめる"
+  },
+  {
+    "index": 608,
+    "english": "abandon",
+    "japanese": "を捨てる；を放棄する，断念する"
+  },
+  {
+    "index": 609,
+    "english": "quit",
+    "japanese": "をやめる；（場所）を去る"
+  },
+  {
+    "index": 610,
+    "english": "capture",
+    "japanese": "をとらえる；をとりこにする"
+  },
+  {
+    "index": 611,
+    "english": "transfer",
+    "japanese": "を移す；を伝える；移る；乗り換える"
+  },
+  {
+    "index": 612,
+    "english": "bother",
+    "japanese": "を悩ます；（～を）気にかける（about / with）"
+  },
+  {
+    "index": 613,
+    "english": "persuade",
+    "japanese": "を説得する；に確信させる"
+  },
+  {
+    "index": 614,
+    "english": "rent",
+    "japanese": "を賃借りする；を賃貸しする"
+  },
+  {
+    "index": 615,
+    "english": "breed",
+    "japanese": "を繁殖させる，育てる；繁殖する"
+  },
+  {
+    "index": 616,
+    "english": "invest",
+    "japanese": "（を）投資する；に（～を）与える（with）"
+  },
+  {
+    "index": 617,
+    "english": "reserve",
+    "japanese": "を予約する；を取っておく；（判断など）を保留する"
+  },
+  {
+    "index": 618,
+    "english": "trace",
+    "japanese": "（足跡・起源など）をたどる；を捜し出す"
+  },
+  {
+    "index": 619,
+    "english": "illustrate",
+    "japanese": "を説明する；に挿絵を入れる"
+  },
+  {
+    "index": 620,
+    "english": "advise",
+    "japanese": "に忠告［助言］する；（を）助言する"
+  },
+  {
+    "index": 621,
+    "english": "convey",
+    "japanese": "を伝える；を運ぶ，運搬する"
+  },
+  {
+    "index": 622,
+    "english": "attach",
+    "japanese": "を（取り）付ける；を付与する"
+  },
+  {
+    "index": 623,
+    "english": "stretch",
+    "japanese": "を伸ばす；を広げる；伸びる；及ぶ"
+  },
+  {
+    "index": 624,
+    "english": "puzzle",
+    "japanese": "を当惑させる"
+  },
+  {
+    "index": 625,
+    "english": "disturb",
+    "japanese": "をかき乱す；を妨害する；を動揺させる"
+  },
+  {
+    "index": 626,
+    "english": "crash",
+    "japanese": "衝突する，墜落する；をぶつけて壊す"
+  },
+  {
+    "index": 627,
+    "english": "cope",
+    "japanese": "うまく処理する"
+  },
+  {
+    "index": 628,
+    "english": "permit",
+    "japanese": "を許可する（≒ allow）（⇔ forbid ⇒ 1013）"
+  },
+  {
+    "index": 629,
+    "english": "impress",
+    "japanese": "を感動させる；に印象を与える"
+  },
+  {
+    "index": 630,
+    "english": "suspect",
+    "japanese": "ではないかと思う；（人）を疑う"
+  },
+  {
+    "index": 631,
+    "english": "upset",
+    "japanese": "を動揺させる；をだめにする"
+  },
+  {
+    "index": 632,
+    "english": "frighten",
+    "japanese": "（人）を怖がらせる"
+  },
+  {
+    "index": 633,
+    "english": "import",
+    "japanese": "を輸入する（⇔ export （を）輸出する）；を取り込む"
+  },
+  {
+    "index": 634,
+    "english": "export",
+    "japanese": "（を）輸出する（⇔ import を輸入する）"
+  },
+  {
+    "index": 635,
+    "english": "investigate",
+    "japanese": "を調査する；を究明する；（～を）調査する（into）"
+  },
+  {
+    "index": 636,
+    "english": "monitor",
+    "japanese": "を監視する；を傍受する"
+  },
+  {
+    "index": 637,
+    "english": "calculate",
+    "japanese": "を計算する；を予測する"
+  },
+  {
+    "index": 638,
+    "english": "eliminate",
+    "japanese": "を取り除く"
+  },
+  {
+    "index": 639,
+    "english": "ease",
+    "japanese": "を軽減する；和らぐ；緩む"
+  },
+  {
+    "index": 640,
+    "english": "launch",
+    "japanese": "を開始する；を売り出す；を発射する"
+  },
+  {
+    "index": 641,
+    "english": "sequence",
+    "japanese": "連続；一連（のもの）"
+  },
+  {
+    "index": 642,
+    "english": "therapy",
+    "japanese": "療法；心理療法"
+  },
+  {
+    "index": 643,
+    "english": "symptom",
+    "japanese": "症状；兆候（≒ sign）"
+  },
+  {
+    "index": 644,
+    "english": "incident",
+    "japanese": "出来事，事件；紛争"
+  },
+  {
+    "index": 645,
+    "english": "witness",
+    "japanese": "目撃者（≒ eyewitness）；証人；証拠，証言"
+  },
+  {
+    "index": 646,
+    "english": "sum",
+    "japanese": "（金）額；合計；要点"
+  },
+  {
+    "index": 647,
+    "english": "burden",
+    "japanese": "負担；（重い）義務；積み荷"
+  },
+  {
+    "index": 648,
+    "english": "tone",
+    "japanese": "口調；音色；雰囲気；色調"
+  },
+  {
+    "index": 649,
+    "english": "honor",
+    "japanese": "光栄；名誉（⇔ dishonor 不名誉）；敬意"
+  },
+  {
+    "index": 650,
+    "english": "award",
+    "japanese": "（～の）賞（for）；（証書などの）授与"
+  },
+  {
+    "index": 651,
+    "english": "priority",
+    "japanese": "優先（事項）"
+  },
+  {
+    "index": 652,
+    "english": "logic",
+    "japanese": "論理；道理；論理学"
+  },
+  {
+    "index": 653,
+    "english": "minimum",
+    "japanese": "最小限度（⇔ maximum ⇒ 965）"
+  },
+  {
+    "index": 654,
+    "english": "exception",
+    "japanese": "（～の）例外（to）"
+  },
+  {
+    "index": 655,
+    "english": "clue",
+    "japanese": "（～の）手がかり（to / about）；（パズルの）ヒント"
+  },
+  {
+    "index": 656,
+    "english": "bond",
+    "japanese": "絆；債券；束縛；接着剤"
+  },
+  {
+    "index": 657,
+    "english": "virus",
+    "japanese": "ウイルス；（感染症の）病原体"
+  },
+  {
+    "index": 658,
+    "english": "surgery",
+    "japanese": "（外科）手術；外科，外科医学"
+  },
+  {
+    "index": 659,
+    "english": "insurance",
+    "japanese": "保険；保険料；保険金"
+  },
+  {
+    "index": 660,
+    "english": "frame",
+    "japanese": "枠，（額）縁；骨組み；体格"
+  },
+  {
+    "index": 661,
+    "english": "shelter",
+    "japanese": "避難（所），保護"
+  },
+  {
+    "index": 662,
+    "english": "territory",
+    "japanese": "領土；（活動の）領域；（動物の）テリトリー"
+  },
+  {
+    "index": 663,
+    "english": "boundary",
+    "japanese": "境界（線）；〔通例～ries〕限界"
+  },
+  {
+    "index": 664,
+    "english": "habitat",
+    "japanese": "生息地；（人の）居住地"
+  },
+  {
+    "index": 665,
+    "english": "district",
+    "japanese": "地区；行政区"
+  },
+  {
+    "index": 666,
+    "english": "conservation",
+    "japanese": "（動植物などの）保護；保存"
+  },
+  {
+    "index": 667,
+    "english": "harvest",
+    "japanese": "収穫（物）；収穫期；漁獲高"
+  },
+  {
+    "index": 668,
+    "english": "predator",
+    "japanese": "捕食動物；略奪者"
+  },
+  {
+    "index": 669,
+    "english": "trap",
+    "japanese": "わな；苦境"
+  },
+  {
+    "index": 670,
+    "english": "trick",
+    "japanese": "こつ；策略；いたずら；芸当"
+  },
+  {
+    "index": 671,
+    "english": "fault",
+    "japanese": "〔通例one's ～〕責任；欠点；誤り"
+  },
+  {
+    "index": 672,
+    "english": "discount",
+    "japanese": "割引"
+  },
+  {
+    "index": 673,
+    "english": "bias",
+    "japanese": "偏見；傾向"
+  },
+  {
+    "index": 674,
+    "english": "cooperation",
+    "japanese": "協力，共同"
+  },
+  {
+    "index": 675,
+    "english": "patent",
+    "japanese": "特許（権）；特許品"
+  },
+  {
+    "index": 676,
+    "english": "dialogue",
+    "japanese": "対話，会話；意見の交換"
+  },
+  {
+    "index": 677,
+    "english": "component",
+    "japanese": "構成要素；部品"
+  },
+  {
+    "index": 678,
+    "english": "reputation",
+    "japanese": "評判；名声"
+  },
+  {
+    "index": 679,
+    "english": "verbal",
+    "japanese": "言葉の；口頭での；動詞の"
+  },
+  {
+    "index": 680,
+    "english": "internal",
+    "japanese": "内部の（⇔ external ⇒ 989）；国内の；内面的な"
+  },
+  {
+    "index": 681,
+    "english": "solid",
+    "japanese": "しっかりした；硬い；固体の"
+  },
+  {
+    "index": 682,
+    "english": "remote",
+    "japanese": "（～から）遠く離れた（from）；かけ離れた"
+  },
+  {
+    "index": 683,
+    "english": "principal",
+    "japanese": "主要な；資本金の"
+  },
+  {
+    "index": 684,
+    "english": "sophisticated",
+    "japanese": "高性能の，精巧な；洗練された"
+  },
+  {
+    "index": 685,
+    "english": "equivalent",
+    "japanese": "等しい，相当する"
+  },
+  {
+    "index": 686,
+    "english": "rational",
+    "japanese": "理性的な；合理的な"
+  },
+  {
+    "index": 687,
+    "english": "relevant",
+    "japanese": "関係がある；適切な"
+  },
+  {
+    "index": 688,
+    "english": "absolute",
+    "japanese": "絶対的な（⇔ relative 相対的な）"
+  },
+  {
+    "index": 689,
+    "english": "frequent",
+    "japanese": "頻繁な"
+  },
+  {
+    "index": 690,
+    "english": "permanent",
+    "japanese": "永続的な（⇔ temporary ⇒ 793）"
+  },
+  {
+    "index": 691,
+    "english": "intense",
+    "japanese": "強烈な；熱烈な"
+  },
+  {
+    "index": 692,
+    "english": "meaningful",
+    "japanese": "意味のある"
+  },
+  {
+    "index": 693,
+    "english": "evil",
+    "japanese": "邪悪な；有害な"
+  },
+  {
+    "index": 694,
+    "english": "extinct",
+    "japanese": "絶滅した；廃止された"
+  },
+  {
+    "index": 695,
+    "english": "random",
+    "japanese": "無作為の；手当たり次第の"
+  },
+  {
+    "index": 696,
+    "english": "raw",
+    "japanese": "生の；未加工の"
+  },
+  {
+    "index": 697,
+    "english": "rude",
+    "japanese": "無礼な（⇔ polite 礼儀正しい）；粗野な"
+  },
+  {
+    "index": 698,
+    "english": "mere",
+    "japanese": "単なる，ほんの"
+  },
+  {
+    "index": 699,
+    "english": "tropical",
+    "japanese": "熱帯の"
+  },
+  {
+    "index": 700,
+    "english": "forth",
+    "japanese": "前へ，先へ；それ以降"
+  },
+  {
+    "index": 701,
+    "english": "possess",
+    "japanese": "を所有している；の心をとらえる"
+  },
+  {
+    "index": 702,
+    "english": "dominate",
+    "japanese": "を支配する；（～より）優勢である（over）"
+  },
+  {
+    "index": 703,
+    "english": "guarantee",
+    "japanese": "を保証する"
+  },
+  {
+    "index": 704,
+    "english": "melt",
+    "japanese": "溶ける；なごむ；を溶かす"
+  },
+  {
+    "index": 705,
+    "english": "embarrass",
+    "japanese": "に恥ずかしい思いをさせる"
+  },
+  {
+    "index": 706,
+    "english": "discourage",
+    "japanese": "（人）にやる気をなくさせる；を落胆させる（⇔ encourage ⇒ 30）"
+  },
+  {
+    "index": 707,
+    "english": "detect",
+    "japanese": "を感知する；を見つけ出す；に気づく"
+  },
+  {
+    "index": 708,
+    "english": "devote",
+    "japanese": "をささげる"
+  },
+  {
+    "index": 709,
+    "english": "urge",
+    "japanese": "に（強く）促す；を強く主張する；を駆り立てる"
+  },
+  {
+    "index": 710,
+    "english": "lend",
+    "japanese": "を貸す（⇔ borrow を借りる）；（人）に（助言・援助など）を与える"
+  },
+  {
+    "index": 711,
+    "english": "restrict",
+    "japanese": "を制限する"
+  },
+  {
+    "index": 712,
+    "english": "isolate",
+    "japanese": "を孤立させる"
+  },
+  {
+    "index": 713,
+    "english": "accompany",
+    "japanese": "に同行する；に付随する"
+  },
+  {
+    "index": 714,
+    "english": "exhaust",
+    "japanese": "を疲れ果てさせる；を使い尽くす；排気する"
+  },
+  {
+    "index": 715,
+    "english": "annoy",
+    "japanese": "を悩ます；〔受身形で〕腹が立つ"
+  },
+  {
+    "index": 716,
+    "english": "endanger",
+    "japanese": "を危険にさらす"
+  },
+  {
+    "index": 717,
+    "english": "acknowledge",
+    "japanese": "（事実など）を認める（≒ admit ⇒ 406）；に謝意を表す"
+  },
+  {
+    "index": 718,
+    "english": "admire",
+    "japanese": "に（～のことで）敬服［感心］する（for）"
+  },
+  {
+    "index": 719,
+    "english": "evaluate",
+    "japanese": "を評価する；を査定する"
+  },
+  {
+    "index": 720,
+    "english": "declare",
+    "japanese": "を宣言する；を申告する"
+  },
+  {
+    "index": 721,
+    "english": "secure",
+    "japanese": "を確保する；を守る"
+  },
+  {
+    "index": 722,
+    "english": "specialize",
+    "japanese": "専門とする；【英】（～を）専攻する（in）（≒ 【米】major）"
+  },
+  {
+    "index": 723,
+    "english": "attribute",
+    "japanese": "（結果など）を（～に）帰する（to）"
+  },
+  {
+    "index": 724,
+    "english": "pretend",
+    "japanese": "（の）ふりをする"
+  },
+  {
+    "index": 725,
+    "english": "bury",
+    "japanese": "を埋める；を埋葬する；を隠す"
+  },
+  {
+    "index": 726,
+    "english": "reverse",
+    "japanese": "を逆転させる；を反対にする"
+  },
+  {
+    "index": 727,
+    "english": "resist",
+    "japanese": "に抵抗する；〔通例否定文で〕を我慢する"
+  },
+  {
+    "index": 728,
+    "english": "scare",
+    "japanese": "をおびえさせる；を脅す"
+  },
+  {
+    "index": 729,
+    "english": "imitate",
+    "japanese": "をまねる；を模造する"
+  },
+  {
+    "index": 730,
+    "english": "assist",
+    "japanese": "（を）援助する；を手伝う"
+  },
+  {
+    "index": 731,
+    "english": "resemble",
+    "japanese": "に似ている"
+  },
+  {
+    "index": 732,
+    "english": "retire",
+    "japanese": "（～から）引退する，退職する（from）；退く"
+  },
+  {
+    "index": 733,
+    "english": "neglect",
+    "japanese": "をおろそかにする，怠る；を無視する"
+  },
+  {
+    "index": 734,
+    "english": "collapse",
+    "japanese": "崩壊する；（人が）倒れる；を折り畳む"
+  },
+  {
+    "index": 735,
+    "english": "reform",
+    "japanese": "を改革する；を改心させる"
+  },
+  {
+    "index": 736,
+    "english": "protest",
+    "japanese": "（に）抗議する；を主張する"
+  },
+  {
+    "index": 737,
+    "english": "owe",
+    "japanese": "に借りがある；のおかげである"
+  },
+  {
+    "index": 738,
+    "english": "sustain",
+    "japanese": "を持続させる；を支える"
+  },
+  {
+    "index": 739,
+    "english": "assign",
+    "japanese": "を割り当てる；を（～に）配属する（to）"
+  },
+  {
+    "index": 740,
+    "english": "accomplish",
+    "japanese": "を成し遂げる"
+  },
+  {
+    "index": 741,
+    "english": "wisdom",
+    "japanese": "知恵；賢明さ；学識"
+  },
+  {
+    "index": 742,
+    "english": "literacy",
+    "japanese": "読み書きの能力；（特定分野の）知識"
+  },
+  {
+    "index": 743,
+    "english": "heritage",
+    "japanese": "遺産"
+  },
+  {
+    "index": 744,
+    "english": "mission",
+    "japanese": "使命；（外交）使節団；布教"
+  },
+  {
+    "index": 745,
+    "english": "license",
+    "japanese": "免許（証）；許可"
+  },
+  {
+    "index": 746,
+    "english": "elite",
+    "japanese": "〔通例the ～〕〔集合的に〕エリート"
+  },
+  {
+    "index": 747,
+    "english": "layer",
+    "japanese": "層"
+  },
+  {
+    "index": 748,
+    "english": "motor",
+    "japanese": "モーター；原動力"
+  },
+  {
+    "index": 749,
+    "english": "protein",
+    "japanese": "たんぱく質"
+  },
+  {
+    "index": 750,
+    "english": "profession",
+    "japanese": "職業；専門職；同業者仲間"
+  },
+  {
+    "index": 751,
+    "english": "editor",
+    "japanese": "編集者；編集長"
+  },
+  {
+    "index": 752,
+    "english": "agent",
+    "japanese": "仲介者，代理人；薬剤"
+  },
+  {
+    "index": 753,
+    "english": "globe",
+    "japanese": "地球（≒ earth）；世界；球"
+  },
+  {
+    "index": 754,
+    "english": "haven",
+    "japanese": "避難所，保護区；港"
+  },
+  {
+    "index": 755,
+    "english": "row",
+    "japanese": "列；（建物が並ぶ）通り"
+  },
+  {
+    "index": 756,
+    "english": "sacrifice",
+    "japanese": "犠牲；いけにえ"
+  },
+  {
+    "index": 757,
+    "english": "means",
+    "japanese": "〔単数・複数扱い〕手段；〔複数扱い〕資力，収入"
+  },
+  {
+    "index": 758,
+    "english": "session",
+    "japanese": "集まり；（議会の）会期；（開会中の）議会"
+  },
+  {
+    "index": 759,
+    "english": "league",
+    "japanese": "（競技）連盟；同盟"
+  },
+  {
+    "index": 760,
+    "english": "contest",
+    "japanese": "コンテスト，競技（会）；争い"
+  },
+  {
+    "index": 761,
+    "english": "guard",
+    "japanese": "警備員；警備隊；監視，警戒"
+  },
+  {
+    "index": 762,
+    "english": "opponent",
+    "japanese": "（試合・論争などの）相手；反対者"
+  },
+  {
+    "index": 763,
+    "english": "glance",
+    "japanese": "（～を）ちらっと見ること（at）"
+  },
+  {
+    "index": 764,
+    "english": "divorce",
+    "japanese": "離婚；分離"
+  },
+  {
+    "index": 765,
+    "english": "tissue",
+    "japanese": "（生物の）組織；ティッシュペーパー"
+  },
+  {
+    "index": 766,
+    "english": "liquid",
+    "japanese": "液体"
+  },
+  {
+    "index": 767,
+    "english": "inequality",
+    "japanese": "不平等；不公平な事柄"
+  },
+  {
+    "index": 768,
+    "english": "prejudice",
+    "japanese": "（～に対する）偏見（against）（≒ bias）"
+  },
+  {
+    "index": 769,
+    "english": "justice",
+    "japanese": "公正，正義；司法"
+  },
+  {
+    "index": 770,
+    "english": "guideline",
+    "japanese": "指針，ガイドライン；指導基準"
+  },
+  {
+    "index": 771,
+    "english": "platform",
+    "japanese": "プラットフォーム；演壇；舞台"
+  },
+  {
+    "index": 772,
+    "english": "sector",
+    "japanese": "（社会・経済などの）部門，セクター；（都市内の）地域"
+  },
+  {
+    "index": 773,
+    "english": "channel",
+    "japanese": "チャンネル；伝達経路；海峡"
+  },
+  {
+    "index": 774,
+    "english": "glacier",
+    "japanese": "氷河"
+  },
+  {
+    "index": 775,
+    "english": "primate",
+    "japanese": "霊長目の動物"
+  },
+  {
+    "index": 776,
+    "english": "usage",
+    "japanese": "（使）用法；語法；習慣"
+  },
+  {
+    "index": 777,
+    "english": "fortune",
+    "japanese": "財産；幸運（≒ luck）；運命"
+  },
+  {
+    "index": 778,
+    "english": "correlation",
+    "japanese": "相互関係，相関（関係）"
+  },
+  {
+    "index": 779,
+    "english": "artistic",
+    "japanese": "芸術的な"
+  },
+  {
+    "index": 780,
+    "english": "literary",
+    "japanese": "文学の；文語の（⇔ colloquial 口語体の）"
+  },
+  {
+    "index": 781,
+    "english": "classic",
+    "japanese": "第一級の；典型的な；定番の"
+  },
+  {
+    "index": 782,
+    "english": "liberal",
+    "japanese": "自由主義の；寛大な；一般教養の"
+  },
+  {
+    "index": 783,
+    "english": "concrete",
+    "japanese": "具体的な（⇔ abstract ⇒ 586）；有形の"
+  },
+  {
+    "index": 784,
+    "english": "slight",
+    "japanese": "わずかな；取るに足らない"
+  },
+  {
+    "index": 785,
+    "english": "federal",
+    "japanese": "連邦（政府）の"
+  },
+  {
+    "index": 786,
+    "english": "primitive",
+    "japanese": "原始的な；未開の"
+  },
+  {
+    "index": 787,
+    "english": "unfamiliar",
+    "japanese": "（～に）不慣れな（with）；（～に）（よく）知られていない（to）"
+  },
+  {
+    "index": 788,
+    "english": "subtle",
+    "japanese": "微妙な；（気体などが）希薄な"
+  },
+  {
+    "index": 789,
+    "english": "plain",
+    "japanese": "明らかな；平易な；飾りのない；率直な"
+  },
+  {
+    "index": 790,
+    "english": "marine",
+    "japanese": "海の；船舶の"
+  },
+  {
+    "index": 791,
+    "english": "apparent",
+    "japanese": "明白な；一見～らしい"
+  },
+  {
+    "index": 792,
+    "english": "reluctant",
+    "japanese": "気が進まない，嫌がる（⇔ willing ⇒ 298）"
+  },
+  {
+    "index": 793,
+    "english": "temporary",
+    "japanese": "一時的な（⇔ permanent ⇒ 690）"
+  },
+  {
+    "index": 794,
+    "english": "guilty",
+    "japanese": "罪悪感のある；（～について）有罪の（of）"
+  },
+  {
+    "index": 795,
+    "english": "royal",
+    "japanese": "王の"
+  },
+  {
+    "index": 796,
+    "english": "pure",
+    "japanese": "純粋な；潔白な；まったくの"
+  },
+  {
+    "index": 797,
+    "english": "incredible",
+    "japanese": "信じられない；すばらしい"
+  },
+  {
+    "index": 798,
+    "english": "eager",
+    "japanese": "（～を）熱望して（for）；熱心な"
+  },
+  {
+    "index": 799,
+    "english": "adequate",
+    "japanese": "十分な；適切な（⇔ inadequate 不適切な）"
+  },
+  {
+    "index": 800,
+    "english": "via",
+    "japanese": "～経由で；～の媒介で"
+  },
+  {
+    "index": 801,
+    "english": "assess",
+    "japanese": "を評価する；を査定する"
+  },
+  {
+    "index": 802,
+    "english": "approve",
+    "japanese": "賛成する；を承認する"
+  },
+  {
+    "index": 803,
+    "english": "remark",
+    "japanese": "と述べる；（～について）意見を述べる（on / upon）"
+  },
+  {
+    "index": 804,
+    "english": "pose",
+    "japanese": "（危険）を引き起こす；（問題など）を提起する；ポーズをとる；（～を）装う（as）"
+  },
+  {
+    "index": 805,
+    "english": "yield",
+    "japanese": "をもたらす；を（～に）譲る（to）；（～に）屈する（to）"
+  },
+  {
+    "index": 806,
+    "english": "exhibit",
+    "japanese": "を示す，見せる；を展示する"
+  },
+  {
+    "index": 807,
+    "english": "distribute",
+    "japanese": "を（～に）分配する（to）；〔受身形で〕分布する"
+  },
+  {
+    "index": 808,
+    "english": "command",
+    "japanese": "を命じる；を指揮する；（景色）を見渡せる"
+  },
+  {
+    "index": 809,
+    "english": "occupy",
+    "japanese": "（空間・時間）を占める；を占領する"
+  },
+  {
+    "index": 810,
+    "english": "pop",
+    "japanese": "ひょいと動く；不意に現れる；ポンとはじける"
+  },
+  {
+    "index": 811,
+    "english": "pile",
+    "japanese": "を積み重ねる；積み重なる"
+  },
+  {
+    "index": 812,
+    "english": "greet",
+    "japanese": "に挨拶する；を迎える"
+  },
+  {
+    "index": 813,
+    "english": "apologize",
+    "japanese": "（～に；～のことで）謝る（to；for）；弁明する"
+  },
+  {
+    "index": 814,
+    "english": "frustrate",
+    "japanese": "をいら立たせる；（計画・希望など）を挫折させる"
+  },
+  {
+    "index": 815,
+    "english": "relieve",
+    "japanese": "を和らげる；〔受身形で〕（...して）安心する（to do）；を解放する"
+  },
+  {
+    "index": 816,
+    "english": "derive",
+    "japanese": "由来する；を引き出す；を推論する"
+  },
+  {
+    "index": 817,
+    "english": "deserve",
+    "japanese": "に値する"
+  },
+  {
+    "index": 818,
+    "english": "peer",
+    "japanese": "（～を）じっと見る（at / into）"
+  },
+  {
+    "index": 819,
+    "english": "defeat",
+    "japanese": "を負かす（≒ beat）；を失敗させる"
+  },
+  {
+    "index": 820,
+    "english": "convert",
+    "japanese": "を変える；を改宗［転向］させる；を交換する"
+  },
+  {
+    "index": 821,
+    "english": "wed",
+    "japanese": "と結婚する；を（～と）結婚させる（to）"
+  },
+  {
+    "index": 822,
+    "english": "delight",
+    "japanese": "を喜ばせる；（～を）大いに喜ぶ（in）"
+  },
+  {
+    "index": 823,
+    "english": "boost",
+    "japanese": "を押し上げる；を増加させる"
+  },
+  {
+    "index": 824,
+    "english": "endure",
+    "japanese": "に耐える（≒ put up with）；（に）持ちこたえる"
+  },
+  {
+    "index": 825,
+    "english": "correspond",
+    "japanese": "一致する；（～に）相当する（to）；文通する"
+  },
+  {
+    "index": 826,
+    "english": "impose",
+    "japanese": "を課す；を押しつける"
+  },
+  {
+    "index": 827,
+    "english": "rescue",
+    "japanese": "を救う"
+  },
+  {
+    "index": 828,
+    "english": "resolve",
+    "japanese": "を解決する；を決意する；を議決する"
+  },
+  {
+    "index": 829,
+    "english": "register",
+    "japanese": "を記録する，登録する；（～に）登録する（for）"
+  },
+  {
+    "index": 830,
+    "english": "interrupt",
+    "japanese": "を中断させる；（の）邪魔をする"
+  },
+  {
+    "index": 831,
+    "english": "rid",
+    "japanese": "から（～を）取り除く，除去する（of）"
+  },
+  {
+    "index": 832,
+    "english": "prohibit",
+    "japanese": "を禁止する"
+  },
+  {
+    "index": 833,
+    "english": "compose",
+    "japanese": "を構成する；を創作する；を鎮静する"
+  },
+  {
+    "index": 834,
+    "english": "misunderstand",
+    "japanese": "（を）誤解する"
+  },
+  {
+    "index": 835,
+    "english": "punish",
+    "japanese": "を罰する；に損傷を与える"
+  },
+  {
+    "index": 836,
+    "english": "ruin",
+    "japanese": "をだめにする；を破滅させる；破滅する"
+  },
+  {
+    "index": 837,
+    "english": "defend",
+    "japanese": "を防御する；を弁護する"
+  },
+  {
+    "index": 838,
+    "english": "embrace",
+    "japanese": "を受け入れる；（を）抱擁する；を包含する"
+  },
+  {
+    "index": 839,
+    "english": "modify",
+    "japanese": "を修正する；を緩和する"
+  },
+  {
+    "index": 840,
+    "english": "qualify",
+    "japanese": "（人）に資格を与える；資格がある"
+  },
+  {
+    "index": 841,
+    "english": "passion",
+    "japanese": "情熱；熱中；激怒"
+  },
+  {
+    "index": 842,
+    "english": "enthusiasm",
+    "japanese": "（～への）熱情，熱意（for）"
+  },
+  {
+    "index": 843,
+    "english": "phase",
+    "japanese": "段階，局面；側面"
+  },
+  {
+    "index": 844,
+    "english": "mode",
+    "japanese": "方式；気分；形態；流行"
+  },
+  {
+    "index": 845,
+    "english": "span",
+    "japanese": "期間；範囲"
+  },
+  {
+    "index": 846,
+    "english": "gravity",
+    "japanese": "重力，引力；重量；重大さ"
+  },
+  {
+    "index": 847,
+    "english": "orbit",
+    "japanese": "軌道；（活動・勢力などの）範囲"
+  },
+  {
+    "index": 848,
+    "english": "asteroid",
+    "japanese": "小惑星（≒ minor planet）；ヒトデ（＝ starfish）"
+  },
+  {
+    "index": 849,
+    "english": "core",
+    "japanese": "核心；芯"
+  },
+  {
+    "index": 850,
+    "english": "soul",
+    "japanese": "精神；魂，霊魂；生気"
+  },
+  {
+    "index": 851,
+    "english": "nerve",
+    "japanese": "神経；〔～s〕神経過敏；（...する）度胸（to do）"
+  },
+  {
+    "index": 852,
+    "english": "infection",
+    "japanese": "感染（症）"
+  },
+  {
+    "index": 853,
+    "english": "mall",
+    "japanese": "【主に米】 モール，ショッピングセンター"
+  },
+  {
+    "index": 854,
+    "english": "grocery",
+    "japanese": "〔～ies〕食料雑貨；食料雑貨店"
+  },
+  {
+    "index": 855,
+    "english": "humor",
+    "japanese": "ユーモア；気分，機嫌；気質"
+  },
+  {
+    "index": 856,
+    "english": "instinct",
+    "japanese": "本能；勘，直感；（自然に起こる）衝動"
+  },
+  {
+    "index": 857,
+    "english": "faith",
+    "japanese": "（～への）信頼（in）；信仰（心）"
+  },
+  {
+    "index": 858,
+    "english": "courage",
+    "japanese": "勇気"
+  },
+  {
+    "index": 859,
+    "english": "incentive",
+    "japanese": "動機（づけ）；報奨金"
+  },
+  {
+    "index": 860,
+    "english": "prospect",
+    "japanese": "見込み；〔～s〕（未来への）展望；有望な人"
+  },
+  {
+    "index": 861,
+    "english": "obstacle",
+    "japanese": "（～に対する）障害（物）（to）"
+  },
+  {
+    "index": 862,
+    "english": "architecture",
+    "japanese": "建築；建築様式；構造"
+  },
+  {
+    "index": 863,
+    "english": "stem",
+    "japanese": "（草木の）茎，幹"
+  },
+  {
+    "index": 864,
+    "english": "illusion",
+    "japanese": "錯覚，思い違い；幻想"
+  },
+  {
+    "index": 865,
+    "english": "discrimination",
+    "japanese": "（～に対する）差別（against）；区別"
+  },
+  {
+    "index": 866,
+    "english": "shame",
+    "japanese": "恥；残念なこと"
+  },
+  {
+    "index": 867,
+    "english": "drought",
+    "japanese": "干ばつ；（慢性的な）不足"
+  },
+  {
+    "index": 868,
+    "english": "flavor",
+    "japanese": "風味；特色"
+  },
+  {
+    "index": 869,
+    "english": "portion",
+    "japanese": "部分；1人前；割り当て"
+  },
+  {
+    "index": 870,
+    "english": "recipe",
+    "japanese": "調理法，レシピ；手順；秘訣"
+  },
+  {
+    "index": 871,
+    "english": "luxury",
+    "japanese": "ぜいたく（品）；〔形容詞的に〕豪華な"
+  },
+  {
+    "index": 872,
+    "english": "chip",
+    "japanese": "小片，破片；欠けた箇所；集積回路"
+  },
+  {
+    "index": 873,
+    "english": "ritual",
+    "japanese": "儀式；（日常の）習慣的行為"
+  },
+  {
+    "index": 874,
+    "english": "sake",
+    "japanese": "〔for the ～ ofで〕のために，の目的で；に免じて"
+  },
+  {
+    "index": 875,
+    "english": "prefecture",
+    "japanese": "（日本の）県，府；（フランスなどの）県"
+  },
+  {
+    "index": 876,
+    "english": "council",
+    "japanese": "（地方）議会；評議会；（公の）会議"
+  },
+  {
+    "index": 877,
+    "english": "administration",
+    "japanese": "管理（部）；行政；政府（機関）"
+  },
+  {
+    "index": 878,
+    "english": "curriculum",
+    "japanese": "教育課程，カリキュラム"
+  },
+  {
+    "index": 879,
+    "english": "precious",
+    "japanese": "貴重な；高価な（≒ valuable）"
+  },
+  {
+    "index": 880,
+    "english": "generous",
+    "japanese": "寛大な；気前のよい（⇔ stingy けちな）；豊富な"
+  },
+  {
+    "index": 881,
+    "english": "casual",
+    "japanese": "何気ない；形式ばらない"
+  },
+  {
+    "index": 882,
+    "english": "optimistic",
+    "japanese": "楽観的な（⇔ pessimistic ⇒ 1593）"
+  },
+  {
+    "index": 883,
+    "english": "rough",
+    "japanese": "粗い；大まかな；乱暴な"
+  },
+  {
+    "index": 884,
+    "english": "unpleasant",
+    "japanese": "不愉快な；不親切な，無礼な"
+  },
+  {
+    "index": 885,
+    "english": "Arctic",
+    "japanese": "北極の（⇔ Antarctic 南極の）"
+  },
+  {
+    "index": 886,
+    "english": "ultimate",
+    "japanese": "究極の"
+  },
+  {
+    "index": 887,
+    "english": "deaf",
+    "japanese": "耳が聞こえない（≒ hard of hearing）"
+  },
+  {
+    "index": 888,
+    "english": "genuine",
+    "japanese": "本物の（≒ authentic ⇒ 1580"
+  },
+  {
+    "index": 889,
+    "english": "manual",
+    "japanese": "体［手］を使う；手の；手動式の"
+  },
+  {
+    "index": 890,
+    "english": "mechanical",
+    "japanese": "機械の；機械的な"
+  },
+  {
+    "index": 891,
+    "english": "instant",
+    "japanese": "即時の，すぐの；即席の"
+  },
+  {
+    "index": 892,
+    "english": "spare",
+    "japanese": "余分の，予備の"
+  },
+  {
+    "index": 893,
+    "english": "immune",
+    "japanese": "（～に対して）免疫を持つ（to）；（～を）免れた（from）"
+  },
+  {
+    "index": 894,
+    "english": "harsh",
+    "japanese": "厳しい；（光・色・味などが）不快な"
+  },
+  {
+    "index": 895,
+    "english": "collective",
+    "japanese": "集団の，共同の"
+  },
+  {
+    "index": 896,
+    "english": "inevitable",
+    "japanese": "避けられない"
+  },
+  {
+    "index": 897,
+    "english": "profound",
+    "japanese": "重大な；深い；難解な"
+  },
+  {
+    "index": 898,
+    "english": "steady",
+    "japanese": "着実な，一定の；安定した"
+  },
+  {
+    "index": 899,
+    "english": "mature",
+    "japanese": "成熟した（⇔ immature 未熟な）；熟した"
+  },
+  {
+    "index": 900,
+    "english": "likewise",
+    "japanese": "同様に（≒ in the same way）"
+  },
+  {
+    "index": 901,
+    "english": "chase",
+    "japanese": "（を）追跡する；（を）追求する"
+  },
+  {
+    "index": 902,
+    "english": "sue",
+    "japanese": "を告訴する；（～を求めて）訴訟を起こす（for）"
+  },
+  {
+    "index": 903,
+    "english": "gaze",
+    "japanese": "じっと見る"
+  },
+  {
+    "index": 904,
+    "english": "slip",
+    "japanese": "滑る；滑り落ちる；そっと動く"
+  },
+  {
+    "index": 905,
+    "english": "load",
+    "japanese": "に積む；に負わせる"
+  },
+  {
+    "index": 906,
+    "english": "overwhelm",
+    "japanese": "を圧倒する；を（精神的に）打ちのめす"
+  },
+  {
+    "index": 907,
+    "english": "wander",
+    "japanese": "歩き回る；それる；はぐれる"
+  },
+  {
+    "index": 908,
+    "english": "float",
+    "japanese": "漂う，浮かぶ；を浮かべる"
+  },
+  {
+    "index": 909,
+    "english": "pour",
+    "japanese": "を注ぐ；激しく降る；押し寄せる"
+  },
+  {
+    "index": 910,
+    "english": "substitute",
+    "japanese": "を代わりに使う；（～の）代理をする（for）"
+  },
+  {
+    "index": 911,
+    "english": "pronounce",
+    "japanese": "を発音する；を宣言する"
+  },
+  {
+    "index": 912,
+    "english": "shrink",
+    "japanese": "縮む，縮小する；減少する；ひるむ"
+  },
+  {
+    "index": 913,
+    "english": "restore",
+    "japanese": "を回復させる；を修復する"
+  },
+  {
+    "index": 914,
+    "english": "trigger",
+    "japanese": "を引き起こす；のきっかけとなる"
+  },
+  {
+    "index": 915,
+    "english": "grab",
+    "japanese": "をつかむ；を横取りする；を急いで食べる"
+  },
+  {
+    "index": 916,
+    "english": "retain",
+    "japanese": "を保持する；を覚えている"
+  },
+  {
+    "index": 917,
+    "english": "reproduce",
+    "japanese": "を複製する；を繁殖させる；繁殖する"
+  },
+  {
+    "index": 918,
+    "english": "bob",
+    "japanese": "上下に動く；急に動く；を上下に動かす"
+  },
+  {
+    "index": 919,
+    "english": "entertain",
+    "japanese": "を楽しませる；をもてなす"
+  },
+  {
+    "index": 920,
+    "english": "interfere",
+    "japanese": "干渉する，介入する；邪魔する"
+  },
+  {
+    "index": 921,
+    "english": "cultivate",
+    "japanese": "を養う；を耕す；を栽培する"
+  },
+  {
+    "index": 922,
+    "english": "underlie",
+    "japanese": "の根底にある"
+  },
+  {
+    "index": 923,
+    "english": "anticipate",
+    "japanese": "を予期する；楽しみに待つ"
+  },
+  {
+    "index": 924,
+    "english": "justify",
+    "japanese": "を正当化する"
+  },
+  {
+    "index": 925,
+    "english": "regulate",
+    "japanese": "を規制する；を調整する"
+  },
+  {
+    "index": 926,
+    "english": "scan",
+    "japanese": "を走査［スキャン］する；をざっと見る；を注意深く調べる"
+  },
+  {
+    "index": 927,
+    "english": "classify",
+    "japanese": "を分類する；を機密扱いにする"
+  },
+  {
+    "index": 928,
+    "english": "submit",
+    "japanese": "を提出する；〔submit oneselfで〕（～に）従う（to）"
+  },
+  {
+    "index": 929,
+    "english": "pause",
+    "japanese": "（一時的に）中止する；（一瞬）立ち止まる"
+  },
+  {
+    "index": 930,
+    "english": "lean",
+    "japanese": "傾く；寄りかかる；をもたせかける"
+  },
+  {
+    "index": 931,
+    "english": "bump",
+    "japanese": "ぶつかる；をぶつける"
+  },
+  {
+    "index": 932,
+    "english": "fold",
+    "japanese": "を折り畳む；（両腕）を組む；（折り）畳める"
+  },
+  {
+    "index": 933,
+    "english": "hesitate",
+    "japanese": "躊躇する，ためらう"
+  },
+  {
+    "index": 934,
+    "english": "pump",
+    "japanese": "（液体・気体）をポンプで送り込む；をくみ出す；を注ぎ込む"
+  },
+  {
+    "index": 935,
+    "english": "mount",
+    "japanese": "を据えつける；に着手する；（自転車など）に乗る；増える"
+  },
+  {
+    "index": 936,
+    "english": "exceed",
+    "japanese": "を超える；に勝る"
+  },
+  {
+    "index": 937,
+    "english": "undergo",
+    "japanese": "を経験する；（手術など）を受ける；に耐える"
+  },
+  {
+    "index": 938,
+    "english": "confront",
+    "japanese": "に立ち向かう；（困難などが）に立ちはだかる"
+  },
+  {
+    "index": 939,
+    "english": "consult",
+    "japanese": "（に）相談する；を参照する"
+  },
+  {
+    "index": 940,
+    "english": "fulfill",
+    "japanese": "を実現させる；を果たす；を満たす"
+  },
+  {
+    "index": 941,
+    "english": "privilege",
+    "japanese": "特権，特典"
+  },
+  {
+    "index": 942,
+    "english": "formation",
+    "japanese": "形成；構成（物）；隊列"
+  },
+  {
+    "index": 943,
+    "english": "dimension",
+    "japanese": "側面，局面；次元；寸法"
+  },
+  {
+    "index": 944,
+    "english": "neuron",
+    "japanese": "ニューロン，神経単位"
+  },
+  {
+    "index": 945,
+    "english": "sensation",
+    "japanese": "感覚；大評判"
+  },
+  {
+    "index": 946,
+    "english": "chart",
+    "japanese": "図，グラフ；海図；ヒットチャート"
+  },
+  {
+    "index": 947,
+    "english": "geography",
+    "japanese": "〔the ～〕地理；地理学"
+  },
+  {
+    "index": 948,
+    "english": "panel",
+    "japanese": "（専門家の）一団；討論者一同；羽目板"
+  },
+  {
+    "index": 949,
+    "english": "semester",
+    "japanese": "【主に米】 （2学期制の）学期"
+  },
+  {
+    "index": 950,
+    "english": "workforce",
+    "japanese": "労働人口，総労働力；全従業員（数）"
+  },
+  {
+    "index": 951,
+    "english": "mill",
+    "japanese": "製造工場；製粉所；粉ひき機"
+  },
+  {
+    "index": 952,
+    "english": "abuse",
+    "japanese": "乱用；虐待"
+  },
+  {
+    "index": 953,
+    "english": "vice",
+    "japanese": "（道徳上の）悪（⇔ virtue ⇒ 1078）；欠点"
+  },
+  {
+    "index": 954,
+    "english": "fate",
+    "japanese": "運命；結末；最期"
+  },
+  {
+    "index": 955,
+    "english": "tragedy",
+    "japanese": "悲劇（的な事態）（⇔ comedy 喜劇）"
+  },
+  {
+    "index": 956,
+    "english": "scenario",
+    "japanese": "（予想される）筋書き，事態；脚本"
+  },
+  {
+    "index": 957,
+    "english": "allergy",
+    "japanese": "アレルギー"
+  },
+  {
+    "index": 958,
+    "english": "wound",
+    "japanese": "（銃弾・刃物などによる）傷；痛手"
+  },
+  {
+    "index": 959,
+    "english": "antibiotic",
+    "japanese": "〔通例～s〕抗生物質"
+  },
+  {
+    "index": 960,
+    "english": "vaccine",
+    "japanese": "ワクチン"
+  },
+  {
+    "index": 961,
+    "english": "metaphor",
+    "japanese": "隠喩；比喩"
+  },
+  {
+    "index": 962,
+    "english": "folk",
+    "japanese": "人々；〔～s〕皆さん；〔one's ～s〕家族"
+  },
+  {
+    "index": 963,
+    "english": "fare",
+    "japanese": "（乗り物の）料金"
+  },
+  {
+    "index": 964,
+    "english": "transition",
+    "japanese": "移り変わり；過渡期"
+  },
+  {
+    "index": 965,
+    "english": "maximum",
+    "japanese": "最大限（⇔ minimum ⇒ 653）"
+  },
+  {
+    "index": 966,
+    "english": "galaxy",
+    "japanese": "星雲，銀河；〔the G～〕銀河系"
+  },
+  {
+    "index": 967,
+    "english": "mineral",
+    "japanese": "鉱物；ミネラル"
+  },
+  {
+    "index": 968,
+    "english": "skeleton",
+    "japanese": "骨格；骨組み；概略"
+  },
+  {
+    "index": 969,
+    "english": "counterpart",
+    "japanese": "相当する物［人］"
+  },
+  {
+    "index": 970,
+    "english": "stroke",
+    "japanese": "脳卒中；（ボールを）打つこと；（雷などの）一撃"
+  },
+  {
+    "index": 971,
+    "english": "pedestrian",
+    "japanese": "歩行者"
+  },
+  {
+    "index": 972,
+    "english": "trail",
+    "japanese": "（野山などの）小道；跡；手がかり"
+  },
+  {
+    "index": 973,
+    "english": "ecology",
+    "japanese": "生態学；生態系；環境保護"
+  },
+  {
+    "index": 974,
+    "english": "sibling",
+    "japanese": "きょうだい（の1人）"
+  },
+  {
+    "index": 975,
+    "english": "ratio",
+    "japanese": "比率"
+  },
+  {
+    "index": 976,
+    "english": "mixture",
+    "japanese": "混合（物）"
+  },
+  {
+    "index": 977,
+    "english": "charm",
+    "japanese": "魅力；お守り"
+  },
+  {
+    "index": 978,
+    "english": "ambition",
+    "japanese": "（～に対する）願望，野望（for）；野心"
+  },
+  {
+    "index": 979,
+    "english": "prominent",
+    "japanese": "卓越した；目立つ"
+  },
+  {
+    "index": 980,
+    "english": "radical",
+    "japanese": "急進的な；根本的な"
+  },
+  {
+    "index": 981,
+    "english": "prompt",
+    "japanese": "即座の，迅速な"
+  },
+  {
+    "index": 982,
+    "english": "informal",
+    "japanese": "形式ばらない，略式の（⇔ formal 正式の）；（言葉が）くだけた"
+  },
+  {
+    "index": 983,
+    "english": "mutual",
+    "japanese": "相互の；共通の"
+  },
+  {
+    "index": 984,
+    "english": "neutral",
+    "japanese": "中立の；（特徴・表情などが）はっきりしない"
+  },
+  {
+    "index": 985,
+    "english": "alert",
+    "japanese": "警戒して；敏速な"
+  },
+  {
+    "index": 986,
+    "english": "magnetic",
+    "japanese": "磁気の；磁石の；人を引きつける"
+  },
+  {
+    "index": 987,
+    "english": "polar",
+    "japanese": "極地の；電極の"
+  },
+  {
+    "index": 988,
+    "english": "fluent",
+    "japanese": "流ちょうな"
+  },
+  {
+    "index": 989,
+    "english": "external",
+    "japanese": "外部の（⇔ internal ⇒ 680）；対外的な"
+  },
+  {
+    "index": 990,
+    "english": "passive",
+    "japanese": "受動的な；消極的な"
+  },
+  {
+    "index": 991,
+    "english": "awful",
+    "japanese": "ひどい；嫌な；ものすごい"
+  },
+  {
+    "index": 992,
+    "english": "unrelated",
+    "japanese": "無関係の；血縁関係がない"
+  },
+  {
+    "index": 993,
+    "english": "cruel",
+    "japanese": "残酷な；むごい"
+  },
+  {
+    "index": 994,
+    "english": "fake",
+    "japanese": "偽の；見せかけだけの"
+  },
+  {
+    "index": 995,
+    "english": "vulnerable",
+    "japanese": "（攻撃などに）弱い，もろい；傷つきやすい"
+  },
+  {
+    "index": 996,
+    "english": "urgent",
+    "japanese": "緊急の"
+  },
+  {
+    "index": 997,
+    "english": "spiritual",
+    "japanese": "精神の（⇔ material ⇒ 73）；霊的な"
+  },
+  {
+    "index": 998,
+    "english": "modest",
+    "japanese": "謙虚な（≒ humble）；適度な；質素な"
+  },
+  {
+    "index": 999,
+    "english": "keen",
+    "japanese": "熱心な；鋭敏な；（感情・関心などが）強い"
+  },
+  {
+    "index": 1000,
+    "english": "nonetheless",
+    "japanese": "それにもかかわらず，それでもなお（≒ nevertheless）"
+  },
+  {
+    "index": 1001,
+    "english": "negotiate",
+    "japanese": "交渉する；を（交渉して）取り決める"
+  },
+  {
+    "index": 1002,
+    "english": "grasp",
+    "japanese": "を把握［理解］する；をしっかり握る"
+  },
+  {
+    "index": 1003,
+    "english": "donate",
+    "japanese": "を寄付する；（臓器・血液）を提供する"
+  },
+  {
+    "index": 1004,
+    "english": "arrest",
+    "japanese": "を逮捕する；を止める；（注意）を引く"
+  },
+  {
+    "index": 1005,
+    "english": "crack",
+    "japanese": "ひびが入る；にひびを入れる"
+  },
+  {
+    "index": 1006,
+    "english": "tap",
+    "japanese": "を軽くたたく；（液体）を出す；を盗聴する"
+  },
+  {
+    "index": 1007,
+    "english": "split",
+    "japanese": "を分割する；を分担する；分裂する"
+  },
+  {
+    "index": 1008,
+    "english": "forecast",
+    "japanese": "を予想［予測］する"
+  },
+  {
+    "index": 1009,
+    "english": "exclude",
+    "japanese": "を除外する（⇔include を含む）"
+  },
+  {
+    "index": 1010,
+    "english": "overlook",
+    "japanese": "を見落とす；を大目に見る；を見渡す"
+  },
+  {
+    "index": 1011,
+    "english": "burst",
+    "japanese": "破裂する；（～を）突然始める（into）"
+  },
+  {
+    "index": 1012,
+    "english": "heal",
+    "japanese": "（人・傷など）を治す；治る"
+  },
+  {
+    "index": 1013,
+    "english": "forbid",
+    "japanese": "を禁じる（⇔permit 許可する）"
+  },
+  {
+    "index": 1014,
+    "english": "install",
+    "japanese": "をインストールする；を設置する；を就任させる"
+  },
+  {
+    "index": 1015,
+    "english": "diminish",
+    "japanese": "を減らす；減少する（≒decrease）"
+  },
+  {
+    "index": 1016,
+    "english": "cite",
+    "japanese": "を引き合いに出す；を引用する"
+  },
+  {
+    "index": 1017,
+    "english": "quote",
+    "japanese": "を引用する；を引き合いに出す"
+  },
+  {
+    "index": 1018,
+    "english": "dispute",
+    "japanese": "に異議を唱える；（を）議論する"
+  },
+  {
+    "index": 1019,
+    "english": "highlight",
+    "japanese": "を目立たせる、強調する"
+  },
+  {
+    "index": 1020,
+    "english": "distract",
+    "japanese": "（注意など）をそらす"
+  },
+  {
+    "index": 1021,
+    "english": "cheat",
+    "japanese": "をだます；不正をする"
+  },
+  {
+    "index": 1022,
+    "english": "foster",
+    "japanese": "をはぐくむ；を養育する；を心に抱く"
+  },
+  {
+    "index": 1023,
+    "english": "obey",
+    "japanese": "に従う；に服従する"
+  },
+  {
+    "index": 1024,
+    "english": "bend",
+    "japanese": "を曲げる；を屈服させる；曲がる"
+  },
+  {
+    "index": 1025,
+    "english": "deprive",
+    "japanese": "から（権利などを）奪う"
+  },
+  {
+    "index": 1026,
+    "english": "govern",
+    "japanese": "（を）統治する、支配する"
+  },
+  {
+    "index": 1027,
+    "english": "log",
+    "japanese": "〔log onで〕ログオンする；を記録する"
+  },
+  {
+    "index": 1028,
+    "english": "transmit",
+    "japanese": "を伝える；（電波・信号など）を送る"
+  },
+  {
+    "index": 1029,
+    "english": "bully",
+    "japanese": "をいじめる；を脅す"
+  },
+  {
+    "index": 1030,
+    "english": "leap",
+    "japanese": "跳ぶ；さっと動く；急上昇する"
+  },
+  {
+    "index": 1031,
+    "english": "astonish",
+    "japanese": "を驚かす"
+  },
+  {
+    "index": 1032,
+    "english": "thrill",
+    "japanese": "をぞくぞくさせる；わくわくする"
+  },
+  {
+    "index": 1033,
+    "english": "nod",
+    "japanese": "うなずく；会釈する；うとうとする"
+  },
+  {
+    "index": 1034,
+    "english": "bow",
+    "japanese": "おじぎする；屈服する"
+  },
+  {
+    "index": 1035,
+    "english": "blend",
+    "japanese": "を混ぜる；を調和させる；（～に）溶け込む（into）"
+  },
+  {
+    "index": 1036,
+    "english": "complicate",
+    "japanese": "を複雑にする"
+  },
+  {
+    "index": 1037,
+    "english": "pitch",
+    "japanese": "を投げる；倒れる；縦揺れする"
+  },
+  {
+    "index": 1038,
+    "english": "persist",
+    "japanese": "続く；固執する"
+  },
+  {
+    "index": 1039,
+    "english": "dedicate",
+    "japanese": "をささげる；を献呈する"
+  },
+  {
+    "index": 1040,
+    "english": "equip",
+    "japanese": "に備えつける"
+  },
+  {
+    "index": 1041,
+    "english": "premise",
+    "japanese": "前提；〔～s〕（建物を含めた）構内、敷地"
+  },
+  {
+    "index": 1042,
+    "english": "input",
+    "japanese": "入力（情報）、投入；（情報・時間などの）提供"
+  },
+  {
+    "index": 1043,
+    "english": "merit",
+    "japanese": "利点（⇔demerit 欠点）；功績；真価"
+  },
+  {
+    "index": 1044,
+    "english": "sympathy",
+    "japanese": "同情；（～に対する）共感（with/for）"
+  },
+  {
+    "index": 1045,
+    "english": "compliment",
+    "japanese": "賛辞；表敬"
+  },
+  {
+    "index": 1046,
+    "english": "infrastructure",
+    "japanese": "インフラ、基本的施設；（経済）基盤"
+  },
+  {
+    "index": 1047,
+    "english": "ray",
+    "japanese": "光線；ひらめき、一筋の光明"
+  },
+  {
+    "index": 1048,
+    "english": "distress",
+    "japanese": "苦悩；苦痛；困窮"
+  },
+  {
+    "index": 1049,
+    "english": "joint",
+    "japanese": "関節；接合（部）"
+  },
+  {
+    "index": 1050,
+    "english": "expedition",
+    "japanese": "遠征（隊）、探検（隊）"
+  },
+  {
+    "index": 1051,
+    "english": "adolescent",
+    "japanese": "青年；青年期の"
+  },
+  {
+    "index": 1052,
+    "english": "shade",
+    "japanese": "（日）陰；色合い；日よけ；微妙な相違"
+  },
+  {
+    "index": 1053,
+    "english": "jury",
+    "japanese": "陪審（員団）；審査員団"
+  },
+  {
+    "index": 1054,
+    "english": "ethic",
+    "japanese": "倫理、道徳；〔～s〕倫理［道徳］規範"
+  },
+  {
+    "index": 1055,
+    "english": "penalty",
+    "japanese": "（刑）罰；罰金；ペナルティー"
+  },
+  {
+    "index": 1056,
+    "english": "faculty",
+    "japanese": "能力、機能；学部；教授陣"
+  },
+  {
+    "index": 1057,
+    "english": "scheme",
+    "japanese": "計画（≒plan）；体系；陰謀"
+  },
+  {
+    "index": 1058,
+    "english": "nutrition",
+    "japanese": "栄養（の摂取）"
+  },
+  {
+    "index": 1059,
+    "english": "particle",
+    "japanese": "（微）粒子；ほんのわずか"
+  },
+  {
+    "index": 1060,
+    "english": "molecule",
+    "japanese": "分子；微粒子"
+  },
+  {
+    "index": 1061,
+    "english": "nationality",
+    "japanese": "国籍；国民；国民性"
+  },
+  {
+    "index": 1062,
+    "english": "poll",
+    "japanese": "世論調査；投票（数）"
+  },
+  {
+    "index": 1063,
+    "english": "clinic",
+    "japanese": "診療所、クリニック；（病院内の）～科"
+  },
+  {
+    "index": 1064,
+    "english": "dementia",
+    "japanese": "認知症"
+  },
+  {
+    "index": 1065,
+    "english": "fatigue",
+    "japanese": "疲労（≒exhaustion）"
+  },
+  {
+    "index": 1066,
+    "english": "dilemma",
+    "japanese": "ジレンマ、板ばさみ"
+  },
+  {
+    "index": 1067,
+    "english": "queue",
+    "japanese": "【英】（順番を待つ）列"
+  },
+  {
+    "index": 1068,
+    "english": "curve",
+    "japanese": "（道路などの）カーブ；曲線"
+  },
+  {
+    "index": 1069,
+    "english": "narrative",
+    "japanese": "物語、話；（小説の）叙述部分、地の文"
+  },
+  {
+    "index": 1070,
+    "english": "fingerprint",
+    "japanese": "指紋"
+  },
+  {
+    "index": 1071,
+    "english": "file",
+    "japanese": "ファイル；（書類の）とじ込み"
+  },
+  {
+    "index": 1072,
+    "english": "wilderness",
+    "japanese": "荒野；（庭・町などの）放置された部分"
+  },
+  {
+    "index": 1073,
+    "english": "pesticide",
+    "japanese": "殺虫剤；除草剤（≒herbicide）"
+  },
+  {
+    "index": 1074,
+    "english": "panic",
+    "japanese": "パニック（状態）；狼狽"
+  },
+  {
+    "index": 1075,
+    "english": "fabric",
+    "japanese": "織物、布（地）；構造"
+  },
+  {
+    "index": 1076,
+    "english": "fantasy",
+    "japanese": "空想；幻想；幻想的作品"
+  },
+  {
+    "index": 1077,
+    "english": "fancy",
+    "japanese": "（気まぐれな）好み；空想；思いつき"
+  },
+  {
+    "index": 1078,
+    "english": "virtue",
+    "japanese": "美徳（⇔vice 悪）；長所；効能"
+  },
+  {
+    "index": 1079,
+    "english": "grateful",
+    "japanese": "感謝している"
+  },
+  {
+    "index": 1080,
+    "english": "valid",
+    "japanese": "妥当な；有効な"
+  },
+  {
+    "index": 1081,
+    "english": "elaborate",
+    "japanese": "入念な；凝った"
+  },
+  {
+    "index": 1082,
+    "english": "moderate",
+    "japanese": "適度な；穏健な"
+  },
+  {
+    "index": 1083,
+    "english": "dynamic",
+    "japanese": "活動的な、精力的な；動的な（⇔static 静的な）"
+  },
+  {
+    "index": 1084,
+    "english": "brave",
+    "japanese": "勇敢な（⇔cowardly 臆病な）；見事な"
+  },
+  {
+    "index": 1085,
+    "english": "brilliant",
+    "japanese": "すばらしい；才能にあふれた；きらめく"
+  },
+  {
+    "index": 1086,
+    "english": "tremendous",
+    "japanese": "途方もない、莫大な；すばらしい"
+  },
+  {
+    "index": 1087,
+    "english": "oral",
+    "japanese": "口頭の"
+  },
+  {
+    "index": 1088,
+    "english": "innocent",
+    "japanese": "無罪の（⇔guilty 有罪の）；無邪気な；無知の"
+  },
+  {
+    "index": 1089,
+    "english": "subsequent",
+    "japanese": "その後の"
+  },
+  {
+    "index": 1090,
+    "english": "shallow",
+    "japanese": "浅い（⇔deep 深い）；浅薄な"
+  },
+  {
+    "index": 1091,
+    "english": "indifferent",
+    "japanese": "無関心な（≒uninterested）"
+  },
+  {
+    "index": 1092,
+    "english": "inferior",
+    "japanese": "より劣った（⇔superior よりすぐれた）"
+  },
+  {
+    "index": 1093,
+    "english": "awkward",
+    "japanese": "気まずい；ぎこちない；厄介な"
+  },
+  {
+    "index": 1094,
+    "english": "obese",
+    "japanese": "肥満した"
+  },
+  {
+    "index": 1095,
+    "english": "pregnant",
+    "japanese": "妊娠した；（～で）満ちている（with）"
+  },
+  {
+    "index": 1096,
+    "english": "intimate",
+    "japanese": "親密な；密接な"
+  },
+  {
+    "index": 1097,
+    "english": "medieval",
+    "japanese": "中世の；時代遅れの"
+  },
+  {
+    "index": 1098,
+    "english": "sacred",
+    "japanese": "神聖な（≒holy）；宗教的な；厳粛な"
+  },
+  {
+    "index": 1099,
+    "english": "simultaneously",
+    "japanese": "（～と）同時に（with）；一斉に"
+  },
+  {
+    "index": 1100,
+    "english": "versus",
+    "japanese": "〔A ～ Bで〕A対B；AかBか"
+  },
+  {
+    "index": 1101,
+    "english": "proceed",
+    "japanese": "進む，進行する；（～を）続行する（with）"
+  },
+  {
+    "index": 1102,
+    "english": "orient",
+    "japanese": "（人）を（環境などに）慣らす（to）；〔受身形で〕（関心などが）（～に）向いている（to / toward）"
+  },
+  {
+    "index": 1103,
+    "english": "surf",
+    "japanese": "（インターネット上の情報など）を見て回る；サーフィンをする"
+  },
+  {
+    "index": 1104,
+    "english": "filter",
+    "japanese": "をろ過する；を取り除く"
+  },
+  {
+    "index": 1105,
+    "english": "bind",
+    "japanese": "を縛る；を束縛する；を結び付ける"
+  },
+  {
+    "index": 1106,
+    "english": "resort",
+    "japanese": "（好ましくない手段に）訴える，頼る（to）"
+  },
+  {
+    "index": 1107,
+    "english": "reinforce",
+    "japanese": "を強化する；を補強する"
+  },
+  {
+    "index": 1108,
+    "english": "accumulate",
+    "japanese": "を蓄積する，集める；積もる"
+  },
+  {
+    "index": 1109,
+    "english": "bet",
+    "japanese": "と確信する，断言する；（金などを）かける"
+  },
+  {
+    "index": 1110,
+    "english": "advocate",
+    "japanese": "を主張する；を擁護する"
+  },
+  {
+    "index": 1111,
+    "english": "constitute",
+    "japanese": "を構成する；になる，に等しい"
+  },
+  {
+    "index": 1112,
+    "english": "undertake",
+    "japanese": "を引き受ける；を保証する；に着手する"
+  },
+  {
+    "index": 1113,
+    "english": "grip",
+    "japanese": "を握る；をとらえる"
+  },
+  {
+    "index": 1114,
+    "english": "dismiss",
+    "japanese": "（意見など）を退ける；を解雇する"
+  },
+  {
+    "index": 1115,
+    "english": "fade",
+    "japanese": "薄れる；衰える"
+  },
+  {
+    "index": 1116,
+    "english": "conceal",
+    "japanese": "を隠す（≒ hide）；を秘密にする（⇔uncover ⇒ 1236）"
+  },
+  {
+    "index": 1117,
+    "english": "chew",
+    "japanese": "（を）かむ；をかみ砕く"
+  },
+  {
+    "index": 1118,
+    "english": "swallow",
+    "japanese": "（を）飲み込む；をうのみにする；に耐える"
+  },
+  {
+    "index": 1119,
+    "english": "seal",
+    "japanese": "を密閉する；に封をする"
+  },
+  {
+    "index": 1120,
+    "english": "migrate",
+    "japanese": "移住する；（鳥などが）渡る"
+  },
+  {
+    "index": 1121,
+    "english": "exaggerate",
+    "japanese": "（を）誇張する；を強調する"
+  },
+  {
+    "index": 1122,
+    "english": "accuse",
+    "japanese": "を非難する；を告訴する"
+  },
+  {
+    "index": 1123,
+    "english": "vanish",
+    "japanese": "消える（≒ disappear）"
+  },
+  {
+    "index": 1124,
+    "english": "polish",
+    "japanese": "を磨く；を洗練させる"
+  },
+  {
+    "index": 1125,
+    "english": "wipe",
+    "japanese": "を拭く；を拭き取る；を消し去る"
+  },
+  {
+    "index": 1126,
+    "english": "sweep",
+    "japanese": "（を）掃く；を一掃する；さっと通過する"
+  },
+  {
+    "index": 1127,
+    "english": "mislead",
+    "japanese": "を誤解させる，欺く；（人）を間違った方向に導く"
+  },
+  {
+    "index": 1128,
+    "english": "spoil",
+    "japanese": "を台無しにする；を甘やかす；だめになる"
+  },
+  {
+    "index": 1129,
+    "english": "compound",
+    "japanese": "を悪化させる；を合成する；を混合する"
+  },
+  {
+    "index": 1130,
+    "english": "explode",
+    "japanese": "爆発する；急増する；を論破する"
+  },
+  {
+    "index": 1131,
+    "english": "disgust",
+    "japanese": "をむかつかせる；に愛想を尽かせる"
+  },
+  {
+    "index": 1132,
+    "english": "commute",
+    "japanese": "通勤［通学］する"
+  },
+  {
+    "index": 1133,
+    "english": "decorate",
+    "japanese": "を装飾する"
+  },
+  {
+    "index": 1134,
+    "english": "postpone",
+    "japanese": "を延期する（≒ put off）"
+  },
+  {
+    "index": 1135,
+    "english": "cease",
+    "japanese": "をやめる；終わる"
+  },
+  {
+    "index": 1136,
+    "english": "compromise",
+    "japanese": "妥協する；を危うくする"
+  },
+  {
+    "index": 1137,
+    "english": "elect",
+    "japanese": "を選出する"
+  },
+  {
+    "index": 1138,
+    "english": "extract",
+    "japanese": "を取り［搾り］出す；を抜粋する"
+  },
+  {
+    "index": 1139,
+    "english": "inherit",
+    "japanese": "を受け継ぐ；を相続する"
+  },
+  {
+    "index": 1140,
+    "english": "rear",
+    "japanese": "（人・動物・植物）を育てる（≒ raise）"
+  },
+  {
+    "index": 1141,
+    "english": "empathy",
+    "japanese": "感情移入，共感"
+  },
+  {
+    "index": 1142,
+    "english": "cue",
+    "japanese": "合図；手がかり；（次の演技の）キュー"
+  },
+  {
+    "index": 1143,
+    "english": "enterprise",
+    "japanese": "企業，事業；企画；進取の気性"
+  },
+  {
+    "index": 1144,
+    "english": "output",
+    "japanese": "生産（高）；出力；排出（量）"
+  },
+  {
+    "index": 1145,
+    "english": "congress",
+    "japanese": "（米国などの）議会；会議"
+  },
+  {
+    "index": 1146,
+    "english": "millennium",
+    "japanese": "千年間，千年紀"
+  },
+  {
+    "index": 1147,
+    "english": "mankind",
+    "japanese": "人類"
+  },
+  {
+    "index": 1148,
+    "english": "Muslim",
+    "japanese": "イスラム教徒"
+  },
+  {
+    "index": 1149,
+    "english": "estate",
+    "japanese": "（動産・不動産などの）財産；私有地"
+  },
+  {
+    "index": 1150,
+    "english": "landmine",
+    "japanese": "地雷"
+  },
+  {
+    "index": 1151,
+    "english": "caution",
+    "japanese": "用心；警告"
+  },
+  {
+    "index": 1152,
+    "english": "controversy",
+    "japanese": "論争"
+  },
+  {
+    "index": 1153,
+    "english": "consensus",
+    "japanese": "総意；（意見の）一致"
+  },
+  {
+    "index": 1154,
+    "english": "retail",
+    "japanese": "小売り（⇔ wholesale 卸売り）"
+  },
+  {
+    "index": 1155,
+    "english": "fiber",
+    "japanese": "繊維（質）；本質；精神力"
+  },
+  {
+    "index": 1156,
+    "english": "scent",
+    "japanese": "（よい）香り；香水"
+  },
+  {
+    "index": 1157,
+    "english": "beverage",
+    "japanese": "（水以外の）飲み物，飲料"
+  },
+  {
+    "index": 1158,
+    "english": "supplement",
+    "japanese": "栄養補助剤，サプリメント；補足"
+  },
+  {
+    "index": 1159,
+    "english": "diabetes",
+    "japanese": "糖尿病"
+  },
+  {
+    "index": 1160,
+    "english": "province",
+    "japanese": "州，省；〔the ～s〕地方；分野"
+  },
+  {
+    "index": 1161,
+    "english": "reef",
+    "japanese": "（岩や砂の）礁；暗礁"
+  },
+  {
+    "index": 1162,
+    "english": "microbe",
+    "japanese": "微生物；細菌"
+  },
+  {
+    "index": 1163,
+    "english": "excess",
+    "japanese": "過剰，超過"
+  },
+  {
+    "index": 1164,
+    "english": "gallery",
+    "japanese": "美術館，画廊；観客，ギャラリー；回廊"
+  },
+  {
+    "index": 1165,
+    "english": "fame",
+    "japanese": "名声"
+  },
+  {
+    "index": 1166,
+    "english": "deadline",
+    "japanese": "締め切り"
+  },
+  {
+    "index": 1167,
+    "english": "undergraduate",
+    "japanese": "学部学生"
+  },
+  {
+    "index": 1168,
+    "english": "slavery",
+    "japanese": "奴隷制度；苦役"
+  },
+  {
+    "index": 1169,
+    "english": "prey",
+    "japanese": "獲物；犠牲者"
+  },
+  {
+    "index": 1170,
+    "english": "mess",
+    "japanese": "散らかった状態［物］；混乱状態"
+  },
+  {
+    "index": 1171,
+    "english": "recession",
+    "japanese": "不況；後退"
+  },
+  {
+    "index": 1172,
+    "english": "retreat",
+    "japanese": "後退，退却；（計画・決定などの）撤回"
+  },
+  {
+    "index": 1173,
+    "english": "grave",
+    "japanese": "墓；〔通例the ～〕死"
+  },
+  {
+    "index": 1174,
+    "english": "column",
+    "japanese": "コラム；（新聞などの）欄；円柱；（縦）列"
+  },
+  {
+    "index": 1175,
+    "english": "scenery",
+    "japanese": "〔集合的に〕景色；背景"
+  },
+  {
+    "index": 1176,
+    "english": "plot",
+    "japanese": "（小説などの）筋；陰謀"
+  },
+  {
+    "index": 1177,
+    "english": "sculpture",
+    "japanese": "彫刻（作品）"
+  },
+  {
+    "index": 1178,
+    "english": "tablet",
+    "japanese": "タブレット（型情報端末）；錠剤；平板"
+  },
+  {
+    "index": 1179,
+    "english": "dense",
+    "japanese": "密集した，密度の高い；（霧などが）濃い"
+  },
+  {
+    "index": 1180,
+    "english": "exotic",
+    "japanese": "外来の；異国風の"
+  },
+  {
+    "index": 1181,
+    "english": "acid",
+    "japanese": "酸性の；酸っぱい；辛辣な"
+  },
+  {
+    "index": 1182,
+    "english": "bitter",
+    "japanese": "苦い，つらい；辛辣な；怒りっぽい"
+  },
+  {
+    "index": 1183,
+    "english": "sensible",
+    "japanese": "賢明な；実用的な；顕著な"
+  },
+  {
+    "index": 1184,
+    "english": "noble",
+    "japanese": "高貴な；堂々とした；高潔な"
+  },
+  {
+    "index": 1185,
+    "english": "vague",
+    "japanese": "漠然とした，あいまいな；おぼろげな"
+  },
+  {
+    "index": 1186,
+    "english": "parallel",
+    "japanese": "（～と）平行［並行］の（to）；類似した"
+  },
+  {
+    "index": 1187,
+    "english": "tense",
+    "japanese": "張り詰めた，緊張した"
+  },
+  {
+    "index": 1188,
+    "english": "vertical",
+    "japanese": "垂直の（⇔ horizontal 水平な）；縦方向の"
+  },
+  {
+    "index": 1189,
+    "english": "indigenous",
+    "japanese": "原産の，先住の；（その土地に）固有の"
+  },
+  {
+    "index": 1190,
+    "english": "aboriginal",
+    "japanese": "〔通例A～〕アボリジニの；原生の，先住の"
+  },
+  {
+    "index": 1191,
+    "english": "seasonal",
+    "japanese": "季節の，季節的な"
+  },
+  {
+    "index": 1192,
+    "english": "abundant",
+    "japanese": "豊富な；（～に）富む（in）"
+  },
+  {
+    "index": 1193,
+    "english": "hybrid",
+    "japanese": "ハイブリッドの；雑種の；混成の"
+  },
+  {
+    "index": 1194,
+    "english": "irrelevant",
+    "japanese": "（～にとって）無関係の（to）；見当違いの"
+  },
+  {
+    "index": 1195,
+    "english": "ridiculous",
+    "japanese": "ばかげた；法外な"
+  },
+  {
+    "index": 1196,
+    "english": "fairy",
+    "japanese": "妖精の（ような）"
+  },
+  {
+    "index": 1197,
+    "english": "sensory",
+    "japanese": "感覚の"
+  },
+  {
+    "index": 1198,
+    "english": "chronic",
+    "japanese": "慢性の（⇔ acute ⇒ 1486）；長引く；常習の"
+  },
+  {
+    "index": 1199,
+    "english": "voluntary",
+    "japanese": "自発的な（⇔ compulsory ⇒ 1384）；無償の"
+  },
+  {
+    "index": 1200,
+    "english": "inclined",
+    "japanese": "傾向がある；傾いた"
+  },
+  {
+    "index": 1201,
+    "english": "infer",
+    "japanese": "を推論する，推測する"
+  },
+  {
+    "index": 1202,
+    "english": "esteem",
+    "japanese": "を尊敬する；を見なす"
+  },
+  {
+    "index": 1203,
+    "english": "tackle",
+    "japanese": "に取り組む；と（～のことで）話をつける（about / on）"
+  },
+  {
+    "index": 1204,
+    "english": "venture",
+    "japanese": "危険を冒して進む；を思い切ってする"
+  },
+  {
+    "index": 1205,
+    "english": "accelerate",
+    "japanese": "を加速させる，促進する；加速する"
+  },
+  {
+    "index": 1206,
+    "english": "accustom",
+    "japanese": "（人）を慣れさせる"
+  },
+  {
+    "index": 1207,
+    "english": "amuse",
+    "japanese": "をおもしろがらせる，楽しませる"
+  },
+  {
+    "index": 1208,
+    "english": "flourish",
+    "japanese": "繁栄する；繁茂する；を振りかざす"
+  },
+  {
+    "index": 1209,
+    "english": "thrive",
+    "japanese": "繁栄する，うまくいく；繁茂する"
+  },
+  {
+    "index": 1210,
+    "english": "nurture",
+    "japanese": "をはぐくむ；を養成する"
+  },
+  {
+    "index": 1211,
+    "english": "click",
+    "japanese": "（を）クリックする；をカチッと鳴らす；カチッと音がする"
+  },
+  {
+    "index": 1212,
+    "english": "spin",
+    "japanese": "回転する；を回転させる；（糸）を紡ぐ"
+  },
+  {
+    "index": 1213,
+    "english": "clip",
+    "japanese": "を切り抜く；を（はさみで）切り取る；をクリップで留める"
+  },
+  {
+    "index": 1214,
+    "english": "drag",
+    "japanese": "を引きずる；ぐずぐずする"
+  },
+  {
+    "index": 1215,
+    "english": "cast",
+    "japanese": "を投じる；に役を当てる"
+  },
+  {
+    "index": 1216,
+    "english": "scatter",
+    "japanese": "をまき散らす；分散する"
+  },
+  {
+    "index": 1217,
+    "english": "tempt",
+    "japanese": "を（...する）気にさせる（to do）；を引きつける"
+  },
+  {
+    "index": 1218,
+    "english": "withdraw",
+    "japanese": "を引き出す；を撤回する；撤退する"
+  },
+  {
+    "index": 1219,
+    "english": "yawn",
+    "japanese": "あくびをする"
+  },
+  {
+    "index": 1220,
+    "english": "blink",
+    "japanese": "まばたきする；点滅する；（目）をまたたく"
+  },
+  {
+    "index": 1221,
+    "english": "dye",
+    "japanese": "を染める；染まる"
+  },
+  {
+    "index": 1222,
+    "english": "spill",
+    "japanese": "をこぼす；こぼれる"
+  },
+  {
+    "index": 1223,
+    "english": "irritate",
+    "japanese": "をいらいらさせる；をひりひりさせる"
+  },
+  {
+    "index": 1224,
+    "english": "insult",
+    "japanese": "を侮辱する（≒ affront）"
+  },
+  {
+    "index": 1225,
+    "english": "enforce",
+    "japanese": "を施行［実施］する；を（～に）強制する（on / upon）"
+  },
+  {
+    "index": 1226,
+    "english": "rob",
+    "japanese": "から（金品を）奪う"
+  },
+  {
+    "index": 1227,
+    "english": "drain",
+    "japanese": "（液体）を流出させる；（液体が）流れ出る"
+  },
+  {
+    "index": 1228,
+    "english": "suspend",
+    "japanese": "を停職［停学，出場停止］にする；を一時的に中断する"
+  },
+  {
+    "index": 1229,
+    "english": "drift",
+    "japanese": "漂う；さまよう；を押し流す"
+  },
+  {
+    "index": 1230,
+    "english": "forgive",
+    "japanese": "を許す；を免除する"
+  },
+  {
+    "index": 1231,
+    "english": "revise",
+    "japanese": "を修正する；を改訂する"
+  },
+  {
+    "index": 1232,
+    "english": "recruit",
+    "japanese": "を募る；に新人を補充する"
+  },
+  {
+    "index": 1233,
+    "english": "twist",
+    "japanese": "をねじる，ひねる；を歪曲する"
+  },
+  {
+    "index": 1234,
+    "english": "crush",
+    "japanese": "を押しつぶす；を弾圧する；を絞り出す"
+  },
+  {
+    "index": 1235,
+    "english": "pin",
+    "japanese": "をピンで留める；を突き刺す"
+  },
+  {
+    "index": 1236,
+    "english": "uncover",
+    "japanese": "を暴く（⇔ conceal ⇒ 1116）；を 発掘する"
+  },
+  {
+    "index": 1237,
+    "english": "exploit",
+    "japanese": "を活用する；を搾取する，につけ込む"
+  },
+  {
+    "index": 1238,
+    "english": "implement",
+    "japanese": "を実行［実施］する"
+  },
+  {
+    "index": 1239,
+    "english": "integrate",
+    "japanese": "を統合する；融合する"
+  },
+  {
+    "index": 1240,
+    "english": "incorporate",
+    "japanese": "を取り入れる；を法人にする；合併する"
+  },
+  {
+    "index": 1241,
+    "english": "profile",
+    "japanese": "人物の紹介；横顔；輪郭"
+  },
+  {
+    "index": 1242,
+    "english": "appetite",
+    "japanese": "食欲；欲求"
+  },
+  {
+    "index": 1243,
+    "english": "impulse",
+    "japanese": "衝動；刺激"
+  },
+  {
+    "index": 1244,
+    "english": "script",
+    "japanese": "台本；筆跡"
+  },
+  {
+    "index": 1245,
+    "english": "anniversary",
+    "japanese": "（～周年）記念日"
+  },
+  {
+    "index": 1246,
+    "english": "pension",
+    "japanese": "年金"
+  },
+  {
+    "index": 1247,
+    "english": "temper",
+    "japanese": "気質，気性；機嫌；かんしゃく"
+  },
+  {
+    "index": 1248,
+    "english": "cortex",
+    "japanese": "皮質；樹皮"
+  },
+  {
+    "index": 1249,
+    "english": "syndrome",
+    "japanese": "症候群；～現象"
+  },
+  {
+    "index": 1250,
+    "english": "chamber",
+    "japanese": "（特定の目的の）部屋；議場；〔the ～〕議院"
+  },
+  {
+    "index": 1251,
+    "english": "utility",
+    "japanese": "公共事業；公共料金；実用性"
+  },
+  {
+    "index": 1252,
+    "english": "cattle",
+    "japanese": "〔集合的に〕牛"
+  },
+  {
+    "index": 1253,
+    "english": "herd",
+    "japanese": "（牛などの）群れ；群衆"
+  },
+  {
+    "index": 1254,
+    "english": "fluid",
+    "japanese": "流動体，液体"
+  },
+  {
+    "index": 1255,
+    "english": "pity",
+    "japanese": "残念なこと；哀れみ"
+  },
+  {
+    "index": 1256,
+    "english": "priest",
+    "japanese": "聖職者"
+  },
+  {
+    "index": 1257,
+    "english": "acquaintance",
+    "japanese": "知人；面識；知識"
+  },
+  {
+    "index": 1258,
+    "english": "offspring",
+    "japanese": "子孫，子；成果"
+  },
+  {
+    "index": 1259,
+    "english": "famine",
+    "japanese": "飢饉；（食糧・物資の）ひどい不足"
+  },
+  {
+    "index": 1260,
+    "english": "deforestation",
+    "japanese": "森林伐採"
+  },
+  {
+    "index": 1261,
+    "english": "jail",
+    "japanese": "刑務所，拘置所（≒ prison）"
+  },
+  {
+    "index": 1262,
+    "english": "commodity",
+    "japanese": "商品；有用なもの"
+  },
+  {
+    "index": 1263,
+    "english": "format",
+    "japanese": "書式，形式；（本などの）型"
+  },
+  {
+    "index": 1264,
+    "english": "recipient",
+    "japanese": "受け取る人；（臓器などの）被提供者"
+  },
+  {
+    "index": 1265,
+    "english": "drill",
+    "japanese": "訓練；（反復）練習；ドリル，錐"
+  },
+  {
+    "index": 1266,
+    "english": "inability",
+    "japanese": "無能，無力"
+  },
+  {
+    "index": 1267,
+    "english": "republic",
+    "japanese": "共和国；共和制"
+  },
+  {
+    "index": 1268,
+    "english": "combat",
+    "japanese": "戦闘；対立"
+  },
+  {
+    "index": 1269,
+    "english": "debris",
+    "japanese": "（破壊された後の）残骸，瓦礫；がらくた"
+  },
+  {
+    "index": 1270,
+    "english": "bug",
+    "japanese": "病原菌（が起こす病気）；虫；盗聴器；（機械・プログラムの）欠陥"
+  },
+  {
+    "index": 1271,
+    "english": "fraction",
+    "japanese": "わずか（≒ bit），一部；分数"
+  },
+  {
+    "index": 1272,
+    "english": "index",
+    "japanese": "指標；索引；指数"
+  },
+  {
+    "index": 1273,
+    "english": "intuition",
+    "japanese": "直観（力），直感"
+  },
+  {
+    "index": 1274,
+    "english": "motive",
+    "japanese": "動機"
+  },
+  {
+    "index": 1275,
+    "english": "consent",
+    "japanese": "同意，承諾"
+  },
+  {
+    "index": 1276,
+    "english": "hierarchy",
+    "japanese": "（社会の）階層制；〔the ～〕支配層"
+  },
+  {
+    "index": 1277,
+    "english": "monument",
+    "japanese": "記念碑，遺跡；金字塔"
+  },
+  {
+    "index": 1278,
+    "english": "asset",
+    "japanese": "〔通例～s〕資産；価値のあるもの；利点"
+  },
+  {
+    "index": 1279,
+    "english": "decent",
+    "japanese": "まずまずの；きちんとした；上品な"
+  },
+  {
+    "index": 1280,
+    "english": "competent",
+    "japanese": "有能な；適任の；満足できる"
+  },
+  {
+    "index": 1281,
+    "english": "straightforward",
+    "japanese": "単純な；率直な"
+  },
+  {
+    "index": 1282,
+    "english": "cosmetic",
+    "japanese": "化粧の，美容の；うわべの"
+  },
+  {
+    "index": 1283,
+    "english": "delicate",
+    "japanese": "繊細な；扱いにくい；もろい"
+  },
+  {
+    "index": 1284,
+    "english": "interior",
+    "japanese": "室内の；内部の（⇔ exterior 外部の）"
+  },
+  {
+    "index": 1285,
+    "english": "transparent",
+    "japanese": "透明な；明快な"
+  },
+  {
+    "index": 1286,
+    "english": "aesthetic",
+    "japanese": "美的な；美学の"
+  },
+  {
+    "index": 1287,
+    "english": "deliberate",
+    "japanese": "故意の；慎重な"
+  },
+  {
+    "index": 1288,
+    "english": "demographic",
+    "japanese": "人口統計学の"
+  },
+  {
+    "index": 1289,
+    "english": "prehistoric",
+    "japanese": "有史以前の；旧式な"
+  },
+  {
+    "index": 1290,
+    "english": "innate",
+    "japanese": "生まれながらの；固有の"
+  },
+  {
+    "index": 1291,
+    "english": "mild",
+    "japanese": "穏やかな；（程度が）軽い"
+  },
+  {
+    "index": 1292,
+    "english": "toxic",
+    "japanese": "有毒な；中毒性の"
+  },
+  {
+    "index": 1293,
+    "english": "ashamed",
+    "japanese": "恥じて"
+  },
+  {
+    "index": 1294,
+    "english": "humble",
+    "japanese": "謙虚な；質素な；身分が低い"
+  },
+  {
+    "index": 1295,
+    "english": "peculiar",
+    "japanese": "特有の；特異な"
+  },
+  {
+    "index": 1296,
+    "english": "steep",
+    "japanese": "（傾斜が）急な；急激な；法外な"
+  },
+  {
+    "index": 1297,
+    "english": "trivial",
+    "japanese": "ささいな，取るに足りない"
+  },
+  {
+    "index": 1298,
+    "english": "magnificent",
+    "japanese": "壮大な；見事な"
+  },
+  {
+    "index": 1299,
+    "english": "wireless",
+    "japanese": "無線（電信）の，ラジオの"
+  },
+  {
+    "index": 1300,
+    "english": "ongoing",
+    "japanese": "継続している，進行中の"
+  },
+  {
+    "index": 1301,
+    "english": "assure",
+    "japanese": "に自信を持って言う；を保証する"
+  },
+  {
+    "index": 1302,
+    "english": "precede",
+    "japanese": "に先行する；に優先する"
+  },
+  {
+    "index": 1303,
+    "english": "revive",
+    "japanese": "を復活させる；復活する"
+  },
+  {
+    "index": 1304,
+    "english": "compel",
+    "japanese": "に強いる"
+  },
+  {
+    "index": 1305,
+    "english": "blossom",
+    "japanese": "花が咲く（≒ bloom）；発展する"
+  },
+  {
+    "index": 1306,
+    "english": "terrify",
+    "japanese": "を怖がらせる；を脅かす"
+  },
+  {
+    "index": 1307,
+    "english": "violate",
+    "japanese": "（法律・規則など）に違反する；を侵害する"
+  },
+  {
+    "index": 1308,
+    "english": "suppress",
+    "japanese": "を抑える；を抑圧する"
+  },
+  {
+    "index": 1309,
+    "english": "deceive",
+    "japanese": "をだます（≒ take in）"
+  },
+  {
+    "index": 1310,
+    "english": "manipulate",
+    "japanese": "を（巧みに）操る；を改ざんする"
+  },
+  {
+    "index": 1311,
+    "english": "starve",
+    "japanese": "飢える；（～を）渇望する（for）；を飢えさせる"
+  },
+  {
+    "index": 1312,
+    "english": "flee",
+    "japanese": "（から）逃げる"
+  },
+  {
+    "index": 1313,
+    "english": "whisper",
+    "japanese": "（を）ささやく"
+  },
+  {
+    "index": 1314,
+    "english": "yell",
+    "japanese": "叫ぶ，どなる"
+  },
+  {
+    "index": 1315,
+    "english": "deposit",
+    "japanese": "を置く；を預ける；を堆積させる"
+  },
+  {
+    "index": 1316,
+    "english": "confine",
+    "japanese": "を限定する；〔通例受身形で〕閉じ込められる"
+  },
+  {
+    "index": 1317,
+    "english": "swing",
+    "japanese": "を揺らす，振る；揺れる；（行動に）さっと移る"
+  },
+  {
+    "index": 1318,
+    "english": "prolong",
+    "japanese": "を長引かせる"
+  },
+  {
+    "index": 1319,
+    "english": "depict",
+    "japanese": "を描く"
+  },
+  {
+    "index": 1320,
+    "english": "outline",
+    "japanese": "の要点を述べる；の輪郭を描く"
+  },
+  {
+    "index": 1321,
+    "english": "shed",
+    "japanese": "を捨て去る；（光など）を放つ；（涙・血）を流す"
+  },
+  {
+    "index": 1322,
+    "english": "emit",
+    "japanese": "（光・熱など）を出す，排出する；（信号）を送る"
+  },
+  {
+    "index": 1323,
+    "english": "renew",
+    "japanese": "を更新する；（資源）を再生する"
+  },
+  {
+    "index": 1324,
+    "english": "utilize",
+    "japanese": "を利用する（≒ make use of）"
+  },
+  {
+    "index": 1325,
+    "english": "assert",
+    "japanese": "を主張する"
+  },
+  {
+    "index": 1326,
+    "english": "strain",
+    "japanese": "に負担をかける；を緊張させる；を漉す"
+  },
+  {
+    "index": 1327,
+    "english": "strive",
+    "japanese": "努力する；争う"
+  },
+  {
+    "index": 1328,
+    "english": "dare",
+    "japanese": "あえて［思い切って］...する"
+  },
+  {
+    "index": 1329,
+    "english": "boast",
+    "japanese": "を誇る；（を）自慢する"
+  },
+  {
+    "index": 1330,
+    "english": "startle",
+    "japanese": "をびっくりさせる（≒ surprise）"
+  },
+  {
+    "index": 1331,
+    "english": "offend",
+    "japanese": "の気分を害する；（に）違反する"
+  },
+  {
+    "index": 1332,
+    "english": "compute",
+    "japanese": "（を）計算する；コンピューターを使う"
+  },
+  {
+    "index": 1333,
+    "english": "assemble",
+    "japanese": "を集める；を組み立てる；集まる"
+  },
+  {
+    "index": 1334,
+    "english": "worsen",
+    "japanese": "を悪化させる；悪化する（≒ deteriorate）"
+  },
+  {
+    "index": 1335,
+    "english": "flip",
+    "japanese": "を（ぱっと）裏返す；を軽くはじく"
+  },
+  {
+    "index": 1336,
+    "english": "rub",
+    "japanese": "（を）こする；（～に）を塗る（on / over）"
+  },
+  {
+    "index": 1337,
+    "english": "descend",
+    "japanese": "（を）降りる（⇔ ascend ⇒ 1839）；受け継がれる"
+  },
+  {
+    "index": 1338,
+    "english": "compensate",
+    "japanese": "補償する（≒ make up）；に償う"
+  },
+  {
+    "index": 1339,
+    "english": "comprise",
+    "japanese": "から成る；を構成する"
+  },
+  {
+    "index": 1340,
+    "english": "prevail",
+    "japanese": "普及している；支配的である；（～に）打ち勝つ（over）"
+  },
+  {
+    "index": 1341,
+    "english": "quest",
+    "japanese": "探究"
+  },
+  {
+    "index": 1342,
+    "english": "dignity",
+    "japanese": "尊厳；威厳"
+  },
+  {
+    "index": 1343,
+    "english": "criterion",
+    "japanese": "（判断・評価の）基準"
+  },
+  {
+    "index": 1344,
+    "english": "paradox",
+    "japanese": "逆説；矛盾"
+  },
+  {
+    "index": 1345,
+    "english": "parliament",
+    "japanese": "（英国などの）議会；国会議員（団）"
+  },
+  {
+    "index": 1346,
+    "english": "legislation",
+    "japanese": "法律；立法"
+  },
+  {
+    "index": 1347,
+    "english": "agenda",
+    "japanese": "協議事項（リスト）；議事日程（表）；（政治上の）課題"
+  },
+  {
+    "index": 1348,
+    "english": "mainstream",
+    "japanese": "（活動・思潮などの）主流；大勢"
+  },
+  {
+    "index": 1349,
+    "english": "troop",
+    "japanese": "〔～s〕軍隊；集団"
+  },
+  {
+    "index": 1350,
+    "english": "epidemic",
+    "japanese": "流行（病）；蔓延"
+  },
+  {
+    "index": 1351,
+    "english": "outbreak",
+    "japanese": "発生，勃発"
+  },
+  {
+    "index": 1352,
+    "english": "chaos",
+    "japanese": "混沌，大混乱"
+  },
+  {
+    "index": 1353,
+    "english": "nightmare",
+    "japanese": "悪夢（のような状況）；不安感"
+  },
+  {
+    "index": 1354,
+    "english": "horror",
+    "japanese": "恐怖；強い嫌悪；嫌な物［人］"
+  },
+  {
+    "index": 1355,
+    "english": "cluster",
+    "japanese": "集団；（植物の）房，束"
+  },
+  {
+    "index": 1356,
+    "english": "pollen",
+    "japanese": "花粉"
+  },
+  {
+    "index": 1357,
+    "english": "hive",
+    "japanese": "ミツバチの巣（箱）；人の集まる所"
+  },
+  {
+    "index": 1358,
+    "english": "irrigation",
+    "japanese": "灌漑"
+  },
+  {
+    "index": 1359,
+    "english": "dose",
+    "japanese": "（薬の1回分の）服用量；放射線の1回の照射量"
+  },
+  {
+    "index": 1360,
+    "english": "suicide",
+    "japanese": "自殺；自殺的行為"
+  },
+  {
+    "index": 1361,
+    "english": "feast",
+    "japanese": "祝宴；大ごちそう；楽しみ"
+  },
+  {
+    "index": 1362,
+    "english": "cuisine",
+    "japanese": "（独特の）料理，料理法"
+  },
+  {
+    "index": 1363,
+    "english": "rumor",
+    "japanese": "うわさ"
+  },
+  {
+    "index": 1364,
+    "english": "proverb",
+    "japanese": "ことわざ（≒ saying）"
+  },
+  {
+    "index": 1365,
+    "english": "signature",
+    "japanese": "署名；特徴"
+  },
+  {
+    "index": 1366,
+    "english": "formula",
+    "japanese": "方法，解決策；公式"
+  },
+  {
+    "index": 1367,
+    "english": "tuition",
+    "japanese": "【主に米】 授業料（＝ 【英】tuition fees）；（個人）指導"
+  },
+  {
+    "index": 1368,
+    "english": "intake",
+    "japanese": "摂取量；受け入れ数；取り入れること"
+  },
+  {
+    "index": 1369,
+    "english": "spectrum",
+    "japanese": "スペクトル；（波動・変動の）範囲"
+  },
+  {
+    "index": 1370,
+    "english": "kidney",
+    "japanese": "腎臓"
+  },
+  {
+    "index": 1371,
+    "english": "gear",
+    "japanese": "用具（一式），器具；歯車；ギア"
+  },
+  {
+    "index": 1372,
+    "english": "aisle",
+    "japanese": "（座席間などの）通路"
+  },
+  {
+    "index": 1373,
+    "english": "grief",
+    "japanese": "深い悲しみ"
+  },
+  {
+    "index": 1374,
+    "english": "destiny",
+    "japanese": "運命"
+  },
+  {
+    "index": 1375,
+    "english": "skull",
+    "japanese": "頭骨，頭蓋骨；頭脳"
+  },
+  {
+    "index": 1376,
+    "english": "tomb",
+    "japanese": "墓"
+  },
+  {
+    "index": 1377,
+    "english": "monk",
+    "japanese": "修道士，僧（⇔ nun 修道女，尼）"
+  },
+  {
+    "index": 1378,
+    "english": "worship",
+    "japanese": "崇拝，礼拝（式）；賛美"
+  },
+  {
+    "index": 1379,
+    "english": "outstanding",
+    "japanese": "際立った；未払いの；未解決の"
+  },
+  {
+    "index": 1380,
+    "english": "unprecedented",
+    "japanese": "前例のない；空前の"
+  },
+  {
+    "index": 1381,
+    "english": "infinite",
+    "japanese": "無限の（⇔ finite 有限の）；無数の"
+  },
+  {
+    "index": 1382,
+    "english": "worthwhile",
+    "japanese": "価値がある；立派な"
+  },
+  {
+    "index": 1383,
+    "english": "indispensable",
+    "japanese": "不可欠な（⇔ dispensable なくてもすむ）"
+  },
+  {
+    "index": 1384,
+    "english": "compulsory",
+    "japanese": "義務的な，強制的な（⇔ voluntary ⇒ 1199）"
+  },
+  {
+    "index": 1385,
+    "english": "probable",
+    "japanese": "十分にありそうな"
+  },
+  {
+    "index": 1386,
+    "english": "ambiguous",
+    "japanese": "あいまいな；多義的な"
+  },
+  {
+    "index": 1387,
+    "english": "obscure",
+    "japanese": "（世に）知られていない；不明瞭な"
+  },
+  {
+    "index": 1388,
+    "english": "skeptical",
+    "japanese": "（～に）懐疑的な（of ⇒ about）"
+  },
+  {
+    "index": 1389,
+    "english": "fragile",
+    "japanese": "壊れやすい；虚弱な"
+  },
+  {
+    "index": 1390,
+    "english": "static",
+    "japanese": "静的な（⇔ dynamic ⇒ 1083）；動きのない"
+  },
+  {
+    "index": 1391,
+    "english": "gradual",
+    "japanese": "徐々の，緩やかな"
+  },
+  {
+    "index": 1392,
+    "english": "vocal",
+    "japanese": "声の，発声の；はっきりものを言う"
+  },
+  {
+    "index": 1393,
+    "english": "vivid",
+    "japanese": "鮮やかな；生き生きとした"
+  },
+  {
+    "index": 1394,
+    "english": "imperial",
+    "japanese": "帝国の；皇帝の"
+  },
+  {
+    "index": 1395,
+    "english": "hostile",
+    "japanese": "敵意のある（⇔friendly 友好的な）"
+  },
+  {
+    "index": 1396,
+    "english": "superficial",
+    "japanese": "表面的な"
+  },
+  {
+    "index": 1397,
+    "english": "scarce",
+    "japanese": "乏しい；珍しい"
+  },
+  {
+    "index": 1398,
+    "english": "gross",
+    "japanese": "総計の；甚だしい；粗野な"
+  },
+  {
+    "index": 1399,
+    "english": "inherent",
+    "japanese": "生来の，本来的に備わっている"
+  },
+  {
+    "index": 1400,
+    "english": "notable",
+    "japanese": "注目に値する；著名な"
+  },
+  {
+    "index": 1401,
+    "english": "update",
+    "japanese": "を最新のものにする；をアップデートする"
+  },
+  {
+    "index": 1402,
+    "english": "refresh",
+    "japanese": "（気分）をさわやかにする；（記憶など）を新たにする；を最新のものにする"
+  },
+  {
+    "index": 1403,
+    "english": "bloom",
+    "japanese": "花が咲く；栄える"
+  },
+  {
+    "index": 1404,
+    "english": "conquer",
+    "japanese": "を征服する；を克服する"
+  },
+  {
+    "index": 1405,
+    "english": "induce",
+    "japanese": "を引き起こす；を説得する"
+  },
+  {
+    "index": 1406,
+    "english": "attain",
+    "japanese": "を獲得する，達成する；に達する"
+  },
+  {
+    "index": 1407,
+    "english": "spray",
+    "japanese": "を吹きかける，に吹きつける"
+  },
+  {
+    "index": 1408,
+    "english": "retrieve",
+    "japanese": "（情報）を検索する；を取り戻す；を回復する"
+  },
+  {
+    "index": 1409,
+    "english": "portray",
+    "japanese": "を描く；（の役）を演じる"
+  },
+  {
+    "index": 1410,
+    "english": "scratch",
+    "japanese": "を引っかく；を取り消す，削除する"
+  },
+  {
+    "index": 1411,
+    "english": "designate",
+    "japanese": "を指定する；を任命する"
+  },
+  {
+    "index": 1412,
+    "english": "contradict",
+    "japanese": "と矛盾する；に反対意見を言う"
+  },
+  {
+    "index": 1413,
+    "english": "sigh",
+    "japanese": "ため息をつく"
+  },
+  {
+    "index": 1414,
+    "english": "disrupt",
+    "japanese": "を混乱させる；を分裂させる"
+  },
+  {
+    "index": 1415,
+    "english": "depart",
+    "japanese": "出発する；（～から）それる（from）"
+  },
+  {
+    "index": 1416,
+    "english": "navigate",
+    "japanese": "（を）誘導する；（を）操縦する；（を）航行する"
+  },
+  {
+    "index": 1417,
+    "english": "beg",
+    "japanese": "に（～を）切に頼む（for）；（を）懇願する"
+  },
+  {
+    "index": 1418,
+    "english": "inhabit",
+    "japanese": "に住んでいる；に宿る，存する"
+  },
+  {
+    "index": 1419,
+    "english": "diagnose",
+    "japanese": "（を）診断する"
+  },
+  {
+    "index": 1420,
+    "english": "comprehend",
+    "japanese": "を理解する"
+  },
+  {
+    "index": 1421,
+    "english": "oblige",
+    "japanese": "に義務づける；に恩恵を施す"
+  },
+  {
+    "index": 1422,
+    "english": "cram",
+    "japanese": "に詰め込む；詰め込み勉強をする"
+  },
+  {
+    "index": 1423,
+    "english": "flock",
+    "japanese": "群がる，集まる"
+  },
+  {
+    "index": 1424,
+    "english": "underestimate",
+    "japanese": "（を）過小評価する（⇔ overestimate （を）過大評価する）；（を）軽く見る；を少なく見積もる"
+  },
+  {
+    "index": 1425,
+    "english": "clarify",
+    "japanese": "を明確にする"
+  },
+  {
+    "index": 1426,
+    "english": "spark",
+    "japanese": "を引き起こす；を刺激する；スパークする"
+  },
+  {
+    "index": 1427,
+    "english": "seize",
+    "japanese": "をつかむ；を奪い取る；を没収する"
+  },
+  {
+    "index": 1428,
+    "english": "soar",
+    "japanese": "急上昇する；空高く飛ぶ"
+  },
+  {
+    "index": 1429,
+    "english": "glow",
+    "japanese": "光り［照り］輝く；赤く燃える；紅潮する"
+  },
+  {
+    "index": 1430,
+    "english": "disguise",
+    "japanese": "を（～に）変装させる（as）；を偽る"
+  },
+  {
+    "index": 1431,
+    "english": "distort",
+    "japanese": "を歪める；歪む"
+  },
+  {
+    "index": 1432,
+    "english": "undermine",
+    "japanese": "を徐々にむしばむ；を侵食する"
+  },
+  {
+    "index": 1433,
+    "english": "abolish",
+    "japanese": "を廃止する（≒ do away with）"
+  },
+  {
+    "index": 1434,
+    "english": "strip",
+    "japanese": "を［から］取り去る；を裸にする"
+  },
+  {
+    "index": 1435,
+    "english": "dispose",
+    "japanese": "〔dispose ofで〕を処分する；を（...する）気にさせる（to do）；を配置する"
+  },
+  {
+    "index": 1436,
+    "english": "dump",
+    "japanese": "を投棄する；をどさっと落とす"
+  },
+  {
+    "index": 1437,
+    "english": "weave",
+    "japanese": "を織る；（計画・物語など）を作り上げる"
+  },
+  {
+    "index": 1438,
+    "english": "refine",
+    "japanese": "を洗練する；を精製する"
+  },
+  {
+    "index": 1439,
+    "english": "enrich",
+    "japanese": "を豊かにする；（物質）を濃縮化する"
+  },
+  {
+    "index": 1440,
+    "english": "coordinate",
+    "japanese": "を調整する；を組織する；（服など）をコーディネートする"
+  },
+  {
+    "index": 1441,
+    "english": "headline",
+    "japanese": "（新聞などの）見出し"
+  },
+  {
+    "index": 1442,
+    "english": "internship",
+    "japanese": "【米】 実務［医学］研修；研修期間"
+  },
+  {
+    "index": 1443,
+    "english": "outlet",
+    "japanese": "直売店，特売店；はけ口；【米】（電気の）コンセント（≒ 【英】socket）"
+  },
+  {
+    "index": 1444,
+    "english": "remedy",
+    "japanese": "治療（法）；治療薬；解決法"
+  },
+  {
+    "index": 1445,
+    "english": "pill",
+    "japanese": "錠剤，丸薬；〔the ～〕ピル，経口避妊薬"
+  },
+  {
+    "index": 1446,
+    "english": "reception",
+    "japanese": "反応；宴会；受付；受信（状態）"
+  },
+  {
+    "index": 1447,
+    "english": "transaction",
+    "japanese": "（商）取引；（人と人との）交流"
+  },
+  {
+    "index": 1448,
+    "english": "mutation",
+    "japanese": "突然変異（体）；変化"
+  },
+  {
+    "index": 1449,
+    "english": "dairy",
+    "japanese": "〔集合的に〕乳製品；乳製品加工所［販売者］"
+  },
+  {
+    "index": 1450,
+    "english": "compassion",
+    "japanese": "同情"
+  },
+  {
+    "index": 1451,
+    "english": "posture",
+    "japanese": "姿勢；心構え"
+  },
+  {
+    "index": 1452,
+    "english": "curse",
+    "japanese": "悪態，ののしりの言葉；呪い；〔通例a ～〕災い"
+  },
+  {
+    "index": 1453,
+    "english": "funeral",
+    "japanese": "葬式"
+  },
+  {
+    "index": 1454,
+    "english": "census",
+    "japanese": "国勢調査；交通調査"
+  },
+  {
+    "index": 1455,
+    "english": "encyclopedia",
+    "japanese": "百科事典"
+  },
+  {
+    "index": 1456,
+    "english": "cereal",
+    "japanese": "〔通例～s〕穀物；シリアル（穀物加工食品）"
+  },
+  {
+    "index": 1457,
+    "english": "fragment",
+    "japanese": "断片"
+  },
+  {
+    "index": 1458,
+    "english": "patch",
+    "japanese": "（～の）部分，斑点；継ぎ；貼り薬"
+  },
+  {
+    "index": 1459,
+    "english": "rubbish",
+    "japanese": "【英】 ごみ（≒ 【米】garbage）；つまらないもの"
+  },
+  {
+    "index": 1460,
+    "english": "maze",
+    "japanese": "迷路（≒ labyrinth）；複雑に込み入ったもの"
+  },
+  {
+    "index": 1461,
+    "english": "outlook",
+    "japanese": "見解；見通し；眺め"
+  },
+  {
+    "index": 1462,
+    "english": "breakthrough",
+    "japanese": "大発見，飛躍的進歩"
+  },
+  {
+    "index": 1463,
+    "english": "triumph",
+    "japanese": "勝利；勝利の喜び；偉業"
+  },
+  {
+    "index": 1464,
+    "english": "ally",
+    "japanese": "同盟国；提携者；援助者；盟友"
+  },
+  {
+    "index": 1465,
+    "english": "spectator",
+    "japanese": "（試合などの）観客"
+  },
+  {
+    "index": 1466,
+    "english": "sphere",
+    "japanese": "領域；球体；天体"
+  },
+  {
+    "index": 1467,
+    "english": "county",
+    "japanese": "【米】 郡；【英】州"
+  },
+  {
+    "index": 1468,
+    "english": "behalf",
+    "japanese": "利益，味方"
+  },
+  {
+    "index": 1469,
+    "english": "interval",
+    "japanese": "（時間の）間隔；合間；隔たり；小休止"
+  },
+  {
+    "index": 1470,
+    "english": "circulation",
+    "japanese": "循環；流通；（新聞・雑誌の）発行部数"
+  },
+  {
+    "index": 1471,
+    "english": "blade",
+    "japanese": "刃；（プロペラなどの）羽根；（草などの）葉"
+  },
+  {
+    "index": 1472,
+    "english": "theft",
+    "japanese": "窃盗（罪）"
+  },
+  {
+    "index": 1473,
+    "english": "vacuum",
+    "japanese": "真空；空虚"
+  },
+  {
+    "index": 1474,
+    "english": "collision",
+    "japanese": "衝突；対立"
+  },
+  {
+    "index": 1475,
+    "english": "bargain",
+    "japanese": "買い得品；取引；契約"
+  },
+  {
+    "index": 1476,
+    "english": "landmark",
+    "japanese": "（ある場所の）目印；画期的な出来事"
+  },
+  {
+    "index": 1477,
+    "english": "revenue",
+    "japanese": "歳入（⇔ expenditure 歳出）；収益"
+  },
+  {
+    "index": 1478,
+    "english": "treaty",
+    "japanese": "（国家間の）条約；協定"
+  },
+  {
+    "index": 1479,
+    "english": "supreme",
+    "japanese": "最高の"
+  },
+  {
+    "index": 1480,
+    "english": "thorough",
+    "japanese": "徹底的な；まったくの"
+  },
+  {
+    "index": 1481,
+    "english": "naked",
+    "japanese": "裸の"
+  },
+  {
+    "index": 1482,
+    "english": "sincere",
+    "japanese": "心からの；誠実な"
+  },
+  {
+    "index": 1483,
+    "english": "tame",
+    "japanese": "飼いならされた，人に慣れた；退屈な"
+  },
+  {
+    "index": 1484,
+    "english": "insufficient",
+    "japanese": "不十分な；不適当な"
+  },
+  {
+    "index": 1485,
+    "english": "dim",
+    "japanese": "薄暗い；ぼんやりした"
+  },
+  {
+    "index": 1486,
+    "english": "acute",
+    "japanese": "（痛み・感情などが）激しい；（知覚などが）鋭い；急性の（⇔ chronic ⇒ 1198）"
+  },
+  {
+    "index": 1487,
+    "english": "disabled",
+    "japanese": "障害のある；障害者用の"
+  },
+  {
+    "index": 1488,
+    "english": "metropolitan",
+    "japanese": "大都市の，首都圏の"
+  },
+  {
+    "index": 1489,
+    "english": "monetary",
+    "japanese": "金銭的な；金融の"
+  },
+  {
+    "index": 1490,
+    "english": "alternate",
+    "japanese": "代わりの（≒ alternative）；交互の"
+  },
+  {
+    "index": 1491,
+    "english": "partial",
+    "japanese": "部分的な；不公平な（⇔impartial 公平な）"
+  },
+  {
+    "index": 1492,
+    "english": "divine",
+    "japanese": "神の；神にささげる"
+  },
+  {
+    "index": 1493,
+    "english": "drastic",
+    "japanese": "徹底的な，抜本的な；極端な"
+  },
+  {
+    "index": 1494,
+    "english": "fierce",
+    "japanese": "猛烈な；どう猛な"
+  },
+  {
+    "index": 1495,
+    "english": "sole",
+    "japanese": "唯一の；単独の；独占的な"
+  },
+  {
+    "index": 1496,
+    "english": "spontaneous",
+    "japanese": "自然発生的な；自発的な"
+  },
+  {
+    "index": 1497,
+    "english": "spatial",
+    "japanese": "空間の"
+  },
+  {
+    "index": 1498,
+    "english": "neat",
+    "japanese": "きちんとした；見事な"
+  },
+  {
+    "index": 1499,
+    "english": "tidy",
+    "japanese": "きちんとした，整頓された；相当の"
+  },
+  {
+    "index": 1500,
+    "english": "loyal",
+    "japanese": "（～に）忠実な（to）；誠実な"
+  },
+  {
+    "index": 1501,
+    "english": "bless",
+    "japanese": "に恩恵を与える；に感謝する"
+  },
+  {
+    "index": 1502,
+    "english": "regain",
+    "japanese": "を取り戻す"
+  },
+  {
+    "index": 1503,
+    "english": "conform",
+    "japanese": "順応する；一致する"
+  },
+  {
+    "index": 1504,
+    "english": "enroll",
+    "japanese": "登録する，入会する；を登録させる"
+  },
+  {
+    "index": 1505,
+    "english": "entitle",
+    "japanese": "に権利を与える；に題名をつける"
+  },
+  {
+    "index": 1506,
+    "english": "halt",
+    "japanese": "を止める；止まる"
+  },
+  {
+    "index": 1507,
+    "english": "provoke",
+    "japanese": "（感情・行動など）を引き起こす；を挑発する"
+  },
+  {
+    "index": 1508,
+    "english": "invade",
+    "japanese": "を侵略する；を侵害する；（場所）に殺到する"
+  },
+  {
+    "index": 1509,
+    "english": "squeeze",
+    "japanese": "押し入る；を押し込む；（を）搾る；（を）強く押す"
+  },
+  {
+    "index": 1510,
+    "english": "crawl",
+    "japanese": "はう；ゆっくり進む"
+  },
+  {
+    "index": 1511,
+    "english": "digest",
+    "japanese": "を消化する；を理解する；を要約する"
+  },
+  {
+    "index": 1512,
+    "english": "utter",
+    "japanese": "（声）を発する；（考えなど）を述べる"
+  },
+  {
+    "index": 1513,
+    "english": "refrain",
+    "japanese": "控える"
+  },
+  {
+    "index": 1514,
+    "english": "populate",
+    "japanese": "に住む，の住民である；に人を住まわせる"
+  },
+  {
+    "index": 1515,
+    "english": "accommodate",
+    "japanese": "を収容する；を（～に）適応させる（to）"
+  },
+  {
+    "index": 1516,
+    "english": "steer",
+    "japanese": "（を）操縦する；を（～へ）向ける（to）"
+  },
+  {
+    "index": 1517,
+    "english": "drown",
+    "japanese": "溺死する；を水浸しにする"
+  },
+  {
+    "index": 1518,
+    "english": "dip",
+    "japanese": "を浸す；（手など）を（～に）突っ込む（into / in）；下がる"
+  },
+  {
+    "index": 1519,
+    "english": "soak",
+    "japanese": "を浸す；をずぶぬれにする；浸る"
+  },
+  {
+    "index": 1520,
+    "english": "stir",
+    "japanese": "をかき回す；を揺り動かす"
+  },
+  {
+    "index": 1521,
+    "english": "transplant",
+    "japanese": "を移植する；を移住させる"
+  },
+  {
+    "index": 1522,
+    "english": "reassure",
+    "japanese": "を安心させる"
+  },
+  {
+    "index": 1523,
+    "english": "resume",
+    "japanese": "（を）再開する；を取り戻す"
+  },
+  {
+    "index": 1524,
+    "english": "speculate",
+    "japanese": "（と）推測する；投機する"
+  },
+  {
+    "index": 1525,
+    "english": "surpass",
+    "japanese": "を上回る"
+  },
+  {
+    "index": 1526,
+    "english": "appoint",
+    "japanese": "を任命する；（日時・場所など）を指定する"
+  },
+  {
+    "index": 1527,
+    "english": "intrigue",
+    "japanese": "に興味を持たせる；陰謀を企てる"
+  },
+  {
+    "index": 1528,
+    "english": "decay",
+    "japanese": "腐敗する（≒ rot）；（徐々に）衰える"
+  },
+  {
+    "index": 1529,
+    "english": "contaminate",
+    "japanese": "を汚染する；を堕落させる"
+  },
+  {
+    "index": 1530,
+    "english": "swell",
+    "japanese": "膨張する，腫れる；を膨らませる"
+  },
+  {
+    "index": 1531,
+    "english": "delete",
+    "japanese": "を削除する，消す"
+  },
+  {
+    "index": 1532,
+    "english": "tolerate",
+    "japanese": "を許容する，我慢する（≒ put up with）"
+  },
+  {
+    "index": 1533,
+    "english": "envy",
+    "japanese": "をうらやむ"
+  },
+  {
+    "index": 1534,
+    "english": "pray",
+    "japanese": "（を）祈る"
+  },
+  {
+    "index": 1535,
+    "english": "confess",
+    "japanese": "（を）告白する"
+  },
+  {
+    "index": 1536,
+    "english": "resign",
+    "japanese": "（を）辞任する；を放棄する"
+  },
+  {
+    "index": 1537,
+    "english": "dissolve",
+    "japanese": "（を）溶かす；（議会など）を解散する；（契約など）を解消する；溶ける"
+  },
+  {
+    "index": 1538,
+    "english": "unfold",
+    "japanese": "（閉じたもの）を開く；を明らかにする；開く；明らかになる"
+  },
+  {
+    "index": 1539,
+    "english": "awaken",
+    "japanese": "を目覚めさせる；（～から）覚める（from）"
+  },
+  {
+    "index": 1540,
+    "english": "conceive",
+    "japanese": "（を）思いつく；と想像する；（を）妊娠する"
+  },
+  {
+    "index": 1541,
+    "english": "entrepreneur",
+    "japanese": "起業家，事業家"
+  },
+  {
+    "index": 1542,
+    "english": "stake",
+    "japanese": "利害関係；〔通例～s〕賭け金；杭"
+  },
+  {
+    "index": 1543,
+    "english": "surplus",
+    "japanese": "余剰（⇔ shortage 不足），過剰；黒字"
+  },
+  {
+    "index": 1544,
+    "english": "inflation",
+    "japanese": "インフレ（ーション）；（物価の）高騰"
+  },
+  {
+    "index": 1545,
+    "english": "sweatshop",
+    "japanese": "搾取工場"
+  },
+  {
+    "index": 1546,
+    "english": "clash",
+    "japanese": "衝突；対立；かち合うこと；ガチャンという音"
+  },
+  {
+    "index": 1547,
+    "english": "sociology",
+    "japanese": "社会学"
+  },
+  {
+    "index": 1548,
+    "english": "ideology",
+    "japanese": "イデオロギー，思想傾向"
+  },
+  {
+    "index": 1549,
+    "english": "margin",
+    "japanese": "余白；差；利ざや"
+  },
+  {
+    "index": 1550,
+    "english": "realm",
+    "japanese": "領域；領土"
+  },
+  {
+    "index": 1551,
+    "english": "domain",
+    "japanese": "分野；領域；ドメイン（＝ domain name）"
+  },
+  {
+    "index": 1552,
+    "english": "algorithm",
+    "japanese": "アルゴリズム；問題解決の手順"
+  },
+  {
+    "index": 1553,
+    "english": "prairie",
+    "japanese": "大草原"
+  },
+  {
+    "index": 1554,
+    "english": "frontier",
+    "japanese": "〔通例the ～s〕最先端；〔the ～〕 【米】辺境地；国境"
+  },
+  {
+    "index": 1555,
+    "english": "bullet",
+    "japanese": "銃弾"
+  },
+  {
+    "index": 1556,
+    "english": "shield",
+    "japanese": "盾，防御物"
+  },
+  {
+    "index": 1557,
+    "english": "despair",
+    "japanese": "絶望"
+  },
+  {
+    "index": 1558,
+    "english": "radiation",
+    "japanese": "放射能，放射線"
+  },
+  {
+    "index": 1559,
+    "english": "placebo",
+    "japanese": "偽薬，プラシーボ；気休め"
+  },
+  {
+    "index": 1560,
+    "english": "nursery",
+    "japanese": "託児所；苗床"
+  },
+  {
+    "index": 1561,
+    "english": "spouse",
+    "japanese": "配偶者"
+  },
+  {
+    "index": 1562,
+    "english": "makeup",
+    "japanese": "化粧；化粧品；構成；性質"
+  },
+  {
+    "index": 1563,
+    "english": "mummy",
+    "japanese": "ミイラ；【英】ママ，お母さん（＝ 【米】mommy）"
+  },
+  {
+    "index": 1564,
+    "english": "flesh",
+    "japanese": "（人・動物の）肉；果肉"
+  },
+  {
+    "index": 1565,
+    "english": "limb",
+    "japanese": "手足"
+  },
+  {
+    "index": 1566,
+    "english": "odor",
+    "japanese": "におい；気配"
+  },
+  {
+    "index": 1567,
+    "english": "laundry",
+    "japanese": "洗濯（物）；クリーニング店"
+  },
+  {
+    "index": 1568,
+    "english": "tide",
+    "japanese": "潮（の干満）；動向"
+  },
+  {
+    "index": 1569,
+    "english": "questionnaire",
+    "japanese": "アンケート"
+  },
+  {
+    "index": 1570,
+    "english": "nonsense",
+    "japanese": "ばかげた物［話，考え］；無意味な言葉"
+  },
+  {
+    "index": 1571,
+    "english": "revenge",
+    "japanese": "復讐"
+  },
+  {
+    "index": 1572,
+    "english": "intellect",
+    "japanese": "知性；〔the ～（s）〕知識人"
+  },
+  {
+    "index": 1573,
+    "english": "hospitality",
+    "japanese": "親切なもてなし，歓待；受容性"
+  },
+  {
+    "index": 1574,
+    "english": "librarian",
+    "japanese": "司書，図書館員"
+  },
+  {
+    "index": 1575,
+    "english": "manuscript",
+    "japanese": "（手書きの）原稿；写本"
+  },
+  {
+    "index": 1576,
+    "english": "obsession",
+    "japanese": "（考えなどに）取りつかれること；妄想；強迫観念"
+  },
+  {
+    "index": 1577,
+    "english": "hygiene",
+    "japanese": "衛生（状態）；健康法"
+  },
+  {
+    "index": 1578,
+    "english": "paradigm",
+    "japanese": "理論的枠組み，パラダイム；模範"
+  },
+  {
+    "index": 1579,
+    "english": "legitimate",
+    "japanese": "合法的な；妥当な"
+  },
+  {
+    "index": 1580,
+    "english": "authentic",
+    "japanese": "本物の；信頼できる"
+  },
+  {
+    "index": 1581,
+    "english": "empirical",
+    "japanese": "経験的な；経験主義の"
+  },
+  {
+    "index": 1582,
+    "english": "immense",
+    "japanese": "膨大な"
+  },
+  {
+    "index": 1583,
+    "english": "absurd",
+    "japanese": "ばかげた；不合理な"
+  },
+  {
+    "index": 1584,
+    "english": "weird",
+    "japanese": "異様な（≒ bizarre），奇妙な"
+  },
+  {
+    "index": 1585,
+    "english": "accidental",
+    "japanese": "偶然の；過失による"
+  },
+  {
+    "index": 1586,
+    "english": "uneasy",
+    "japanese": "不安な；落ち着かない；ぎこちない"
+  },
+  {
+    "index": 1587,
+    "english": "jealous",
+    "japanese": "嫉妬深い；用心深い"
+  },
+  {
+    "index": 1588,
+    "english": "feminine",
+    "japanese": "女らしい（⇔ masculine ⇒ 1681）"
+  },
+  {
+    "index": 1589,
+    "english": "swift",
+    "japanese": "素早い"
+  },
+  {
+    "index": 1590,
+    "english": "hollow",
+    "japanese": "空洞の；空虚な；うわべだけの"
+  },
+  {
+    "index": 1591,
+    "english": "crude",
+    "japanese": "大まかな；粗野な；未精製の"
+  },
+  {
+    "index": 1592,
+    "english": "sore",
+    "japanese": "痛い；腹が立って"
+  },
+  {
+    "index": 1593,
+    "english": "pessimistic",
+    "japanese": "悲観的な（⇔ optimistic ⇒ 882）"
+  },
+  {
+    "index": 1594,
+    "english": "vain",
+    "japanese": "無駄な；うぬぼれた"
+  },
+  {
+    "index": 1595,
+    "english": "susceptible",
+    "japanese": "（～の）影響を受けやすい（to）；感染しやすい"
+  },
+  {
+    "index": 1596,
+    "english": "edible",
+    "japanese": "食用の，食べられる"
+  },
+  {
+    "index": 1597,
+    "english": "sheer",
+    "japanese": "純然たる，真の；すごい；（布が）薄地の"
+  },
+  {
+    "index": 1598,
+    "english": "explicit",
+    "japanese": "明白な（⇔ implicit ⇒ 1795）；率直な"
+  },
+  {
+    "index": 1599,
+    "english": "prone",
+    "japanese": "（～に）なりやすい（to）；（...する）傾向がある（to do）"
+  },
+  {
+    "index": 1600,
+    "english": "affluent",
+    "japanese": "裕福な；豊富な"
+  },
+  {
+    "index": 1601,
+    "english": "collaborate",
+    "japanese": "共同して働く；（～に）協力する（with）"
+  },
+  {
+    "index": 1602,
+    "english": "exert",
+    "japanese": "を及ぼす；（力など）を行使する"
+  },
+  {
+    "index": 1603,
+    "english": "excel",
+    "japanese": "（～で）秀でている（in / at）；に勝る"
+  },
+  {
+    "index": 1604,
+    "english": "prosper",
+    "japanese": "栄える，成功する；繁殖する"
+  },
+  {
+    "index": 1605,
+    "english": "surge",
+    "japanese": "殺到する；（感情が）こみ上げる；急騰する"
+  },
+  {
+    "index": 1606,
+    "english": "intervene",
+    "japanese": "（～に）介入する（in）；介在する"
+  },
+  {
+    "index": 1607,
+    "english": "insert",
+    "japanese": "を挿入する"
+  },
+  {
+    "index": 1608,
+    "english": "overtake",
+    "japanese": "を追い抜く；に追いつく（≒ catch up with）；（災難・強い感情などが）を襲う"
+  },
+  {
+    "index": 1609,
+    "english": "snap",
+    "japanese": "をパチンと鳴らす；をポキッと折る；ポキッと折れる；パチンと音を立てる"
+  },
+  {
+    "index": 1610,
+    "english": "carve",
+    "japanese": "を彫る；を切り開く；（肉）を切り分ける"
+  },
+  {
+    "index": 1611,
+    "english": "addict",
+    "japanese": "〔受身形で〕（～の）中毒になる（to）；（～に）凝る"
+  },
+  {
+    "index": 1612,
+    "english": "condemn",
+    "japanese": "を非難する；〔受身形で〕（～の刑を）宣告される（to）"
+  },
+  {
+    "index": 1613,
+    "english": "convict",
+    "japanese": "に有罪を宣告する"
+  },
+  {
+    "index": 1614,
+    "english": "dictate",
+    "japanese": "を指図する；を書き取らせる；を規定する"
+  },
+  {
+    "index": 1615,
+    "english": "prescribe",
+    "japanese": "（薬など）を処方する；を規定する"
+  },
+  {
+    "index": 1616,
+    "english": "inhibit",
+    "japanese": "を抑制する；を妨げる"
+  },
+  {
+    "index": 1617,
+    "english": "stray",
+    "japanese": "はぐれる，（道に）迷う"
+  },
+  {
+    "index": 1618,
+    "english": "roam",
+    "japanese": "（を）歩き回る；放浪する"
+  },
+  {
+    "index": 1619,
+    "english": "enclose",
+    "japanese": "を同封する；を取り囲む"
+  },
+  {
+    "index": 1620,
+    "english": "execute",
+    "japanese": "を実行する；を処刑する"
+  },
+  {
+    "index": 1621,
+    "english": "coincide",
+    "japanese": "同時に起こる；一致する"
+  },
+  {
+    "index": 1622,
+    "english": "lag",
+    "japanese": "遅れる；徐々に弱まる"
+  },
+  {
+    "index": 1623,
+    "english": "cling",
+    "japanese": "しがみつく；くっつく"
+  },
+  {
+    "index": 1624,
+    "english": "erase",
+    "japanese": "を消す"
+  },
+  {
+    "index": 1625,
+    "english": "grind",
+    "japanese": "（穀物など）をひく"
+  },
+  {
+    "index": 1626,
+    "english": "knit",
+    "japanese": "を編む；を結合する；編み物をする"
+  },
+  {
+    "index": 1627,
+    "english": "inquire",
+    "japanese": "（を）尋ねる"
+  },
+  {
+    "index": 1628,
+    "english": "betray",
+    "japanese": "をうっかり表す；を裏切る"
+  },
+  {
+    "index": 1629,
+    "english": "leak",
+    "japanese": "漏れる；を漏らす"
+  },
+  {
+    "index": 1630,
+    "english": "smash",
+    "japanese": "を粉砕する；を強打する；粉々に壊れる；激突する"
+  },
+  {
+    "index": 1631,
+    "english": "bounce",
+    "japanese": "跳ねる；反射する；を弾ませる；（Ｅメールが）（宛先不明で）返送される"
+  },
+  {
+    "index": 1632,
+    "english": "sprawl",
+    "japanese": "（都市などが）不規則に広がる；だらしなく手足を伸ばす"
+  },
+  {
+    "index": 1633,
+    "english": "converse",
+    "japanese": "（～と）会話をする（with）"
+  },
+  {
+    "index": 1634,
+    "english": "recite",
+    "japanese": "を暗唱する；を詳述する"
+  },
+  {
+    "index": 1635,
+    "english": "disregard",
+    "japanese": "を無視する；を軽視する"
+  },
+  {
+    "index": 1636,
+    "english": "frown",
+    "japanese": "眉をひそめる"
+  },
+  {
+    "index": 1637,
+    "english": "evoke",
+    "japanese": "を呼び起こす"
+  },
+  {
+    "index": 1638,
+    "english": "pledge",
+    "japanese": "を誓う，約束する；を与えることを約束する"
+  },
+  {
+    "index": 1639,
+    "english": "aspire",
+    "japanese": "（～を）熱望する（to）"
+  },
+  {
+    "index": 1640,
+    "english": "contemplate",
+    "japanese": "（を）熟考する；を予想する"
+  },
+  {
+    "index": 1641,
+    "english": "grace",
+    "japanese": "優美，優雅；分別；（神の）恩寵"
+  },
+  {
+    "index": 1642,
+    "english": "enlightenment",
+    "japanese": "啓蒙，啓発"
+  },
+  {
+    "index": 1643,
+    "english": "commerce",
+    "japanese": "商業；貿易"
+  },
+  {
+    "index": 1644,
+    "english": "draft",
+    "japanese": "下書き；為替手形；隙間風"
+  },
+  {
+    "index": 1645,
+    "english": "barrel",
+    "japanese": "バレル（液量の単位）；たる"
+  },
+  {
+    "index": 1646,
+    "english": "timber",
+    "japanese": "【英】 木材（≒ 【米】lumber）；樹木"
+  },
+  {
+    "index": 1647,
+    "english": "garment",
+    "japanese": "衣服"
+  },
+  {
+    "index": 1648,
+    "english": "thread",
+    "japanese": "糸；（議論などの）筋道"
+  },
+  {
+    "index": 1649,
+    "english": "cabinet",
+    "japanese": "〔しばしばthe C-〕内閣；戸棚"
+  },
+  {
+    "index": 1650,
+    "english": "bureau",
+    "japanese": "（官庁の）局；事務局；案内所"
+  },
+  {
+    "index": 1651,
+    "english": "autonomy",
+    "japanese": "（個人の）自律；自治（権）；自治体"
+  },
+  {
+    "index": 1652,
+    "english": "toll",
+    "japanese": "損害（の程度）；死傷者数；通行料"
+  },
+  {
+    "index": 1653,
+    "english": "discourse",
+    "japanese": "話し合い，会話；講演；論説"
+  },
+  {
+    "index": 1654,
+    "english": "superstition",
+    "japanese": "迷信"
+  },
+  {
+    "index": 1655,
+    "english": "glimpse",
+    "japanese": "ちらりと見えること"
+  },
+  {
+    "index": 1656,
+    "english": "arithmetic",
+    "japanese": "計算；算数"
+  },
+  {
+    "index": 1657,
+    "english": "glossary",
+    "japanese": "用語小辞典；用語集"
+  },
+  {
+    "index": 1658,
+    "english": "archive",
+    "japanese": "〔しばしば～s〕記録文書，公文書；公文書保管所；（コンピューターの）アーカイブ"
+  },
+  {
+    "index": 1659,
+    "english": "legacy",
+    "japanese": "遺産"
+  },
+  {
+    "index": 1660,
+    "english": "anthropology",
+    "japanese": "人類学"
+  },
+  {
+    "index": 1661,
+    "english": "rage",
+    "japanese": "激怒；猛威"
+  },
+  {
+    "index": 1662,
+    "english": "sorrow",
+    "japanese": "悲しみ"
+  },
+  {
+    "index": 1663,
+    "english": "psychiatrist",
+    "japanese": "精神科医"
+  },
+  {
+    "index": 1664,
+    "english": "ward",
+    "japanese": "行政区；病棟"
+  },
+  {
+    "index": 1665,
+    "english": "stall",
+    "japanese": "露店；エンスト；失速"
+  },
+  {
+    "index": 1666,
+    "english": "flame",
+    "japanese": "炎；情熱"
+  },
+  {
+    "index": 1667,
+    "english": "moisture",
+    "japanese": "水分；湿気"
+  },
+  {
+    "index": 1668,
+    "english": "irony",
+    "japanese": "皮肉"
+  },
+  {
+    "index": 1669,
+    "english": "warrior",
+    "japanese": "戦士"
+  },
+  {
+    "index": 1670,
+    "english": "astronomy",
+    "japanese": "天文学"
+  },
+  {
+    "index": 1671,
+    "english": "probe",
+    "japanese": "（無人）宇宙探査機；（～の）精査（into）；探り針"
+  },
+  {
+    "index": 1672,
+    "english": "altitude",
+    "japanese": "高度，標高"
+  },
+  {
+    "index": 1673,
+    "english": "tumor",
+    "japanese": "腫瘍；腫れ物"
+  },
+  {
+    "index": 1674,
+    "english": "defect",
+    "japanese": "欠陥；不足"
+  },
+  {
+    "index": 1675,
+    "english": "sanitation",
+    "japanese": "公衆衛生（学）；下水［衛生］設備"
+  },
+  {
+    "index": 1676,
+    "english": "longevity",
+    "japanese": "長寿；寿命；長年勤続"
+  },
+  {
+    "index": 1677,
+    "english": "scope",
+    "japanese": "（活動・能力などの）範囲；余地"
+  },
+  {
+    "index": 1678,
+    "english": "sentiment",
+    "japanese": "感情；感想；感傷"
+  },
+  {
+    "index": 1679,
+    "english": "plausible",
+    "japanese": "もっともらしい"
+  },
+  {
+    "index": 1680,
+    "english": "vigorous",
+    "japanese": "精力的な；激しい；活力のある"
+  },
+  {
+    "index": 1681,
+    "english": "masculine",
+    "japanese": "男らしい（⇔ feminine ⇒ 1588）"
+  },
+  {
+    "index": 1682,
+    "english": "rigid",
+    "japanese": "厳しい；硬直した"
+  },
+  {
+    "index": 1683,
+    "english": "adverse",
+    "japanese": "不都合な；逆の"
+  },
+  {
+    "index": 1684,
+    "english": "coherent",
+    "japanese": "一貫した，筋の通った；結束した"
+  },
+  {
+    "index": 1685,
+    "english": "literal",
+    "japanese": "文字どおりの；逐語的な；散文的な"
+  },
+  {
+    "index": 1686,
+    "english": "arbitrary",
+    "japanese": "恣意的な；独断的な"
+  },
+  {
+    "index": 1687,
+    "english": "anonymous",
+    "japanese": "匿名の"
+  },
+  {
+    "index": 1688,
+    "english": "antique",
+    "japanese": "骨董の，アンティークの；古風な"
+  },
+  {
+    "index": 1689,
+    "english": "eternal",
+    "japanese": "永遠の；不変の"
+  },
+  {
+    "index": 1690,
+    "english": "intermediate",
+    "japanese": "中級の；中間の"
+  },
+  {
+    "index": 1691,
+    "english": "subordinate",
+    "japanese": "（～より）下位の（to）；副次的な"
+  },
+  {
+    "index": 1692,
+    "english": "gloomy",
+    "japanese": "陰気な；薄暗い；悲観的な"
+  },
+  {
+    "index": 1693,
+    "english": "thermal",
+    "japanese": "熱の，熱による；保温用の"
+  },
+  {
+    "index": 1694,
+    "english": "faint",
+    "japanese": "かすかな；めまいがする；弱々しい"
+  },
+  {
+    "index": 1695,
+    "english": "naive",
+    "japanese": "お人よしの，愚直な；純朴な"
+  },
+  {
+    "index": 1696,
+    "english": "apt",
+    "japanese": "（...する）傾向がある（to do）；適切な；利発な"
+  },
+  {
+    "index": 1697,
+    "english": "arrogant",
+    "japanese": "横柄な，傲慢な"
+  },
+  {
+    "index": 1698,
+    "english": "extrovert",
+    "japanese": "外向的な；社交的な"
+  },
+  {
+    "index": 1699,
+    "english": "conspicuous",
+    "japanese": "目立つ"
+  },
+  {
+    "index": 1700,
+    "english": "intact",
+    "japanese": "損なわれていない，手つかずの"
+  },
+  {
+    "index": 1701,
+    "english": "embody",
+    "japanese": "を具現する；を包含する"
+  },
+  {
+    "index": 1702,
+    "english": "illuminate",
+    "japanese": "を照らす；を解明する"
+  },
+  {
+    "index": 1703,
+    "english": "console",
+    "japanese": "を慰める"
+  },
+  {
+    "index": 1704,
+    "english": "verify",
+    "japanese": "の正しさを証明［確認］する"
+  },
+  {
+    "index": 1705,
+    "english": "disclose",
+    "japanese": "を公表する，暴く"
+  },
+  {
+    "index": 1706,
+    "english": "stack",
+    "japanese": "を積む，積み重ねる；〔～ upで〕（車が）渋滞する"
+  },
+  {
+    "index": 1707,
+    "english": "rotate",
+    "japanese": "回転する；循環する；を回転させる"
+  },
+  {
+    "index": 1708,
+    "english": "constrain",
+    "japanese": "に（...することを）強いる（to do）；を抑える"
+  },
+  {
+    "index": 1709,
+    "english": "hinder",
+    "japanese": "を妨げる"
+  },
+  {
+    "index": 1710,
+    "english": "withstand",
+    "japanese": "に耐える"
+  },
+  {
+    "index": 1711,
+    "english": "tweet",
+    "japanese": "（を）ツイートする，つぶやく"
+  },
+  {
+    "index": 1712,
+    "english": "sneeze",
+    "japanese": "くしゃみをする"
+  },
+  {
+    "index": 1713,
+    "english": "erupt",
+    "japanese": "（火山が）噴火する；勃発する"
+  },
+  {
+    "index": 1714,
+    "english": "blur",
+    "japanese": "をぼかす；を曇らせる；をあいまいにする"
+  },
+  {
+    "index": 1715,
+    "english": "overlap",
+    "japanese": "（一部）重なる；（と）重複［共通］する"
+  },
+  {
+    "index": 1716,
+    "english": "embed",
+    "japanese": "〔通例受身形で〕埋め込まれる，はめ込まれる"
+  },
+  {
+    "index": 1717,
+    "english": "displace",
+    "japanese": "に取って代わる（≒ replace）；を移動させる"
+  },
+  {
+    "index": 1718,
+    "english": "render",
+    "japanese": "を（ある状態に）する；（援助など）を与える"
+  },
+  {
+    "index": 1719,
+    "english": "plunge",
+    "japanese": "（～に）（を）突っ込む（into）；没頭する；陥る"
+  },
+  {
+    "index": 1720,
+    "english": "surrender",
+    "japanese": "を放棄する，引き渡す；（～に）屈する（to）"
+  },
+  {
+    "index": 1721,
+    "english": "plug",
+    "japanese": "〔plug inで〕のプラグを電源に差し込む；を（～で）ふさぐ（with）"
+  },
+  {
+    "index": 1722,
+    "english": "suck",
+    "japanese": "（を）吸う；（を）しゃぶる"
+  },
+  {
+    "index": 1723,
+    "english": "mock",
+    "japanese": "をばかにする（≒ make fun of）；のまねをしてからかう"
+  },
+  {
+    "index": 1724,
+    "english": "tease",
+    "japanese": "（を）からかう；をいじめる"
+  },
+  {
+    "index": 1725,
+    "english": "soothe",
+    "japanese": "をなだめる；を和らげる"
+  },
+  {
+    "index": 1726,
+    "english": "stain",
+    "japanese": "を汚す；に着色する"
+  },
+  {
+    "index": 1727,
+    "english": "shun",
+    "japanese": "を避ける"
+  },
+  {
+    "index": 1728,
+    "english": "stumble",
+    "japanese": "よろけながら歩く；（～に）つまずく（on / over）"
+  },
+  {
+    "index": 1729,
+    "english": "flush",
+    "japanese": "を紅潮させる；を水で流す；紅潮する"
+  },
+  {
+    "index": 1730,
+    "english": "impair",
+    "japanese": "を損なう"
+  },
+  {
+    "index": 1731,
+    "english": "presume",
+    "japanese": "と思う；と推定する；を前提とする"
+  },
+  {
+    "index": 1732,
+    "english": "contend",
+    "japanese": "と主張する；競う"
+  },
+  {
+    "index": 1733,
+    "english": "roar",
+    "japanese": "うなる，ほえる；大笑いする"
+  },
+  {
+    "index": 1734,
+    "english": "haunt",
+    "japanese": "（記憶・考えなどが）につきまとう；（幽霊などが）に出る；によく行く"
+  },
+  {
+    "index": 1735,
+    "english": "divert",
+    "japanese": "（注意など）をそらす；を迂回させる；（資金など）を転用する"
+  },
+  {
+    "index": 1736,
+    "english": "await",
+    "japanese": "を待つ（≒ wait for）"
+  },
+  {
+    "index": 1737,
+    "english": "fetch",
+    "japanese": "を（行って）持って［連れて］くる"
+  },
+  {
+    "index": 1738,
+    "english": "unify",
+    "japanese": "を統合［統一］する；統一される"
+  },
+  {
+    "index": 1739,
+    "english": "inspect",
+    "japanese": "を点検する；を視察する"
+  },
+  {
+    "index": 1740,
+    "english": "entail",
+    "japanese": "を伴う，引き起こす；（...すること）を含む（doing）"
+  },
+  {
+    "index": 1741,
+    "english": "tactics",
+    "japanese": "作戦，方策；戦術，戦法"
+  },
+  {
+    "index": 1742,
+    "english": "feat",
+    "japanese": "偉業，功績；妙技"
+  },
+  {
+    "index": 1743,
+    "english": "prestige",
+    "japanese": "名声；〔形容詞的に〕名声のある"
+  },
+  {
+    "index": 1744,
+    "english": "analogy",
+    "japanese": "類推；類似"
+  },
+  {
+    "index": 1745,
+    "english": "conscience",
+    "japanese": "良心；分別"
+  },
+  {
+    "index": 1746,
+    "english": "textile",
+    "japanese": "織物；繊維（産業）"
+  },
+  {
+    "index": 1747,
+    "english": "deficit",
+    "japanese": "赤字，不足；欠陥"
+  },
+  {
+    "index": 1748,
+    "english": "plague",
+    "japanese": "疫病；（害虫などの）異常発生"
+  },
+  {
+    "index": 1749,
+    "english": "hazard",
+    "japanese": "危険（要素）；偶然"
+  },
+  {
+    "index": 1750,
+    "english": "metabolism",
+    "japanese": "（新陳）代謝，代謝作用"
+  },
+  {
+    "index": 1751,
+    "english": "paralysis",
+    "japanese": "麻痺；〔比喩的に〕麻痺（状態）"
+  },
+  {
+    "index": 1752,
+    "english": "grid",
+    "japanese": "（電気などの）供給網；格子（模様）；碁盤目"
+  },
+  {
+    "index": 1753,
+    "english": "carriage",
+    "japanese": "馬車；車両（＝ 【米】car）；立ち居振舞い；【英】輸送"
+  },
+  {
+    "index": 1754,
+    "english": "friction",
+    "japanese": "不和；摩擦"
+  },
+  {
+    "index": 1755,
+    "english": "rebel",
+    "japanese": "反逆者"
+  },
+  {
+    "index": 1756,
+    "english": "regime",
+    "japanese": "政権，政体；体制"
+  },
+  {
+    "index": 1757,
+    "english": "monopoly",
+    "japanese": "独占（権）"
+  },
+  {
+    "index": 1758,
+    "english": "staple",
+    "japanese": "必需食品；主要産物"
+  },
+  {
+    "index": 1759,
+    "english": "merchandise",
+    "japanese": "商品"
+  },
+  {
+    "index": 1760,
+    "english": "vendor",
+    "japanese": "物売り，行商人；自動販売機"
+  },
+  {
+    "index": 1761,
+    "english": "supervisor",
+    "japanese": "監督者；指導教員"
+  },
+  {
+    "index": 1762,
+    "english": "predecessor",
+    "japanese": "前任者（⇔ successor 後継者）；前のもの"
+  },
+  {
+    "index": 1763,
+    "english": "personnel",
+    "japanese": "〔集合的に〕職員，社員"
+  },
+  {
+    "index": 1764,
+    "english": "vessel",
+    "japanese": "船舶；容器；（体液が通る）脈管"
+  },
+  {
+    "index": 1765,
+    "english": "liver",
+    "japanese": "肝臓"
+  },
+  {
+    "index": 1766,
+    "english": "duration",
+    "japanese": "（時間の）継続，持続（時間）"
+  },
+  {
+    "index": 1767,
+    "english": "certificate",
+    "japanese": "証明書；免許状"
+  },
+  {
+    "index": 1768,
+    "english": "geometry",
+    "japanese": "幾何学"
+  },
+  {
+    "index": 1769,
+    "english": "symmetry",
+    "japanese": "（左右）対称（⇔ asymmetry 非対称）；調和"
+  },
+  {
+    "index": 1770,
+    "english": "biography",
+    "japanese": "伝記"
+  },
+  {
+    "index": 1771,
+    "english": "masterpiece",
+    "japanese": "傑作"
+  },
+  {
+    "index": 1772,
+    "english": "rhyme",
+    "japanese": "押韻詩；韻；〔通例～s〕詩歌"
+  },
+  {
+    "index": 1773,
+    "english": "premium",
+    "japanese": "保険料；プレミア；景品"
+  },
+  {
+    "index": 1774,
+    "english": "breakdown",
+    "japanese": "崩壊；（神経）衰弱；故障；内訳"
+  },
+  {
+    "index": 1775,
+    "english": "courtesy",
+    "japanese": "礼儀正しさ；好意；優遇"
+  },
+  {
+    "index": 1776,
+    "english": "protocol",
+    "japanese": "（条約）議定書；外交儀礼；プロトコル"
+  },
+  {
+    "index": 1777,
+    "english": "specimen",
+    "japanese": "標本；実例"
+  },
+  {
+    "index": 1778,
+    "english": "thesis",
+    "japanese": "論文；命題，テーゼ"
+  },
+  {
+    "index": 1779,
+    "english": "eligible",
+    "japanese": "適格の，資格のある；（結婚相手として）望ましい"
+  },
+  {
+    "index": 1780,
+    "english": "intrinsic",
+    "japanese": "固有の，本質的な（⇔ extrinsic 非本質的な）"
+  },
+  {
+    "index": 1781,
+    "english": "diligent",
+    "japanese": "勤勉な；入念な"
+  },
+  {
+    "index": 1782,
+    "english": "vocational",
+    "japanese": "職業の，職業訓練の（ための）"
+  },
+  {
+    "index": 1783,
+    "english": "bankrupt",
+    "japanese": "破産宣告を受けた；破綻している"
+  },
+  {
+    "index": 1784,
+    "english": "stern",
+    "japanese": "厳しい；いかめしい"
+  },
+  {
+    "index": 1785,
+    "english": "stubborn",
+    "japanese": "頑固な，強情な（≒ obstinate）；手に負えない"
+  },
+  {
+    "index": 1786,
+    "english": "maternal",
+    "japanese": "母の，母親らしい（⇔ paternal 父の）；妊婦の"
+  },
+  {
+    "index": 1787,
+    "english": "fertile",
+    "japanese": "肥沃な（⇔ barren 不毛の）；多産の"
+  },
+  {
+    "index": 1788,
+    "english": "ripe",
+    "japanese": "熟した；成熟した"
+  },
+  {
+    "index": 1789,
+    "english": "stiff",
+    "japanese": "硬直した，凝った；堅い"
+  },
+  {
+    "index": 1790,
+    "english": "obsolete",
+    "japanese": "廃れた，使われなくなった；古くなった"
+  },
+  {
+    "index": 1791,
+    "english": "vacant",
+    "japanese": "空いている"
+  },
+  {
+    "index": 1792,
+    "english": "acoustic",
+    "japanese": "音響の；聴覚の；（楽器が）アコースティックの"
+  },
+  {
+    "index": 1793,
+    "english": "preliminary",
+    "japanese": "予備の，準備の"
+  },
+  {
+    "index": 1794,
+    "english": "approximate",
+    "japanese": "おおよその"
+  },
+  {
+    "index": 1795,
+    "english": "implicit",
+    "japanese": "暗黙の（⇔ explicit ⇒ 1598）；内在する"
+  },
+  {
+    "index": 1796,
+    "english": "punctual",
+    "japanese": "時間を守る"
+  },
+  {
+    "index": 1797,
+    "english": "compatible",
+    "japanese": "矛盾しない；互換性のある；気が合う"
+  },
+  {
+    "index": 1798,
+    "english": "ample",
+    "japanese": "十分すぎるほどの；広い"
+  },
+  {
+    "index": 1799,
+    "english": "pervasive",
+    "japanese": "隅々に広がった；浸透する；充満する"
+  },
+  {
+    "index": 1800,
+    "english": "ubiquitous",
+    "japanese": "至る所にある"
+  },
+  {
+    "index": 1801,
+    "english": "deduce",
+    "japanese": "を推測する，演繹する"
+  },
+  {
+    "index": 1802,
+    "english": "simulate",
+    "japanese": "を模擬実験する；を装う；をまねる"
+  },
+  {
+    "index": 1803,
+    "english": "merge",
+    "japanese": "（を）合併する；を融合させる；溶け込む"
+  },
+  {
+    "index": 1804,
+    "english": "penetrate",
+    "japanese": "（に）浸透する；（に）進出する；（を）貫く；（を）見抜く"
+  },
+  {
+    "index": 1805,
+    "english": "cater",
+    "japanese": "（の）料理をまかなう；（要望などに）応える"
+  },
+  {
+    "index": 1806,
+    "english": "assault",
+    "japanese": "に暴行する；を攻撃する"
+  },
+  {
+    "index": 1807,
+    "english": "torture",
+    "japanese": "を拷問にかける；を苦しめる"
+  },
+  {
+    "index": 1808,
+    "english": "bleed",
+    "japanese": "出血する"
+  },
+  {
+    "index": 1809,
+    "english": "erect",
+    "japanese": "を建てる；を直立させる"
+  },
+  {
+    "index": 1810,
+    "english": "cherish",
+    "japanese": "を大切にする；を心に抱く"
+  },
+  {
+    "index": 1811,
+    "english": "arouse",
+    "japanese": "（感情など）を引き起こす；を目覚めさせる"
+  },
+  {
+    "index": 1812,
+    "english": "doom",
+    "japanese": "〔通例受身形で〕運命にある"
+  },
+  {
+    "index": 1813,
+    "english": "mourn",
+    "japanese": "（を）悼む（≒ grieve）；（を）嘆く"
+  },
+  {
+    "index": 1814,
+    "english": "dread",
+    "japanese": "をひどく恐れる"
+  },
+  {
+    "index": 1815,
+    "english": "nourish",
+    "japanese": "に栄養を与える；をはぐくむ"
+  },
+  {
+    "index": 1816,
+    "english": "inject",
+    "japanese": "（人）に注射する，を注入する；を導入する"
+  },
+  {
+    "index": 1817,
+    "english": "swear",
+    "japanese": "（～を）ののしる（at）；（を）誓う（≒ vow）"
+  },
+  {
+    "index": 1818,
+    "english": "bid",
+    "japanese": "（～に）の値をつける（for ⇒ on）；（挨拶）を述べる"
+  },
+  {
+    "index": 1819,
+    "english": "corrupt",
+    "japanese": "を堕落させる；を買収する；堕落する"
+  },
+  {
+    "index": 1820,
+    "english": "preoccupy",
+    "japanese": "の心を奪う，を夢中にさせる"
+  },
+  {
+    "index": 1821,
+    "english": "browse",
+    "japanese": "（を）拾い読みする；（を）閲覧する；（商品など）を見て歩く"
+  },
+  {
+    "index": 1822,
+    "english": "compile",
+    "japanese": "を編集する；（資料など）をまとめる"
+  },
+  {
+    "index": 1823,
+    "english": "allocate",
+    "japanese": "を割り当てる，分配する"
+  },
+  {
+    "index": 1824,
+    "english": "offset",
+    "japanese": "を相殺する，埋め合わせる；をオフセット印刷にする"
+  },
+  {
+    "index": 1825,
+    "english": "restrain",
+    "japanese": "を制止する；を規制する"
+  },
+  {
+    "index": 1826,
+    "english": "comply",
+    "japanese": "従う，応じる"
+  },
+  {
+    "index": 1827,
+    "english": "expire",
+    "japanese": "期限が切れる"
+  },
+  {
+    "index": 1828,
+    "english": "embark",
+    "japanese": "（～に）乗り出す（on）；乗船［搭乗］する"
+  },
+  {
+    "index": 1829,
+    "english": "flap",
+    "japanese": "パタパタ動く；羽ばたく（≒ flutter）；をパタパタ動かす"
+  },
+  {
+    "index": 1830,
+    "english": "furnish",
+    "japanese": "に（～を）備えつける（with）"
+  },
+  {
+    "index": 1831,
+    "english": "forge",
+    "japanese": "を偽造する；（関係など）を築く；を鍛造する"
+  },
+  {
+    "index": 1832,
+    "english": "thrust",
+    "japanese": "を押しつける；を突き刺す；押し進む"
+  },
+  {
+    "index": 1833,
+    "english": "dispatch",
+    "japanese": "を派遣する；を発送する；を処理する"
+  },
+  {
+    "index": 1834,
+    "english": "resent",
+    "japanese": "に憤慨する"
+  },
+  {
+    "index": 1835,
+    "english": "reconcile",
+    "japanese": "を（～と）一致させる（with）；を和解させる"
+  },
+  {
+    "index": 1836,
+    "english": "allege",
+    "japanese": "を主張する"
+  },
+  {
+    "index": 1837,
+    "english": "oppress",
+    "japanese": "を抑圧［迫害］する；を悩ませる"
+  },
+  {
+    "index": 1838,
+    "english": "expel",
+    "japanese": "を追放する；を吐き出す"
+  },
+  {
+    "index": 1839,
+    "english": "ascend",
+    "japanese": "（を）上がる（⇔ descend ⇒ 1337）"
+  },
+  {
+    "index": 1840,
+    "english": "commence",
+    "japanese": "始まる；を開始する；...し始める（to do / doing）⇒ commence work 仕事［作業］を始める"
+  },
+  {
+    "index": 1841,
+    "english": "advent",
+    "japanese": "〔the ～〕出現，到来"
+  },
+  {
+    "index": 1842,
+    "english": "reign",
+    "japanese": "治世；統治"
+  },
+  {
+    "index": 1843,
+    "english": "diplomacy",
+    "japanese": "外交（的手腕）"
+  },
+  {
+    "index": 1844,
+    "english": "embassy",
+    "japanese": "大使館；大使一行"
+  },
+  {
+    "index": 1845,
+    "english": "exile",
+    "japanese": "亡命（者）；（国外）追放"
+  },
+  {
+    "index": 1846,
+    "english": "refuge",
+    "japanese": "避難（所）；保護"
+  },
+  {
+    "index": 1847,
+    "english": "plight",
+    "japanese": "窮状（＝ predicament）；（悪い）状態"
+  },
+  {
+    "index": 1848,
+    "english": "solitude",
+    "japanese": "ひとりでいること；孤独"
+  },
+  {
+    "index": 1849,
+    "english": "fallacy",
+    "japanese": "誤った考え，誤信；錯誤"
+  },
+  {
+    "index": 1850,
+    "english": "latitude",
+    "japanese": "緯度；（行動・思想などの）許容範囲"
+  },
+  {
+    "index": 1851,
+    "english": "eclipse",
+    "japanese": "（日食・月食などの）食；（名声などの）失墜"
+  },
+  {
+    "index": 1852,
+    "english": "basin",
+    "japanese": "流域；盆地，海盆；洗面器［台］"
+  },
+  {
+    "index": 1853,
+    "english": "erosion",
+    "japanese": "浸食；衰退"
+  },
+  {
+    "index": 1854,
+    "english": "archaeology",
+    "japanese": "考古学"
+  },
+  {
+    "index": 1855,
+    "english": "errand",
+    "japanese": "（人の）使い，使い走り；用件"
+  },
+  {
+    "index": 1856,
+    "english": "mercy",
+    "japanese": "慈悲；〔通例a ～〕幸運"
+  },
+  {
+    "index": 1857,
+    "english": "rhetoric",
+    "japanese": "修辞（法）；美辞麗句"
+  },
+  {
+    "index": 1858,
+    "english": "verse",
+    "japanese": "韻文（⇔ prose 散文）；詩"
+  },
+  {
+    "index": 1859,
+    "english": "congestion",
+    "japanese": "混雑"
+  },
+  {
+    "index": 1860,
+    "english": "sewage",
+    "japanese": "下水"
+  },
+  {
+    "index": 1861,
+    "english": "complement",
+    "japanese": "（～の）補完物，補足（to）；（文法の）補語"
+  },
+  {
+    "index": 1862,
+    "english": "subsidy",
+    "japanese": "補助金；報奨金"
+  },
+  {
+    "index": 1863,
+    "english": "mortgage",
+    "japanese": "住宅ローン；抵当（権）"
+  },
+  {
+    "index": 1864,
+    "english": "attorney",
+    "japanese": "【米】 弁護士；代理人"
+  },
+  {
+    "index": 1865,
+    "english": "outfit",
+    "japanese": "衣装一式；装備［道具］一式；組織"
+  },
+  {
+    "index": 1866,
+    "english": "bulk",
+    "japanese": "〔the ～〕（～の）大半（of）；大きさ；大量"
+  },
+  {
+    "index": 1867,
+    "english": "reunion",
+    "japanese": "再会（の集い）；再結合"
+  },
+  {
+    "index": 1868,
+    "english": "synthesis",
+    "japanese": "合成；総合（⇔ analysis ⇒ 363）"
+  },
+  {
+    "index": 1869,
+    "english": "mold",
+    "japanese": "鋳型；鋳物；性格；かび"
+  },
+  {
+    "index": 1870,
+    "english": "thirst",
+    "japanese": "（のどの）渇き；（～に対する）渇望（for）"
+  },
+  {
+    "index": 1871,
+    "english": "greed",
+    "japanese": "強欲"
+  },
+  {
+    "index": 1872,
+    "english": "bribe",
+    "japanese": "賄賂"
+  },
+  {
+    "index": 1873,
+    "english": "contempt",
+    "japanese": "軽蔑；恥辱"
+  },
+  {
+    "index": 1874,
+    "english": "texture",
+    "japanese": "感触，手触り；本質；質感"
+  },
+  {
+    "index": 1875,
+    "english": "orphan",
+    "japanese": "孤児"
+  },
+  {
+    "index": 1876,
+    "english": "harassment",
+    "japanese": "嫌がらせ，ハラスメント"
+  },
+  {
+    "index": 1877,
+    "english": "hay",
+    "japanese": "干し草"
+  },
+  {
+    "index": 1878,
+    "english": "doctrine",
+    "japanese": "教義；【米】（政策上の）主義"
+  },
+  {
+    "index": 1879,
+    "english": "holistic",
+    "japanese": "全体論の；（医療が）ホリスティックの"
+  },
+  {
+    "index": 1880,
+    "english": "liable",
+    "japanese": "しがちな；（～を）受けやすい（to）；責任がある"
+  },
+  {
+    "index": 1881,
+    "english": "earnest",
+    "japanese": "まじめな，熱心な"
+  },
+  {
+    "index": 1882,
+    "english": "intelligible",
+    "japanese": "（簡単に）理解できる"
+  },
+  {
+    "index": 1883,
+    "english": "abrupt",
+    "japanese": "突然の（≒ sudden）"
+  },
+  {
+    "index": 1884,
+    "english": "reckless",
+    "japanese": "無謀な；（～を）顧みない（of）"
+  },
+  {
+    "index": 1885,
+    "english": "furious",
+    "japanese": "激怒した；猛烈な"
+  },
+  {
+    "index": 1886,
+    "english": "eloquent",
+    "japanese": "雄弁な；説得力のある"
+  },
+  {
+    "index": 1887,
+    "english": "juvenile",
+    "japanese": "青少年の"
+  },
+  {
+    "index": 1888,
+    "english": "notorious",
+    "japanese": "悪名高い（≒ infamous）"
+  },
+  {
+    "index": 1889,
+    "english": "timid",
+    "japanese": "臆病な；内気な"
+  },
+  {
+    "index": 1890,
+    "english": "humid",
+    "japanese": "湿気のある（≒ muggy 蒸し暑い）"
+  },
+  {
+    "index": 1891,
+    "english": "contagious",
+    "japanese": "感染（性）の；病気を伝染する"
+  },
+  {
+    "index": 1892,
+    "english": "cynical",
+    "japanese": "冷笑的な，皮肉な"
+  },
+  {
+    "index": 1893,
+    "english": "dumb",
+    "japanese": "ばかげた；口のきけない；無言の"
+  },
+  {
+    "index": 1894,
+    "english": "monotonous",
+    "japanese": "単調な"
+  },
+  {
+    "index": 1895,
+    "english": "perpetual",
+    "japanese": "永続的な；ひっきりなしの"
+  },
+  {
+    "index": 1896,
+    "english": "dizzy",
+    "japanese": "目まいがする；当惑した"
+  },
+  {
+    "index": 1897,
+    "english": "weary",
+    "japanese": "疲れ果てた；（～に）うんざりした（of）"
+  },
+  {
+    "index": 1898,
+    "english": "numb",
+    "japanese": "麻痺した，無感覚な；ぼう然とした"
+  },
+  {
+    "index": 1899,
+    "english": "mortal",
+    "japanese": "致命的な（≒ fatal）；死すべき（運命の）（⇔ immortal 不死の）"
+  },
+  {
+    "index": 1900,
+    "english": "zealous",
+    "japanese": "熱心な；熱狂的な"
+  }
+]

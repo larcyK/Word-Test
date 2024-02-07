@@ -9,7 +9,7 @@ import { render } from 'solid-js/web';
  */
 import './cheatsheet.scss';
 
-import AppTemplate from './AppTemplate';
+import App from './App';
 
 const root = document.getElementById('root');
 
@@ -19,4 +19,4 @@ if (import.meta.env.DEV && !(root instanceof HTMLElement)) {
   );
 }
 
-render(() => <AppTemplate />, root!);
+render(() => <App />, root!);

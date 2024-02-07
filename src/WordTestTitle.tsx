@@ -64,10 +64,10 @@ export const WordTestTitle = () => {
   };
   
   return (
-    <div class="container-fluid">
+    <div class="container-fluid bg-body">
       <h1>Word Test</h1>
 
-      <div class="dropdown">
+      <div class="dropdown my-3">
         <button
           class="btn btn-secondary btn-lg dropdown-toggle"
           type="button"
@@ -104,7 +104,7 @@ export const WordTestTitle = () => {
       </div>
 
       {/* problem range input form (min~max) */}
-      <div class="input-group mb-3">
+      <div class="input-group my-3">
         <span class="input-group-text">問題数</span>
         <input
           type="number"
@@ -119,7 +119,7 @@ export const WordTestTitle = () => {
 
       {/* start button */}
       <button
-        class="btn btn-primary btn-lg"
+        class="btn btn-primary btn-lg my-3"
         onClick={(e) => {
           e.preventDefault();
           setProblems(generateProblems());
@@ -130,15 +130,15 @@ export const WordTestTitle = () => {
       </button>
 
       {/* problem card */}
-      <div class="card">
+      <div class="card my-3">
         <div class="card-body">
           {testActive() && (
             <div>
-              <h5 class="card-title
-                ">{wordBook().title}</h5>
-              <p class="card-text">{problems()[problemIndex()].word.eng}</p>
-              <div class="list-group
-                ">
+              <h5 class="card-title">
+                {wordBook().title}
+              </h5>
+              <p class="card-text">{problemIndex() + 1}. {problems()[problemIndex()].word.eng}</p>
+              <div class="list-group">
                 <For each={problems()[problemIndex()].choices}>
                   {(choice) => (
                     <button
@@ -156,10 +156,9 @@ export const WordTestTitle = () => {
                   )}
                 </For>
 
-                <div class="list-group
-                  ">
+                <div class="d-flex mt-3">
                   <button
-                    class="list-group-item list-group-item-action"
+                    class="btn btn-secondary mx-1"
                     onClick={(e) => {
                       e.preventDefault();
                       setProblemIndex(problemIndex() + 1);
@@ -169,7 +168,7 @@ export const WordTestTitle = () => {
                   </button>
 
                   <button
-                    class="list-group-item list-group-item-action"
+                    class="btn btn-danger mx-1"
                     onClick={(e) => {
                       e.preventDefault();
                       setTestActive(false);
@@ -180,9 +179,8 @@ export const WordTestTitle = () => {
                     End
                   </button>
 
-
                   <button
-                    class="list-group-item list-group-item-action"
+                    class="btn btn-warning mx-1"
                     onClick={(e) => {
                       e.preventDefault();
                       setTestActive(false);
@@ -195,10 +193,6 @@ export const WordTestTitle = () => {
 
 
                 </div>
-              </div>
-
-              <div>
-                {problemIndex() + 1} / {problemCount()}
               </div>
 
               <div>

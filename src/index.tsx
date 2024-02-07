@@ -10,6 +10,7 @@ import { render } from 'solid-js/web';
 import './cheatsheet.scss';
 
 import App from './App';
+import AppTemplate from './AppTemplate';
 
 const root = document.getElementById('root');
 

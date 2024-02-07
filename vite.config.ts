@@ -17,9 +17,9 @@ export default defineConfig({
         enabled: true
       },
       manifest: {
-        name: "My App",
-        short_name: "My App",
-        description: "My App",
+        name: "Word Test App",
+        short_name: "Word Test",
+        description: "Word Test App",
  
         icons: [
           {

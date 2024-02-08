@@ -1,6 +1,7 @@
 import { For, createSignal } from "solid-js";
 import target1200 from "../public/json/target1200.json";
 import target1900 from "../public/json/target1900.json";
+import { start } from "@popperjs/core";
 
 interface Word {
   id: number;
@@ -53,6 +54,9 @@ export const WordTestTitle = () => {
   const [choiceCount, setChoiceCount] = createSignal(4);
   const [wordBook, setWordBook] = createSignal(wordBooks[0]);
 
+  const maxTime = 10;
+  const [remainingTime, setRemainingTime] = createSignal(maxTime);
+
   // wordBookの単語からランダムに4択問題を生成
   const generateProblems = () => {
     const words = wordBook().words;
@@ -78,10 +82,29 @@ export const WordTestTitle = () => {
   const nextProblem = () => {
     if (problemIndex() + 1 < problemCount()) {
       setProblemIndex(problemIndex() + 1);
+      startTimer();
     } else {
       setTestActive(false);
       setResultActive(true);
     }
+  }
+
+  const remainingTimePercentage = () => {
+    return (remainingTime() / maxTime) * 100;
+  }
+
+  let timer: NodeJS.Timeout;
+
+  const startTimer = () => {
+    setRemainingTime(maxTime);
+    clearInterval(timer);
+    timer = setInterval(() => {
+      if (remainingTime() > 0) {
+        setRemainingTime(remainingTime() - 1);
+      } else {
+        nextProblem();
+      }
+    }, 1000);
   }
 
   const startTest = () => {
@@ -89,6 +112,8 @@ export const WordTestTitle = () => {
     setProblemIndex(0);
     setScore(0);
     setResultActive(false);
+    startTimer();
+    setRemainingTime(maxTime);
     setTestActive(true);
   }
 
@@ -141,7 +166,7 @@ export const WordTestTitle = () => {
             class="form-control"
             aria-label="問題数"
             value={problemCount()}
-            style={{ 
+            style={{
               "border-top-left-radius": "0rem",
               "border-bottom-left-radius": "0rem",
             }}
@@ -160,7 +185,7 @@ export const WordTestTitle = () => {
             class="form-control"
             aria-label="選択肢数"
             value={choiceCount()}
-            style={{ 
+            style={{
               "border-top-left-radius": "0rem",
               "border-bottom-left-radius": "0rem",
             }}
@@ -208,6 +233,17 @@ export const WordTestTitle = () => {
                     </button>
                   )}
                 </For>
+              </div>
+
+              <div class="bd-example my-4">
+                <div class="progress">
+                  <div
+                    class={`progress-bar progress-bar-striped progress-bar-animated ${remainingTime() < 3 ? "bg-danger" : "bg-success"
+                      }`}
+                    aria-role="progressbar"
+                    style={`width: ${remainingTimePercentage()}%`}
+                  ></div>
+                </div>
               </div>
 
               <div class="d-flex mt-3">

@@ -118,7 +118,7 @@ export const WordTestTitle = () => {
   }
 
   return (
-    <div class="container-fluid bg-body">
+    <div class="container-fluid bg-body mx-auto">
       <h1 class="my-3">Word Test</h1>
 
       <div class="dropdown my-3">
@@ -198,7 +198,7 @@ export const WordTestTitle = () => {
 
       {/* start button */}
       <button
-        class="btn btn-primary btn-lg my-3"
+        class="btn btn-primary btn-lg mb-3"
         onClick={(e) => {
           e.preventDefault();
           startTest();
@@ -266,16 +266,6 @@ export const WordTestTitle = () => {
                   }}
                 >
                   End
-                </button>
-
-                <button
-                  class="btn btn-warning mx-1"
-                  onClick={(e) => {
-                    e.preventDefault();
-                    startTest();
-                  }}
-                >
-                  Restart
                 </button>
               </div>
 

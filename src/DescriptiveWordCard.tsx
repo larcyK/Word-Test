@@ -16,6 +16,7 @@ export interface WordCardProps {
   answer: string;
   status: AnswerStatus;
   setStatus: (state: AnswerStatus) => void;
+  class?: string;
 }
 
 const buttons = [
@@ -192,7 +193,7 @@ const AnswerStatusBox: Component<AnswerStatusBoxProps> = (props) => {
 
 export const WordCard: Component<WordCardProps> = (props) => {
   return (
-    <div class="d-flex align-items-stretch w-100 gap-1">
+    <div class={`d-flex align-items-stretch w-100 gap-1 ${props.class || ""}`}>
       {/* 左：番号+単語+答え */}
       <div class="input-group rounded-3 overflow-hidden flex-grow-1">
         {/* 番号（左端） */}

@@ -21,11 +21,20 @@
 /* 2カラム印刷用 */
 .printCols2 {}
 
+.noBreak {
+  break-inside: avoid !important;
+  page-break-inside: avoid !important;
+  -webkit-column-break-inside: avoid !important; /* Safari対策 */
+  -webkit-region-break-inside: avoid !important;
+  overflow: visible !important; /* overflow: hidden だと切られやすい */
+}
+
 /* ---- 印刷用 ---- */
 @media print {
   /* 用紙サイズとページ余白（ブラウザの余白は「最小」推奨） */
   @page {
-    size: A4 portrait;
+    // size: A4 portrait;
+    size: 253.5mm 358.5mm;
     // margin: 10mm;
   }
 

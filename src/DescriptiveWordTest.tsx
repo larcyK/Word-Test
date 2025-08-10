@@ -305,6 +305,7 @@ export const DescriptiveWordTest = () => {
           {(problem, index) => (
             <Col>
               <WordCard
+                class={prints.avoidBreak}
                 number={problem.id}
                 problem={problem.eng}
                 answer={problem.jpn}

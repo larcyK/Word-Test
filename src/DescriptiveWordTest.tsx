@@ -300,17 +300,18 @@ export const DescriptiveWordTest = () => {
 
         {/* 開始ボタン */}
         <div class="row g-3 my-1">
-          <button
-            class="btn btn-primary btn-lg mb-3 flex-grow-1"
-            onClick={(e) => {
-              e.preventDefault();
-              startTest();
-            }}
-          >
-            Start
-          </button>
+          <div class="col-12">
+            <button
+              class="btn btn-primary btn-lg w-100"  // ← flex-grow-1は外す
+              onClick={(e) => {
+                e.preventDefault();
+                startTest();
+              }}
+            >
+              Start
+            </button>
+          </div>
         </div>
-
       </div>
 
       {/* problem card */}

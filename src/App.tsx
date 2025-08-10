@@ -2,15 +2,17 @@ import { Match, Switch, createSignal, onCleanup, onMount } from 'solid-js';
 import type { Component } from 'solid-js';
 import * as bootstrap from 'bootstrap';
 
-import { WordTestTitle } from './WordTestTitle';
+import { SelectiveWordTest } from './SelectiveWordTest';
 import AppTemplate from './AppTemplate';
 
 import logo from '../public/images/icon-192x192.png';
 import { right } from '@popperjs/core';
+import { DescriptiveWordTest } from './DescriptiveWordTest';
 
 enum PageKind {
   HOME = 'home',
-  WORD_TEST = 'word-test',
+  SELECTIVE_WORD_TEST = 'selective-word-test',
+  DESCRIPTIVE_WORD_TEST = 'descriptive-word-test',
   PROFILE = 'profile',
   TEMPLATE = 'template',
 }
@@ -20,7 +22,7 @@ const App: Component = () => {
    * This function was taken from the cheatsheet example of bootstrap.
    * You will most likely remove it if using this template.
    */
-  const [pageKind, setPageKind] = createSignal(PageKind.WORD_TEST);
+  const [pageKind, setPageKind] = createSignal(PageKind.SELECTIVE_WORD_TEST);
 
   type TabProps = {
     kind: PageKind;
@@ -31,15 +33,18 @@ const App: Component = () => {
     return (
       <li class="nav-item">
         <a
-          class="nav-link active"
+          class={`nav-link rounded-pill px-3 py-1${pageKind() === props.kind ? ' active bg-primary text-white shadow' : ''}`}
           aria-current="page"
+          style={{ cursor: 'pointer' }}
           onClick={(e) => {
             e.preventDefault();
             setPageKind(props.kind);
             const navbarCollapse = document.querySelector('.navbar-collapse');
             navbarCollapse.classList.remove('show');
-          }}
-        >
+            }}
+            onMouseEnter={e => e.currentTarget.classList.add('bg-primary', 'bg-opacity-75')}
+            onMouseLeave={e => e.currentTarget.classList.remove('bg-primary', 'bg-opacity-75')}
+          >
           {props.tabName}
         </a>
       </li>
@@ -133,8 +138,9 @@ const App: Component = () => {
             id="navbarSupportedContent2"
           >
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-              <Tab kind={PageKind.HOME} tabName="Home" />              
-              <Tab kind={PageKind.WORD_TEST} tabName="Word Test" />
+              <Tab kind={PageKind.HOME} tabName="ホーム" />              
+              <Tab kind={PageKind.SELECTIVE_WORD_TEST} tabName="選択式テスト" />
+              <Tab kind={PageKind.DESCRIPTIVE_WORD_TEST} tabName="記述式テスト" />
               {/* <Tab kind={PageKind.PROFILE} tabName="Profile" />
               <Tab kind={PageKind.TEMPLATE} tabName="Template" />
               <DropdownTab />
@@ -174,8 +180,11 @@ const App: Component = () => {
         <Match when={pageKind() === PageKind.HOME}>
           <div>Home</div>
         </Match>
-        <Match when={pageKind() === PageKind.WORD_TEST}>
-          <WordTestTitle />
+        <Match when={pageKind() === PageKind.SELECTIVE_WORD_TEST}>
+          <SelectiveWordTest />
+        </Match>
+        <Match when={pageKind() === PageKind.DESCRIPTIVE_WORD_TEST}>
+          <DescriptiveWordTest />
         </Match>
         {/* <Match when={pageKind() === PageKind.PROFILE}>
           <div>Profile</div>

@@ -41,7 +41,7 @@ const wordBooks: WordBook[] = [
   },
 ];
 
-export const WordTestTitle = () => {
+export const SelectiveWordTest = () => {
 
   const [testActive, setTestActive] = createSignal(false);
   const [resultActive, setResultActive] = createSignal(false);

@@ -29,6 +29,8 @@ const buttons = [
 ];
 
 const WordCard: Component<WordCardProps> = (props) => {
+  const [visible, setVisible] = createSignal(false);
+
   return (
     <div class="d-flex align-items-stretch w-100 gap-1">
       {/* 左：番号+単語+答え */}
@@ -76,9 +78,14 @@ const WordCard: Component<WordCardProps> = (props) => {
             "min-height": "48px",
             "font-size": "1rem",
             "white-space": "normal",
-            "word-break": "break-word"
+            "word-break": "break-word",
+            color: visible() ? "var(--bs-danger)" : "transparent",
+            transition: "color 0.2s ease"
           }}
           title={props.answer}
+          onClick={() => setVisible(!visible())}
+          onMouseEnter={() => setVisible(true)} 
+          onMouseLeave={() => setVisible(false)}
         >
           {props.answer}
         </div>
@@ -153,7 +160,6 @@ const WordCard: Component<WordCardProps> = (props) => {
 export const DescriptiveWordTest = () => {
 
   const [testActive, setTestActive] = createSignal(false);
-  const [resultActive, setResultActive] = createSignal(false);
 
   const [wordBook, setWordBook] = createSignal(wordBooks[0]);
   const [problemCount, setProblemCount] = createSignal(20);
@@ -197,7 +203,6 @@ export const DescriptiveWordTest = () => {
 
     setErrorText("")
     generateProblems();
-    setResultActive(false);
     setTestActive(true);
   }
 
@@ -400,7 +405,7 @@ export const DescriptiveWordTest = () => {
   const countUnans     = createMemo(() => states.filter(s => s === State.UNANSWERED).length);
 
   return (
-    <div class="mb-3">
+    <div class="my-3">
       {/* モバイル: コンパクト1行 */}
       <div class="d-flex align-items-center justify-content-between d-sm-none">
         <div class="d-flex align-items-center gap-2 flex-wrap">
@@ -447,10 +452,10 @@ export const DescriptiveWordTest = () => {
 
     return <>
       <TestHeader />
-      <Row class="g-3">
+      <Row class="g-3 mb-3">
         <For each={problems()}>
           {(problem, index) => (
-            <Col xs={12} sm={6}>
+            <Col xs={12} lg={6}>
               <WordCard
                 number={problem.id}
                 problem={problem.eng}
@@ -478,31 +483,6 @@ export const DescriptiveWordTest = () => {
       {/* problem card */}
       {testActive() && (
         <TestPage />
-      )}
-
-      {resultActive() && (
-        <div class="container-fluid bg-body">
-          <h1>Result</h1>
-          <div class="card my-3">
-            <div class="card-body">
-              <h5 class="card-title">
-                {wordBook().title}
-              </h5>
-              <p class="card-text">
-                Score: {score()} / {problemCount()}
-              </p>
-              <button
-                class="btn btn-primary btn-lg"
-                onClick={(e) => {
-                  e.preventDefault();
-                  startTest();
-                }}
-              >
-                Restart
-              </button>
-            </div>
-          </div>
-        </div>
       )}
     </div>
 

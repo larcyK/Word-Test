@@ -9,7 +9,14 @@ import { createPersistentSignal } from "./PerisitentSignal";
 
 export const DescriptiveWordTest = () => {
 
-  const [testActive, setTestActive] = createSignal(false);
+  const [testMode, setTestMode] = createSignal(false);
+  const [locationHash, setLocationHash] = createSignal(window.location.hash);
+  const testLocationHash = "#test";
+
+  window.addEventListener("hashchange", () => {
+    setLocationHash(window.location.hash);
+    setTestMode(window.location.hash === testLocationHash);
+  });
 
   const [wordBook, setWordBook] = createSignal(wordBooks[0]);
   const [problemCount, setProblemCount] = createPersistentSignal("wordtest.problemCount", 50);
@@ -18,7 +25,7 @@ export const DescriptiveWordTest = () => {
   const [startIndex, setStartIndex] = createPersistentSignal("wordtest.startIndex", 1);
   const [endIndex, setEndIndex] = createPersistentSignal("wordtest.endIndex", 200);
 
-  const [problems, setProblems] = createSignal<Word[]>([]);
+  const [problems, setProblems] = createPersistentSignal<Word[]>("wordtest.problems", []);
   const [states, setStates] = createStore<AnswerStatus[]>([]);
 
   const [errorText, setErrorText] = createSignal("");
@@ -29,6 +36,10 @@ export const DescriptiveWordTest = () => {
     setProblems(selectedWords);
     setStates(Array(selectedWords.length).fill(AnswerStatus.UNANSWERED));
   };
+
+  const isTestActive = () => {
+    return testMode() && problems().length > 0 && locationHash() === testLocationHash;
+  }
   
   const startTest = () => {
     if (problemCount() <= 0) {
@@ -51,9 +62,19 @@ export const DescriptiveWordTest = () => {
       return;
     }
 
-    setErrorText("")
     generateProblems();
-    setTestActive(true);
+    setErrorText("")
+    enterTest();
+  }
+
+  const enterTest = () => {
+    window.location.hash = testLocationHash;
+    setTestMode(true);
+  }
+
+  const exitTest = () => {
+    history.replaceState(null, "", location.pathname + location.search);
+    setTestMode(false);
   }
 
   class DropdownFieldProps {
@@ -266,7 +287,7 @@ export const DescriptiveWordTest = () => {
         <div class="d-flex align-items-center gap-2 ms-auto">
           <small class="text-muted">範囲 {startIndex()}–{endIndex()}</small>
           <button class={`btn btn-outline-primary btn-sm ${prints.noPrint}`}
-                  onClick={() => setTestActive(false)}>
+                  onClick={exitTest}>
             <i class="bi bi-arrow-90deg-left me-1"></i>戻る
           </button>
         </div>
@@ -287,7 +308,7 @@ export const DescriptiveWordTest = () => {
           <span class="text-muted">{wordBook().title}</span>
           <span class="text-muted">範囲: {startIndex()}〜{endIndex()}</span>
           <button class={`btn btn-outline-primary btn-sm ${prints.noPrint}`}
-                  onClick={() => setTestActive(false)}>
+                  onClick={exitTest}>
             <i class="bi bi-arrow-90deg-left me-1"></i>問題作成画面へ戻る
           </button>
         </div>
@@ -324,8 +345,15 @@ export const DescriptiveWordTest = () => {
     <div class="container-fluid bg-body mx-auto">
       <div class="d-flex justify-content-between align-items-center my-3">
         <h1 class={fonts["font-lubi"]}>記述式テスト</h1>
+
+        {(!isTestActive() && problems().length > 0) &&
+          <button class={`btn btn-outline-primary btn-sm ${prints.noPrint}`}
+                  onClick={enterTest}>
+            <i class="bi bi-arrow-90deg-right me-1"></i>テストを復元
+          </button>
+        }
         
-        {testActive() && <>
+        {isTestActive() && <>
           <div class={prints.noPrint}>
             <button class="btn btn-primary" onClick={() => window.print()}>
               <i class="bi bi-printer me-1"></i> 印刷 / PDFに保存
@@ -341,7 +369,7 @@ export const DescriptiveWordTest = () => {
         </>}
       </div>
 
-      {testActive() ? (
+      {isTestActive() ? (
         <TestPage />
       ) : (
         <TestCreatePage />

@@ -22,6 +22,83 @@ const App: Component = () => {
    */
   const [pageKind, setPageKind] = createSignal(PageKind.WORD_TEST);
 
+  type TabProps = {
+    kind: PageKind;
+    tabName: string;
+  };
+
+  const Tab: Component<TabProps> = (props) => {
+    return (
+      <li class="nav-item">
+        <a
+          class="nav-link active"
+          aria-current="page"
+          onClick={(e) => {
+            e.preventDefault();
+            setPageKind(props.kind);
+            const navbarCollapse = document.querySelector('.navbar-collapse');
+            navbarCollapse.classList.remove('show');
+          }}
+        >
+          {props.tabName}
+        </a>
+      </li>
+    );
+  };
+
+  const DropdownTab = () => {
+    return (
+      <li class="nav-item dropdown">
+        <a
+          class="nav-link dropdown-toggle"
+          href="#"
+          onClick={(e) => e.preventDefault()}
+          id="navbarDropdown2"
+          role="button"
+          data-bs-toggle="dropdown"
+          aria-expanded="false"
+        >
+          Dropdown
+        </a>
+        <ul
+          class="dropdown-menu"
+          aria-labelledby="navbarDropdown2"
+        >
+          <li>
+            <a
+              class="dropdown-item"
+              href="#"
+              onClick={(e) => e.preventDefault()}
+            >
+              Action
+            </a>
+          </li>
+          <li>
+            <a
+              class="dropdown-item"
+              href="#"
+              onClick={(e) => e.preventDefault()}
+            >
+              Another action
+            </a>
+          </li>
+          <li>
+            <hr class="dropdown-divider" />
+          </li>
+          <li>
+            <a
+              class="dropdown-item"
+              href="#"
+              onClick={(e) => e.preventDefault()}
+            >
+              Something else here
+            </a>
+          </li>
+        </ul>
+      </li>
+    );
+  }
+
   return (
   <>
       <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
@@ -33,10 +110,10 @@ const App: Component = () => {
           >
             <img 
               src={logo}
-              style={{ "margin-right": '10px' }}
               width="26"
               height="26"
-              class="d-inline-block align-text-top" 
+              class="d-inline-block align-text-top app-logo-img"
+              alt="Word Test Logo"
             />
             Word Test
           </a>
@@ -56,110 +133,11 @@ const App: Component = () => {
             id="navbarSupportedContent2"
           >
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-              <li class="nav-item">
-                <a
-                  class="nav-link active"
-                  aria-current="page"
-                  onClick={(e) => {
-                    e.preventDefault()
-                    setPageKind(PageKind.HOME);
-                    const navbarCollapse = document.querySelector('.navbar-collapse');
-                    navbarCollapse.classList.remove('show');
-                  }}
-                >
-                  Home
-                </a>
-              </li>
-              <li class="nav-item">
-                <a
-                  class="nav-link active"
-                  aria-current="page"
-                  onClick={(e) => {
-                    e.preventDefault()
-                    setPageKind(PageKind.WORD_TEST)
-                    const navbarCollapse = document.querySelector('.navbar-collapse');
-                    navbarCollapse.classList.remove('show');
-                  }}
-                >
-                  Word Test
-                </a>
-              </li>
-              <li class="nav-item">
-                <a
-                  class="nav-link active"
-                  aria-current="page"
-                  onClick={(e) => {
-                    e.preventDefault()
-                    setPageKind(PageKind.PROFILE)
-                    const navbarCollapse = document.querySelector('.navbar-collapse');
-                    navbarCollapse.classList.remove('show');
-                  }}
-                >
-                  Profile
-                </a>
-              </li>
-              <li class="nav-item">
-                <a
-                  class="nav-link active"
-                  aria-current="page"
-                  onClick={(e) => {
-                    e.preventDefault()
-                    setPageKind(PageKind.TEMPLATE)
-                    const navbarCollapse = document.querySelector('.navbar-collapse');
-                    navbarCollapse.classList.remove('show');
-                  }}
-                >
-                  Template
-                </a>
-              </li>
-              <li class="nav-item dropdown">
-                <a
-                  class="nav-link dropdown-toggle"
-                  href="#"
-                  onClick={(e) => e.preventDefault()}
-                  id="navbarDropdown2"
-                  aria-role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                >
-                  Dropdown
-                </a>
-                <ul
-                  class="dropdown-menu"
-                  aria-labelledby="navbarDropdown2"
-                >
-                  <li>
-                    <a
-                      class="dropdown-item"
-                      href="#"
-                      onClick={(e) => e.preventDefault()}
-                    >
-                      Action
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      class="dropdown-item"
-                      href="#"
-                      onClick={(e) => e.preventDefault()}
-                    >
-                      Another action
-                    </a>
-                  </li>
-                  <li>
-                    <hr class="dropdown-divider" />
-                  </li>
-                  <li>
-                    <a
-                      class="dropdown-item"
-                      href="#"
-                      onClick={(e) => e.preventDefault()}
-                    >
-                      Something else here
-                    </a>
-                  </li>
-                </ul>
-              </li>
+              <Tab kind={PageKind.HOME} tabName="Home" />              
+              <Tab kind={PageKind.WORD_TEST} tabName="Word Test" />
+              {/* <Tab kind={PageKind.PROFILE} tabName="Profile" />
+              <Tab kind={PageKind.TEMPLATE} tabName="Template" />
+              <DropdownTab />
               <li class="nav-item">
                 <a
                   class="nav-link disabled"
@@ -170,7 +148,7 @@ const App: Component = () => {
                 >
                   Disabled
                 </a>
-              </li>
+              </li> */}
             </ul>
             <form class="d-flex">
               <input
@@ -199,12 +177,12 @@ const App: Component = () => {
         <Match when={pageKind() === PageKind.WORD_TEST}>
           <WordTestTitle />
         </Match>
-        <Match when={pageKind() === PageKind.PROFILE}>
+        {/* <Match when={pageKind() === PageKind.PROFILE}>
           <div>Profile</div>
         </Match>
         <Match when={pageKind() === PageKind.TEMPLATE}>
           <AppTemplate />
-        </Match>
+        </Match> */}
       </Switch>
     </>
   );

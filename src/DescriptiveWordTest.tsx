@@ -300,7 +300,9 @@ export const DescriptiveWordTest = () => {
 
   const TestCreatePage = () => {
     return (
-      <div class="vstack gap-100 w-50">
+      <div class="row">
+      <div class="col-12 col-sm-9 col-lg-6">
+      <div class="vstack gap-3">
         {/* 教材を選択 */}
         <div>
             {/* <WordBookDropdown /> */}
@@ -388,6 +390,8 @@ export const DescriptiveWordTest = () => {
         <div class="text-danger mt-3 px-2 fw-bold">
           {errorText()}
         </div>
+      </div>
+      </div>
       </div>
     );
   };

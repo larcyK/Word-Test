@@ -266,7 +266,7 @@ export const DescriptiveWordTest = () => {
           <small class="text-muted">範囲 {startIndex()}–{endIndex()}</small>
           <button class={`btn btn-outline-primary btn-sm ${prints.noPrint}`}
                   onClick={() => setTestActive(false)}>
-            戻る
+            <i class="bi bi-arrow-90deg-left me-1"></i>戻る
           </button>
         </div>
       </div>
@@ -287,7 +287,7 @@ export const DescriptiveWordTest = () => {
           <span class="text-muted">範囲: {startIndex()}〜{endIndex()}</span>
           <button class={`btn btn-outline-primary btn-sm ${prints.noPrint}`}
                   onClick={() => setTestActive(false)}>
-            問題作成画面へ戻る
+            <i class="bi bi-arrow-90deg-left me-1"></i>問題作成画面へ戻る
           </button>
         </div>
       </div>

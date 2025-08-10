@@ -106,7 +106,7 @@ const AnswerBox: Component<AnswerBoxProps> = (props) => {
       }}
 
       // タッチはタップでトグル（hoverは無視）
-      onPointerDown={(e) => {
+      onPointerUp={(e) => {
         lastPointer = e.pointerType;
         if (e.pointerType !== "mouse") {
           e.preventDefault();

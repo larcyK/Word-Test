@@ -1,45 +1,13 @@
 import { For, createSignal } from "solid-js";
-import target1200 from "../public/json/target1200.json";
-import target1900 from "../public/json/target1900.json";
 import { start } from "@popperjs/core";
-
-interface Word {
-  id: number;
-  eng: string;
-  jpn: string;
-}
-
-interface WordBook {
-  words: Word[];
-  title: string;
-}
+import { Word, wordBooks } from "./WordBooks";
+import fonts from "./Font.module.scss";
 
 interface Problem {
   word: Word;
   answer: string;
   choices: string[];
 }
-
-function jsonToWords(json: any): Word[] {
-  return json.map((word: any) => {
-    return {
-      id: word.id,
-      eng: word.english,
-      jpn: word.japanese,
-    };
-  });
-}
-
-const wordBooks: WordBook[] = [
-  {
-    title: "ターゲット1200",
-    words: jsonToWords(target1200),
-  },
-  {
-    title: "ターゲット1900",
-    words: jsonToWords(target1900),
-  },
-];
 
 export const SelectiveWordTest = () => {
 
@@ -119,7 +87,7 @@ export const SelectiveWordTest = () => {
 
   return (
     <div class="container-fluid bg-body mx-auto">
-      <h1 class="my-3">Word Test</h1>
+      <h1 class={`${fonts["font-lubi"]} my-3`}>選択式テスト</h1>
 
       <div class="dropdown my-3">
         <button
@@ -136,7 +104,7 @@ export const SelectiveWordTest = () => {
           aria-labelledby="dropdownMenuButtonLG"
         >
           <li>
-            <h6 class="dropdown-header">Selct Wordbook</h6>
+            <h6 class="dropdown-header" style={{ "font-family": "inherit" }}>単語帳を選択</h6>
           </li>
           <For each={wordBooks}>
             {(wordBook) => (

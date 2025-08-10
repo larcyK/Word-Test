@@ -33,7 +33,7 @@ const App: Component = () => {
     return (
       <li class="nav-item">
         <a
-          class={`nav-link rounded-pill px-3 py-1${pageKind() === props.kind ? ' active bg-primary text-white shadow' : ''}`}
+          class={`nav-link rounded-pill px-3 py-1 ${pageKind() === props.kind ? 'active bg-primary text-white shadow-sm bg-gradient' : ''}`}
           aria-current="page"
           style={{ cursor: 'pointer' }}
           onClick={(e) => {

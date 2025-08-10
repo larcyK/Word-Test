@@ -2,44 +2,14 @@ import { For, createSignal } from "solid-js";
 import target1200 from "../public/json/target1200.json";
 import target1900 from "../public/json/target1900.json";
 import { start } from "@popperjs/core";
-
-interface Word {
-  id: number;
-  eng: string;
-  jpn: string;
-}
-
-interface WordBook {
-  words: Word[];
-  title: string;
-}
+import { Word, wordBooks } from "./WordBooks";
+import fonts from "./Font.module.scss";
 
 interface Problem {
   word: Word;
   answer: string;
   choices: string[];
 }
-
-function jsonToWords(json: any): Word[] {
-  return json.map((word: any) => {
-    return {
-      id: word.id,
-      eng: word.english,
-      jpn: word.japanese,
-    };
-  });
-}
-
-const wordBooks: WordBook[] = [
-  {
-    title: "ターゲット1200",
-    words: jsonToWords(target1200),
-  },
-  {
-    title: "ターゲット1900",
-    words: jsonToWords(target1900),
-  },
-];
 
 export const DescriptiveWordTest = () => {
 
@@ -117,95 +87,231 @@ export const DescriptiveWordTest = () => {
     setTestActive(true);
   }
 
-  return (
-    <div class="container-fluid bg-body mx-auto">
-      <h1 class="my-3">Word Test</h1>
+  class DropdownFieldProps {
+    title: string;
+    description: string;
+    options: string[];
+    selected: string;
+    onSelect: (value: string) => void;
+  }
 
-      <div class="dropdown my-3">
-        <button
-          class="btn btn-secondary btn-lg dropdown-toggle"
-          type="button"
-          id="dropdownMenuButtonLG"
-          data-bs-toggle="dropdown"
-          aria-expanded="false"
-        >
-          {wordBook().title}
-        </button>
-        <ul
-          class="dropdown-menu"
-          aria-labelledby="dropdownMenuButtonLG"
-        >
-          <li>
-            <h6 class="dropdown-header">Selct Wordbook</h6>
-          </li>
-          <For each={wordBooks}>
-            {(wordBook) => (
-              <li>
-                <a
-                  class="dropdown-item"
-                  href=""
+  const DropdownField = (props: DropdownFieldProps) => {
+    return (
+      <div class="input-group">
+        <span class="input-group-text">{props.title}</span>
+        <div class="dropdown flex-grow-1">
+          <button
+            // class="btn btn-secondary btn-lg dropdown-toggle w-100 text-center rounded-start-0"
+            class="btn border btn-lg dropdown-toggle w-100 text-center rounded-start-0"
+            type="button"
+            id="dropdownMenuButtonLG"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+            onMouseEnter={e => e.currentTarget.classList.add('bg-secondary', 'bg-opacity-10')}
+            onMouseLeave={e => e.currentTarget.classList.remove('bg-secondary', 'bg-opacity-10')}
+          >
+            {props.selected || props.title}
+          </button>
+          <ul
+            class="dropdown-menu w-100"
+            aria-labelledby="dropdownMenuButtonLG"
+          >
+            <li>
+              <h6 class="dropdown-header">{props.description}</h6>
+            </li>
+            <For each={props.options}>
+              {(option) => (
+                <li>
+                  <a
+                    class="dropdown-item"
+                    href=""
+                    onClick={(e) => {
+                      e.preventDefault();
+                      props.onSelect(option);
+                    }}
+                  >
+                    {option}
+                  </a>
+                </li>
+              )}
+            </For>
+          </ul>
+        </div>
+      </div>
+    );
+  };
+
+  const WordBookDropdown_ = () => {
+    return (
+      <div class="input-group">
+        <span class="input-group-text">単語帳</span>
+        <div class="dropdown flex-grow-1">
+          <select class="form-select form-select-lg py-2 text-center rounded-start-0 ">
+              <For each={wordBooks}>
+              {(wordBook) => (
+                <option
+                  value={wordBook.title}
                   onClick={(e) => {
                     e.preventDefault();
                     setWordBook(wordBook);
                   }}
                 >
                   {wordBook.title}
-                </a>
-              </li>
-            )}
-          </For>
-        </ul>
+                </option>
+              )}
+            </For>
+          </select>
+        </div>
       </div>
+    );
+  };
 
-      {/* problem range input form (min~max) */}
-      <div class="input-group my-3">
-        <span class="input-group-text">問題数</span>
-        <div class="col-xs-4">
+  class InputFieldProps {
+    type: string;
+    label: string;
+    value: number;
+    onChange: (e: Event & {
+      currentTarget: HTMLInputElement;
+      target: HTMLInputElement;
+    }) => void;
+  }
+
+  const InputField = (props: InputFieldProps) => {
+    return (
+      <div class="input-group">
+        <span class="input-group-text">{props.label}</span>
+        {/* <div class="col-xs-4"> */}
           <input
-            type="number"
+            type={props.type}
             class="form-control"
-            aria-label="問題数"
+            aria-label={props.label}
             value={problemCount()}
             style={{
               "border-top-left-radius": "0rem",
               "border-bottom-left-radius": "0rem",
             }}
             onChange={(e) => {
-              setProblemCount(parseInt(e.currentTarget.value));
+              props.onChange(e);
             }}
           />
-        </div>
+        {/* </div> */}
       </div>
+    );
+  };
 
-      <div class="input-group my-3">
-        <span class="input-group-text">選択肢</span>
-        <div class="col-xs-4">
-          <input
-            type="number"
-            class="form-control"
-            aria-label="選択肢数"
-            value={choiceCount()}
-            style={{
-              "border-top-left-radius": "0rem",
-              "border-bottom-left-radius": "0rem",
-            }}
-            onChange={(e) => {
-              setChoiceCount(parseInt(e.currentTarget.value));
-            }}
-          />
-        </div>
-      </div>
-
-      {/* start button */}
-      <button
-        class="btn btn-primary btn-lg mb-3"
-        onClick={(e) => {
-          e.preventDefault();
-          startTest();
+  const ProblemCountInput = () => {
+    return (
+      <InputField
+        type="number"
+        label="問題数"
+        value={problemCount()}
+        onChange={(e) => {
+          setChoiceCount(parseInt(e.currentTarget.value));
         }}
-      >
-        Start
-      </button>
+      />
+    );
+  };
+
+  const ChoiceCountInput = () => {
+    return (
+      <InputField
+        type="number"
+        label="選択肢数"
+        value={choiceCount()}
+        onChange={(e) => {
+          setChoiceCount(parseInt(e.currentTarget.value));
+        }}
+      />
+    );
+  };
+
+  return (
+    <div class="container-fluid bg-body mx-auto">
+      <h1 class={`${fonts["font-lubi"]} my-3`}>記述式テスト</h1>
+
+      <div class="row g-3 my-3">
+        {/* <div class="col-auto"> */}
+          <WordBookDropdown_ />
+        {/* </div> */}
+        <div class="col-auto">
+          <ProblemCountInput />
+        </div>
+        <div class="col-auto">
+          <ChoiceCountInput />
+        </div>
+      </div>
+
+      <div class="vstack gap-100 w-50">
+
+        {/* 教材を選択 */}
+        <div>
+            {/* <WordBookDropdown /> */}
+          <DropdownField
+            title="単語帳"
+            description="Select Wordbook"
+            options={wordBooks.map(wb => wb.title)}
+            selected={wordBook().title}
+            onSelect={(value) => {
+              const selectedBook = wordBooks.find(wb => wb.title === value);
+              if (selectedBook) {
+                setWordBook(selectedBook);
+              }
+            }}
+          />
+        </div>
+        
+        {/* 開始番号と終了番号 */}
+        <div class="row g-3 my-1">
+          <div class="col-md-6">
+            <InputField
+              type="number"
+              label="開始番号"
+              value={221}
+              onChange={(e) => {
+                // Handle change if needed
+              }}
+            />
+          </div>
+          <div class="col-md-6">
+            <InputField
+              type="number"
+              label="終了番号"
+              value={370}
+              onChange={(e) => {
+                // Handle change if needed
+              }}
+            />
+          </div>
+        </div>
+
+        {/* 問題数 */}
+        <div class="row g-3 my-1">
+          <ProblemCountInput />
+        </div>
+
+        {/* 出題形式 */}
+        {/* <div>
+          <label class="form-label fw-semibold">出題形式</label>
+          <select class="form-select form-select-lg rounded-4 py-3 text-center">
+            <option selected>英語から日本語</option>
+            <option>日本語から英語</option>
+          </select>
+        </div> */}
+
+        {/* 開始ボタン */}
+        <div class="row g-3 my-1">
+          <button
+            class="btn btn-primary btn-lg mb-3 flex-grow-1"
+            onClick={(e) => {
+              e.preventDefault();
+              startTest();
+            }}
+          >
+            Start
+          </button>
+        </div>
+
+      </div>
 
       {/* problem card */}
       {testActive() && (

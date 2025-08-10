@@ -446,7 +446,7 @@
   },
   {
     "index": 90,
-    "english": true,
+    "english": "true",
     "japanese": "【形】真実の）"
   },
   {
@@ -2291,7 +2291,7 @@
   },
   {
     "index": 459,
-    "english": false,
+    "english": "false",
     "japanese": "【形】間違った（⇔true →90，correct →341）；本物でない，偽の"
   },
   {

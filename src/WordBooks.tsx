@@ -15,7 +15,7 @@ export interface WordBook {
 function jsonToWords(json: any): Word[] {
   return json.map((word: any) => {
     return {
-      id: word.id,
+      id: word.index,
       eng: word.english,
       jpn: word.japanese,
     };

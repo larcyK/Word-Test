@@ -2,25 +2,162 @@ import { For, createSignal } from "solid-js";
 import target1200 from "../public/json/target1200.json";
 import target1900 from "../public/json/target1900.json";
 import { Word, wordBooks } from "./WordBooks";
+import { Component } from "solid-js";
+import { Row, Col, Button, Form } from "solid-bootstrap";
 import fonts from "./Font.module.scss";
 
-interface Problem {
-  word: Word;
-  answer: string;
-  choices: string[];
+enum State {
+  CORRECT = "correct",
+  INCORRECT = "incorrect",
+  PENDING = "pending",
+  UNANSWERED = "unanswered",
 }
+
+interface WordCardProps {
+  number: number;
+  // word: Word;
+  problem: string;
+  answer: string;
+  state: State
+}
+
+export const WordCard: Component<WordCardProps> = (props) => {
+  return (
+    // モバイル: wrap許可, md以上: nowrap
+    // <div class="d-flex flex-wrap flex-md-nowrap align-items-stretch w-100 my-2">
+    //   {/* 番号 */}
+    //   <div
+    //     class="d-flex align-items-center justify-content-center
+    //           text-white fw-bold bg-primary
+    //           border border-primary border-end-0
+    //           rounded-3 rounded-end-0
+    //           h-100"
+    //     style={{ width: "48px", "min-height": "48px", "font-size": "1rem", flex: "0 0 auto" }}
+    //   >
+    //     {props.number}
+    //   </div>
+
+    //   {/* 単語 */}
+    //   <div
+    //     class="d-flex align-items-center px-2
+    //           border border-primary
+    //           h-100"
+    //     style={{
+    //       width: "140px",
+    //       "min-height": "48px",
+    //       "font-size": "1.25rem",
+    //       flex: "0 0 auto",
+    //       "white-space": "normal",
+    //       "word-break": "break-word"
+    //     }}
+    //     title={ props.problem }
+    //   >
+    //     {props.problem}
+    //   </div>
+
+    //   {/* 入力欄（縮む余地ありの可変幅） */}
+    //   <div
+    //     class="d-flex align-items-center px-2
+    //           border border-primary
+    //           rounded-3 rounded-start-0
+    //           h-100"
+    //     style={{
+    //       width: "140px",
+    //       "min-height": "48px",
+    //       "font-size": "1.25rem",
+    //       flex: "0 0 auto",
+    //       "white-space": "normal",
+    //       "word-break": "break-word"
+    //     }}
+    //     title= {props.answer}
+    //   >
+    //     {props.answer}
+    //   </div>
+
+    //   {/* O / X / ?（固定幅、折り返さない） */}
+    //   <div class="btn-group ms-md-2 mt-2 mt-md-0" role="group" style={{ flex: "0 0 auto" }}>
+    //     <Button variant="success" class="fw-bold" style={{ width: "36px" }}>O</Button>
+    //     <Button variant="danger"  class="fw-bold" style={{ width: "36px" }}>X</Button>
+    //     <Button variant="secondary" class="fw-bold" style={{ width: "36px" }}>?</Button>
+    //   </div>
+    // </div>
+
+    <div class="d-flex align-items-stretch w-100 gap-2">
+      {/* 左：番号+単語+答え */}
+      <div class="input-group rounded-3 overflow-hidden flex-grow-1">
+        {/* 番号（左端） */}
+        <span
+          class="input-group-text bg-primary border border-primary text-white fw-bold justify-content-center"
+          style={{
+            "min-width": "48px",
+            "font-size": "1.25rem",
+            "box-sizing": "border-box",
+          }}
+        >
+          {props.number}
+        </span>
+
+        {/* 単語 */}
+        <div
+          class="d-flex align-items-center justify-content-center
+                border border-primary
+                h-100"
+          style={{
+            flex: "1 1 0",
+            "min-width": "140px",
+            "min-height": "48px",
+            "font-size": "1.25rem",
+            "white-space": "normal",
+            "word-break": "break-word",
+            "box-sizing": "border-box"
+          }}
+          title={props.problem}
+        >
+          {props.problem}
+        </div>
+
+        {/* 入力欄 */}
+        <div
+          class="d-flex align-items-center justify-content-center
+                border border-primary
+                rounded-3 rounded-start-0
+                h-100"
+          style={{
+            flex: "1 1 0",
+            "min-width": "140px",
+            "min-height": "48px",
+            "font-size": "1rem",
+            "white-space": "normal",
+            "word-break": "break-word"
+          }}
+          title={props.answer}
+        >
+          {props.answer}
+        </div>
+
+      </div>
+
+      {/* 右：O/X/? */}
+      <div class="btn-group" role="group">
+        <button class="btn btn-success fw-bold" style="font-size:1.25rem;">O</button>
+        <button class="btn btn-danger  fw-bold" style="font-size:1.25rem;">X</button>
+        <button class="btn btn-secondary fw-bold" style="font-size:1.25rem;">?</button>
+      </div>
+    </div>
+
+  );
+};
 
 export const DescriptiveWordTest = () => {
 
   const [testActive, setTestActive] = createSignal(false);
   const [resultActive, setResultActive] = createSignal(false);
 
-  const [problems, setProblems] = createSignal([] as Problem[]);
+  // const [problems, setProblems] = createSignal([] as Problem[]);
   const [problemIndex, setProblemIndex] = createSignal(0);
 
   const [score, setScore] = createSignal(0);
   const [problemCount, setProblemCount] = createSignal(10);
-  const [choiceCount, setChoiceCount] = createSignal(4);
   const [wordBook, setWordBook] = createSignal(wordBooks[0]);
 
   const [startIndex, setStartIndex] = createSignal(1);
@@ -32,26 +169,26 @@ export const DescriptiveWordTest = () => {
   const [remainingTime, setRemainingTime] = createSignal(maxTime);
 
   // wordBookの単語からランダムに4択問題を生成
-  const generateProblems = () => {
-    const words = wordBook().words;
-    const problems: Problem[] = [];
-    for (let i = 0; i < problemCount(); i++) {
-      const word = words[Math.floor(Math.random() * words.length)];
-      const choices = [word.jpn];
-      while (choices.length < choiceCount()) {
-        const choice = words[Math.floor(Math.random() * words.length)].jpn;
-        if (choices.indexOf(choice) === -1) {
-          choices.push(choice);
-        }
-      }
-      problems.push({
-        word: word,
-        answer: word.jpn,
-        choices: choices.sort(() => Math.random() - 0.5),
-      });
-    }
-    return problems;
-  };
+  // const generateProblems = () => {
+  //   const words = wordBook().words;
+  //   const problems: Problem[] = [];
+  //   for (let i = 0; i < problemCount(); i++) {
+  //     const word = words[Math.floor(Math.random() * words.length)];
+  //     const choices = [word.jpn];
+  //     while (choices.length < choiceCount()) {
+  //       const choice = words[Math.floor(Math.random() * words.length)].jpn;
+  //       if (choices.indexOf(choice) === -1) {
+  //         choices.push(choice);
+  //       }
+  //     }
+  //     problems.push({
+  //       word: word,
+  //       answer: word.jpn,
+  //       choices: choices.sort(() => Math.random() - 0.5),
+  //     });
+  //   }
+  //   return problems;
+  // };
 
   const nextProblem = () => {
     if (problemIndex() + 1 < problemCount()) {
@@ -99,7 +236,7 @@ export const DescriptiveWordTest = () => {
 
     setErrorText("");
 
-    setProblems(generateProblems());
+    // setProblems(generateProblems());
     setProblemIndex(0);
     setScore(0);
     setResultActive(false);
@@ -275,7 +412,7 @@ export const DescriptiveWordTest = () => {
         <div class="row g-3 my-1">
           <div class="col-12">
             <button
-              class="btn btn-primary btn-lg w-100"  // ← flex-grow-1は外す
+              class="btn btn-primary btn-lg w-100"
               onClick={(e) => {
                 e.preventDefault();
                 startTest();
@@ -294,74 +431,28 @@ export const DescriptiveWordTest = () => {
     );
   };
 
+  const items = target1200.slice(101, 110).map((word, index) => ({
+    number: index + 1,
+    problem: word.english,
+    answer: word.japanese,
+  }));
+
   const TestPage = () => {
     return (
-        <div class="card my-3">
-          <div class="card-body">
-            <div>
-              <h5 class="card-title">
-                {wordBook().title}
-              </h5>
-              <p class="card-text">{problemIndex() + 1}. {problems()[problemIndex()].word.eng}</p>
-              <div class="list-group">
-                <For each={problems()[problemIndex()].choices}>
-                  {(choice) => (
-                    <button
-                      class="list-group-item list-group-item-action"
-                      onClick={(e) => {
-                        e.preventDefault();
-                        if (choice === problems()[problemIndex()].answer) {
-                          setScore(score() + 1);
-                        }
-                        nextProblem();
-                      }}
-                    >
-                      {choice}
-                    </button>
-                  )}
-                </For>
-              </div>
-
-              <div class="bd-example my-4">
-                <div class="progress">
-                  <div
-                    class={`progress-bar progress-bar-striped progress-bar-animated ${remainingTime() < 3 ? "bg-danger" : "bg-success"
-                      }`}
-                    aria-role="progressbar"
-                    style={`width: ${remainingTimePercentage()}%`}
-                  ></div>
-                </div>
-              </div>
-
-              <div class="d-flex mt-3">
-                <button
-                  class="btn btn-secondary mx-1"
-                  onClick={(e) => {
-                    e.preventDefault();
-                    nextProblem();
-                  }}
-                >
-                  Skip
-                </button>
-
-                <button
-                  class="btn btn-danger mx-1"
-                  onClick={(e) => {
-                    e.preventDefault();
-                    setTestActive(false);
-                    setResultActive(true);
-                  }}
-                >
-                  End
-                </button>
-              </div>
-
-              <div class="d-flex mt-3 mx-1">
-                Score: {score()} / {problemCount()}
-              </div>
-            </div>
-          </div>
-        </div>
+      <Row class="g-3">
+        <For each={wordBook().words.slice(startIndex() - 1, endIndex())}>
+          {(word) => (
+            <Col xs={12} lg={6}>
+              <WordCard
+                number={word.id}
+                problem={word.eng}
+                answer={word.jpn}
+                state={State.UNANSWERED}
+              />
+            </Col>
+          )}
+        </For>
+      </Row>
     );
   };
 

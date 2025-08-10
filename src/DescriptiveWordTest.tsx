@@ -1,161 +1,10 @@
 import { For, createMemo, createSignal } from "solid-js";
 import { Word, wordBooks } from "./WordBooks";
-import { Component } from "solid-js";
 import { Row, Col, Button, Form } from "solid-bootstrap";
 import fonts from "./Font.module.scss";
 import target1200 from "../public/json/target1200.json";
-import styles from "./DescriptiveWordTest.module.scss";
 import { createStore } from "solid-js/store";
-
-enum State {
-  CORRECT = "correct",
-  INCORRECT = "incorrect",
-  PENDING = "pending",
-  UNANSWERED = "unanswered",
-}
-
-interface WordCardProps {
-  number: number;
-  problem: string;
-  answer: string;
-  state: State;
-  setState: (state: State) => void;
-}
-
-const buttons = [
-  { label: "O", active: State.CORRECT,   accent: "var(--bs-success)",   color: "success" },
-  { label: "X", active: State.INCORRECT, accent: "var(--bs-danger)",    color: "danger" },
-  { label: "?", active: State.PENDING,   accent: "var(--bs-secondary)", color: "secondary" }
-];
-
-const WordCard: Component<WordCardProps> = (props) => {
-  const [visible, setVisible] = createSignal(false);
-
-  return (
-    <div class="d-flex align-items-stretch w-100 gap-1">
-      {/* 左：番号+単語+答え */}
-      <div class="input-group rounded-3 overflow-hidden flex-grow-1">
-        {/* 番号（左端） */}
-        <span
-          class="input-group-text bg-primary border border-primary text-white fw-bold justify-content-center p-0"
-          style={{
-            width: "42px",
-            "font-size": "1rem",
-            "box-sizing": "border-box",
-          }}
-        >
-          {props.number}
-        </span>
-
-        {/* 単語 */}
-        <div
-          class="d-flex align-items-center justify-content-center
-                border border-primary
-                h-100"
-          style={{
-            flex: "1 1 0",
-            "min-width": "80px",
-            "min-height": "48px",
-            "font-size": "1.25rem",
-            "white-space": "normal",
-            "word-break": "break-word",
-            "box-sizing": "border-box"
-          }}
-          title={props.problem}
-        >
-          {props.problem}
-        </div>
-
-        {/* 入力欄 */}
-        <div
-          class="d-flex align-items-center justify-content-center
-                border border-primary
-                rounded-3 rounded-start-0
-                h-100"
-          style={{
-            flex: "1 1 0",
-            "min-width": "80px",
-            "min-height": "48px",
-            "font-size": "1rem",
-            "white-space": "normal",
-            "word-break": "break-word",
-            color: visible() ? "var(--bs-danger)" : "transparent",
-            transition: "color 0.2s ease"
-          }}
-          title={props.answer}
-          onClick={() => setVisible(!visible())}
-          onMouseEnter={() => setVisible(true)} 
-          onMouseLeave={() => setVisible(false)}
-        >
-          {props.answer}
-        </div>
-
-      </div>
-
-      {/* 右：O/X/? */}
-      {/* <div class="btn-group gap-1" style={{ height: "48px" }} role="group">
-        <For each={buttons}>
-          {(btn, i) => (
-            <button
-              class={`
-                btn btn-sm fw-bold py-0
-                ${i() === 0 ? "rounded-3 rounded-end-0" : ""}
-                ${i() === buttons.length - 1 ? "rounded-3 rounded-start-0" : ""}
-                ${props.state === btn.active
-                  ? `btn-${btn.color}`
-                  : `btn-outline-${btn.color}`}
-              `}
-              style="font-size:1rem;"
-              onClick={(e) => {
-                e.preventDefault();
-                props.setState(
-                  props.state === State.UNANSWERED ? btn.active : State.UNANSWERED
-                );
-              }}
-            >
-              {btn.label}
-            </button>
-          )}
-        </For>
-      </div> */}
-      <div class={styles.choicePill}>
-        <For each={buttons}>
-          {(btn) => (
-            <button
-              class={`${styles.choiceDot} ${
-                props.state === btn.active ? styles.isActive : ""
-              }`}
-              style={{
-                "--accent": btn.accent,
-              }}
-              onClick={(e) => {
-                e.preventDefault();
-                props.setState(
-                  props.state === btn.active ? State.UNANSWERED : btn.active
-                );
-              }}
-            >
-              {btn.label}
-            </button>
-          )}
-        </For>
-      </div>
-      {/* <button
-        class={`
-          ${styles.choiceSingle}
-          ${props.state === State.CORRECT   ? styles.correct   : ""}
-          ${props.state === State.INCORRECT ? styles.incorrect : ""}
-          ${props.state === State.PENDING   ? styles.pending   : ""}
-        `}
-        onClick={(e) => { e.preventDefault(); cycle(); }}
-      >
-        {props.state === State.CORRECT ? "O" :
-        props.state === State.INCORRECT ? "X" :
-        props.state === State.PENDING ? "?" : "・"}
-      </button> */}
-    </div>
-  );
-};
+import { AnswerStatus, WordCard } from "./DescriptiveWordCard";
 
 export const DescriptiveWordTest = () => {
 
@@ -169,7 +18,7 @@ export const DescriptiveWordTest = () => {
   const [endIndex, setEndIndex] = createSignal(1010);
 
   const [problems, setProblems] = createSignal<Word[]>([]);
-  const [states, setStates] = createStore<State[]>([]);
+  const [states, setStates] = createStore<AnswerStatus[]>([]);
 
   const [errorText, setErrorText] = createSignal("");
 
@@ -177,7 +26,7 @@ export const DescriptiveWordTest = () => {
     const words = wordBook().words.slice(startIndex() - 1, endIndex());
     const selectedWords = words.sort(() => Math.random() - 0.5).slice(0, problemCount());
     setProblems(selectedWords);
-    setStates(Array(selectedWords.length).fill(State.UNANSWERED));
+    setStates(Array(selectedWords.length).fill(AnswerStatus.UNANSWERED));
   };
   
   const startTest = () => {
@@ -403,10 +252,10 @@ export const DescriptiveWordTest = () => {
   }));
 
   function TestHeader() {
-  const countCorrect   = createMemo(() => states.filter(s => s === State.CORRECT).length);
-  const countIncorrect = createMemo(() => states.filter(s => s === State.INCORRECT).length);
-  const countPending   = createMemo(() => states.filter(s => s === State.PENDING).length);
-  const countUnans     = createMemo(() => states.filter(s => s === State.UNANSWERED).length);
+  const countCorrect   = createMemo(() => states.filter(s => s === AnswerStatus.CORRECT).length);
+  const countIncorrect = createMemo(() => states.filter(s => s === AnswerStatus.INCORRECT).length);
+  const countPending   = createMemo(() => states.filter(s => s === AnswerStatus.PENDING).length);
+  const countUnans     = createMemo(() => states.filter(s => s === AnswerStatus.UNANSWERED).length);
 
   return (
     <div class="my-3 py-2">
@@ -464,8 +313,8 @@ export const DescriptiveWordTest = () => {
                 number={problem.id}
                 problem={problem.eng}
                 answer={problem.jpn}
-                state={states[index()]}
-                setState={(state) => {
+                status={states[index()]}
+                setStatus={(state) => {
                   setStates(index(), state);
                 }}
               />

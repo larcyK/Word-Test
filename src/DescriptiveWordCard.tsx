@@ -25,6 +25,7 @@ const buttons = [
 
 export const WordCard: Component<WordCardProps> = (props) => {
   const [visible, setVisible] = createSignal(false);
+  let lastPointer: string | null = null;
 
   return (
     <div class="d-flex align-items-stretch w-100 gap-1">
@@ -46,7 +47,7 @@ export const WordCard: Component<WordCardProps> = (props) => {
         <div
           class="d-flex align-items-center justify-content-center
                 border border-primary
-                h-100"
+                h-100 py-1"
           style={{
             flex: "1 1 0",
             "min-width": "80px",
@@ -66,7 +67,7 @@ export const WordCard: Component<WordCardProps> = (props) => {
           class="d-flex align-items-center justify-content-center
                 border border-primary
                 rounded-3 rounded-start-0
-                h-100"
+                h-100 py-1"
           style={{
             flex: "1 1 0",
             "min-width": "80px",
@@ -75,14 +76,31 @@ export const WordCard: Component<WordCardProps> = (props) => {
             "white-space": "normal",
             "word-break": "break-word",
             color: visible() ? "var(--bs-danger)" : "transparent",
-            transition: "color 0.2s ease"
-          }}
-          title={props.answer}
-          onClick={() => setVisible(!visible())}
-          onMouseEnter={() => setVisible(true)} 
-          onMouseLeave={() => setVisible(false)}
+            transition: "color 0.2s ease",
+            "user-select": "none",
+            "touch-action": "pan-y" // 縦スクロールはOK、横操作で誤発火しにくく
+        }}
+        title={props.answer}
+
+        // マウスだけ hover 表示
+        onPointerEnter={(e) => {
+            lastPointer = e.pointerType;
+            if (e.pointerType === "mouse") setVisible(true);
+        }}
+        onPointerLeave={(e) => {
+            if (e.pointerType === "mouse") setVisible(false);
+        }}
+
+        // タッチはタップでトグル（hoverは無視）
+        onPointerDown={(e) => {
+            lastPointer = e.pointerType;
+            if (e.pointerType !== "mouse") {
+            e.preventDefault();          // iOSの疑似hover抑制
+            setVisible(v => !v);
+            }
+        }}
         >
-          {props.answer}
+            {props.answer}
         </div>
 
       </div>

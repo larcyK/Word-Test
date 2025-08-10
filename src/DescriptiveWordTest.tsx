@@ -262,9 +262,9 @@ export const DescriptiveWordTest = () => {
       {/* モバイル: コンパクト1行 */}
       <div class="d-flex align-items-center justify-content-between d-sm-none">
         <div class="d-flex align-items-center gap-2 flex-wrap">
-          <span class="badge rounded-pill text-bg-success">正 {countCorrect()}</span>
-          <span class="badge rounded-pill text-bg-danger">不 {countIncorrect()}</span>
-          <span class="badge rounded-pill text-bg-secondary">保 {countPending()}</span>
+          <span class="badge rounded-pill text-bg-success">O {countCorrect()}</span>
+          <span class="badge rounded-pill text-bg-danger">X {countIncorrect()}</span>
+          <span class="badge rounded-pill text-bg-secondary">? {countPending()}</span>
           <span class="badge rounded-pill text-bg-light text-muted">未 {countUnans()}</span>
         </div>
 
@@ -329,13 +329,10 @@ export const DescriptiveWordTest = () => {
     <div class="container-fluid bg-body mx-auto">
       <h1 class={`${fonts["font-lubi"]} my-3`}>記述式テスト</h1>
 
-      {!testActive() && (
-        <TestCreatePage />
-      )}
-
-      {/* problem card */}
-      {testActive() && (
+      {testActive() ? (
         <TestPage />
+      ) : (
+        <TestCreatePage />
       )}
     </div>
 

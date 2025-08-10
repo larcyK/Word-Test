@@ -1,7 +1,6 @@
 import { For, createSignal } from "solid-js";
 import target1200 from "../public/json/target1200.json";
 import target1900 from "../public/json/target1900.json";
-import { start } from "@popperjs/core";
 import { Word, wordBooks } from "./WordBooks";
 import fonts from "./Font.module.scss";
 
@@ -23,6 +22,11 @@ export const DescriptiveWordTest = () => {
   const [problemCount, setProblemCount] = createSignal(10);
   const [choiceCount, setChoiceCount] = createSignal(4);
   const [wordBook, setWordBook] = createSignal(wordBooks[0]);
+
+  const [startIndex, setStartIndex] = createSignal(1);
+  const [endIndex, setEndIndex] = createSignal(1000);
+
+  const [errorText, setErrorText] = createSignal("");
 
   const maxTime = 10;
   const [remainingTime, setRemainingTime] = createSignal(maxTime);
@@ -78,6 +82,23 @@ export const DescriptiveWordTest = () => {
   }
 
   const startTest = () => {
+    if (problemCount() <= 0) {
+      setErrorText("問題数は1以上に設定してください");
+      return;
+    }
+
+    if (startIndex() < 1 || endIndex() > wordBook().words.length || startIndex() > endIndex()) {
+      setErrorText("開始番号と終了番号を正しく設定してください");
+      return;
+    }
+
+    if (problemCount() > (endIndex() - startIndex() + 1)) {
+      setErrorText("問題数は開始番号と終了番号の範囲内で設定してください");
+      return;
+    }
+
+    setErrorText("");
+
     setProblems(generateProblems());
     setProblemIndex(0);
     setScore(0);
@@ -141,35 +162,12 @@ export const DescriptiveWordTest = () => {
     );
   };
 
-  const WordBookDropdown_ = () => {
-    return (
-      <div class="input-group">
-        <span class="input-group-text">単語帳</span>
-        <div class="dropdown flex-grow-1">
-          <select class="form-select form-select-lg py-2 text-center rounded-start-0 ">
-              <For each={wordBooks}>
-              {(wordBook) => (
-                <option
-                  value={wordBook.title}
-                  onClick={(e) => {
-                    e.preventDefault();
-                    setWordBook(wordBook);
-                  }}
-                >
-                  {wordBook.title}
-                </option>
-              )}
-            </For>
-          </select>
-        </div>
-      </div>
-    );
-  };
-
   class InputFieldProps {
-    type: string;
     label: string;
     value: number;
+    min?: number;
+    max?: number;
+    step?: number;
     onChange: (e: Event & {
       currentTarget: HTMLInputElement;
       target: HTMLInputElement;
@@ -182,10 +180,13 @@ export const DescriptiveWordTest = () => {
         <span class="input-group-text">{props.label}</span>
         {/* <div class="col-xs-4"> */}
           <input
-            type={props.type}
+            type="number"
             class="form-control"
             aria-label={props.label}
-            value={problemCount()}
+            value={props.value}
+            min={props.min}
+            max={props.max}
+            step={props.step}
             style={{
               "border-top-left-radius": "0rem",
               "border-bottom-left-radius": "0rem",
@@ -199,50 +200,9 @@ export const DescriptiveWordTest = () => {
     );
   };
 
-  const ProblemCountInput = () => {
+  const TestCreatePage = () => {
     return (
-      <InputField
-        type="number"
-        label="問題数"
-        value={problemCount()}
-        onChange={(e) => {
-          setChoiceCount(parseInt(e.currentTarget.value));
-        }}
-      />
-    );
-  };
-
-  const ChoiceCountInput = () => {
-    return (
-      <InputField
-        type="number"
-        label="選択肢数"
-        value={choiceCount()}
-        onChange={(e) => {
-          setChoiceCount(parseInt(e.currentTarget.value));
-        }}
-      />
-    );
-  };
-
-  return (
-    <div class="container-fluid bg-body mx-auto">
-      <h1 class={`${fonts["font-lubi"]} my-3`}>記述式テスト</h1>
-
-      <div class="row g-3 my-3">
-        {/* <div class="col-auto"> */}
-          <WordBookDropdown_ />
-        {/* </div> */}
-        <div class="col-auto">
-          <ProblemCountInput />
-        </div>
-        <div class="col-auto">
-          <ChoiceCountInput />
-        </div>
-      </div>
-
       <div class="vstack gap-100 w-50">
-
         {/* 教材を選択 */}
         <div>
             {/* <WordBookDropdown /> */}
@@ -264,21 +224,25 @@ export const DescriptiveWordTest = () => {
         <div class="row g-3 my-1">
           <div class="col-md-6">
             <InputField
-              type="number"
               label="開始番号"
-              value={221}
+              min={startIndex()}
+              max={Math.min(endIndex(), wordBook().words.length)}
+              step={1}
+              value={startIndex()}
               onChange={(e) => {
-                // Handle change if needed
+                setStartIndex(parseInt(e.currentTarget.value));
               }}
             />
           </div>
           <div class="col-md-6">
             <InputField
-              type="number"
               label="終了番号"
-              value={370}
+              value={endIndex()}
+              min={startIndex()}
+              max={wordBook().words.length}
+              step={1}
               onChange={(e) => {
-                // Handle change if needed
+                setEndIndex(parseInt(e.currentTarget.value));
               }}
             />
           </div>
@@ -286,7 +250,16 @@ export const DescriptiveWordTest = () => {
 
         {/* 問題数 */}
         <div class="row g-3 my-1">
-          <ProblemCountInput />
+          <InputField
+            label="問題数"
+            min={1}
+            max={endIndex() - startIndex() + 1}
+            step={1}
+            value={problemCount()}
+            onChange={(e) => {
+              setProblemCount(parseInt(e.currentTarget.value));
+            }}
+          />
         </div>
 
         {/* 出題形式 */}
@@ -312,10 +285,17 @@ export const DescriptiveWordTest = () => {
             </button>
           </div>
         </div>
-      </div>
 
-      {/* problem card */}
-      {testActive() && (
+        {/* エラーメッセージ */}
+        <div class="text-danger mt-3 px-2 fw-bold">
+          {errorText()}
+        </div>
+      </div>
+    );
+  };
+
+  const TestPage = () => {
+    return (
         <div class="card my-3">
           <div class="card-body">
             <div>
@@ -382,6 +362,20 @@ export const DescriptiveWordTest = () => {
             </div>
           </div>
         </div>
+    );
+  };
+
+  return (
+    <div class="container-fluid bg-body mx-auto">
+      <h1 class={`${fonts["font-lubi"]} my-3`}>記述式テスト</h1>
+
+      {!testActive() && (
+        <TestCreatePage />
+      )}
+
+      {/* problem card */}
+      {testActive() && (
+        <TestPage />
       )}
 
       {resultActive() && (

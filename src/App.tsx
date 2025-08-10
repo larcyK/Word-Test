@@ -9,6 +9,8 @@ import logo from '../public/images/icon-192x192.png';
 import { right } from '@popperjs/core';
 import { DescriptiveWordTest } from './DescriptiveWordTest';
 
+import fonts from './Font.module.scss';
+
 enum PageKind {
   HOME = 'home',
   SELECTIVE_WORD_TEST = 'selective-word-test',
@@ -178,7 +180,9 @@ const App: Component = () => {
             
       <Switch fallback={<div>404</div>}>
         <Match when={pageKind() === PageKind.HOME}>
-          <div>Home</div>
+          <div class="container-fluid bg-body mx-auto">
+            <h1 class={`${fonts["font-lubi"]} my-3`}>ホーム</h1>
+          </div>
         </Match>
         <Match when={pageKind() === PageKind.SELECTIVE_WORD_TEST}>
           <SelectiveWordTest />

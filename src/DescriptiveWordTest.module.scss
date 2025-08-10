@@ -36,3 +36,48 @@
     0 0 0 3px var(--bs-body-bg),
     0 0 0 5px var(--accent);
 }
+
+.choiceSingle {
+  inline-size: 36px;
+  block-size: 36px;
+  border-radius: 9999px;
+  display: grid;
+  place-items: center;
+  font-weight: 700;
+  border: 1px solid var(--bs-border-color);
+  background: var(--bs-body-bg);
+  color: var(--accent);
+}
+.choiceSingle.correct   { --accent: var(--bs-success); }
+.choiceSingle.incorrect { --accent: var(--bs-danger); }
+.choiceSingle.pending   { --accent: var(--bs-secondary); }
+
+/* Choice.module.scss の末尾あたりに追加 */
+// @media (max-width: 576px) {
+//   .choicePill {
+//     gap: .125rem;
+//     height: 48px;
+//     padding: 2px 6px;
+//     border-radius: var(--bs-border-radius); /* 角丸も少し控えめに */
+//   }
+//   .choiceDot {
+//     inline-size: 24px;
+//     block-size: 24px;
+//     font-size: .9rem;
+//   }
+//   .isActive {
+//     /* リングも薄め&細めにしてコンパクト化 */
+//     box-shadow:
+//       0 1px 4px rgba(0,0,0,.15),
+//       0 0 0 2px var(--bs-body-bg),
+//       0 0 0 4px var(--accent);
+//   }
+// }
+
+/* スマホだけ単一トグルを使う例（PCでは非表示にしたい時） */
+// @media (min-width: 768px) {
+//   .choiceSingle { display:none; }    /* md以上では隠す */
+// }
+// @media (max-width: 767.98px) {
+//   .choicePill   { display:none; }    /* xsでは従来の3つ丸を隠す（任意） */
+// }

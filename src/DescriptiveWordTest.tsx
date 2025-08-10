@@ -1,10 +1,11 @@
-import { For, createSignal } from "solid-js";
+import { For, createMemo, createSignal } from "solid-js";
 import { Word, wordBooks } from "./WordBooks";
 import { Component } from "solid-js";
 import { Row, Col, Button, Form } from "solid-bootstrap";
 import fonts from "./Font.module.scss";
 import target1200 from "../public/json/target1200.json";
 import styles from "./DescriptiveWordTest.module.scss";
+import { createStore } from "solid-js/store";
 
 enum State {
   CORRECT = "correct",
@@ -21,28 +22,22 @@ interface WordCardProps {
   setState: (state: State) => void;
 }
 
-// const buttons = [
-//   { label: "O", active: State.CORRECT,   color: "success" },
-//   { label: "X", active: State.INCORRECT, color: "danger" },
-//   { label: "?", active: State.PENDING,   color: "secondary" }
-// ];
-
 const buttons = [
   { label: "O", active: State.CORRECT,   accent: "var(--bs-success)",   color: "success" },
   { label: "X", active: State.INCORRECT, accent: "var(--bs-danger)",    color: "danger" },
   { label: "?", active: State.PENDING,   accent: "var(--bs-secondary)", color: "secondary" }
 ];
 
-export const WordCard: Component<WordCardProps> = (props) => {
+const WordCard: Component<WordCardProps> = (props) => {
   return (
     <div class="d-flex align-items-stretch w-100 gap-1">
       {/* 左：番号+単語+答え */}
       <div class="input-group rounded-3 overflow-hidden flex-grow-1">
         {/* 番号（左端） */}
         <span
-          class="input-group-text bg-primary border border-primary text-white fw-bold justify-content-center"
+          class="input-group-text bg-primary border border-primary text-white fw-bold justify-content-center p-0"
           style={{
-            "min-width": "40px",
+            width: "42px",
             "font-size": "1rem",
             "box-sizing": "border-box",
           }}
@@ -138,8 +133,20 @@ export const WordCard: Component<WordCardProps> = (props) => {
           )}
         </For>
       </div>
+      {/* <button
+        class={`
+          ${styles.choiceSingle}
+          ${props.state === State.CORRECT   ? styles.correct   : ""}
+          ${props.state === State.INCORRECT ? styles.incorrect : ""}
+          ${props.state === State.PENDING   ? styles.pending   : ""}
+        `}
+        onClick={(e) => { e.preventDefault(); cycle(); }}
+      >
+        {props.state === State.CORRECT ? "O" :
+        props.state === State.INCORRECT ? "X" :
+        props.state === State.PENDING ? "?" : "・"}
+      </button> */}
     </div>
-
   );
 };
 
@@ -148,71 +155,25 @@ export const DescriptiveWordTest = () => {
   const [testActive, setTestActive] = createSignal(false);
   const [resultActive, setResultActive] = createSignal(false);
 
-  // const [problems, setProblems] = createSignal([] as Problem[]);
-  const [problemIndex, setProblemIndex] = createSignal(0);
-
-  const [score, setScore] = createSignal(0);
-  const [problemCount, setProblemCount] = createSignal(100);
   const [wordBook, setWordBook] = createSignal(wordBooks[0]);
+  const [problemCount, setProblemCount] = createSignal(20);
+  const maxProblemCount = 100;
 
-  const [startIndex, setStartIndex] = createSignal(1);
-  const [endIndex, setEndIndex] = createSignal(100);
+  const [startIndex, setStartIndex] = createSignal(991);
+  const [endIndex, setEndIndex] = createSignal(1010);
+
+  const [problems, setProblems] = createSignal<Word[]>([]);
+  const [states, setStates] = createStore<State[]>([]);
 
   const [errorText, setErrorText] = createSignal("");
 
-  const maxTime = 10;
-  const [remainingTime, setRemainingTime] = createSignal(maxTime);
-
-  // wordBookの単語からランダムに4択問題を生成
-  // const generateProblems = () => {
-  //   const words = wordBook().words;
-  //   const problems: Problem[] = [];
-  //   for (let i = 0; i < problemCount(); i++) {
-  //     const word = words[Math.floor(Math.random() * words.length)];
-  //     const choices = [word.jpn];
-  //     while (choices.length < choiceCount()) {
-  //       const choice = words[Math.floor(Math.random() * words.length)].jpn;
-  //       if (choices.indexOf(choice) === -1) {
-  //         choices.push(choice);
-  //       }
-  //     }
-  //     problems.push({
-  //       word: word,
-  //       answer: word.jpn,
-  //       choices: choices.sort(() => Math.random() - 0.5),
-  //     });
-  //   }
-  //   return problems;
-  // };
-
-  const nextProblem = () => {
-    if (problemIndex() + 1 < problemCount()) {
-      setProblemIndex(problemIndex() + 1);
-      startTimer();
-    } else {
-      setTestActive(false);
-      setResultActive(true);
-    }
-  }
-
-  const remainingTimePercentage = () => {
-    return (remainingTime() / maxTime) * 100;
-  }
-
-  let timer: NodeJS.Timeout;
-
-  const startTimer = () => {
-    setRemainingTime(maxTime);
-    clearInterval(timer);
-    timer = setInterval(() => {
-      if (remainingTime() > 0) {
-        setRemainingTime(remainingTime() - 1);
-      } else {
-        nextProblem();
-      }
-    }, 1000);
-  }
-
+  const generateProblems = () => {
+    const words = wordBook().words.slice(startIndex() - 1, endIndex());
+    const selectedWords = words.sort(() => Math.random() - 0.5).slice(0, problemCount());
+    setProblems(selectedWords);
+    setStates(Array(selectedWords.length).fill(State.UNANSWERED));
+  };
+  
   const startTest = () => {
     if (problemCount() <= 0) {
       setErrorText("問題数は1以上に設定してください");
@@ -229,14 +190,14 @@ export const DescriptiveWordTest = () => {
       return;
     }
 
-    setErrorText("");
+    if (problemCount() > maxProblemCount) {
+      setErrorText(`問題数は最大${maxProblemCount}までです`);
+      return;
+    }
 
-    // setProblems(generateProblems());
-    setProblemIndex(0);
-    setScore(0);
+    setErrorText("")
+    generateProblems();
     setResultActive(false);
-    startTimer();
-    setRemainingTime(maxTime);
     setTestActive(true);
   }
 
@@ -385,7 +346,7 @@ export const DescriptiveWordTest = () => {
           <InputField
             label="問題数"
             min={1}
-            max={endIndex() - startIndex() + 1}
+            max={Math.min(problemCount(), endIndex() - startIndex() + 1)}
             step={1}
             value={problemCount()}
             onChange={(e) => {
@@ -432,26 +393,78 @@ export const DescriptiveWordTest = () => {
     answer: word.japanese,
   }));
 
+  function TestHeader() {
+  const countCorrect   = createMemo(() => states.filter(s => s === State.CORRECT).length);
+  const countIncorrect = createMemo(() => states.filter(s => s === State.INCORRECT).length);
+  const countPending   = createMemo(() => states.filter(s => s === State.PENDING).length);
+  const countUnans     = createMemo(() => states.filter(s => s === State.UNANSWERED).length);
+
+  return (
+    <div class="mb-3">
+      {/* モバイル: コンパクト1行 */}
+      <div class="d-flex align-items-center justify-content-between d-sm-none">
+        <div class="d-flex align-items-center gap-2 flex-wrap">
+          <span class="badge rounded-pill text-bg-success">正 {countCorrect()}</span>
+          <span class="badge rounded-pill text-bg-danger">不 {countIncorrect()}</span>
+          <span class="badge rounded-pill text-bg-secondary">保 {countPending()}</span>
+          <span class="badge rounded-pill text-bg-light text-muted">未 {countUnans()}</span>
+        </div>
+
+        <div class="d-flex align-items-center gap-2 ms-2">
+          <small class="text-muted">範囲 {startIndex()}–{endIndex()}</small>
+          <button class="btn btn-outline-primary btn-sm"
+                  onClick={() => setTestActive(false)}>
+            戻る
+          </button>
+        </div>
+      </div>
+
+      {/* sm以上: 余裕のあるフル表示 */}
+      <div class="d-none d-sm-flex justify-content-between align-items-center">
+        <div class="d-flex gap-3 align-items-center">
+          <span class="text-success fw-bold fs-5">正解: {countCorrect()} 問</span>
+          <span class="text-danger fw-bold fs-5">不正解: {countIncorrect()} 問</span>
+          <span class="text-secondary fw-bold fs-5">保留: {countPending()} 問</span>
+          <span class="mx-2 d-none d-md-inline"
+                style={{ "border-left":"2px solid #ccc", height:"1.5em", display:"inline-block" }} />
+          <span class="text-muted fw-bold fs-5">未解答: {countUnans()} 問</span>
+        </div>
+
+        <div class="d-flex align-items-center gap-3">
+          <span class="text-muted">問題範囲: {startIndex()}〜{endIndex()}</span>
+          <button class="btn btn-outline-primary btn-sm"
+                  onClick={() => setTestActive(false)}>
+            問題作成画面へ戻る
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+
   const TestPage = () => {
-    return (
+
+    return <>
+      <TestHeader />
       <Row class="g-3">
-        <For each={wordBook().words.slice(startIndex() - 1, endIndex())}>
-          {(word) => {
-            const [state, setState] = createSignal(State.UNANSWERED);
-            return (
-              <Col xs={12} lg={6}>
-                <WordCard
-                  number={word.id}
-                  problem={word.eng}
-                  answer={word.jpn}
-                  state={state()}
-                  setState={setState}
-                />
-              </Col>
-          )}}
+        <For each={problems()}>
+          {(problem, index) => (
+            <Col xs={12} sm={6}>
+              <WordCard
+                number={problem.id}
+                problem={problem.eng}
+                answer={problem.jpn}
+                state={states[index()]}
+                setState={(state) => {
+                  setStates(index(), state);
+                }}
+              />
+            </Col>
+          )}
         </For>
       </Row>
-    );
+    </>;
   };
 
   return (

@@ -24,7 +24,7 @@ const App: Component = () => {
    * This function was taken from the cheatsheet example of bootstrap.
    * You will most likely remove it if using this template.
    */
-  const [pageKind, setPageKind] = createSignal(PageKind.SELECTIVE_WORD_TEST);
+  const [pageKind, setPageKind] = createSignal(PageKind.DESCRIPTIVE_WORD_TEST);
 
   type TabProps = {
     kind: PageKind;

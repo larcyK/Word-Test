@@ -302,7 +302,7 @@ export const DescriptiveWordTest = () => {
     return (
       <div class="row">
       <div class="col-12 col-sm-9 col-lg-6">
-      <div class="vstack gap-3">
+      <div class="vstack gap-1">
         {/* 教材を選択 */}
         <div>
             {/* <WordBookDropdown /> */}
@@ -409,7 +409,7 @@ export const DescriptiveWordTest = () => {
   const countUnans     = createMemo(() => states.filter(s => s === State.UNANSWERED).length);
 
   return (
-    <div class="my-3">
+    <div class="my-3 py-2">
       {/* モバイル: コンパクト1行 */}
       <div class="d-flex align-items-center justify-content-between d-sm-none">
         <div class="d-flex align-items-center gap-2 flex-wrap">
@@ -448,15 +448,15 @@ export const DescriptiveWordTest = () => {
         </div>
       </div>
     </div>
-  );
-}
-
+  );}
 
   const TestPage = () => {
 
     return <>
-      <TestHeader />
-      <Row class="g-3 mb-3">
+      <div class="sticky-top bg-white" style={{ top: "56px", "z-index": 1020 }}>
+        <TestHeader />
+      </div>
+      <Row class="g-3 mb-5">
         <For each={problems()}>
           {(problem, index) => (
             <Col xs={12} lg={6}>

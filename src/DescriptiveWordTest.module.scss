@@ -1,0 +1,38 @@
+.choicePill {
+  display: flex;
+  align-items: center;
+  // gap: 0.25rem;
+  border: 1px solid var(--bs-border-color);
+  border-radius: var(--bs-border-radius-lg);
+  // border-radius: 10px;
+  background: var(--bs-body-bg);
+  height: 48px;
+  padding: 0.25rem 0.4rem;
+}
+
+.choiceDot {
+  inline-size: 24px;
+  block-size: 30px;
+  border-radius: 9999px;
+  display: grid;
+  place-items: center;
+  font-weight: 700;
+  font-size: 1rem;
+  background: transparent; // 非アクティブ時は背景なし
+  border: none;            // 非アクティブ時は枠なし
+  cursor: pointer;
+  color: var(--accent);    // 文字色をaccent色に
+  transition: transform 0.12s ease, box-shadow 0.18s ease, background-color 0.18s ease;
+}
+
+.choiceDot:hover {
+  transform: translateY(-2px);
+}
+
+.isActive {
+  background: var(--bs-body-bg);
+  box-shadow:
+    0 2px 6px rgba(0, 0, 0, 0.18),
+    0 0 0 3px var(--bs-body-bg),
+    0 0 0 5px var(--accent);
+}

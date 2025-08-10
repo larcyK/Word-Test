@@ -1,10 +1,10 @@
 import { For, createSignal } from "solid-js";
-import target1200 from "../public/json/target1200.json";
-import target1900 from "../public/json/target1900.json";
 import { Word, wordBooks } from "./WordBooks";
 import { Component } from "solid-js";
 import { Row, Col, Button, Form } from "solid-bootstrap";
 import fonts from "./Font.module.scss";
+import target1200 from "../public/json/target1200.json";
+import styles from "./DescriptiveWordTest.module.scss";
 
 enum State {
   CORRECT = "correct",
@@ -15,82 +15,35 @@ enum State {
 
 interface WordCardProps {
   number: number;
-  // word: Word;
   problem: string;
   answer: string;
-  state: State
+  state: State;
+  setState: (state: State) => void;
 }
+
+// const buttons = [
+//   { label: "O", active: State.CORRECT,   color: "success" },
+//   { label: "X", active: State.INCORRECT, color: "danger" },
+//   { label: "?", active: State.PENDING,   color: "secondary" }
+// ];
+
+const buttons = [
+  { label: "O", active: State.CORRECT,   accent: "var(--bs-success)",   color: "success" },
+  { label: "X", active: State.INCORRECT, accent: "var(--bs-danger)",    color: "danger" },
+  { label: "?", active: State.PENDING,   accent: "var(--bs-secondary)", color: "secondary" }
+];
 
 export const WordCard: Component<WordCardProps> = (props) => {
   return (
-    // モバイル: wrap許可, md以上: nowrap
-    // <div class="d-flex flex-wrap flex-md-nowrap align-items-stretch w-100 my-2">
-    //   {/* 番号 */}
-    //   <div
-    //     class="d-flex align-items-center justify-content-center
-    //           text-white fw-bold bg-primary
-    //           border border-primary border-end-0
-    //           rounded-3 rounded-end-0
-    //           h-100"
-    //     style={{ width: "48px", "min-height": "48px", "font-size": "1rem", flex: "0 0 auto" }}
-    //   >
-    //     {props.number}
-    //   </div>
-
-    //   {/* 単語 */}
-    //   <div
-    //     class="d-flex align-items-center px-2
-    //           border border-primary
-    //           h-100"
-    //     style={{
-    //       width: "140px",
-    //       "min-height": "48px",
-    //       "font-size": "1.25rem",
-    //       flex: "0 0 auto",
-    //       "white-space": "normal",
-    //       "word-break": "break-word"
-    //     }}
-    //     title={ props.problem }
-    //   >
-    //     {props.problem}
-    //   </div>
-
-    //   {/* 入力欄（縮む余地ありの可変幅） */}
-    //   <div
-    //     class="d-flex align-items-center px-2
-    //           border border-primary
-    //           rounded-3 rounded-start-0
-    //           h-100"
-    //     style={{
-    //       width: "140px",
-    //       "min-height": "48px",
-    //       "font-size": "1.25rem",
-    //       flex: "0 0 auto",
-    //       "white-space": "normal",
-    //       "word-break": "break-word"
-    //     }}
-    //     title= {props.answer}
-    //   >
-    //     {props.answer}
-    //   </div>
-
-    //   {/* O / X / ?（固定幅、折り返さない） */}
-    //   <div class="btn-group ms-md-2 mt-2 mt-md-0" role="group" style={{ flex: "0 0 auto" }}>
-    //     <Button variant="success" class="fw-bold" style={{ width: "36px" }}>O</Button>
-    //     <Button variant="danger"  class="fw-bold" style={{ width: "36px" }}>X</Button>
-    //     <Button variant="secondary" class="fw-bold" style={{ width: "36px" }}>?</Button>
-    //   </div>
-    // </div>
-
-    <div class="d-flex align-items-stretch w-100 gap-2">
+    <div class="d-flex align-items-stretch w-100 gap-1">
       {/* 左：番号+単語+答え */}
       <div class="input-group rounded-3 overflow-hidden flex-grow-1">
         {/* 番号（左端） */}
         <span
           class="input-group-text bg-primary border border-primary text-white fw-bold justify-content-center"
           style={{
-            "min-width": "48px",
-            "font-size": "1.25rem",
+            "min-width": "40px",
+            "font-size": "1rem",
             "box-sizing": "border-box",
           }}
         >
@@ -104,7 +57,7 @@ export const WordCard: Component<WordCardProps> = (props) => {
                 h-100"
           style={{
             flex: "1 1 0",
-            "min-width": "140px",
+            "min-width": "80px",
             "min-height": "48px",
             "font-size": "1.25rem",
             "white-space": "normal",
@@ -124,7 +77,7 @@ export const WordCard: Component<WordCardProps> = (props) => {
                 h-100"
           style={{
             flex: "1 1 0",
-            "min-width": "140px",
+            "min-width": "80px",
             "min-height": "48px",
             "font-size": "1rem",
             "white-space": "normal",
@@ -138,10 +91,52 @@ export const WordCard: Component<WordCardProps> = (props) => {
       </div>
 
       {/* 右：O/X/? */}
-      <div class="btn-group" role="group">
-        <button class="btn btn-success fw-bold" style="font-size:1.25rem;">O</button>
-        <button class="btn btn-danger  fw-bold" style="font-size:1.25rem;">X</button>
-        <button class="btn btn-secondary fw-bold" style="font-size:1.25rem;">?</button>
+      {/* <div class="btn-group gap-1" style={{ height: "48px" }} role="group">
+        <For each={buttons}>
+          {(btn, i) => (
+            <button
+              class={`
+                btn btn-sm fw-bold py-0
+                ${i() === 0 ? "rounded-3 rounded-end-0" : ""}
+                ${i() === buttons.length - 1 ? "rounded-3 rounded-start-0" : ""}
+                ${props.state === btn.active
+                  ? `btn-${btn.color}`
+                  : `btn-outline-${btn.color}`}
+              `}
+              style="font-size:1rem;"
+              onClick={(e) => {
+                e.preventDefault();
+                props.setState(
+                  props.state === State.UNANSWERED ? btn.active : State.UNANSWERED
+                );
+              }}
+            >
+              {btn.label}
+            </button>
+          )}
+        </For>
+      </div> */}
+      <div class={styles.choicePill}>
+        <For each={buttons}>
+          {(btn) => (
+            <button
+              class={`${styles.choiceDot} ${
+                props.state === btn.active ? styles.isActive : ""
+              }`}
+              style={{
+                "--accent": btn.accent,
+              }}
+              onClick={(e) => {
+                e.preventDefault();
+                props.setState(
+                  props.state === btn.active ? State.UNANSWERED : btn.active
+                );
+              }}
+            >
+              {btn.label}
+            </button>
+          )}
+        </For>
       </div>
     </div>
 
@@ -157,11 +152,11 @@ export const DescriptiveWordTest = () => {
   const [problemIndex, setProblemIndex] = createSignal(0);
 
   const [score, setScore] = createSignal(0);
-  const [problemCount, setProblemCount] = createSignal(10);
+  const [problemCount, setProblemCount] = createSignal(100);
   const [wordBook, setWordBook] = createSignal(wordBooks[0]);
 
   const [startIndex, setStartIndex] = createSignal(1);
-  const [endIndex, setEndIndex] = createSignal(1000);
+  const [endIndex, setEndIndex] = createSignal(100);
 
   const [errorText, setErrorText] = createSignal("");
 
@@ -441,16 +436,19 @@ export const DescriptiveWordTest = () => {
     return (
       <Row class="g-3">
         <For each={wordBook().words.slice(startIndex() - 1, endIndex())}>
-          {(word) => (
-            <Col xs={12} lg={6}>
-              <WordCard
-                number={word.id}
-                problem={word.eng}
-                answer={word.jpn}
-                state={State.UNANSWERED}
-              />
-            </Col>
-          )}
+          {(word) => {
+            const [state, setState] = createSignal(State.UNANSWERED);
+            return (
+              <Col xs={12} lg={6}>
+                <WordCard
+                  number={word.id}
+                  problem={word.eng}
+                  answer={word.jpn}
+                  state={state()}
+                  setState={setState}
+                />
+              </Col>
+          )}}
         </For>
       </Row>
     );

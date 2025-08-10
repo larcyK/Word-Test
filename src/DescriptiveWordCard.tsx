@@ -165,6 +165,9 @@ const AnswerStatusBox: Component<AnswerStatusBoxProps> = (props) => {
             }}
             onClick={(e) => {
               e.preventDefault();
+              if (navigator.vibrate) {
+                navigator.vibrate(50);
+              }
               props.setStatus(
                 props.status === btn.active ? AnswerStatus.UNANSWERED : btn.active
               );

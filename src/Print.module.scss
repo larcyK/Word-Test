@@ -1,0 +1,78 @@
+/* 画面（通常時） */
+.printContainer {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+/* 画面だけ隠したい要素に付ける（印刷時に消える） */
+.noPrint {}
+
+/* 印刷時だけ表示 */
+.printOnly {
+  display: none; /* 通常は隠す */
+}
+
+/* カード等を途中で改ページさせない */
+.avoidBreak {}
+
+/* セクションごとに改ページしたい */
+.pageBreak {}
+
+/* 2カラム印刷用 */
+.printCols2 {}
+
+/* ---- 印刷用 ---- */
+@media print {
+  /* 用紙サイズとページ余白（ブラウザの余白は「最小」推奨） */
+  @page {
+    size: A4 portrait;
+    // margin: 10mm;
+  }
+
+  /* 本文の横幅をA4に合わせて固定（左右10mm余白 → 190mm） */
+  .printContainer {
+    width: 190mm;
+    margin: 0 auto;
+  }
+
+  /* 画面専用UIは非表示 */
+  .noPrint {
+    display: none !important;
+  }
+
+  .printOnly {
+    display: block !important;
+  }
+
+  /* 途中改ページの抑制 */
+  .avoidBreak {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+
+  .pageBreak {
+    break-after: page;
+    page-break-after: always;
+  }
+
+  .printCols2 {
+    display: flex !important;
+    flex-wrap: wrap !important;
+  }
+  .printCols2 > * {
+    flex: 0 0 50% !important;
+    max-width: 50% !important;
+  }
+
+  /* sticky要素は印刷で固定を外す（重なり防止） */
+  :global(.sticky-top) {
+    position: static !important;
+  }
+
+  /* 影を消す・色を薄くしない */
+  :global(*) { box-shadow: none !important; }
+  :global(body) {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}

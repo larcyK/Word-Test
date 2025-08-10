@@ -2,9 +2,9 @@ import { For, createMemo, createSignal } from "solid-js";
 import { Word, wordBooks } from "./WordBooks";
 import { Row, Col, Button, Form } from "solid-bootstrap";
 import fonts from "./Font.module.scss";
-import target1200 from "../public/json/target1200.json";
 import { createStore } from "solid-js/store";
 import { AnswerStatus, WordCard } from "./DescriptiveWordCard";
+import prints from "./Print.module.scss";
 
 export const DescriptiveWordTest = () => {
 
@@ -245,12 +245,6 @@ export const DescriptiveWordTest = () => {
     );
   };
 
-  const items = target1200.slice(101, 110).map((word, index) => ({
-    number: index + 1,
-    problem: word.english,
-    answer: word.japanese,
-  }));
-
   function TestHeader() {
   const countCorrect   = createMemo(() => states.filter(s => s === AnswerStatus.CORRECT).length);
   const countIncorrect = createMemo(() => states.filter(s => s === AnswerStatus.INCORRECT).length);
@@ -261,16 +255,16 @@ export const DescriptiveWordTest = () => {
     <div class="my-3 py-2">
       {/* モバイル: コンパクト1行 */}
       <div class="d-flex align-items-center justify-content-between d-sm-none">
-        <div class="d-flex align-items-center gap-2 flex-wrap">
-          <span class="badge rounded-pill text-bg-success">O {countCorrect()}</span>
-          <span class="badge rounded-pill text-bg-danger">X {countIncorrect()}</span>
-          <span class="badge rounded-pill text-bg-secondary">? {countPending()}</span>
-          <span class="badge rounded-pill text-bg-light text-muted">未 {countUnans()}</span>
+        <div class={`d-flex align-items-center gap-2 flex-wrap ${prints.noPrint}`}>
+          <span class="badge rounded-pill text-bg-success px-2 py-1">O {countCorrect()}</span>
+          <span class="badge rounded-pill text-bg-danger px-2 py-1">X {countIncorrect()}</span>
+          <span class="badge rounded-pill text-bg-secondary px-2 py-1">? {countPending()}</span>
+          <span class="badge rounded-pill text-bg-light text-muted px-2 py-1">未 {countUnans()}</span>
         </div>
 
-        <div class="d-flex align-items-center gap-2 ms-2">
+        <div class="d-flex align-items-center gap-2 ms-auto">
           <small class="text-muted">範囲 {startIndex()}–{endIndex()}</small>
-          <button class="btn btn-outline-primary btn-sm"
+          <button class={`btn btn-outline-primary btn-sm ${prints.noPrint}`}
                   onClick={() => setTestActive(false)}>
             戻る
           </button>
@@ -279,7 +273,7 @@ export const DescriptiveWordTest = () => {
 
       {/* sm以上: 余裕のあるフル表示 */}
       <div class="d-none d-sm-flex justify-content-between align-items-center">
-        <div class="d-flex gap-3 align-items-center">
+        <div class={`d-flex gap-3 align-items-center ${prints.noPrint}`}>
           <span class="text-success fw-bold fs-5">正解: {countCorrect()} 問</span>
           <span class="text-danger fw-bold fs-5">不正解: {countIncorrect()} 問</span>
           <span class="text-secondary fw-bold fs-5">保留: {countPending()} 問</span>
@@ -288,9 +282,10 @@ export const DescriptiveWordTest = () => {
           <span class="text-muted fw-bold fs-5">未解答: {countUnans()} 問</span>
         </div>
 
-        <div class="d-flex align-items-center gap-3">
-          <span class="text-muted">問題範囲: {startIndex()}〜{endIndex()}</span>
-          <button class="btn btn-outline-primary btn-sm"
+        <div class="d-flex align-items-center gap-3 ms-auto">
+          <span class="text-muted">{wordBook().title}</span>
+          <span class="text-muted">範囲: {startIndex()}〜{endIndex()}</span>
+          <button class={`btn btn-outline-primary btn-sm ${prints.noPrint}`}
                   onClick={() => setTestActive(false)}>
             問題作成画面へ戻る
           </button>
@@ -305,18 +300,16 @@ export const DescriptiveWordTest = () => {
       <div class="sticky-top bg-white" style={{ top: "56px", "z-index": 1020 }}>
         <TestHeader />
       </div>
-      <Row class="g-3 mb-5">
+      <Row class={`${prints.printCols2} g-3 mb-5 row-cols-1 row-cols-lg-2`}>
         <For each={problems()}>
           {(problem, index) => (
-            <Col xs={12} lg={6}>
+            <Col>
               <WordCard
                 number={problem.id}
                 problem={problem.eng}
                 answer={problem.jpn}
                 status={states[index()]}
-                setStatus={(state) => {
-                  setStates(index(), state);
-                }}
+                setStatus={(state) => setStates(index(), state)}
               />
             </Col>
           )}
@@ -327,7 +320,24 @@ export const DescriptiveWordTest = () => {
 
   return (
     <div class="container-fluid bg-body mx-auto">
-      <h1 class={`${fonts["font-lubi"]} my-3`}>記述式テスト</h1>
+      <div class="d-flex justify-content-between align-items-center my-3">
+        <h1 class={fonts["font-lubi"]}>記述式テスト</h1>
+        
+        {testActive() && <>
+          <div class={prints.noPrint}>
+            <button class="btn btn-primary" onClick={() => window.print()}>
+              <i class="bi bi-printer me-1"></i> 印刷 / PDFに保存
+            </button>
+          </div>
+
+          <div class={`${prints.printOnly} ms-3`}>
+            <label class="form-label mb-0 me-2">氏名:</label>
+              <div
+                style="width: 250px; border-bottom: 1px solid #666;"
+              ></div>
+          </div>
+        </>}
+      </div>
 
       {testActive() ? (
         <TestPage />

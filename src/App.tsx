@@ -10,6 +10,7 @@ import { right } from '@popperjs/core';
 import { DescriptiveWordTest } from './DescriptiveWordTest';
 
 import fonts from './Font.module.scss';
+import prints from './Print.module.scss';
 
 enum PageKind {
   HOME = 'home',
@@ -107,8 +108,8 @@ const App: Component = () => {
   }
 
   return (
-  <>
-      <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
+    <>
+      <nav class={`navbar navbar-expand-lg navbar-dark bg-primary fixed-top ${prints.noPrint}`}>
         <div class="container-fluid">
           <a
             class="navbar-brand"

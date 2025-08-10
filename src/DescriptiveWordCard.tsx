@@ -1,6 +1,7 @@
 import { For, createMemo, createSignal } from "solid-js";
 import { Component } from "solid-js";
 import styles from "./DescriptiveWordCard.module.scss";
+import prints from "./Print.module.scss";
 
 export enum AnswerStatus {
   CORRECT = "correct",
@@ -112,7 +113,9 @@ const AnswerBox: Component<AnswerBoxProps> = (props) => {
         }
       }}
     >
-      {props.answer}
+      <div class={prints.noPrint}>
+        {props.answer}
+      </div>
     </div>
   );
 }
@@ -209,10 +212,12 @@ export const WordCard: Component<WordCardProps> = (props) => {
       </div>
 
       {/* 右：O/X/? */}
-      <AnswerStatusBox
-        status={props.status}
-        setStatus={props.setStatus}
-      />
+      <div class={prints.noPrint}>
+        <AnswerStatusBox
+          status={props.status}
+          setStatus={props.setStatus}
+        />
+      </div>
     </div>
   );
 };

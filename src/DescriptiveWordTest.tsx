@@ -5,17 +5,18 @@ import fonts from "./Font.module.scss";
 import { createStore } from "solid-js/store";
 import { AnswerStatus, WordCard } from "./DescriptiveWordCard";
 import prints from "./Print.module.scss";
+import { createPersistentSignal } from "./PerisitentSignal";
 
 export const DescriptiveWordTest = () => {
 
   const [testActive, setTestActive] = createSignal(false);
 
   const [wordBook, setWordBook] = createSignal(wordBooks[0]);
-  const [problemCount, setProblemCount] = createSignal(20);
+  const [problemCount, setProblemCount] = createPersistentSignal("wordtest.problemCount", 50);
   const maxProblemCount = 100;
 
-  const [startIndex, setStartIndex] = createSignal(991);
-  const [endIndex, setEndIndex] = createSignal(1010);
+  const [startIndex, setStartIndex] = createPersistentSignal("wordtest.startIndex", 1);
+  const [endIndex, setEndIndex] = createPersistentSignal("wordtest.endIndex", 200);
 
   const [problems, setProblems] = createSignal<Word[]>([]);
   const [states, setStates] = createStore<AnswerStatus[]>([]);
